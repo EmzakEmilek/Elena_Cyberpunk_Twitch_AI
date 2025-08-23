@@ -1,6 +1,6 @@
-# Elena - Cyberpunk Twitch AI
+# Elena - Cyberpunk Twitch AI 🤖
 
-Real-time Speech-to-Text systém pre Twitch streamovanie s push-to-talk funkciou, postavený na Faster-Whisper.
+Interaktívna AI spoločníčka pre Cyberpunk 2077 streamy s podporou slovenčiny. Rozumie hernej situácii, lore a reaguje v reálnom čase.
 
 ## Vlastnosti
 

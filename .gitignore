@@ -22,8 +22,12 @@ logs/
 *.bin
 *.pt
 
-# Environment variables
+# Environment variables and secrets
 .env
+.env.*
+!.env.example
+config/secrets.yaml
+config/credentials.yaml
 
 # OS specific
 .DS_Store

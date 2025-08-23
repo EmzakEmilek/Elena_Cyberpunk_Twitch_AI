@@ -7,11 +7,11 @@ model:
   cpu:
     compute_type: "int8"  # INT8 na CPU (rýchlejšie na CPU)
   inference:
-    beam_size: 1
-    best_of: 1
+    beam_size: 5
+    best_of: 5
     temperature: 0.0
     vad_filter: true              # jemné odseknutie ticha
-    no_speech_threshold: 0.5      # ignoruj „nič nepočujem"
+    no_speech_threshold: 0.6      # ignoruj „nič nepočujem"
 
 audio:
   sample_rate: 16000    # nastav na 48000 ak 16k nejde (skript resampluje)
