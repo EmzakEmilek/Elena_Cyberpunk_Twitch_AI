@@ -1,0 +1,3 @@
+2025-08-23 13:10:42,419 | WARNING | Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-23 13:11:47,999 | INFO | Processing audio with duration 00:03.136
+2025-08-23 13:11:48,139 | INFO | VAD filter removed 00:00.560 of audio

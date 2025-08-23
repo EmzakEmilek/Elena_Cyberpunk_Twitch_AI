@@ -1,0 +1,20 @@
+2025-08-23 12:39:21,683 | INFO | Starting Elena STT application...
+2025-08-23 12:39:21,683 | INFO | Loading configuration from config.yaml
+2025-08-23 12:39:21,685 | INFO | Configuration loaded: {'model': {'name': 'medium', 'language': 'sk', 'cuda': {'enabled': True, 'compute_type': 'float16'}, 'cpu': {'compute_type': 'int8'}, 'inference': {'beam_size': 1, 'best_of': 1, 'temperature': 0.0, 'vad_filter': True, 'no_speech_threshold': 0.5}}, 'audio': {'sample_rate': 16000, 'channels': 1, 'blocksize': 1024, 'pre_roll_sec': 0.25, 'post_roll_sec': 0.25, 'input_device_index': None}, 'controls': {'ptt_key': 'f12', 'print_partials': False}}
+2025-08-23 12:39:21,685 | INFO | Loading Faster-Whisper model: medium
+2025-08-23 12:39:21,686 | INFO | CPU mode (INT8)...
+2025-08-23 12:39:25,117 | INFO | Audio setup: rate=16000 Hz, blocksize=1024, pre-roll=250 ms, post-roll=250 ms
+2025-08-23 12:39:25,117 | INFO | Hold F12 to speak, release F12 to process speech.
+2025-08-23 12:39:25,125 | INFO | Audio stream started
+2025-08-23 12:39:38,692 | INFO | Processing STT | capture=3.78s | model=medium | device=cpu
+2025-08-23 12:39:38,692 | INFO | Processing audio with duration 00:03.776
+2025-08-23 12:39:38,779 | INFO | VAD filter removed 00:00.752 of audio
+2025-08-23 12:39:43,314 | INFO | STT Processing complete
+2025-08-23 12:39:43,314 | INFO | Text: '1,2,3'
+2025-08-23 12:39:43,315 | INFO | Info: duration=3.78s | language=sk | prob=1.00
+2025-08-23 12:40:06,923 | INFO | Processing STT | capture=5.89s | model=medium | device=cpu
+2025-08-23 12:40:06,924 | INFO | Processing audio with duration 00:05.888
+2025-08-23 12:40:06,945 | INFO | VAD filter removed 00:00.208 of audio
+2025-08-23 12:40:11,971 | INFO | STT Processing complete
+2025-08-23 12:40:11,971 | INFO | Text: 'Ahoj, moje meno je Eric a dnes budem streamovaù Cyberpunk 2077.'
+2025-08-23 12:40:11,972 | INFO | Info: duration=5.89s | language=sk | prob=1.00

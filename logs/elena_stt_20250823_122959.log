@@ -1,0 +1,11 @@
+2025-08-23 12:29:59,799 | INFO | Starting Elena STT application...
+2025-08-23 12:29:59,799 | INFO | Loading configuration from config.yaml
+2025-08-23 12:29:59,799 | INFO | Configuration loaded: {'model': {'name': 'medium', 'language': 'sk', 'cuda': {'enabled': True, 'compute_type': 'float16'}, 'cpu': {'compute_type': 'int8'}, 'inference': {'beam_size': 1, 'best_of': 1, 'temperature': 0.0, 'vad_filter': True, 'no_speech_threshold': 0.5}}, 'audio': {'sample_rate': 16000, 'channels': 1, 'blocksize': 1024, 'pre_roll_sec': 0.25, 'post_roll_sec': 0.25, 'input_device_index': None}, 'controls': {'ptt_key': 'f12', 'print_partials': False}}
+2025-08-23 12:29:59,799 | INFO | Loading Faster-Whisper model: medium
+2025-08-23 12:29:59,799 | INFO | Attempting CUDA (FP16)...
+2025-08-23 12:30:02,132 | INFO | Audio setup: rate=16000 Hz, blocksize=1024, pre-roll=250 ms, post-roll=250 ms
+2025-08-23 12:30:02,132 | INFO | Hold F12 to speak, release F12 to process speech.
+2025-08-23 12:30:02,146 | INFO | Audio stream started
+2025-08-23 12:30:18,223 | INFO | Processing STT | capture=1.41s | model=medium | device=cuda
+2025-08-23 12:30:18,223 | INFO | Processing audio with duration 00:01.408
+2025-08-23 12:30:18,313 | INFO | VAD filter removed 00:00.240 of audio

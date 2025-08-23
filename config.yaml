@@ -1,0 +1,26 @@
+model:
+  size: "large-v2"         # Možnosti: tiny.en, tiny, base.en, base, small.en, small, medium.en, medium, large-v1, large-v2
+  language: "sk"         # slovenčina napevno
+  cuda:
+    enabled: true        # pokus o CUDA, inak CPU fallback
+    compute_type: "float16"  # FP16 na GPU
+  cpu:
+    compute_type: "int8"  # INT8 na CPU (rýchlejšie na CPU)
+  inference:
+    beam_size: 1
+    best_of: 1
+    temperature: 0.0
+    vad_filter: true              # jemné odseknutie ticha
+    no_speech_threshold: 0.5      # ignoruj „nič nepočujem"
+
+audio:
+  sample_rate: 16000    # nastav na 48000 ak 16k nejde (skript resampluje)
+  channels: 1
+  blocksize: 1024      # ~64 ms pri 16 kHz
+  pre_roll_sec: 0.25   # pridaj pred prvou slabikou
+  post_roll_sec: 0.25  # dobeh po pustení PTT
+  input_device_index: null  # null = default; inak číslo z `python -m sounddevice`
+
+controls:
+  ptt_key: "f12"       # push-to-talk kláves
+  print_partials: false # ak True, bude priebežne tlačiť partial texty

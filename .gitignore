@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+
+# Model cache
+*.bin
+*.pt
+
+# Environment variables
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
