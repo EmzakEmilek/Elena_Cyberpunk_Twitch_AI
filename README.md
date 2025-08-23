@@ -72,6 +72,45 @@ Projekt využíva platené služby:
 - 📊 **Live metriky**: Časy transkripcie a generovania odpovede
 - 🎨 **Prehľadné UI**: Farebný výstup v termináli s emoji
 
+### 🏗️ Architektúra
+
+```mermaid
+graph LR
+    A[Mikrofón] -->|Audio Stream| B[Audio Processor]
+    B -->|WAV Data| C[Whisper STT]
+    C -->|Text| D[OpenAI Assistant]
+    D -->|Odpoveď| E[Azure TTS]
+    E -->|Audio| F[Reproduktory]
+```
+
+#### Komponenty
+1. **Audio Processor** (`services/audio_processor.py`)
+   - Nahráva a spracováva audio stream
+   - Detekcia hlasovej aktivity (VAD)
+   - Buffer management
+
+2. **Speech-to-Text** (`core/pipeline.py`)
+   - Whisper model pre transkripciu
+   - CUDA akcelerácia
+   - Jazyková detekcia
+
+3. **AI Assistant** (`services/assistant.py`)
+   - OpenAI GPT Assistant API
+   - Kontextové spracovanie
+   - Generovanie odpovedí
+
+4. **Text-to-Speech** (`services/tts/azure_tts.py`)
+   - Azure Neural TTS
+   - Voice management
+   - Audio synthesis queue
+
+#### Dátový tok
+1. Audio je zachytené v 16kHz/16-bit formáte
+2. Whisper spracuje audio do textu
+3. Text je poslaný do GPT Assistant API
+4. Odpoveď je syntetizovaná cez Azure TTS
+5. Audio je prehrané cez výstupné zariadenie
+
 ### 🛠️ Požiadavky
 
 - Python 3.11+
@@ -311,6 +350,45 @@ This project uses paid services:
 - ⚡ **GPU Acceleration**: Whisper STT runs on CUDA
 - 📊 **Live Metrics**: Transcription and response generation times
 - 🎨 **Clear UI**: Colorful terminal output with emoji
+
+### 🏗️ Architecture
+
+```mermaid
+graph LR
+    A[Microphone] -->|Audio Stream| B[Audio Processor]
+    B -->|WAV Data| C[Whisper STT]
+    C -->|Text| D[OpenAI Assistant]
+    D -->|Response| E[Azure TTS]
+    E -->|Audio| F[Speakers]
+```
+
+#### Components
+1. **Audio Processor** (`services/audio_processor.py`)
+   - Records and processes audio stream
+   - Voice Activity Detection (VAD)
+   - Buffer management
+
+2. **Speech-to-Text** (`core/pipeline.py`)
+   - Whisper model for transcription
+   - CUDA acceleration
+   - Language detection
+
+3. **AI Assistant** (`services/assistant.py`)
+   - OpenAI GPT Assistant API
+   - Context processing
+   - Response generation
+
+4. **Text-to-Speech** (`services/tts/azure_tts.py`)
+   - Azure Neural TTS
+   - Voice management
+   - Audio synthesis queue
+
+#### Data Flow
+1. Audio is captured in 16kHz/16-bit format
+2. Whisper processes audio to text
+3. Text is sent to GPT Assistant API
+4. Response is synthesized via Azure TTS
+5. Audio is played through output device
 
 ### 🛠️ Requirements
 
