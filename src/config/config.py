@@ -40,10 +40,22 @@ class ControlsConfig:
 
 
 @dataclass
+class TTSConfig:
+    enabled: bool
+    provider: str
+    voice: str
+    rate: float
+    pitch: float
+    volume: float
+    queue_max_size: int
+
+
+@dataclass
 class AppConfig:
     model: ModelConfig
     audio: AudioConfig
     controls: ControlsConfig
+    tts: TTSConfig
 
     @classmethod
     def from_yaml(cls, path: Path) -> "AppConfig":
@@ -78,4 +90,14 @@ class AppConfig:
             print_partials=data["controls"]["print_partials"],
         )
 
-        return cls(model=model, audio=audio, controls=controls)
+        tts = TTSConfig(
+            enabled=data["tts"]["enabled"],
+            provider=data["tts"]["provider"],
+            voice=data["tts"]["voice"],
+            rate=data["tts"]["rate"],
+            pitch=data["tts"]["pitch"],
+            volume=data["tts"]["volume"],
+            queue_max_size=data["tts"]["queue"]["max_size"],
+        )
+
+        return cls(model=model, audio=audio, controls=controls, tts=tts)

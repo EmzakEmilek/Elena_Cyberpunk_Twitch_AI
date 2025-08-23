@@ -24,3 +24,13 @@ audio:
 controls:
   ptt_key: "f12"       # push-to-talk kláves
   print_partials: false # ak True, bude priebežne tlačiť partial texty
+
+tts:
+  enabled: true        # zapnúť/vypnúť TTS
+  provider: "azure"    # momentálne len azure
+  voice: "sk-SK-ViktoriaNeural"
+  rate: 1.0           # rýchlosť reči (0.5 - 2.0)
+  pitch: 0.0          # výška hlasu (-2.0 - 2.0)
+  volume: 1.0         # hlasitosť (0.0 - 2.0)
+  queue:
+    max_size: 10      # maximálna veľkosť fronty

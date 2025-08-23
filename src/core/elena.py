@@ -4,7 +4,15 @@ Hlavná trieda aplikácie Elena STT.
 Táto trieda predstavuje jadro aplikácie Elena STT, ktorá zabezpečuje:
 - Spracovanie hlasového vstupu
 - Transkripciu pomocou Whisper modelu
-- Komunikáciu s OpenAI asistentom
+- Komunikáciu s OpenAI                     # Spustenie TTS ak je k dispozícii
+                    if self.tts_queue:
+                        try:
+                            # Odstránime emoji z textu pre TTS
+                            import re
+                            text_without_emoji = re.sub(r'[\U0001F000-\U0001F9FF]', '', response)
+                            await self.tts_queue.add(text_without_emoji.strip())
+                        except Exception as e:
+                            logger.error(f"Chyba pri TTS: {e}")m
 - Interaktívne používateľské rozhranie
 """
 
@@ -19,6 +27,8 @@ from ..config.config import AppConfig
 from ..services.assistant import AssistantService, AssistantConfig
 from ..services.audio_processor import AudioProcessor
 from ..utils.keyboard_listener import KeyboardListener
+from ..services.tts.azure_tts import AzureTTS, TTSError
+from ..services.tts.tts_queue import TTSQueue
 from faster_whisper import WhisperModel
 import numpy as np
 
@@ -29,6 +39,23 @@ logger = logging.getLogger(__name__)
 
 
 class Elena:
+    def _clean_text_for_tts(self, text: str) -> str:
+        """
+        Vyčistí text pre TTS - odstráni timestamp, [Elena] prefix a emoji.
+        
+        Args:
+            text: Text na vyčistenie
+            
+        Returns:
+            Vyčistený text
+        """
+        import re
+        # Odstráni timestamp a [Elena] prefix
+        clean_text = re.sub(r'^\[\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\] \[Elena\]: ', '', text)
+        # Odstráni emoji
+        clean_text = re.sub(r'[\U0001F000-\U0001F9FF]', '', clean_text)
+        return clean_text.strip()
+
     def __init__(self, config_path: Path):
         """
         Inicializuje Elena STT.
@@ -40,6 +67,8 @@ class Elena:
         self.assistant: Optional[AssistantService] = None
         self.audio: Optional[AudioProcessor] = None
         self.keyboard_listener: Optional[KeyboardListener] = None
+        self.tts: Optional[AzureTTS] = None
+        self.tts_queue: Optional[TTSQueue] = None
         self.loop = asyncio.new_event_loop()
         self.model: Optional[WhisperModel] = None
         self._setup_logging()
@@ -73,6 +102,21 @@ class Elena:
             # Nastavenie klávesových skratiek
             self._setup_keyboard_listener()
             logger.info("Klávesové skratky nastavené")
+
+            # Inicializácia TTS ak je povolené
+            if self.config.tts.enabled:
+                try:
+                    self.tts = AzureTTS(voice=self.config.tts.voice)
+                    self.tts_queue = TTSQueue(
+                        tts=self.tts,
+                        max_size=self.config.tts.queue_max_size
+                    )
+                    logger.info("TTS inicializované")
+                except TTSError as e:
+                    logger.error(f"TTS inicializácia zlyhala: {e}")
+                    logger.info("Prepínam na text-only mód")
+                    self.tts = None
+                    self.tts_queue = None
 
         except Exception as e:
             logger.error(f"Chyba pri inicializácii: {str(e)}")
@@ -184,10 +228,16 @@ class Elena:
                 total_time = assistant_end - process_start
 
                 if response:
-                    # Výpis odpovede
-                    print(
-                        f"\n{Fore.MAGENTA}Elena: {Style.BRIGHT}{response}{Style.RESET_ALL}"
-                    )
+                    # Jednoduchý výpis odpovede
+                    print(f"\n{Fore.MAGENTA}Elena: {Style.BRIGHT}{response}{Style.RESET_ALL}")
+
+                    # Spustenie TTS ak je k dispozícii
+                    if self.tts_queue:
+                        try:
+                            clean_text = self._clean_text_for_tts(response)
+                            await self.tts_queue.add(clean_text)
+                        except Exception as e:
+                            logger.error(f"Chyba pri TTS: {e}")
 
                     # Výpis štatistík v kompaktnom formáte
                     print(f"\n{Fore.BLUE}━━━ Štatistiky ━━━{Style.RESET_ALL}")
@@ -242,6 +292,16 @@ class Elena:
         except Exception as e:
             logger.error(f"Chyba pri spracovaní audia: {str(e)}")
             print(f"\n{Fore.RED}❌ Chyba pri spracovaní: {str(e)}{Style.RESET_ALL}")
+
+    async def _shutdown(self):
+        """Graceful shutdown všetkých služieb."""
+        if self.audio:
+            self.audio.stop_stream()
+        if self.keyboard_listener:
+            self.keyboard_listener.stop()
+        if self.tts_queue:
+            await self.tts_queue.flush()
+        self.loop.close()
 
     def run(self):
         """Spustí hlavnú slučku aplikácie."""
@@ -299,8 +359,5 @@ class Elena:
             print(f"\n{Fore.RED}❌ Neočakávaná chyba: {str(e)}{Style.RESET_ALL}")
             logger.error(f"Neočakávaná chyba: {str(e)}")
         finally:
-            if self.audio:
-                self.audio.stop_stream()
-            if self.keyboard_listener:
-                self.keyboard_listener.stop()
-            self.loop.close()
+            # Graceful shutdown
+            self.loop.run_until_complete(self._shutdown())
