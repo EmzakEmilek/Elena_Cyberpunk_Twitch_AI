@@ -32,3 +32,7 @@ config/credentials.yaml
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Application specific
+thread_id.txt
+metrics.json
