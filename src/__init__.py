@@ -1,0 +1,3 @@
+"""
+Elena STT package
+"""
