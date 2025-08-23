@@ -144,8 +144,8 @@ python main.py
 
 ### 🎮 Použitie
 
-- **Stlač a drž F12** pre začiatok nahrávania
-- **Pusti F12** pre spracovanie a odpoveď
+- **Stlačte a držte F12** pre začiatok nahrávania
+- **Pustite F12** pre spracovanie a odpoveď
 - **Ctrl+C** v termináli pre ukončenie
 
 ### 📊 Metriky a Monitoring
