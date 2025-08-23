@@ -1,7 +1,23 @@
-faster-whisper>=0.9.0
-numpy>=1.21.0
-pynput>=1.7.6
-sounddevice>=0.4.6
-scipy>=1.9.0
-PyYAML>=6.0.1
-colorama>=0.4.6
+# Core dependencies
+faster-whisper==0.9.0
+numpy==1.24.3
+sounddevice==0.4.6
+scipy==1.11.2
+PyYAML==6.0.1
+colorama==0.4.6
+python-dotenv==1.0.0
+
+# OpenAI
+openai==1.2.3
+
+# Azure Speech Services
+azure-cognitiveservices-speech==1.31.0
+
+# Audio processing
+pynput==1.7.6
+
+# Async support
+asyncio==3.4.3
+
+# Optional: CUDA support for faster-whisper
+torch==2.0.1  # +cu118 for CUDA 11.8
