@@ -12,13 +12,24 @@ def setup_logging():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     log_file = os.path.join(log_dir, f"elena_stt_{timestamp}.log")
 
+    # File handler - full logging
+    file_handler = logging.FileHandler(log_file)
+    file_handler.setLevel(logging.INFO)
+    file_handler.setFormatter(
+        logging.Formatter('%(asctime)s | %(levelname)s | %(message)s')
+    )
+    
+    # Console handler - minimal logging
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.WARNING)  # Only warnings and errors to console
+    console_handler.setFormatter(
+        logging.Formatter('%(message)s')  # Simple messages without timestamps
+    )
+    
+    # Setup root logger
     logging.basicConfig(
         level=logging.INFO,
-        format='%(asctime)s | %(levelname)s | %(message)s',
-        handlers=[
-            logging.FileHandler(log_file),
-            logging.StreamHandler()
-        ]
+        handlers=[file_handler, console_handler]
     )
     
     return logging.getLogger("elena_stt")

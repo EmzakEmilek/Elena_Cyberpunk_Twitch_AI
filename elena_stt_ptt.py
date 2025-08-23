@@ -1,6 +1,6 @@
 """
 Elena STT (PTT: F12) – Faster-Whisper (medium, SK)
-Speech-to-Text s Push-to-Talk funkciou, využívajúci Faster-Whisper model.
+Speech-to-Text s Push-to-Talk funkciou, využívajúci Faster-Whisper model a OpenAI Assistant API.
 """
 
 import sys
@@ -13,6 +13,7 @@ from pynput import keyboard
 import time
 from datetime import datetime
 from colorama import init, Fore, Style
+from dotenv import load_dotenv
 
 # Initialize colorama for Windows color support
 init()
@@ -25,15 +26,19 @@ import sounddevice as sd
 from utils.logging_config import setup_logging
 from audio.processor import AudioProcessor, AudioConfig
 from stt.processor import STTProcessor, WhisperConfig
+from assistant.processor import AssistantProcessor, AssistantConfig
+
+# Load environment variables
+load_dotenv()
 
 # Setup logging first thing
 logger = setup_logging()
-print(f"\n{Fore.CYAN}🎤 Elena STT {Style.RESET_ALL}- Speech-to-Text s Push-to-Talk (F12)\n")
+print(f"\n{Fore.CYAN}Elena STT{Style.RESET_ALL} - Speech-to-Text s Push-to-Talk (F12)\n")
 
 # Načítanie konfigurácie
 try:
     with open("config.yaml", "r", encoding="utf-8") as f:
-        print(f"{Fore.GREEN}📚 Načítavam konfiguráciu...{Style.RESET_ALL}")
+        print(f"{Fore.GREEN}Načítavam konfiguráciu...{Style.RESET_ALL}")
         config = yaml.safe_load(f)
 except Exception as e:
     print(f"{Fore.RED}❌ Chyba pri načítaní konfigurácie: {e}{Style.RESET_ALL}")
@@ -75,7 +80,7 @@ PRINT_PARTIALS = config["controls"]["print_partials"]
 # -------------------------
 # Načítanie modelu
 # -------------------------
-print(f"\n{Fore.GREEN}🤖 Načítavam Faster-Whisper model: {MODEL_SIZE}{Style.RESET_ALL}")
+print(f"\n{Fore.GREEN}Načítavam Faster-Whisper model: {MODEL_SIZE}{Style.RESET_ALL}")
 from faster_whisper import WhisperModel
 import os
 
@@ -87,18 +92,18 @@ if cuda_path not in os.environ["PATH"]:
 def _load_model():
     if USE_CUDA_FIRST:
         try:
-            print(f"{Fore.YELLOW}⚡ Kontrolujem CUDA...{Style.RESET_ALL}")
+            print(f"{Fore.YELLOW}Kontrolujem CUDA...{Style.RESET_ALL}")
             import torch
             if not torch.cuda.is_available():
-                print(f"{Fore.RED}❌ CUDA nie je dostupná - chýba CUDA toolkit alebo ovládače{Style.RESET_ALL}")
+                print(f"{Fore.RED}CUDA nie je dostupná - chýba CUDA toolkit alebo ovládače{Style.RESET_ALL}")
                 raise RuntimeError("CUDA is not available")
             
             cuda_device = torch.cuda.get_device_properties(0)
-            print(f"{Fore.YELLOW}🔍 GPU: {cuda_device.name}{Style.RESET_ALL}")
+            print(f"{Fore.YELLOW}GPU: {cuda_device.name}{Style.RESET_ALL}")
             
-            print(f"{Fore.YELLOW}⚡ Inicializujem Whisper na CUDA (FP16)...{Style.RESET_ALL}")
+            print(f"{Fore.YELLOW}Inicializujem Whisper na CUDA (FP16)...{Style.RESET_ALL}")
             m = WhisperModel(MODEL_SIZE, device="cuda", compute_type=COMPUTE_TYPE_CUDA)
-            print(f"{Fore.GREEN}✅ Beží na CUDA (FP16){Style.RESET_ALL}")
+            print(f"{Fore.GREEN}Model beží na CUDA (FP16){Style.RESET_ALL}")
             return m, "cuda"
         except Exception as e:
             print(f"{Fore.RED}❌ CUDA zlyhala: {str(e)}{Style.RESET_ALL}")
@@ -109,6 +114,17 @@ def _load_model():
     return m, "cpu"
 
 model, device_kind = _load_model()
+
+# -------------------------
+# Assistant inicializácia
+# -------------------------
+try:
+    assistant_config = AssistantConfig()
+    assistant = AssistantProcessor(assistant_config)
+    print(f"{Fore.GREEN}OpenAI Asistent API pripravené{Style.RESET_ALL}")
+except Exception as e:
+    print(f"{Fore.RED}Chyba pri inicializácii OpenAI Asistenta: {e}{Style.RESET_ALL}")
+    sys.exit(1)
 
 # -------------------------
 # Stav a fronty
@@ -198,7 +214,7 @@ def on_press(key):
                 current_frames = [blk.copy() for blk in pre_buffer]
                 capture_state = "recording"
                 ptt_down_ts = time.perf_counter()
-                print(f"\n{Fore.CYAN}🎙️ Nahrávam... ({datetime.now().strftime('%H:%M:%S')}){Style.RESET_ALL}")
+                print(f"\n{Fore.CYAN}Nahrávam... ({datetime.now().strftime('%H:%M:%S')}){Style.RESET_ALL}")
 
 def on_release(key):
     global capture_state, post_blocks_left, ptt_up_ts
@@ -209,7 +225,7 @@ def on_release(key):
                 capture_state = "postroll"
                 post_blocks_left = post_blocks
                 ptt_up_ts = time.perf_counter()
-                print(f"{Fore.YELLOW}⌛ Spracovávam... ({datetime.now().strftime('%H:%M:%S')}){Style.RESET_ALL}")
+                print(f"{Fore.YELLOW}Spracovávam... ({datetime.now().strftime('%H:%M:%S')}){Style.RESET_ALL}")
 
 listener = keyboard.Listener(on_press=on_press, on_release=on_release)
 listener.daemon = True
@@ -264,14 +280,31 @@ def process_stt(audio, meta):
 
     # Výpis
     if text:
-        print(f"{Fore.GREEN}✨ Text: {Style.BRIGHT}{text}{Style.RESET_ALL}")
+        print(f"{Fore.GREEN}Text: {Style.BRIGHT}{text}{Style.RESET_ALL}")
+        
+        # Získanie odpovede od asistenta
+        try:
+            print(f"{Fore.YELLOW}Generujem odpoveď od Eleny...{Style.RESET_ALL}")
+            assistant_start = time.perf_counter()
+            assistant_response = assistant.get_response("Používateľ", text)
+            assistant_end = time.perf_counter()
+            if assistant_response:
+                print(f"{Fore.MAGENTA}Elena: {Style.BRIGHT}{assistant_response}{Style.RESET_ALL}")
+            else:
+                print(f"{Fore.RED}Elena nemohla vygenerovať odpoveď{Style.RESET_ALL}")
+        except Exception as e:
+            print(f"{Fore.RED}Chyba pri komunikácii s OpenAI: {e}{Style.RESET_ALL}")
     else:
-        print(f"{Fore.YELLOW}👻 Nezachytený žiadny text{Style.RESET_ALL}")
+        print(f"{Fore.YELLOW}Nezachytený žiadny text{Style.RESET_ALL}")
     
     # Štatistiky v jemnejšej farbe
-    print(f"{Fore.BLUE}📊 Štatistiky:{Style.RESET_ALL}")
-    print(f"   • Nahrávka: {capture_dur:.1f}s")
-    print(f"   • Spracovanie: {total_latency:.1f}s")
+    # Štatistiky
+    print(f"\n{Fore.BLUE}Štatistiky:{Style.RESET_ALL}")
+    print(f"  Nahrávka: {capture_dur:.1f}s")
+    print(f"  Prepis: {total_latency:.1f}s")
+    if 'assistant_start' in locals() and 'assistant_end' in locals():
+        assistant_latency = assistant_end - ptt_up
+        print(f"  Celkový čas: {assistant_latency:.1f}s")
     
     # Detailnejšie časy
     if first_token_latency < 1.0:
@@ -281,14 +314,18 @@ def process_stt(audio, meta):
     else:
         token_color = Fore.RED
     
-    print(f"{Fore.CYAN}⏱️  Časy:{Style.RESET_ALL}")
-    print(f"   • Prvé slová: {token_color}{first_token_latency*1000:.0f}ms{Style.RESET_ALL}")
-    print(f"   • Celý prepis: {token_color}{total_latency*1000:.0f}ms{Style.RESET_ALL}")
+    # Časy a jazyk
+    print(f"{Fore.CYAN}Detekcia:{Style.RESET_ALL}")
+    print(f"  Prvé slová: {token_color}{first_token_latency*1000:.0f}ms{Style.RESET_ALL}")
+    if 'assistant_start' in locals() and 'assistant_end' in locals():
+        assistant_gen_time = assistant_end - assistant_start
+        color = Fore.GREEN if assistant_gen_time < 2.0 else (Fore.YELLOW if assistant_gen_time < 4.0 else Fore.RED)
+        print(f"  Odpoveď Eleny: {color}{assistant_gen_time*1000:.0f}ms{Style.RESET_ALL}")
     
     if info.language_probability > 0.9:
-        print(f"   • Jazyk: {Fore.GREEN}{info.language}{Style.RESET_ALL}")
+        print(f"  Jazyk: {Fore.GREEN}{info.language}{Style.RESET_ALL}")
     else:
-        print(f"   • Jazyk: {Fore.YELLOW}{info.language} ({info.language_probability:.0%}){Style.RESET_ALL}")
+        print(f"  Jazyk: {Fore.YELLOW}{info.language} ({info.language_probability:.0%}){Style.RESET_ALL}")
 
 worker_thread = threading.Thread(target=stt_worker, daemon=True)
 worker_thread.start()
@@ -296,14 +333,14 @@ worker_thread.start()
 # -------------------------
 # Audio stream
 # -------------------------
-print(f"\n{Fore.CYAN}🎛️  Audio nastavenia:{Style.RESET_ALL}")
-print(f"   • Vzorkovanie: {INPUT_SAMPLE_RATE} Hz")
-print(f"   • Pre-roll: {PRE_ROLL_SEC*1000:.0f} ms")
-print(f"   • Post-roll: {POST_ROLL_SEC*1000:.0f} ms")
+print(f"\n{Fore.CYAN}Audio nastavenia:{Style.RESET_ALL}")
+print(f"  Vzorkovanie: {INPUT_SAMPLE_RATE} Hz")
+print(f"  Pre-roll: {PRE_ROLL_SEC*1000:.0f} ms")
+print(f"  Post-roll: {POST_ROLL_SEC*1000:.0f} ms")
 
-print(f"\n{Fore.GREEN}🚀 Pripravené!{Style.RESET_ALL}")
-print(f"{Fore.CYAN}📌 Stlač a drž {Style.BRIGHT}F12{Style.NORMAL} pre nahrávanie, pusti pre prepis.{Style.RESET_ALL}")
-print(f"{Fore.CYAN}💡 Pre ukončenie stlač Ctrl+C{Style.RESET_ALL}\n")
+print(f"\n{Fore.GREEN}Systém je pripravený{Style.RESET_ALL}")
+print(f"{Fore.CYAN}Stlač a drž {Style.BRIGHT}F12{Style.NORMAL} pre nahrávanie, pusti pre prepis.{Style.RESET_ALL}")
+print(f"{Fore.CYAN}Pre ukončenie stlač Ctrl+C{Style.RESET_ALL}\n")
 
 try:
     with sd.InputStream(
@@ -317,8 +354,8 @@ try:
         while True:
             time.sleep(0.1)
 except KeyboardInterrupt:
-    print(f"\n{Fore.YELLOW}👋 Ukončujem...{Style.RESET_ALL}")
+    print(f"\n{Fore.YELLOW}Ukončujem program...{Style.RESET_ALL}")
 except Exception as e:
-    print(f"\n{Fore.RED}❌ Chyba: {e}{Style.RESET_ALL}")
+    print(f"\n{Fore.RED}Chyba: {e}{Style.RESET_ALL}")
 finally:
     jobs.put((None, None))
