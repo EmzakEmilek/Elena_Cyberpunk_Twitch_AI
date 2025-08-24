@@ -1,0 +1,66 @@
+﻿type: "technology"
+title: "Immune System Boosters"
+category: ""
+technology_id: ""
+
+content:
+  summary: "Cybernetic enhancements for improved immune system response"
+  
+name: Immune System Boosters
+type: Cyberware
+description: Cybernetic enhancements for improved immune system response
+details: |
+  Immune System Boosters provide enhanced disease resistance and healing through cybernetic augmentation.
+
+  Core Functions:
+  - Pathogen detection
+  - Immune response enhancement
+  - Healing acceleration
+  - Toxin neutralization
+
+  System Features:
+  - Automated screening
+  - Rapid response
+  - Adaptive learning
+  - Recovery optimization
+
+  Protection Against:
+  - beĹľnĂ˝ diseases
+  - Biological weapons
+  - Environmental toxins
+  - Chemical agents
+
+  Enhancement Levels:
+  - Basic protection
+  - Military grade
+  - Corporate standard
+  - Experimental systems
+
+importance: Essential health protection system
+common_locations:
+  - Medical facilities
+  - Corporate executives
+  - Military personnel
+  - Hazardous environments
+relationships:
+  - Artificial Organs
+  - Medical Technology
+  - Experimental Cyberware
+  - Biotechnology Advances
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

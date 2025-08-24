@@ -1,0 +1,77 @@
+﻿type: "economy"
+title: "Corporate Culture"
+category: ""
+economy_id: ""
+
+content:
+  summary: "The distinctive lifestyle and values of corporate society"
+  
+name: Corporate Culture
+type: culture
+description: The distinctive lifestyle and values of corporate society
+details: |
+  Corporate culture defines the lifestyle, behavior, and values of Night City's corporate class.
+
+  Key Elements:
+  - Hierarchy System
+    * Strict rankings
+    * Power dynamics
+    * Status symbols
+    * Career progression
+  - Behavioral Codes
+    * Corporate etiquette
+    * Loyalty demands
+    * Performance focus
+    * Political maneuvering
+  - Lifestyle Markers
+    * Premium Cyberware
+    * Designer fashion
+    * Luxury housing
+    * Exclusive services
+
+  Social Aspects:
+  - Internal competition
+  - Alliance building
+  - Power politics
+  - Status display
+
+  Cultural Impact:
+  - Fashion trends
+  - Consumer patterns
+  - Social norms
+  - City development
+
+  Workplace Elements:
+  - Performance metrics
+  - Loyalty programs
+  - Security protocols
+  - Corporate housing
+
+importance: Dominant cultural force in Night City
+common_locations:
+  - Corporate towers
+  - Executive areas
+  - Luxury districts
+  - Corporate housing
+relationships:
+  - Corporate Politics
+  - Luxury Markets
+  - Corporate Lifestyle
+  - Corporate Securities
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,192 @@
+name: "Athletics Skill System"
+id: "system_skill_athletics"
+category: "system_skill"
+
+system_overview:
+  description: "Systém pre fyzickú zdatnosť a pohyblivosť"
+  core_aspects:
+    - "Physical power"
+    - "Movement speed"
+    - "Jumping ability"
+    - "Stamina management"
+
+core_features:
+  movement:
+    - "Running speed"
+    - "Swimming power"
+    - "Climbing ability"
+    - "Jump height"
+  
+  stamina:
+    - "Energy levels"
+    - "Recovery rate"
+    - "Endurance time"
+    - "Action costs"
+
+skill_progression:
+  levels:
+    - name: "Basic"
+      requirements: "0-5 points"
+      benefits: "Normal movement"
+    - name: "Advanced"
+      requirements: "6-10 points"
+      benefits: "Better stamina"
+    - name: "Expert"
+      requirements: "11-15 points"
+      benefits: "High mobility"
+    - name: "Master"
+      requirements: "16-20 points"
+      benefits: "Peak performance"
+
+perk_system:
+  categories:
+    movement:
+      - name: "Swift Runner"
+        effect: "Speed boost"
+      - name: "Power Jump"
+        effect: "Jump height"
+      - name: "Master Climber"
+        effect: "Climb speed"
+    
+    stamina:
+      - name: "Endurance Pro"
+        effect: "More stamina"
+      - name: "Quick Recovery"
+        effect: "Fast regen"
+      - name: "Energy Master"
+        effect: "Low costs"
+
+notes_for_elena:
+  key_points:
+    - "Movement importance"
+    - "Stamina value"
+    - "Action costs"
+  
+  roleplay_tips:
+    - "Physical focus"
+    - "Energy management"
+    - "Movement use"
+    
+  conversation_guidelines:
+    - "Athletic terms"
+    - "Energy talk"
+    - "Movement words"
+
+gameplay_elements:
+  primary:
+    - "Movement speed"
+    - "Jump power"
+    - "Stamina bar"
+    - "Recovery rate"
+  
+  secondary:
+    - "Climb speed"
+    - "Swim power"
+    - "Action costs"
+
+skill_applications:
+  movement:
+    - "Running"
+    - "Climbing"
+    - "Swimming"
+  
+  combat:
+    - "Dodging"
+    - "Positioning"
+    - "Chase actions"
+
+progression_mechanics:
+  experience:
+    - "Movement use"
+    - "Stamina drain"
+    - "Action completion"
+  
+  rewards:
+    - "Speed boost"
+    - "Better recovery"
+    - "Lower costs"
+
+related_systems:
+  skills:
+    - "system_skill_body"
+    - "system_skill_reflexes"
+  cyberware:
+    - "system_cyberware_legs"
+    - "system_cyberware_skeleton"
+
+ui_elements:
+  displays:
+    - "Stamina bar"
+    - "Speed meter"
+    - "Action costs"
+  
+  indicators:
+    - "Energy level"
+    - "Recovery rate"
+    - "Movement state"
+
+balance_considerations:
+  advantages:
+    - "High mobility"
+    - "Good stamina"
+    - "Fast recovery"
+  
+  limitations:
+    - "Energy costs"
+    - "Recovery time"
+    - "Action limits"
+
+synergy_effects:
+  skills:
+    - "Body boost"
+    - "Reflex use"
+    - "Combat help"
+  
+  attributes:
+    - "Movement power"
+    - "Energy levels"
+    - "Action speed"
+
+advancement_paths:
+  movement:
+    - "Speed master"
+    - "Jump expert"
+    - "Climb pro"
+  
+  stamina:
+    - "Energy king"
+    - "Recovery ace"
+    - "Action master"
+
+customization_options:
+  builds:
+    - "Pure speed"
+    - "Stamina focus"
+    - "Action pro"
+  
+  specializations:
+    - "Movement expert"
+    - "Energy master"
+    - "Action specialist"
+
+movement_management:
+  aspects:
+    - "Speed control"
+    - "Jump timing"
+    - "Climb rate"
+  
+  benefits:
+    - "Better mobility"
+    - "Good timing"
+    - "Action control"
+
+stamina_efficiency:
+  aspects:
+    - "Energy use"
+    - "Recovery rate"
+    - "Action costs"
+  
+  benefits:
+    - "Long duration"
+    - "Fast recovery"
+    - "Low drain"

@@ -1,0 +1,221 @@
+﻿type: "technology"
+title: "Gunplay System"
+category: "system_combat"
+technology_id: "system_combat_gunplay"
+
+content:
+  summary: ""
+  
+name: "Gunplay System"
+id: "system_combat_gunplay"
+category: "system_combat"
+
+system_overview:
+  description: "Systém pre streľbu a manipuláciu so zbraňami"
+  core_mechanics:
+    - "Aiming system"
+    - "Recoil management"
+    - "Ammunition types"
+    - "Weapon handling"
+
+mechanics:
+  shooting:
+    - "Precision aiming"
+    - "Hip firing"
+    - "Burst fire"
+    - "Reloading"
+  
+  weapons:
+    - "Different types"
+    - "Customization"
+    - "Maintenance"
+    - "Upgrades"
+
+combat_dynamics:
+  engagement:
+    - "Range factors"
+    - "Cover usage"
+    - "Movement impact"
+    - "Environmental effects"
+  
+  damage:
+    - "Hit zones"
+    - "Armor penetration"
+    - "Critical hits"
+    - "Status effects"
+
+equipment:
+  weapon_types:
+    - "Pistols"
+    - "Rifles"
+    - "Shotguns"
+    - "SMGs"
+  
+  attachments:
+    - "Scopes"
+    - "Suppressors"
+    - "Grips"
+    - "Magazines"
+
+notes_for_elena:
+  key_points:
+    - "Weapon handling"
+    - "Combat tactics"
+    - "Equipment knowledge"
+  
+  roleplay_tips:
+    - "Technical accuracy"
+    - "Combat expertise"
+    - "Tactical awareness"
+    
+  conversation_guidelines:
+    - "Weapon terminology"
+    - "Combat jargon"
+    - "Technical specs"
+
+weapon_categories:
+  pistols:
+    - "Semi-auto"
+    - "Revolvers"
+    - "Machine pistols"
+  
+  rifles:
+    - "Assault rifles"
+    - "Sniper rifles"
+    - "Battle rifles"
+  
+  shotguns:
+    - "Pump action"
+    - "Semi-auto"
+    - "Automatic"
+  
+  smgs:
+    - "Compact"
+    - "Full-size"
+    - "Hybrid"
+
+skill_integration:
+  weapon_skills:
+    - "Accuracy"
+    - "Recoil control"
+    - "Reload speed"
+  
+  related_skills:
+    - "Reflexes"
+    - "Cool"
+    - "Body"
+
+gameplay_elements:
+  strategic:
+    - "Weapon selection"
+    - "Ammo management"
+    - "Position choice"
+  
+  tactical:
+    - "Target priority"
+    - "Cover usage"
+    - "Movement timing"
+
+progression_system:
+  skills:
+    - "Weapon proficiency"
+    - "Accuracy improvement"
+    - "Handling speed"
+  
+  perks:
+    - "Recoil reduction"
+    - "Critical chance"
+    - "Reload boost"
+
+combat_feedback:
+  visual:
+    - "Hit markers"
+    - "Damage numbers"
+    - "Blood effects"
+  
+  audio:
+    - "Gun sounds"
+    - "Impact effects"
+    - "Environment echo"
+
+ui_elements:
+  hud:
+    - "Ammo counter"
+    - "Weapon status"
+    - "Hit indicators"
+  
+  feedback:
+    - "Damage numbers"
+    - "Critical hits"
+    - "Kill confirmations"
+
+related_systems:
+  combat:
+    - "system_combat_melee"
+    - "system_combat_stealth"
+  mechanics:
+    - "system_mechanics_inventory"
+    - "system_mechanics_crafting"
+
+balance_considerations:
+  advantages:
+    - "Range capability"
+    - "Burst damage"
+    - "Versatility"
+  
+  limitations:
+    - "Ammo dependency"
+    - "Reload times"
+    - "Noise generation"
+
+technical_implementation:
+  core_systems:
+    - "Ballistics simulation"
+    - "Hit detection"
+    - "Damage calculation"
+  
+  optimization:
+    - "Physics processing"
+    - "Visual effects"
+    - "Audio systems"
+
+customization_options:
+  attachments:
+    - "Sights and scopes"
+    - "Barrels"
+    - "Grips"
+    - "Magazines"
+  
+  modifications:
+    - "Internal upgrades"
+    - "Custom parts"
+    - "Special ammo"
+
+ammunition_system:
+  types:
+    - "Standard rounds"
+    - "Armor piercing"
+    - "Hollow point"
+    - "Special ammo"
+  
+  management:
+    - "Capacity limits"
+    - "Reload timing"
+    - "Ammo switching"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

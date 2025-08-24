@@ -1,0 +1,154 @@
+name: "Heywood District"
+id: "district_heywood"
+category: "location_district"
+
+district_overview:
+  description: "Rozmanitá štvrť s veľkou latino komunitou a silným gangsterským vplyvom"
+  population: "Stredná až nižšia trieda"
+  safety_level: "Stredné riziko"
+  dominant_gangs: 
+    - "Valentinos"
+    - "6th Street"
+
+key_features:
+  architecture:
+    - "Staré bytovky"
+    - "Malé obchody"
+    - "Latino štýl"
+    - "Graffiti umenie"
+  
+  atmosphere:
+    - "Živá komunita"
+    - "Gangsterské teritórium"
+    - "Rodinná atmosféra"
+    - "Pouličný život"
+
+areas:
+  wellsprings:
+    description: "Obytná časť s množstvom barov"
+    features:
+      - "Nočný život"
+      - "Bary a kluby"
+      - "Malé obchody"
+  
+  vista_del_rey:
+    description: "Centrum latino kultúry"
+    features:
+      - "Tradičné trhy"
+      - "Pouličné umenie"
+      - "Komunintné centrá"
+
+  glen:
+    description: "Pokojnejšia rezidenčná zóna"
+    features:
+      - "Bytové domy"
+      - "Malé parky"
+      - "Lokálne obchody"
+
+economy:
+  businesses:
+    - "Malé obchody"
+    - "Rodinné reštaurácie"
+    - "Lokálne služby"
+  
+  illegal:
+    - "Gang aktivita"
+    - "Čierny trh"
+    - "Pouličný predaj"
+
+security:
+  police:
+    presence: "Stredná"
+    efficiency: "Nízka"
+    corruption: "Vysoká"
+  
+  private:
+    - "Gang hliadky"
+    - "Komunintná ochrana"
+    - "Súkromná bezpečnosť"
+
+social_aspects:
+  communities:
+    - "Latino rodiny"
+    - "Robotnícka trieda"
+    - "Gang členovia"
+  
+  culture:
+    - "Latino tradície"
+    - "Pouličné umenie"
+    - "Gang kultúra"
+
+transportation:
+  public:
+    - "Metro stanice"
+    - "Bus linky"
+    - "Taxi služby"
+  
+  private:
+    - "Autá"
+    - "Motorky"
+    - "Pešia dostupnosť"
+
+landmarks:
+  major:
+    - name: "Valentinos Territory"
+      type: "Gang zóna"
+    - name: "Metro Plaza"
+      type: "Dopravný uzol"
+    - name: "Street Market"
+      type: "Obchodná zóna"
+
+services:
+  legal:
+    - "Obchody"
+    - "Reštaurácie"
+    - "Opravovne"
+  
+  illegal:
+    - "Gang služby"
+    - "Čierny trh"
+    - "Underground kluby"
+
+dangers:
+  common:
+    - "Gang konflikty"
+    - "Pouličná kriminalita"
+    - "Teritoriálne spory"
+  
+  specific:
+    - "Gang initiation"
+    - "Nočné prepadnutia"
+    - "Drogové obchody"
+
+opportunities:
+  business:
+    - "Malé podnikanie"
+    - "Služby komunite"
+    - "Street food"
+  
+  criminal:
+    - "Gang práca"
+    - "Pašovanie"
+    - "Ochrana"
+
+daily_life:
+  routines:
+    - "Ranné trhy"
+    - "Pouličný život"
+    - "Nočná zábava"
+  
+  activities:
+    - "Komunitné stretnutia"
+    - "Pouličné oslavy"
+    - "Gang aktivity"
+
+notes_for_elena:
+  key_points:
+    - "Latino vplyv"
+    - "Gang prítomnosť"
+    - "Komunitný život"
+  
+  interaction_tips:
+    - "Rešpektuj gangy"
+    - "Poznaj teritóriá"
+    - "Podporuj komunitu"

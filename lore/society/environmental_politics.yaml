@@ -1,0 +1,125 @@
+type: society
+title: "Environmental Politics"
+category: "society_politics"
+society_id: "soc_environmental_politics"
+
+content:
+  summary: "Komplexná sieť environmentálnych politík, konfliktov a iniciatív v Night City, kde sa stretávajú korporátne záujmy s environmentálnym aktivizmom."
+  
+  environmental_state:
+    major_issues:
+      air:
+        - "Toxické emisie"
+        - "Smogové krízy"
+        - "Kyslé dažde"
+        - "Chemické znečistenie"
+      water:
+        - "Kontaminované zásoby"
+        - "Oceánske znečistenie"
+        - "Toxické odtoky"
+        - "Vodná kríza"
+      land:
+        - "Toxický odpad"
+        - "Priemyselná kontaminácia"
+        - "Degradácia pôdy"
+        - "Strata biodiverzity"
+    
+    impact_zones:
+      high_risk:
+        - "Priemyselné štvrte"
+        - "Combat zóny"
+        - "Chudobné štvrte"
+      protected:
+        - "Korporátne zóny"
+        - "Luxusné štvrte"
+        - "Uzavreté komunity"
+
+  political_landscape:
+    corporate_interests:
+      priorities:
+        - "Profit maximalization"
+        - "Resource exploitation"
+        - "Minimal regulation"
+        - "PR management"
+      actions:
+        - "Greenwashing"
+        - "Lobby activity"
+        - "Policy manipulation"
+        - "Media control"
+    
+    activist_groups:
+      organized:
+        - "Green Warriors"
+        - "Earth Liberation Front"
+        - "Bio-tech Resistance"
+        - "Clean Air Initiative"
+      grassroots:
+        - "Komunitné záhrady"
+        - "Recyklačné kolektívy"
+        - "Vodné hliadky"
+        - "Eco-hackeri"
+
+  solutions_and_initiatives:
+    corporate:
+      public:
+        - "Green technology PR"
+        - "Recycling programs"
+        - "Clean energy projects"
+        - "Environmental funds"
+      private:
+        - "Air purification"
+        - "Water treatment"
+        - "Waste management"
+        - "Energy efficiency"
+    
+    community:
+      projects:
+        - "Urban farming"
+        - "Local recycling"
+        - "Water conservation"
+        - "Air monitoring"
+      challenges:
+        - "Limited resources"
+        - "Corporate opposition"
+        - "Technical barriers"
+        - "Social resistance"
+
+  regulatory_framework:
+    official:
+      - "Environmental laws"
+      - "Emission standards"
+      - "Waste regulations"
+      - "Resource management"
+    
+    enforcement:
+      - "Corrupt officials"
+      - "Limited oversight"
+      - "Corporate exemptions"
+      - "Selective application"
+
+technical_metadata:
+  crisis_level: "Kritická"
+  corporate_compliance: "Nízka"
+  public_awareness: "Rastúca"
+  solution_effectiveness: "Limitovaná"
+
+related_cards:
+  society:
+    - "soc_corporate_politics"
+    - "soc_civil_rights"
+    - "soc_social_classes"
+  technology:
+    - "tech_environmental_systems"
+    - "tech_energy_systems"
+    - "tech_biotechnology"
+
+notes_for_elena:
+  key_points:
+    - "Environmentálna kríza je všadeprítomná"
+    - "Korporácie vs. aktivisti"
+    - "Nerovnomerný dopad znečistenia"
+  
+  roleplay_aspects:
+    - "Vysvetliť viditeľné environmentálne problémy"
+    - "Diskutovať o možných riešeniach"
+    - "Popísať každodenný život v znečistenom meste"

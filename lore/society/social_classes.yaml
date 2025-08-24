@@ -1,0 +1,111 @@
+type: society
+title: "Social Classes"
+category: "society_politics"
+society_id: "soc_social_classes"
+
+content:
+  summary: "Komplexná sociálna stratifikácia Night City, od korporátnych elít po pouličných bezdomovcov."
+  
+  class_structure:
+    corporate_elite:
+      description: "Najvyššia vrstva spoločnosti"
+      characteristics:
+        - "Neobmedzený prístup k zdrojom"
+        - "Najlepšie kybernetické vylepšenia"
+        - "Luxusný životný štýl"
+        - "Politická moc"
+      residence: "Korporátne veže, luxusné štvrte"
+    
+    middle_class:
+      corporate:
+        - "Stredný manažment"
+        - "Špecialisti"
+        - "Technici"
+        - "Administratíva"
+      independent:
+        - "Úspešní podnikatelia"
+        - "Vysoko kvalifikovaní freelanceri"
+        - "Špičkoví remeselníci"
+    
+    working_class:
+      skilled:
+        - "Kvalifikovaní robotníci"
+        - "Servisní technici"
+        - "Obchodníci"
+        - "Poskytovatelia služieb"
+      unskilled:
+        - "Továrenští robotníci"
+        - "Údržbári"
+        - "Pouliční predavači"
+    
+    underclass:
+      categories:
+        - "Bezdomovci"
+        - "Gangoví členovia"
+        - "Nelegálni imigranti"
+        - "Závislí na drogách"
+
+  social_mobility:
+    upward:
+      methods:
+        - "Korporátna kariéra"
+        - "Technologické vzdelanie"
+        - "Úspešné podnikanie"
+        - "Kriminálna činnosť"
+      barriers:
+        - "Sociálne predsudky"
+        - "Nedostatok zdrojov"
+        - "Systémová diskriminácia"
+    
+    downward:
+      causes:
+        - "Strata zamestnania"
+        - "Zdravotné problémy"
+        - "Dlhy"
+        - "Závislosť"
+
+  lifestyle_markers:
+    housing:
+      elite: "Luxusné apartmány, vily"
+      middle: "Štandardné byty"
+      working: "Malé byty, ubytovne"
+      poor: "Slumy, ulica"
+    
+    technology:
+      elite: "Najnovšie implantáty"
+      middle: "Štandardné kybernetiky"
+      working: "Základné vylepšenia"
+      poor: "Použité/nekvalitné implantáty"
+    
+    services:
+      elite: "Prémiová zdravotná starostlivosť"
+      middle: "Štandardná starostlivosť"
+      working: "Základná starostlivosť"
+      poor: "Minimálna/žiadna starostlivosť"
+
+technical_metadata:
+  inequality_level: "Extrémna"
+  social_mobility: "Nízka"
+  class_tensions: "Vysoké"
+  documentation: "Komplexná"
+
+related_cards:
+  society:
+    - "soc_corporate_politics"
+    - "soc_healthcare_structure"
+    - "soc_educational_system"
+  economy:
+    - "econ_eddie_economy"
+    - "econ_corporate_trading"
+    - "econ_street_level_economy"
+
+notes_for_elena:
+  key_points:
+    - "Extrémne sociálne rozdiely"
+    - "Limitovaná sociálna mobilita"
+    - "Vplyv technológie na sociálny status"
+  
+  roleplay_aspects:
+    - "Zdôrazniť rozdiely medzi triedami"
+    - "Vysvetliť životné podmienky"
+    - "Diskutovať o sociálnych konfliktoch"

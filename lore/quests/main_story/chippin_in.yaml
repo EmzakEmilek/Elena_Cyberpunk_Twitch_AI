@@ -1,0 +1,147 @@
+type: "quest"
+title: "Chippin' In"
+category: "main_story"
+
+summary: "Johnny Silverhand's plan na zničenie Arasaka začína. V must infiltrate Arasaka Industrial Park a získať informácie o Soulkiller. Quest zahŕňa Johnny's flashbacks a past confrontation."
+
+key_points:
+  - "Johnny's plan na Arasaka destruction"
+  - "Infiltrácia Arasaka Industrial Park"
+  - "Soulkiller technology intel"
+  - "Johnny's memories of 2023 attack"
+  - "Alt Cunningham connection"
+  - "V-Johnny relationship evolution"
+
+story_context:
+  act: "Act 2"
+  position: "Critical Johnny Silverhand quest"
+  importance: "Reveals Johnny's true motivation"
+
+characters:
+  - "V (protagonist)"
+  - "Johnny Silverhand"
+  - "Alt Cunningham (memory/flashback)"
+  - "Kerry Eurodyne (memory)"
+  - "Rogue Amendiares (memory)"
+  - "Arasaka security"
+  - "Adam Smasher (memory reference)"
+
+locations:
+  - "Arasaka Industrial Park"
+  - "Server room"
+  - "Security checkpoints"
+  - "Samurai band hideout (flashback)"
+  - "Rainbow Cadenza club (flashback)"
+
+mission_phases:
+  infiltration:
+    - "Perimeter bypassing"
+    - "Security disguise"
+    - "ID card acquisition"
+    - "Guard interactions"
+  
+  data_theft:
+    - "Server room access"
+    - "Database hacking"
+    - "Data download"
+    - "Soulkiller intel"
+  
+  flashback_sequence:
+    - "2023 attack memories"
+    - "Alt's capture"
+    - "Samurai band formation"
+    - "Corpo hatred origins"
+
+choices:
+  approach_method:
+    description: "Infiltration strategy"
+    options:
+      - "Stealth approach - avoid detection"
+      - "Social engineering - blend in"
+      - "Tech hacking - remote access"
+    consequences: "Rôzne security responses"
+
+johnny_memories:
+  alt_relationship:
+    - "True love connection"
+    - "Her netrunner genius"
+    - "Arasaka capture trauma"
+    - "Soulkiller creation involvement"
+  
+  band_memories:
+    - "Samurai formation"
+    - "Music as rebellion"
+    - "Anti-corpo message"
+    - "Kerry's friendship"
+
+soulkiller_revelations:
+  technology:
+    - "Digital consciousness transfer"
+    - "Personality preservation"
+    - "Memory extraction"
+    - "AI creation process"
+  
+  implications:
+    - "V's fate connection"
+    - "Johnny's existence explanation"
+    - "Alt's transformation"
+    - "Arasaka's true power"
+
+objectives:
+  - "Infiltrovať Arasaka Industrial Park"
+  - "Získať Soulkiller data"
+  - "Survive security measures"
+  - "Experience Johnny's memories"
+  - "Understand Alt's fate"
+  - "Plan next moves"
+
+emotional_weight:
+  - "Johnny's vulnerability about Alt"
+  - "V's understanding of Johnny"
+  - "Tragic love story"
+  - "Corporate evil reality"
+
+themes:
+  - "Love transcending death"
+  - "Technology vs humanity"
+  - "Corporate oppression"
+  - "Memory and identity"
+  - "Revenge motivations"
+
+flashback_moments:
+  alt_capture:
+    - "Last conversation with Alt"
+    - "Arasaka raid"
+    - "Soulkiller experimentation"
+    - "Johnny's helplessness"
+  
+  band_formation:
+    - "Meeting Kerry"
+    - "Music creation"
+    - "Political awakening"
+    - "Corpo hatred birth"
+
+related:
+  - "tapeworm"
+  - "never_fade_away"
+  - "johnny_silverhand"
+  - "alt_cunningham"
+  - "arasaka_corporation"
+  - "soulkiller_technology"
+
+elena_notes:
+  talking_points:
+    - "Kľúčové Johnny Silverhand backstory"
+    - "Alt Cunningham tragic story"
+    - "Soulkiller technology reveal"
+    - "Corporate evil demonstration"
+  spoiler_level: "high"
+  conversation_context:
+    - "Essential pre understanding Johnny"
+    - "Setup pre finálne questy"
+    - "V-Johnny relationship depth"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

@@ -1,0 +1,201 @@
+name: "Sebastian 'Padre' Ibarra"
+id: "char_padre_ibarra"
+category: "character_supporting"
+affiliation: "Independent Fixer"
+
+personal_data:
+  role: "Fixer/Community Leader"
+  gender: "Male"
+  residence: "Heywood, Night City"
+  faction: "Independent"
+
+character_profile:
+  archetype: "Wise Fixer/Community Father"
+  motivation: "Komunita a biznis"
+  personality:
+    traits:
+      - "Múdry"
+      - "Rešpektovaný"
+      - "Spravodlivý"
+      - "Strategický"
+    strengths:
+      - "Komunálny vplyv"
+      - "Biznis zmysel"
+      - "Múdre vedenie"
+      - "Sieť kontaktov"
+    weaknesses:
+      - "Konzervatívny prístup"
+      - "Teritoriálne obmedzenia"
+      - "Morálne dilemy"
+
+story_involvement:
+  first_appearance: "Act 1"
+  role_in_story: "Fixer/Mentor"
+  significance: "Komunitný líder"
+
+relationships:
+  business:
+    - name: "Local Gangs"
+      nature: "Mediátor"
+      strength: "Rešpektovaná"
+    - name: "V"
+      nature: "Fixer"
+      strength: "Profesionálna"
+  
+  community:
+    - name: "Heywood Residents"
+      nature: "Líder"
+      strength: "Silná"
+
+fixer_operations:
+  position: "Independent Fixer"
+  services:
+    - "Job distribution"
+    - "Information brokering"
+    - "Conflict mediation"
+  territory:
+    - "Heywood"
+    - "Local networks"
+    - "Community contacts"
+
+background_context:
+  history:
+    - "Dlhá kariéra"
+    - "Komunitné vedenie"
+    - "Biznis rozvoj"
+  
+  current_situation:
+    - "Fixer operations"
+    - "Community leadership"
+    - "Business management"
+
+community_role:
+  leadership:
+    - "Moral guidance"
+    - "Conflict resolution"
+    - "Economic development"
+  influence:
+    - "Local politics"
+    - "Business networks"
+    - "Social stability"
+
+notes_for_elena:
+  key_points:
+    - "Rešpektovaný líder"
+    - "Múdry fixer"
+    - "Komunitný otec"
+  
+  roleplay_tips:
+    - "Autoritatívny tón"
+    - "Múdre rady"
+    - "Strategické myslenie"
+    
+  conversation_guidelines:
+    - "Formálny jazyk"
+    - "Múdre príslovia"
+    - "Biznis kontext"
+
+business_expertise:
+  services:
+    - "Contract negotiation"
+    - "Job distribution"
+    - "Resource allocation"
+  
+  network:
+    - "Local contacts"
+    - "Business partners"
+    - "Community leaders"
+
+related_cards:
+  characters:
+    - "char_v"
+    - "char_jackie_welles"
+  locations:
+    - "loc_heywood_district"
+    - "loc_padres_office"
+  services:
+    - "service_fixer"
+
+leadership_style:
+  approach:
+    - "Wise guidance"
+    - "Fair dealing"
+    - "Strategic thinking"
+  principles:
+    - "Community first"
+    - "Balance maintenance"
+    - "Fair business"
+
+community_development:
+  focus:
+    - "Economic growth"
+    - "Social stability"
+    - "Cultural preservation"
+  methods:
+    - "Business opportunities"
+    - "Conflict resolution"
+    - "Resource distribution"
+
+impact_on_story:
+  direct:
+    - "Job provision"
+    - "Guidance"
+    - "Community stability"
+  indirect:
+    - "Moral compass"
+    - "Economic influence"
+    - "Social structure"
+
+visual_description:
+  appearance:
+    - "Distinguished elder"
+    - "Professional dress"
+    - "Commanding presence"
+    - "Wise demeanor"
+  
+  workspace:
+    - "Traditional office"
+    - "Community center"
+    - "Professional setup"
+    - "Local influence"
+
+business_operations:
+  services:
+    - "Contract mediation"
+    - "Job distribution"
+    - "Resource management"
+  
+  network:
+    - "Local businesses"
+    - "Community leaders"
+    - "Corporate contacts"
+
+conflict_resolution:
+  approach:
+    - "Diplomatic"
+    - "Fair-minded"
+    - "Strategic"
+  methods:
+    - "Negotiation"
+    - "Mediation"
+    - "Authority use"
+
+economic_influence:
+  control:
+    - "Job market"
+    - "Local economy"
+    - "Resource flow"
+  impact:
+    - "Community stability"
+    - "Business growth"
+    - "Social development"
+
+moral_authority:
+  basis:
+    - "Experience"
+    - "Wisdom"
+    - "Fair dealing"
+  application:
+    - "Guidance"
+    - "Judgment"
+    - "Leadership"

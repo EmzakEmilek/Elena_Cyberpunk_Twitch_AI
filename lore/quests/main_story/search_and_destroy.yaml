@@ -1,0 +1,152 @@
+type: "quest"
+title: "Search and Destroy"
+category: "main_story"
+
+summary: "Takemura a V investigate Arasaka conspiracy deeper. Quest reveals corpo internal politics a sets up crucial alliance s Hanako Arasaka against Yorinobu."
+
+key_points:
+  - "Arasaka internal conspiracy investigation"
+  - "Takemura-V partnership deepening"
+  - "Evidence gathering against Yorinobu"
+  - "Corpo politics revelation"
+  - "Hanako Arasaka contact setup"
+  - "Trust building with former enemy"
+
+story_context:
+  act: "Act 2"
+  position: "Corpo conspiracy investigation"
+  importance: "Sets up Devil ending path"
+
+characters:
+  - "V (protagonist)"
+  - "Goro Takemura"
+  - "Hanako Arasaka"
+  - "Yorinobu Arasaka (antagonist)"
+  - "Anders Hellman (scientist)"
+  - "Arasaka security operatives"
+
+investigation_phases:
+  evidence_gathering:
+    - "Security footage analysis"
+    - "Witness testimonies"
+    - "Corporate document theft"
+    - "Digital forensics"
+  
+  conspiracy_uncovering:
+    - "Yorinobu's true motives"
+    - "Saburo's murder proof"
+    - "Succession plot revelation"
+    - "Corporate power struggle"
+  
+  alliance_building:
+    - "Takemura trust development"
+    - "Hanako contact establishment"
+    - "Mutual benefit recognition"
+    - "Common enemy identification"
+
+takemura_relationship:
+  initial_distrust:
+    - "Former enemy status"
+    - "Corpo loyalty questions"
+    - "Personal grudges"
+    - "Survival necessity"
+  
+  growing_respect:
+    - "Shared goals recognition"
+    - "Professional competence"
+    - "Personal honor code"
+    - "Mutual dependence"
+
+corpo_politics:
+  arasaka_family_dynamics:
+    - "Saburo's traditional values"
+    - "Yorinobu's rebellion"
+    - "Hanako's loyalty"
+    - "Corporate empire stakes"
+  
+  power_struggle:
+    - "Succession battle"
+    - "Board politics"
+    - "International implications"
+    - "Economic consequences"
+
+choices:
+  investigation_approach:
+    description: "Metóda gathering evidence"
+    options:
+      - "Stealth infiltration"
+      - "Hacking approach"
+      - "Social manipulation"
+      - "Direct confrontation"
+    consequences: "Rôzne evidence quality a risks"
+
+objectives:
+  - "Investigate Arasaka conspiracy"
+  - "Gather evidence against Yorinobu"
+  - "Build alliance s Takemura"
+  - "Contact Hanako Arasaka"
+  - "Survive corpo retaliation"
+  - "Plan next moves"
+
+hanako_connection:
+  first_contact:
+    - "Carefully orchestrated meeting"
+    - "Mutual interest recognition"
+    - "Trust establishment"
+    - "Future cooperation planning"
+  
+  offer_evaluation:
+    - "V's condition treatment"
+    - "Yorinobu opposition"
+    - "Family honor restoration"
+    - "Corporate stability"
+
+themes:
+  - "Enemy becomes ally"
+  - "Corporate corruption"
+  - "Family loyalty vs justice"
+  - "Survival through cooperation"
+
+emotional_moments:
+  - "Takemura's honor conflict"
+  - "V's corpo distrust"
+  - "Hanako's family pain"
+  - "Shared danger bonding"
+
+investigation_targets:
+  key_evidence:
+    - "Saburo murder footage"
+    - "Biochip conspiracy docs"
+    - "Corporate communications"
+    - "Financial transactions"
+  
+  witness_protection:
+    - "Key informants"
+    - "Security staff"
+    - "Corporate insiders"
+    - "Technical experts"
+
+related:
+  - "playing_for_time"
+  - "gimme_danger"
+  - "goro_takemura"
+  - "hanako_arasaka"
+  - "yorinobu_arasaka"
+  - "arasaka_conspiracy"
+
+elena_notes:
+  talking_points:
+    - "Takemura character development"
+    - "Corpo politics complexity"
+    - "Investigation thriller elements"
+    - "Alliance building necessity"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Kľúčové pre Devil ending path"
+    - "Shows corpo internal conflicts"
+    - "V's strategic thinking"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

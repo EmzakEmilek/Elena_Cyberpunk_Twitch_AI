@@ -1,0 +1,78 @@
+﻿type: "technology"
+title: "Security Systems"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ security and protection technologies in Night City"
+  
+name: Security Systems
+type: technology
+description: pokroÄŤilĂ˝ security and protection technologies in Night City
+details: |
+  Security systems encompass various technologies used to chrĂˇniĹĄ assets, information, and individuals.
+
+  System Types:
+  - Physical Security
+    * Access control
+    * Surveillance
+    * Automated defense
+    * Intrusion detection
+  - Digital Security
+    * Cybersecurity
+    * Data protection
+    * Network defense
+    * Identity verification
+
+  Components:
+  - Hardware
+    * Security cameras
+    * Sensor networks
+    * Defense turrets
+    * Barrier systems
+  - Software
+    * AI monitoring
+    * Threat analysis
+    * Response protocols
+    * Access management
+
+  Protection Levels:
+  - Basic Security
+    * Standard monitoring
+    * Access control
+    * Alarm systems
+    * Basic encryption
+  - pokroÄŤilĂ˝ Systems
+    * AI integration
+    * Neural scanning
+    * Automated response
+    * Military grade
+
+importance: Essential protection technology
+common_locations:
+  - Corporate facilities
+  - Government buildings
+  - Private residences
+  - Critical infrastructure
+relationships:
+  - NET Architecture
+  - Surveillance Tech
+  - Communication Networks
+  - KorporĂˇtna bezpeÄŤnosĹĄ
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

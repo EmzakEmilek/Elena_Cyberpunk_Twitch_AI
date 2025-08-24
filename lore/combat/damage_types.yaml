@@ -1,0 +1,169 @@
+﻿type: "technology"
+title: ""
+category: "combat_mechanics"
+technology_id: ""
+
+content:
+  summary: ""
+  
+type: combat
+title: "Damage Types"
+category: "combat_mechanics"
+combat_id: "combat_damage_types"
+
+content:
+  summary: "Systém typov poškodenia v Night City, ktorý ovplyvňuje účinnosť zbraní proti rôznym typom obrany."
+  
+  damage_categories:
+    physical:
+      name: "Fyzické poškodenie"
+      description: "Základný typ poškodenia spôsobený kinetickou energiou"
+      sources:
+        - "Strelné zbrane"
+        - "Nože a mečy"
+        - "Údery a kopance"
+        - "Explozie"
+      effectiveness:
+        - "Účinné proti nechráneným cieľom"
+        - "Znížené proti pancierom"
+        - "Blokované by bunkermi"
+    
+    thermal:
+      name: "Termálne poškodenie"
+      description: "Poškodenie spôsobené extrémnymi teplotami"
+      sources:
+        - "Plameňomety"
+        - "Laserové zbrane"
+        - "Zapálené objekty"
+        - "Chemické látky"
+      effectiveness:
+        - "Prenikne cez niektoré panciere"
+        - "Spôsobuje burning efekt"
+        - "Účinné proti organickým cieľom"
+    
+    chemical:
+      name: "Chemické poškodenie"
+      description: "Toxické látky a korozívne chemikálie"
+      sources:
+        - "Plynové granáty"
+        - "Toxické zbrane"
+        - "Kyseliny"
+        - "Poison efekty"
+      effectiveness:
+        - "Obchádza fyzickú obranu"
+        - "Účinné proti organickým tkanivám"
+        - "Môže spôsobiť DOT (Damage Over Time)"
+    
+    electrical:
+      name: "Elektrické poškodenie"
+      description: "Vysokonapäťové výboje a EMP efekty"
+      sources:
+        - "Taser zbrane"
+        - "EMP granáty"
+        - "Elektrické pasce"
+        - "Kybernetické zbrane"
+      effectiveness:
+        - "Extrémne účinné proti kybernetike"
+        - "Môže vypnúť elektroniku"
+        - "Spôsobuje stunning efekt"
+
+  armor_interactions:
+    armor_types:
+      clothing:
+        protection: "Minimálna"
+        effective_against: "Len drobné poranenia"
+      
+      light_armor:
+        protection: "Nízka až stredná"
+        effective_against: "Fyzické poškodenie - malé kalibry"
+      
+      heavy_armor:
+        protection: "Vysoká"
+        effective_against: "Väčšina fyzických útokov"
+      
+      subdermal_armor:
+        protection: "Integrovaná ochrana"
+        effective_against: "Všetky typy poškodenia čiastočne"
+
+  special_mechanics:
+    penetration:
+      description: "Schopnosť prejsť cez pancier"
+      factors:
+        - "Typ munície"
+        - "Sila zbrane"
+        - "Kvalita panciera"
+        - "Uhol dopadu"
+    
+    critical_hits:
+      description: "Zvýšené poškodenie pri presných zásahoch"
+      multipliers:
+        - "Head shots: 2-3x damage"
+        - "Weak points: 1.5-2x damage"
+        - "Surprise attacks: 1.5x damage"
+    
+    status_effects:
+      burning:
+        duration: "3-5 sekúnd"
+        effect: "Kontinuálne thermálne poškodenie"
+      
+      bleeding:
+        duration: "5-10 sekúnd"
+        effect: "Kontinuálne fyzické poškodenie"
+      
+      poisoned:
+        duration: "10-15 sekúnd"
+        effect: "Kontinuálne chemické poškodenie"
+      
+      stunned:
+        duration: "2-4 sekundy"
+        effect: "Nemožnosť pohybu a akcií"
+
+technical_metadata:
+  complexity: "Stredná"
+  importance: "Základná mechanika"
+  player_impact: "Vysoká"
+  balance_factor: "Kľúčová pre gameplay"
+
+related_cards:
+  combat:
+    - "combat_armor_system"
+    - "combat_weapon_types"
+    - "combat_cyberware_combat"
+  technology:
+    - "tech_weapons"
+    - "tech_cyberware"
+    - "tech_armor_systems"
+
+notes_for_elena:
+  key_points:
+    - "Rôzne typy poškodenia majú rôznu účinnosť"
+    - "Dôležité je zladiť zbrane s typom nepriateľa"
+    - "Armor systém ovplyvňuje efektivitu útokov"
+  
+  conversation_guidelines:
+    - "Vysvetliť výhody rôznych typov munície"
+    - "Diskutovať o pancieroch a ich slabinách"
+    - "Spomenúť status efekty a ich taktické využitie"
+  
+  roleplay_aspects:
+    - "Termálne zbrane sú efektívne v closed spaces"
+    - "Elektrické zbrane sú smrteľné pre heavy cyborgs"
+    - "Chemické zbrane sú považované za 'dirty fighting'"
+    - "Fyzické zbrane sú najpopulárnejšie na ulici"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

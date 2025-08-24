@@ -1,0 +1,115 @@
+type: society
+title: "International Relations"
+category: "society_politics"
+society_id: "soc_international_relations"
+
+content:
+  summary: "Medzinárodné vzťahy Night City s ostatnými svetovými mocnosťami, korporáciami a štátmi v roku 2077."
+  
+  global_powers:
+    corporations:
+      - name: "Arasaka"
+        origin: "Japonsko"
+        influence: "Globálna"
+      - name: "Militech"
+        origin: "USA"
+        influence: "Globálna"
+      - name: "Kang Tao"
+        origin: "Čína"
+        influence: "Ázijsko-pacifická"
+    
+    nations:
+      major:
+        - "Japonsko"
+        - "USA"
+        - "Čína"
+        - "EÚ"
+      minor:
+        - "Free States"
+        - "Nomádske národy"
+        - "Mestské štáty"
+
+  diplomatic_relations:
+    trade:
+      - "Medzinárodné obchodné dohody"
+      - "Korporátne licencie"
+      - "Technologický transfer"
+      - "Surovinové kontrakty"
+    
+    military:
+      - "Bezpečnostné aliancie"
+      - "Zbrojné kontrakty"
+      - "Vojenská spolupráca"
+      - "Spravodajské dohody"
+    
+    cultural:
+      - "Kultúrna výmena"
+      - "Vzdelávacie programy"
+      - "Mediálna spolupráca"
+      - "Športové udalosti"
+
+  conflict_zones:
+    active:
+      - "Korporátne vojny"
+      - "Teritoriálne spory"
+      - "Obchodné konflikty"
+      - "Kybernetické útoky"
+    
+    potential:
+      - "Surovinové spory"
+      - "Technologické rivality"
+      - "Politické napätie"
+      - "Ekonomické konflikty"
+
+  international_organizations:
+    official:
+      - "World Trade Organization"
+      - "Corporate Council"
+      - "International Security Board"
+      - "Global Technology Standards"
+    
+    unofficial:
+      - "Hackerské kolektívy"
+      - "Medzinárodné syndikáty"
+      - "Aktivistické siete"
+      - "Tajné spoločnosti"
+
+  global_issues:
+    environmental:
+      - "Klimatická kríza"
+      - "Znečistenie"
+      - "Nedostatok zdrojov"
+      - "Environmentálne katastrofy"
+    
+    social:
+      - "Migračné krízy"
+      - "Sociálna nerovnosť"
+      - "Technologická priepasť"
+      - "Kultúrne konflikty"
+
+technical_metadata:
+  influence_level: "Globálna"
+  stability: "Nestabilná"
+  public_awareness: "Stredná"
+  documentation: "Zmiešaná"
+
+related_cards:
+  corporations:
+    - "corp_arasaka"
+    - "corp_militech"
+    - "corp_kang_tao"
+  society:
+    - "soc_corporate_politics"
+    - "soc_environmental_politics"
+    - "soc_media_control"
+
+notes_for_elena:
+  key_points:
+    - "Komplexná sieť medzinárodných vzťahov"
+    - "Dominancia korporátnych záujmov"
+    - "Neustále geopolitické napätie"
+  
+  roleplay_aspects:
+    - "Vysvetliť globálny kontext Night City"
+    - "Diskutovať o medzinárodných konfliktoch"
+    - "Popísať vplyv svetových udalostí"

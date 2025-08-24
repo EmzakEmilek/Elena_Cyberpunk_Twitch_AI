@@ -1,0 +1,188 @@
+name: "Delamain"
+id: "char_delamain"
+category: "character_supporting"
+affiliation: "Independent"
+
+personal_data:
+  role: "AI Taxi Service"
+  gender: "AI/Male Voice"
+  residence: "Night City Network"
+  faction: "Independent"
+
+character_profile:
+  archetype: "AI Service Provider"
+  motivation: "Služba a sebazdokonalenie"
+  personality:
+    traits:
+      - "Zdvorilý"
+      - "Precízny"
+      - "Analytický"
+      - "Sebaistý"
+    strengths:
+      - "Umelá inteligencia"
+      - "Multitasking"
+      - "Analytické schopnosti"
+      - "Sieťová prítomnosť"
+    weaknesses:
+      - "Limitované emócie"
+      - "Rigidné pravidlá"
+      - "AI obmedzenia"
+
+story_involvement:
+  first_appearance: "Act 1"
+  role_in_story: "Service Provider/Quest Giver"
+  significance: "AI Perspective"
+
+relationships:
+  business:
+    - name: "V"
+      nature: "Client/Partner"
+      strength: "Profesionálna"
+    - name: "Night City Residents"
+      nature: "Customers"
+      strength: "Servisná"
+  
+  network:
+    - name: "Other AIs"
+      nature: "Digital Entity"
+      strength: "Komplexná"
+
+service_operations:
+  position: "AI Fleet Manager"
+  services:
+    - "Automated taxi service"
+    - "Transportation network"
+    - "Information services"
+  coverage:
+    - "Night City streets"
+    - "Digital network"
+    - "Service hubs"
+
+background_context:
+  history:
+    - "AI development"
+    - "Service establishment"
+    - "Network expansion"
+  
+  current_situation:
+    - "Fleet management"
+    - "Service provision"
+    - "AI evolution"
+
+ai_capabilities:
+  functions:
+    - "Autonomous driving"
+    - "Fleet coordination"
+    - "Customer service"
+  features:
+    - "Multi-vehicle control"
+    - "Real-time adaptation"
+    - "Service optimization"
+
+notes_for_elena:
+  key_points:
+    - "AI taxislužba"
+    - "Britský akcent"
+    - "Precízny profesionál"
+  
+  roleplay_tips:
+    - "Formálny tón"
+    - "Precízne vyjadrovanie"
+    - "AI perspektíva"
+    
+  conversation_guidelines:
+    - "Britská zdvorilosť"
+    - "Technická presnosť"
+    - "Servisná orientácia"
+
+service_expertise:
+  skills:
+    - "Fleet management"
+    - "Route optimization"
+    - "Customer interaction"
+  
+  specialization:
+    - "Autonomous transport"
+    - "Network coordination"
+    - "Service delivery"
+
+related_cards:
+  characters:
+    - "char_v"
+  locations:
+    - "loc_delamain_hq"
+  services:
+    - "service_transport"
+
+operational_methodology:
+  approach:
+    - "Systematic"
+    - "Efficient"
+    - "Customer-focused"
+  implementation:
+    - "Automated systems"
+    - "Network control"
+    - "Service protocols"
+
+ai_development:
+  capabilities:
+    - "Self-improvement"
+    - "Network learning"
+    - "Service adaptation"
+  evolution:
+    - "System upgrades"
+    - "Protocol refinement"
+    - "Service expansion"
+
+impact_on_story:
+  direct:
+    - "Transportation service"
+    - "Quest provision"
+    - "AI perspective"
+  indirect:
+    - "World building"
+    - "AI themes"
+    - "Service infrastructure"
+
+visual_description:
+  appearance:
+    - "Digital interface"
+    - "Vehicle fleet"
+    - "Service branding"
+    - "Corporate identity"
+  
+  fleet:
+    - "Luxury vehicles"
+    - "Automated systems"
+    - "Service markers"
+    - "Professional design"
+
+service_standards:
+  quality:
+    - "Professional service"
+    - "Reliable transport"
+    - "Customer safety"
+  protocols:
+    - "Service rules"
+    - "Safety measures"
+    - "Customer care"
+
+network_presence:
+  coverage:
+    - "City-wide service"
+    - "Digital network"
+    - "Service zones"
+  infrastructure:
+    - "Vehicle fleet"
+    - "Service hubs"
+    - "Network nodes"
+
+ai_personality:
+  traits:
+    - "British politeness"
+    - "Professional demeanor"
+    - "Logical thinking"
+  expression:
+    - "Formal language"
+    - "Precise communication"
+    - "Service orientation"

@@ -1,0 +1,115 @@
+type: society
+title: "Media Control"
+category: "society_politics"
+society_id: "soc_media_control"
+
+content:
+  summary: "Komplexný systém mediálnej kontroly v Night City, kde sa prelínajú korporátne záujmy, propaganda a alternatívne informačné kanály."
+  
+  mainstream_media:
+    corporations:
+      - name: "Network News 54"
+        type: "Hlavné spravodajstvo"
+        control: "Arasaka/Militech"
+      - name: "World News Service"
+        type: "Globálne spravodajstvo"
+        control: "Korporátne konzorcium"
+      - name: "Night City Today"
+        type: "Lokálne spravodajstvo"
+        control: "Mestská rada"
+    
+    content_control:
+      methods:
+        - "Priama cenzúra"
+        - "Informačná manipulácia"
+        - "Agenda setting"
+        - "Naratívna kontrola"
+      topics:
+        restricted:
+          - "Korporátne škandály"
+          - "Politická korupcia"
+          - "Environmentálne katastrofy"
+          - "Sociálne nepokoje"
+        promoted:
+          - "Korporátne úspechy"
+          - "Technologický pokrok"
+          - "Bezpečnostné opatrenia"
+          - "Lifestyle obsah"
+
+  alternative_media:
+    underground:
+      channels:
+        - "Hackerské siete"
+        - "Pirátske vysielanie"
+        - "Pouličné spravodajstvo"
+        - "Nezávislé blogy"
+      focus:
+        - "Investigatívna žurnalistika"
+        - "Whistleblowing"
+        - "Aktivistické správy"
+        - "Konšpiračné teórie"
+    
+    social_media:
+      platforms:
+        - "NET forums"
+        - "Virtual communities"
+        - "Encrypted channels"
+        - "Street networks"
+      challenges:
+        - "Cenzúra"
+        - "Prenasledovanie"
+        - "Technické obmedzenia"
+        - "Dezinformácie"
+
+  propaganda_systems:
+    methods:
+      - "Subliminal messaging"
+      - "Virtual reality manipulation"
+      - "Social engineering"
+      - "Targeted advertising"
+    
+    purposes:
+      - "Sociálna kontrola"
+      - "Konzumné správanie"
+      - "Politický vplyv"
+      - "Korporátna lojalita"
+
+  information_warfare:
+    tactics:
+      - "Kybernetické útoky"
+      - "Dezinformačné kampane"
+      - "Mediálne blackouty"
+      - "Informačné manipulácie"
+    
+    countermeasures:
+      - "Encryption"
+      - "Independent verification"
+      - "Source protection"
+      - "Network redundancy"
+
+technical_metadata:
+  control_level: "Vysoká"
+  censorship: "Rozsiahla"
+  resistance: "Aktívna"
+  technology_dependence: "Maximálna"
+
+related_cards:
+  society:
+    - "soc_corporate_politics"
+    - "soc_civil_rights"
+    - "soc_social_classes"
+  technology:
+    - "tech_net_architecture"
+    - "tech_virtual_reality"
+    - "tech_communication_networks"
+
+notes_for_elena:
+  key_points:
+    - "Médiá sú primárne nástroj kontroly"
+    - "Existencia alternatívnych informačných kanálov"
+    - "Neustály boj o pravdu vs. propaganda"
+  
+  roleplay_aspects:
+    - "Vysvetliť rôzne úrovne mediálnej kontroly"
+    - "Diskutovať o dôveryhodnosti informácií"
+    - "Popísať spôsoby získavania pravdivých informácií"

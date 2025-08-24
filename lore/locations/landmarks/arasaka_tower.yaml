@@ -1,0 +1,146 @@
+﻿type: "character"
+title: ""
+category: "location_landmark"
+character_id: ""
+
+content:
+  summary: ""
+  
+title: "Arasaka Tower"
+category: "location_landmark"
+location_id: "loc_arasaka_tower"
+content:
+  summary: "Dominantná výšková budova v centre Night City, symbol moci Arasaka Corporation. Centrála korporátnych operácií a miesto mnohých kľúčových udalostí."
+  
+  physical_description:
+    architecture:
+      style: "Neo-militaristický japonský"
+      height: "Najvyššia budova v Night City"
+      notable_features:
+        - "Pristávacia plocha pre AV"
+        - "Vonkajšie LED displeje"
+        - "Masívne logo Arasaka"
+        - "Vrstvená bezpečnostná štruktúra"
+    
+    layout:
+      floors:
+        - name: "Lobby"
+          security: "Vysoká"
+          access: "Verejné"
+          features: ["Recepcia", "Bezpečnostné brány", "Obchody"]
+        
+        - name: "Korporátne poschodia"
+          security: "Extrémna"
+          access: "Len oprávnení"
+          features: ["Kancelárie", "Konferenčné miestnosti"]
+        
+        - name: "Výskumné laboratóriá"
+          security: "Maximálna"
+          access: "Prísne limitované"
+          features: ["R&D labs", "bezpeÄŤnĂ˝ servers"]
+        
+        - name: "Saburo kancelária"
+          security: "Absolútna"
+          access: "Len najvyššie vedenie"
+          features: ["Súkromný výťah", "Japonská záhrada"]
+
+  security_systems:
+    physical:
+      - "Ozbrojené hliadky"
+      - "Kontrolné body"
+      - "Biometrické skenery"
+      - "Pancierové bariéry"
+    
+    digital:
+      - "ICE ochrana"
+      - "Sieťové firewally"
+      - "Surveillance AI"
+      - "Netrunner tímy"
+    
+    personnel:
+      - "Arasaka Security"
+      - "Cyberpsycho jednotky"
+      - "Špeciálne zásahové tímy"
+
+  historical_events:
+    - event: "2023 Nuclear Detonation"
+      description: "Zničenie pôvodnej veže počas 4. Korporátnej vojny"
+      impact: "Kompletná rekonštrukcia"
+    
+    - event: "2077 Saburo smrť"
+      description: "Vražda CEO Saburo Arasaku"
+      impact: "Kritická zmena vedenia korporácie"
+
+  story_significance:
+    main_story:
+      - "Corpo life path začiatok"
+      - "The Heist quest"
+      - "Koniec hry lokácia"
+    
+    side_content:
+      - "Korporátne infiltrácie"
+      - "Corpo-war pamätníky"
+      - "Ghost of Night City leg."
+
+  current_status:
+    security_level: "Maximálna"
+    public_access: "Limitované"
+    operational_status: "Plne funkčná"
+    significance: "Centrum moci Arasaka"
+
+  nearby_locations:
+    - "City Center Plaza"
+    - "Corporate Plaza"
+    - "Downtown metro"
+    - "Corpo residential blocks"
+
+technical_metadata:
+  loading_zone: "City Center"
+  fast_travel: true
+  interior_areas: "Multiple"
+  respawning_enemies: false
+
+related_cards:
+  characters:
+    - "char_saburo_arasaka"
+    - "char_yorinobu_arasaka"
+    - "char_hanako_arasaka"
+  factions:
+    - "faction_arasaka"
+    - "faction_militech"
+  quests:
+    - "quest_the_heist"
+    - "quest_nocturne"
+
+notes_for_elena:
+  key_points:
+    - "Symbol korporátnej moci v Night City"
+    - "Miesto mnohých kľúčových udalostí"
+    - "Extrémne zabezpečená lokácia"
+  
+  conversation_guidelines:
+    - "Zdôrazňovať monumentálnosť a nepreniknuteľnosť"
+    - "Spomenúť historický význam"
+    - "Prepojiť s relevantnými questami"
+    
+  lore_emphasis:
+    - "Historické udalosti (2023)"
+    - "Korporátna kultúra"
+    - "Bezpečnostné systémy"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

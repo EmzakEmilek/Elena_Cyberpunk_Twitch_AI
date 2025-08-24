@@ -1,0 +1,66 @@
+﻿type: "economy"
+title: "Experimental Cyberware"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Cutting-edge and experimental cybernetic technologies"
+  
+name: Experimental Cyberware
+type: Cyberware
+description: Cutting-edge and experimental cybernetic technologies
+details: |
+  Experimental Cyberware represents the bleeding edge of cybernetic enhancement technology.
+
+  Development Areas:
+  - Neural integration
+  - Biological fusion
+  - Quantum processing
+  - Nano-enhancement
+
+  Risk Factors:
+  - System instability
+  - Integration issues
+  - Unknown effects
+  - Long-term impacts
+
+  Research Focus:
+  - Performance limits
+  - New capabilities
+  - System integration
+  - Safety protocols
+
+  Testing Phases:
+  - Laboratory trials
+  - Controlled testing
+  - Field evaluation
+  - Long-term studies
+
+importance: Future of Cyberware technology
+common_locations:
+  - Research facilities
+  - Corporate labs
+  - Military testing
+  - Black market labs
+relationships:
+  - Cyberware Manufacturers
+  - Medical Technology
+  - Neural Implants
+  - Biotechnology Advances
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

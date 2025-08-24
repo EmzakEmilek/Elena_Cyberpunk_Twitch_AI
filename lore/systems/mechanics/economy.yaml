@@ -1,0 +1,213 @@
+﻿type: "economy"
+title: "Economy System"
+category: "system_mechanics"
+economy_id: "system_mechanics_economy"
+
+content:
+  summary: ""
+  
+name: "Economy System"
+id: "system_mechanics_economy"
+category: "system_mechanics"
+
+system_overview:
+  description: "Systém pre ekonomiku, obchod a manažment peňazí"
+  core_aspects:
+    - "Currency management"
+    - "Trading system"
+    - "Price dynamics"
+    - "Economic balance"
+
+core_features:
+  currency:
+    - "Money types"
+    - "Value system"
+    - "Exchange rates"
+    - "Storage methods"
+  
+  trading:
+    - "Buy items"
+    - "Sell goods"
+    - "Price nego"
+    - "Stock system"
+
+mechanics_details:
+  currency_types:
+    main: "Eurodollars (€$)"
+    special: "Corp credits"
+    black_market: "Street cred"
+    
+  value_ranges:
+    beĹľnĂ˝: "1-100 €$"
+    vzĂˇcny: "101-1000 €$"
+    epic: "1001-10000 €$"
+    legendary: "10000+ €$"
+
+functionality:
+  basic_actions:
+    - "Buy item"
+    - "Sell item"
+    - "Check price"
+    - "Count money"
+  
+  advanced_features:
+    - "Haggle price"
+    - "Bulk trade"
+    - "Special deals"
+    - "Black market"
+
+notes_for_elena:
+  key_points:
+    - "Money value"
+    - "Trade rules"
+    - "Price range"
+  
+  roleplay_tips:
+    - "Value talk"
+    - "Trade style"
+    - "Price chat"
+    
+  conversation_guidelines:
+    - "Money terms"
+    - "Trade words"
+    - "Value speak"
+
+interface_elements:
+  displays:
+    - "Money count"
+    - "Price list"
+    - "Trade menu"
+    - "Value bar"
+  
+  controls:
+    - "Buy button"
+    - "Sell option"
+    - "Haggle tool"
+    - "Sort price"
+
+trading_system:
+  actions:
+    - "Quick buy"
+    - "Mass sell"
+    - "Price check"
+    - "Deal make"
+  
+  features:
+    - "Auto trade"
+    - "Best price"
+    - "Deal find"
+
+price_dynamics:
+  factors:
+    - "Base value"
+    - "Shop type"
+    - "Time day"
+    - "Rep level"
+  
+  changes:
+    - "Time shift"
+    - "Stock level"
+    - "Rep effect"
+
+vendor_system:
+  types:
+    - "Shop keep"
+    - "Street vendor"
+    - "Corp store"
+    - "Black market"
+  
+  features:
+    - "Stock type"
+    - "Price range"
+    - "Deal chance"
+
+related_systems:
+  skills:
+    - "system_skill_cool"
+    - "system_skill_street_cred"
+  mechanics:
+    - "system_mechanics_inventory"
+    - "system_mechanics_reputation"
+
+balance_considerations:
+  income:
+    - "Quest pay"
+    - "Loot sell"
+    - "Job wage"
+  
+  expenses:
+    - "Item cost"
+    - "Service fee"
+    - "upgradovaĹĄ price"
+
+market_dynamics:
+  supply:
+    - "Stock level"
+    - "Item vzĂˇcny"
+    - "Time effect"
+  
+  demand:
+    - "Need level"
+    - "Buy rate"
+    - "Use amount"
+
+special_features:
+  black_market:
+    - "skrytĂ˝ shop"
+    - "vzĂˇcny goods"
+    - "High risk"
+  
+  corp_stores:
+    - "High price"
+    - "Good stock"
+    - "Safe trade"
+
+reputation_effects:
+  positive:
+    - "Better price"
+    - "More stock"
+    - "Deal chance"
+  
+  negative:
+    - "High cost"
+    - "Low stock"
+    - "No deals"
+
+haggle_system:
+  factors:
+    - "Cool stat"
+    - "Rep level"
+    - "Item type"
+  
+  results:
+    - "Price drop"
+    - "Deal make"
+    - "Rep gain"
+
+inventory_integration:
+  features:
+    - "Space check"
+    - "Mass trade"
+    - "Auto sort"
+  
+  limits:
+    - "Weight max"
+    - "Space cap"
+    - "Stack limit"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

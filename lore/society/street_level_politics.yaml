@@ -1,0 +1,109 @@
+type: society
+title: "Street Level Politics"
+category: "society_politics"
+society_id: "soc_street_politics"
+
+content:
+  summary: "Pouličná politika Night City - komplexná sieť gangov, komunitných lídrov a lokálnych mocenských štruktúr."
+  
+  power_dynamics:
+    local_leaders:
+      - "Gangoví šéfovia"
+      - "Komunitní aktivisti"
+      - "Pouliční kazatelia"
+      - "Fixeri"
+    
+    territories:
+      - "Gangové teritóriá"
+      - "Komunitné zóny"
+      - "Neutrálne oblasti"
+      - "Sporné územia"
+    
+    influence_types:
+      - "Fyzická kontrola"
+      - "Ekonomický vplyv"
+      - "Sociálny status"
+      - "Informačná sieť"
+
+  street_organizations:
+    gangs:
+      major:
+        - "Maelstrom"
+        - "Animals"
+        - "Tyger Claws"
+        - "Valentinos"
+      minor:
+        - "Lokálne gangy"
+        - "Pouličné bandy"
+        - "Dočasné aliancie"
+    
+    community:
+      - "Susedské hliadky"
+      - "Komunitné centrá"
+      - "Svojpomocné skupiny"
+      - "Pouličné milície"
+
+  decision_making:
+    methods:
+      - "Silové riešenia"
+      - "Vyjednávanie"
+      - "Teritoriálne dohody"
+      - "Ekonomické stimuly"
+    
+    factors:
+      - "Reputácia"
+      - "Ozbrojená sila"
+      - "Ekonomické zdroje"
+      - "Sociálne väzby"
+
+  street_economy:
+    legal:
+      - "Malé podniky"
+      - "Pouličný predaj"
+      - "Služby komunite"
+    
+    illegal:
+      - "Čierny trh"
+      - "Pašovanie"
+      - "Ochranné poplatky"
+      - "Nelegálne služby"
+
+  social_impact:
+    positive:
+      - "Komunitná súdržnosť"
+      - "Vzájomná pomoc"
+      - "Lokálna ochrana"
+      - "Ekonomické príležitosti"
+    
+    negative:
+      - "Násilie"
+      - "Kriminalita"
+      - "Sociálne napätie"
+      - "Ekonomická nestabilita"
+
+technical_metadata:
+  influence_level: "Lokálna"
+  stability: "Volatilná"
+  public_awareness: "Vysoká"
+  documentation: "Neformálna"
+
+related_cards:
+  factions:
+    - "faction_maelstrom"
+    - "faction_animals"
+    - "faction_tyger_claws"
+  society:
+    - "soc_social_classes"
+    - "soc_law_enforcement"
+    - "soc_civil_rights"
+
+notes_for_elena:
+  key_points:
+    - "Ulica má vlastné pravidlá a hierarchiu"
+    - "Komplexné vzťahy medzi gangmi a komunitami"
+    - "Každodenný boj o prežitie a moc"
+  
+  roleplay_aspects:
+    - "Zdôrazniť rozdiel medzi korporátnou a pouličnou politikou"
+    - "Vysvetliť dôležitosť reputácie a rešpektu"
+    - "Popísať každodenný život v uliciach"

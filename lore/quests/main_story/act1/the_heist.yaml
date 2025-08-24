@@ -1,0 +1,205 @@
+﻿type: "character"
+title: "The Heist"
+category: "quest_main_story"
+character_id: ""
+
+content:
+  summary: ""
+  
+name: "The Heist"
+category: "quest_main_story"
+quest_id: "mq_the_heist"
+act: 1
+content:
+  summary: "V a Jackie sa pokúšajú ukradnúť experimentálny biochip z Konpeki Plaza. Misia sa dramaticky skomplikuje príchodom Saburo Arasaku."
+  
+  key_events:
+    - "Infiltrácia Konpeki Plaza"
+    - "Krádež biochipu"
+    - "Saburo Arasaka vražda"
+    - "Jackie smrť"
+    - "Útek z hotela"
+  
+  critical_choices:
+    - choice: "Jackie's telo"
+      options:
+        - "Poslať k Viktoru"
+        - "Poslať rodine"
+        - "Nechať Delamain"
+      impact: "Ovplyvní vzťahy a možnosti"
+    
+    - choice: "Spôsob úniku"
+      options:
+        - "Stealth"
+        - "Combat"
+      impact: "Ovplyvní obtiažnosť úteku"
+
+  progression_flags:
+    story_phase: "act1_finale"
+    changes_world_state: true
+    leads_to: "Playing for Time"
+    unlocks_content: ["Act 2", "Johnny Silverhand", "Relic storyline"]
+
+  objectives:
+    - id: "enter_konpeki"
+      title: "Infiltrovať Konpeki Plaza"
+      optional: false
+      stealth_available: true
+    
+    - id: "find_relic"
+      title: "Nájsť Relic"
+      optional: false
+      stealth_available: true
+    
+    - id: "escape_hotel"
+      title: "Utiecť z hotela"
+      optional: false
+      stealth_available: true
+    
+    - id: "meet_dexter"
+      title: "Stretnúť Dextera"
+      optional: false
+      stealth_available: false
+
+combat_scenarios:
+  hotel_escape:
+    enemies:
+      - type: "Arasaka Security"
+        count: "Multiple"
+      - type: "Elite Guards"
+        count: "Few"
+    environment:
+      - "Hotel chodby"
+      - "Service areas"
+      - "Garage"
+    tactics:
+      - "Stealth možný"
+      - "Cover-based combat"
+      - "Multiple paths"
+
+key_characters:
+  jackie_welles:
+    role: "Partner"
+    interaction: "Tragic death"
+    outcome_influence: "High"
+    
+  yorinobu_arasaka:
+    role: "Target/Murderer"
+    interaction: "Indirect"
+    outcome_influence: "High"
+    
+  saburo_arasaka:
+    role: "Unexpected visitor"
+    interaction: "Victim"
+    outcome_influence: "Critical"
+
+location_data:
+  primary: "Konpeki Plaza"
+  district: "Watson"
+  environment: "Luxury hotel"
+  key_areas:
+    - "Lobby"
+    - "Hotel room"
+    - "Penthouse"
+    - "Service areas"
+    - "Garage"
+
+quest_items:
+  - name: "Relic"
+    type: "Experimental biochip"
+    importance: "Critical"
+    
+  - name: "Access cards"
+    type: "Security items"
+    importance: "Required"
+    
+  - name: "Jackie's pendant"
+    type: "Personal item"
+    importance: "Emotional"
+
+rewards:
+  experience: 3000
+  street_cred: 1500
+  story_impact:
+    - "Jackie's death"
+    - "Relic implantation"
+    - "Arasaka conflict escalation"
+
+technical_metadata:
+  average_duration: "60-90 minutes"
+  replayability: "Low"
+  choice_complexity: "Medium"
+  bugs_to_note: "None critical"
+
+related_cards:
+  characters:
+    - "char_jackie_welles"
+    - "char_yorinobu_arasaka"
+    - "char_saburo_arasaka"
+    - "char_dexter_deshawn"
+  locations:
+    - "loc_konpeki_plaza"
+  factions:
+    - "faction_arasaka"
+  items:
+    - "tech_relic"
+
+notes_for_elena:
+  key_points:
+    - "Zlomový moment v príbehu"
+    - "Emotívna smrť Jackie"
+    - "Začiatok Relic zápletky"
+  
+  roleplay_tips:
+    - "Budovať napätie postupne"
+    - "Emotívne spracovať Jackie smrť"
+    - "Zdôrazniť závažnosť situácie"
+    
+  conversation_guidelines:
+    - "Rešpektovať vážnosť situácie"
+    - "Citlivo pristupovať k smrti"
+    - "Naznačiť budúce komplikácie"
+
+mission_phases:
+  preparation:
+    - "Briefing s Dexom"
+    - "Vstup do hotela"
+    - "Infiltrácia"
+  
+  execution:
+    - "Hľadanie Relicu"
+    - "Svedok vraždy"
+    - "Komplikácie"
+  
+  escape:
+    - "Útek s Relikom"
+    - "Jackie zranenie"
+    - "Final confrontation"
+
+consequences:
+  immediate:
+    - "Jackie smrť"
+    - "Relic implantácia"
+    - "Dexter zrada"
+  
+  long_term:
+    - "Johnny Silverhand"
+    - "Arasaka conflict"
+    - "V's smrteľná diagnóza"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

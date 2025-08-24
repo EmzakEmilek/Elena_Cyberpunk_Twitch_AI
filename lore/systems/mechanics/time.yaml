@@ -1,0 +1,212 @@
+﻿type: "technology"
+title: "Time System"
+category: "system_mechanics"
+technology_id: "system_mechanics_time"
+
+content:
+  summary: ""
+  
+name: "Time System"
+id: "system_mechanics_time"
+category: "system_mechanics"
+
+system_overview:
+  description: "Systém pre manažment času a denného cyklu v Night City"
+  core_aspects:
+    - "Day cycle"
+    - "Time flow"
+    - "Event timing"
+    - "Schedule system"
+
+core_features:
+  time:
+    - "Day/night"
+    - "Weather change"
+    - "NPC schedule"
+    - "Event time"
+  
+  cycle:
+    - "24h system"
+    - "Activity times"
+    - "Time speed"
+    - "Skip option"
+
+mechanics_details:
+  day_cycle:
+    periods:
+      - "Morning (6-12)"
+      - "Afternoon (12-18)"
+      - "Evening (18-24)"
+      - "Night (0-6)"
+    effects:
+      - "NPC presence"
+      - "Shop hours"
+      - "Quest access"
+
+functionality:
+  basic_actions:
+    - "Check time"
+    - "Wait time"
+    - "Skip ahead"
+    - "Track events"
+  
+  advanced_features:
+    - "Schedule view"
+    - "Event alert"
+    - "Time impact"
+    - "Day track"
+
+notes_for_elena:
+  key_points:
+    - "Time impact"
+    - "Day cycle"
+    - "Event timing"
+  
+  roleplay_tips:
+    - "Time talk"
+    - "Day note"
+    - "Schedule chat"
+    
+  conversation_guidelines:
+    - "Time terms"
+    - "Day words"
+    - "Event speech"
+
+interface_elements:
+  displays:
+    - "Clock show"
+    - "Day cycle"
+    - "Weather now"
+    - "Event list"
+  
+  controls:
+    - "Time skip"
+    - "Wait option"
+    - "Speed change"
+    - "View schedule"
+
+time_flow:
+  rates:
+    - "Real time"
+    - "Fast forward"
+    - "Skip ahead"
+  
+  controls:
+    - "Speed up"
+    - "Slow down"
+    - "Quick skip"
+
+weather_system:
+  types:
+    - "Clear sky"
+    - "Rain fall"
+    - "Acid rain"
+    - "Smog cover"
+  
+  effects:
+    - "Vision change"
+    - "Combat mod"
+    - "Travel speed"
+
+schedule_system:
+  elements:
+    - "NPC routine"
+    - "Shop hours"
+    - "Event time"
+  
+  tracking:
+    - "Time check"
+    - "Alert set"
+    - "Miss note"
+
+related_systems:
+  mechanics:
+    - "system_mechanics_quest"
+    - "system_mechanics_dialogue"
+  activities:
+    - "Shop trade"
+    - "NPC talk"
+    - "Quest do"
+
+event_timing:
+  types:
+    - "Time window"
+    - "Dead line"
+    - "Start time"
+  
+  impacts:
+    - "Access change"
+    - "NPC move"
+    - "Quest state"
+
+npc_schedules:
+  activities:
+    - "Work time"
+    - "Rest period"
+    - "Travel moment"
+  
+  locations:
+    - "Home spot"
+    - "Work place"
+    - "Rest area"
+
+time_restrictions:
+  access:
+    - "Shop hours"
+    - "Quest time"
+    - "Area lock"
+  
+  effects:
+    - "No entry"
+    - "Wait need"
+    - "Skip option"
+
+day_night_cycle:
+  effects:
+    - "Light level"
+    - "NPC count"
+    - "Risk rate"
+  
+  activities:
+    - "Day jobs"
+    - "Night work"
+    - "All time"
+
+time_management:
+  tools:
+    - "Quick wait"
+    - "Skip ahead"
+    - "Track time"
+  
+  features:
+    - "Auto pause"
+    - "Time alert"
+    - "Skip warn"
+
+weather_impact:
+  visibility:
+    - "View range"
+    - "Light effect"
+    - "Scan power"
+  
+  gameplay:
+    - "Move speed"
+    - "Combat mod"
+    - "Sneak change"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

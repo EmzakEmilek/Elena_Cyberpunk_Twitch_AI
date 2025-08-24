@@ -1,0 +1,157 @@
+type: "quest"
+title: "Last Login"
+category: "main_story"
+
+summary: "V tracks down Evelyn Parker's digital trail a discovers her connections k Netwatch a Voodooboys. Deep dive into cyber-detective work a net architecture."
+
+key_points:
+  - "Digital investigation začiatok"
+  - "Netwatch vs Voodooboys conflict"
+  - "Evelyn's cyber footprint"
+  - "Net architecture exploration"
+  - "Corporate cyber-warfare"
+  - "Information broker networks"
+
+story_context:
+  act: "Act 1"
+  position: "Cyber investigation"
+  importance: "Reveals net politics"
+
+characters:
+  - "V (protagonist)"
+  - "Evelyn Parker (digital traces)"
+  - "Netwatch agents"
+  - "Voodooboys netrunners"
+  - "Information brokers"
+
+investigation_phases:
+  digital_forensics:
+    - "Login history analysis"
+    - "Connection tracking"
+    - "Data pattern recognition"
+    - "Network map creation"
+  
+  faction_discovery:
+    - "Netwatch involvement"
+    - "Voodooboys operations"
+    - "Corporate cyber-ops"
+    - "Independent hackers"
+
+netwatch_introduction:
+  organization_overview:
+    - "International cyber-police"
+    - "AI threat monitoring"
+    - "Blackwall maintenance"
+    - "Corporate backing"
+  
+  capabilities:
+    - "Advanced ICE systems"
+    - "AI detection tools"
+    - "Network surveillance"
+    - "Cyber-criminal tracking"
+
+voodooboys_operations:
+  hacker_collective:
+    - "Anti-corporate stance"
+    - "AI communication attempts"
+    - "Blackwall exploration"
+    - "Information liberation"
+  
+  methods:
+    - "Guerrilla cyber-warfare"
+    - "Corporate system infiltration"
+    - "Data theft operations"
+    - "Network disruption"
+
+choices:
+  investigation_approach:
+    description: "Metóda cyber investigation"
+    options:
+      - "Deep dive - thorough but risky"
+      - "Surface scan - quick but limited"
+      - "Social engineering - human contacts"
+      - "Technical analysis - pure data"
+    consequences: "Rôzne information quality a detection risk"
+
+cyber_architecture:
+  net_structure:
+    - "Corporate subnets"
+    - "Public access points"
+    - "Black market nodes"
+    - "Secure communication channels"
+  
+  security_layers:
+    - "Authentication systems"
+    - "Encryption protocols"
+    - "ICE defensive programs"
+    - "Trace prevention"
+
+objectives:
+  - "Track Evelyn's digital activity"
+  - "Identify her contacts"
+  - "Map network connections"
+  - "Understand faction conflicts"
+  - "Gather intelligence"
+
+evelyn_digital_profile:
+  online_behavior:
+    - "Secure communication preferences"
+    - "Network usage patterns"
+    - "Contact frequency"
+    - "Data access history"
+  
+  hidden_activities:
+    - "Encrypted transactions"
+    - "Anonymous communications"
+    - "Corporate data access"
+    - "Underground connections"
+
+themes:
+  - "Digital privacy vs surveillance"
+  - "Information as currency"
+  - "Cyber-warfare reality"
+  - "Corporate vs independent hackers"
+
+technical_elements:
+  hacking_mechanics:
+    - "System infiltration"
+    - "Data extraction"
+    - "Trace evasion"
+    - "Security bypassing"
+  
+  network_navigation:
+    - "Node connection"
+    - "Data stream following"
+    - "Security assessment"
+    - "Route optimization"
+
+faction_conflict:
+  ideological_differences:
+    - "Netwatch: order and control"
+    - "Voodooboys: freedom and chaos"
+    - "Corporate: profit and power"
+    - "Independents: survival and opportunity"
+
+related:
+  - "evelyn_parker"
+  - "netwatch_faction"
+  - "voodooboys_faction"
+  - "cyber_investigation"
+  - "net_architecture"
+
+elena_notes:
+  talking_points:
+    - "Cyber-detective gameplay"
+    - "Faction conflict introduction"
+    - "Net politics complexity"
+    - "Digital investigation methods"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Technical quest mechanics"
+    - "Faction relationships establishment"
+    - "Cyber-world exploration"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

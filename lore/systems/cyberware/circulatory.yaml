@@ -1,0 +1,223 @@
+﻿type: "technology"
+title: "Circulatory System"
+category: "system_cyberware"
+technology_id: "system_cyberware_circulatory"
+
+content:
+  summary: ""
+  
+name: "Circulatory System"
+id: "system_cyberware_circulatory"
+category: "system_cyberware"
+
+system_overview:
+  description: "Kybernetické vylepšenia pre obehový systém"
+  core_functions:
+    - "Blood enhancement"
+    - "Healing boost"
+    - "Oxygen efficiency"
+    - "Toxin filtering"
+
+core_features:
+  circulation:
+    - "Blood flow control"
+    - "Oxygen delivery"
+    - "Nutrient distribution"
+    - "Waste removal"
+  
+  healing:
+    - "Wound closure"
+    - "Tissue repair"
+    - "Blood clotting"
+    - "Recovery boost"
+
+enhancement_capabilities:
+  primary:
+    - "Health regeneration"
+    - "Stamina boost"
+    - "Toxin resistance"
+    - "Healing speed"
+  
+  secondary:
+    - "Performance enhancement"
+    - "Endurance zvĂ˝ĹˇiĹĄ"
+    - "Recovery efficiency"
+    - "System protection"
+
+hardware_components:
+  circulatory:
+    - "Blood pumps"
+    - "Filter systems"
+    - "Enhancement units"
+  
+  control:
+    - "Flow regulators"
+    - "Pressure controls"
+    - "Monitoring systems"
+
+notes_for_elena:
+  key_points:
+    - "Health enhancement"
+    - "Recovery boost"
+    - "System protection"
+  
+  roleplay_tips:
+    - "Medical knowledge"
+    - "Health awareness"
+    - "Recovery focus"
+    
+  conversation_guidelines:
+    - "Medical terms"
+    - "Health aspects"
+    - "Recovery details"
+
+performance_levels:
+  basic:
+    description: "Standard enhancement"
+    capabilities: "Basic health"
+    limitations: "Normal recovery"
+  
+  pokroÄŤilĂ˝:
+    description: "Enhanced systems"
+    capabilities: "Better recovery"
+    limitations: "Higher demands"
+  
+  premium:
+    description: "Maximum capability"
+    capabilities: "Peak health"
+    limitations: "High maintenance"
+
+integration_aspects:
+  biological:
+    - "Blood integration"
+    - "Tissue interface"
+    - "System adaptation"
+  
+  technical:
+    - "Flow control"
+    - "Monitoring"
+    - "Regulation"
+
+skill_benefits:
+  health:
+    - "Faster healing"
+    - "Better endurance"
+    - "Higher resistance"
+  
+  performance:
+    - "Stamina boost"
+    - "Recovery speed"
+    - "Toxin handling"
+
+gameplay_impact:
+  advantages:
+    - "Health boost"
+    - "Fast recovery"
+    - "Poison resistance"
+  
+  limitations:
+    - "Power needs"
+    - "Maintenance"
+    - "System strain"
+
+ui_elements:
+  status:
+    - "Health levels"
+    - "Recovery rate"
+    - "System state"
+  
+  control:
+    - "Flow settings"
+    - "Recovery mode"
+    - "Protection level"
+
+related_systems:
+  Cyberware:
+    - "system_cyberware_operating_system"
+    - "system_cyberware_nervous"
+  combat:
+    - "system_combat_melee"
+    - "system_combat_gunplay"
+
+maintenance_requirements:
+  routine:
+    - "Filter cleaning"
+    - "Flow check"
+    - "System calibration"
+  
+  emergency:
+    - "Damage control"
+    - "System flush"
+    - "Emergency repair"
+
+health_features:
+  regeneration:
+    - "Wound healing"
+    - "Tissue repair"
+    - "Recovery boost"
+  
+  protection:
+    - "Toxin filtering"
+    - "Infection defense"
+    - "System immunity"
+
+performance_enhancement:
+  stamina:
+    - "Endurance boost"
+    - "Energy efficiency"
+    - "Recovery rate"
+  
+  resistance:
+    - "Toxin handling"
+    - "Stress management"
+    - "System protection"
+
+safety_features:
+  monitoring:
+    - "Health tracking"
+    - "System alerts"
+    - "Warning system"
+  
+  protection:
+    - "Flow control"
+    - "Pressure regulation"
+    - "Emergency modes"
+
+upgrade_options:
+  hardware:
+    - "Pump upgradovaĹĄ"
+    - "Filter vylepĹˇiĹĄ"
+    - "System boost"
+  
+  software:
+    - "Control updates"
+    - "Efficiency patches"
+    - "New features"
+
+healing_optimization:
+  methods:
+    - "Flow control"
+    - "Resource direction"
+    - "System balance"
+  
+  factors:
+    - "Damage type"
+    - "System state"
+    - "Resource levels"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

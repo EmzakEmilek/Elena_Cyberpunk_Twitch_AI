@@ -1,0 +1,223 @@
+﻿type: "technology"
+title: "Skeleton System"
+category: "system_cyberware"
+technology_id: "system_cyberware_skeleton"
+
+content:
+  summary: ""
+  
+name: "Skeleton System"
+id: "system_cyberware_skeleton"
+category: "system_cyberware"
+
+system_overview:
+  description: "Kybernetické vylepšenia pre kostrovú sústavu"
+  core_functions:
+    - "Strength enhancement"
+    - "Durability boost"
+    - "Weight reduction"
+    - "Impact resistance"
+
+core_features:
+  structure:
+    - "Enhanced bones"
+    - "Reinforced joints"
+    - "Support systems"
+    - "Impact absorption"
+  
+  enhancement:
+    - "Strength boost"
+    - "Weight control"
+    - "Movement support"
+    - "Protection"
+
+enhancement_capabilities:
+  primary:
+    - "Physical strength"
+    - "Impact resistance"
+    - "Weight management"
+    - "Movement support"
+  
+  secondary:
+    - "Joint enhancement"
+    - "Balance control"
+    - "Posture support"
+    - "Recovery features"
+
+hardware_components:
+  structural:
+    - "Reinforced bones"
+    - "Enhanced joints"
+    - "Support frame"
+  
+  systems:
+    - "Control unit"
+    - "Power system"
+    - "Shock absorbers"
+
+notes_for_elena:
+  key_points:
+    - "Structural enhancement"
+    - "Physical capabilities"
+    - "Protection features"
+  
+  roleplay_tips:
+    - "Enhanced strength"
+    - "Physical durability"
+    - "Movement control"
+    
+  conversation_guidelines:
+    - "Medical terms"
+    - "Technical aspects"
+    - "Physical capabilities"
+
+performance_levels:
+  basic:
+    description: "Standard enhancement"
+    capabilities: "Basic strength"
+    limitations: "Limited power"
+  
+  pokroÄŤilĂ˝:
+    description: "Enhanced systems"
+    capabilities: "Better features"
+    limitations: "Higher demands"
+  
+  premium:
+    description: "Maximum capability"
+    capabilities: "Full power"
+    limitations: "High maintenance"
+
+integration_aspects:
+  biological:
+    - "Bone interface"
+    - "Joint connection"
+    - "Tissue integration"
+  
+  technical:
+    - "System control"
+    - "Power management"
+    - "Load distribution"
+
+skill_benefits:
+  physical:
+    - "Strength zvĂ˝ĹˇiĹĄ"
+    - "Better durability"
+    - "Impact resistance"
+  
+  movement:
+    - "Enhanced mobility"
+    - "Better balance"
+    - "Joint support"
+
+gameplay_impact:
+  advantages:
+    - "Higher strength"
+    - "Better protection"
+    - "Enhanced mobility"
+  
+  limitations:
+    - "Power consumption"
+    - "Weight balance"
+    - "System strain"
+
+ui_elements:
+  status:
+    - "Structure integrity"
+    - "Power levels"
+    - "Load status"
+  
+  control:
+    - "Strength settings"
+    - "Support modes"
+    - "Protection level"
+
+related_systems:
+  Cyberware:
+    - "system_cyberware_operating_system"
+    - "system_cyberware_legs"
+  combat:
+    - "system_combat_melee"
+    - "system_combat_gunplay"
+
+maintenance_requirements:
+  routine:
+    - "Structure check"
+    - "Joint testing"
+    - "System calibration"
+  
+  emergency:
+    - "Damage repair"
+    - "System reset"
+    - "Quick fixes"
+
+strength_features:
+  enhancement:
+    - "Lifting power"
+    - "Strike force"
+    - "Push strength"
+  
+  control:
+    - "Power regulation"
+    - "Force distribution"
+    - "Impact management"
+
+protection_capabilities:
+  impact:
+    - "Shock absorption"
+    - "Force distribution"
+    - "Damage reduction"
+  
+  support:
+    - "Joint protection"
+    - "Structure stability"
+    - "Load bearing"
+
+safety_features:
+  protection:
+    - "Overload prevention"
+    - "Strain management"
+    - "Emergency modes"
+  
+  recovery:
+    - "Backup systems"
+    - "Quick repair"
+    - "Emergency support"
+
+upgrade_options:
+  hardware:
+    - "Strength boost"
+    - "Protection vylepĹˇiĹĄ"
+    - "Joint upgradovaĹĄ"
+  
+  software:
+    - "Control updates"
+    - "Efficiency patches"
+    - "New features"
+
+movement_optimization:
+  methods:
+    - "Load balancing"
+    - "Force distribution"
+    - "Energy efficiency"
+  
+  factors:
+    - "Weight distribution"
+    - "Movement patterns"
+    - "Impact forces"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

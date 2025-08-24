@@ -1,0 +1,160 @@
+﻿type: "character"
+title: ""
+category: "quest_main_story_lifepath"
+character_id: ""
+
+content:
+  summary: ""
+  
+title: "The Corpo"
+category: "quest_main_story_lifepath"
+quest_id: "mq_lifepath_corpo"
+act: "prologue"
+content:
+  summary: "V ako kontrarozviedčík Arasaka Corporation je zapletený do vnútrokorporátneho konfliktu, ktorý vedie k jeho/jej pádu a strate všetkého."
+  
+  key_events:
+    - "Príprava akcie proti Abernathy"
+    - "Stretnutie s Jackie v jedálni"
+    - "Konfrontácia s kontrarozviedkou"
+    - "Strata implantov a pozície"
+    - "Záchrana Jackiem"
+  
+  critical_choices:
+    - choice: "Rozhovor s Arthruom Jenkisom"
+      options:
+        - "Lojálny prístup"
+        - "Skeptický prístup"
+      impact: "Ovplyvňuje len dialóg, bez dlhodobých následkov"
+  
+  progression_flags:
+    story_phase: "lifepath_intro"
+    changes_world_state: false
+    leads_to: "The PouliÄŤnĂ© dieĹĄa Convergence"
+    unlocks_content: ["Night City Main Story"]
+
+  objectives:
+    - id: "jenkins_meeting"
+      title: "Stretnúť sa s Jenkinsom"
+      optional: false
+      stealth_available: false
+      
+    - id: "meet_jackie"
+      title: "Obed s Jackiem"
+      optional: false
+      stealth_available: false
+      
+    - id: "survive_fall"
+      title: "Prežiť pád"
+      optional: false
+      stealth_available: false
+
+background_context:
+  corpo_life:
+    - "Život v Arasaka Counterintel"
+    - "Korporátna politika"
+    - "Vzťah s Jenkinsom"
+  
+  world_building:
+    - "Vnútorné fungovanie korporácií"
+    - "Korporátne vojny"
+    - "Counterintel operácie"
+
+location_data:
+  primary: "Arasaka Tower"
+  secondary: "Night City Downtown"
+  environment: "Corporate environment"
+
+characters:
+  arthur_jenkins:
+    role: "Nadriadený, zradca"
+    importance: "Significant for intro"
+    relationship: "Boss, manipulátor"
+    
+  jackie_welles:
+    role: "Dlhoročný priateľ"
+    first_meeting: false
+    relationship: "Established friendship"
+    
+  abernathy:
+    role: "Cieľ operácie"
+    importance: "Catalyst for fall"
+
+quest_items:
+  - name: "Korporátne implants"
+    type: "Strata vybavenia"
+    importance: "Symbolizuje pád"
+    
+  - name: "Datapad"
+    type: "Intel"
+    importance: "Quest item"
+
+dialogue_highlights:
+  - speaker: "Jenkins"
+    quote: "You're not smarter than me, V. Just more expendable."
+    significance: "Ukazuje korporátnu mentalitu"
+    
+  - speaker: "Jackie"
+    quote: "C'mon, let's get you out of here."
+    significance: "Záchrana a priateľstvo"
+
+rewards:
+  experience: 500
+  street_cred: 0
+  items:
+    - "Starting Corpo clothing"
+    - "Basic weapons"
+  relationships:
+    - character: "Jackie Welles"
+      type: "Potvrdenie priateľstva"
+
+technical_metadata:
+  average_duration: "20-30 minutes"
+  replayability: false
+  missable_content: false
+  bugs_to_note: "None critical"
+
+related_cards:
+  characters:
+    - "char_jackie_welles"
+    - "char_arthur_jenkins"
+    - "char_abernathy"
+  locations:
+    - "loc_arasaka_tower"
+    - "loc_city_center"
+  factions:
+    - "faction_arasaka"
+    - "faction_militech"
+
+notes_for_elena:
+  key_points:
+    - "Toto je jedna z troch možných začiatočných ciest"
+    - "Formuje základný charakter V ako bývalého korpa"
+    - "Jackie je tu už existujúci priateľ"
+  
+  roleplay_tips:
+    - "V má znalosti o korporátnej politike"
+    - "Rozumie vysokej spoločnosti"
+    - "Má históriu v kontrarozviedke"
+    
+  conversation_guidelines:
+    - "Môže spomínať na život v Arasake"
+    - "Má znalosti o korporátnych intrigách"
+    - "Pozná fungovanie vysokej spoločnosti"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

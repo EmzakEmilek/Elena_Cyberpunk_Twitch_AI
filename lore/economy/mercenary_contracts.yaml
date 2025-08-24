@@ -1,0 +1,78 @@
+﻿type: "economy"
+title: "Mercenary Contracts"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Economic system of mercenary work and contracts in Night City"
+  
+name: Mercenary Contracts
+type: economy
+description: Economic system of mercenary work and contracts in Night City
+details: |
+  The mercenary contract system represents a significant part of Night City's informal economy.
+
+  Contract Types:
+  - Corporate Jobs
+    * Security detail
+    * Asset retrieval
+    * Corporate espionage
+    * Protection services
+  - Street Work
+    * Gang conflicts
+    * Personal protection
+    * Asset recovery
+    * Local security
+
+  Payment Structure:
+  - Standard Rates
+    * Hourly charges
+    * Job completion
+    * Risk premiums
+    * Equipment fees
+  - Special Terms
+    * Performance bonuses
+    * Hazard pay
+    * Equipment provision
+    * Medical coverage
+
+  Contract Elements:
+  - Risk assessment
+  - Equipment requirements
+  - Timeline specifics
+  - Payment terms
+
+  Market Features:
+  - Job availability
+  - Risk levels
+  - Payment reliability
+  - Reputation impact
+
+importance: Significant informal economy sector
+common_locations:
+  - Fixer offices
+  - Corporate zones
+  - Combat areas
+  - Street markets
+relationships:
+  - Street Level Economy
+  - Black Market Economics
+  - Corporate Trading
+  - Information Economy
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

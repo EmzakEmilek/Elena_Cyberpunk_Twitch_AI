@@ -1,0 +1,78 @@
+﻿type: "technology"
+title: "Mantis Blades"
+category: ""
+technology_id: ""
+
+content:
+  summary: "Retractable Cyberware blade weapons installed in the forearms"
+  
+name: Mantis Blades
+type: weapon_system
+description: Retractable Cyberware blade weapons installed in the forearms
+details: |
+  Mantis Blades are iconic Cyberware weapons that combine lethal efficiency with dramatic style, consisting of retractable blades installed directly into the user's forearms.
+
+  Technical Specifications:
+  - Retractable mechanism
+  - High-tensile blade material
+  - Neural-linked deployment
+  - Optional thermal upgrades
+  
+  Installation Requirements:
+  - Arm Cyberware compatibility
+  - Neural interface system
+  - Professional installation
+  - Medical certification
+
+  Combat Capabilities:
+  - Lightning-fast deployment
+  - Devastating close-range damage
+  - Armor penetration
+  - Stealth potential
+  
+  Variants:
+  - Standard steel
+  - Thermal-enhanced
+  - Poison-coated
+  - Titanium alloy
+
+  Advantages:
+  - Always available
+  - Concealed carry
+  - No ammunition needed
+  - Quick deployment
+
+  Disadvantages:
+  - Requires surgery
+  - Close range only
+  - Maintenance complexity
+  - High installation cost
+
+importance: Iconic Cyberware ZbraĹovĂ˝ systĂ©m
+common_locations:
+  - Ripperdoc clinics
+  - KorporĂˇtna bezpeÄŤnosĹĄ
+  - Street mercenaries
+  - Special forces
+relationships:
+  - Combat Implants
+  - Melee Weapons overview
+  - Weapon Maintenance
+  - Cyberware Systems
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

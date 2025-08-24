@@ -1,0 +1,159 @@
+type: "quest"
+title: "Life During Wartime"
+category: "main_story"
+
+summary: "V infiltrates Arasaka Parade na získanie access k Hanako Arasaka. High-stakes social infiltration v heavily secured corporate event."
+
+key_points:
+  - "Arasaka Parade infiltration"
+  - "High-society corporate event"
+  - "Hanako Arasaka contact"
+  - "Social stealth gameplay"
+  - "Corporate culture immersion"
+  - "Public vs private personas"
+
+story_context:
+  act: "Act 2"
+  position: "Hanako first contact"
+  importance: "Establishes Devil ending possibility"
+
+characters:
+  - "V (protagonist)"
+  - "Hanako Arasaka"
+  - "Goro Takemura (coordinator)"
+  - "Corporate dignitaries"
+  - "Arasaka security"
+  - "High-society attendees"
+
+infiltration_challenges:
+  social_requirements:
+    - "Appropriate attire"
+    - "Corporate etiquette"
+    - "High-society behavior"
+    - "Cultural knowledge"
+  
+  security_measures:
+    - "Guest list verification"
+    - "Biometric scanning"
+    - "Security checkpoints"
+    - "Surveillance systems"
+  
+  crowd_navigation:
+    - "Corporate networking"
+    - "Conversation skills"
+    - "Attention avoidance"
+    - "Target location"
+
+hanako_meeting:
+  initial_contact:
+    - "Careful approach"
+    - "Mutual recognition"
+    - "Trust establishment"
+    - "Common interest identification"
+  
+  negotiation_points:
+    - "Evidence presentation"
+    - "Alliance proposal"
+    - "Mutual benefits"
+    - "Risk assessment"
+
+choices:
+  infiltration_method:
+    description: "Approach k parade entry"
+    options:
+      - "Legitimate invitation - social connections"
+      - "Forged credentials - technical approach"
+      - "Staff impersonation - service entry"
+      - "Security bypassing - stealth entry"
+    consequences: "Rôzne difficulty levels a detection risks"
+
+corporate_culture:
+  high_society_dynamics:
+    - "Power displays"
+    - "Social hierarchies"
+    - "Networking importance"
+    - "Image maintenance"
+  
+  arasaka_propaganda:
+    - "Corporate messaging"
+    - "Family loyalty themes"
+    - "Tradition emphasis"
+    - "Future vision presentation"
+
+objectives:
+  - "Infiltrovať Arasaka Parade"
+  - "Locate Hanako Arasaka"
+  - "Establish private contact"
+  - "Present evidence"
+  - "Negotiate alliance"
+  - "Escape detection"
+
+social_stealth:
+  blending_techniques:
+    - "Appropriate conversation"
+    - "Corporate small talk"
+    - "Status awareness"
+    - "Behavioral mimicry"
+  
+  detection_avoidance:
+    - "Security recognition"
+    - "Crowd movement"
+    - "Timing coordination"
+    - "Exit strategies"
+
+themes:
+  - "Public vs private identity"
+  - "Corporate power displays"
+  - "Social infiltration"
+  - "Class differences"
+
+hanako_character:
+  first_impression:
+    - "Dignified presence"
+    - "Corporate loyalty"
+    - "Family honor"
+    - "Strategic thinking"
+  
+  hidden_qualities:
+    - "Personal pain"
+    - "Justice desire"
+    - "Pragmatic approach"
+    - "Family complexity"
+
+event_atmosphere:
+  parade_elements:
+    - "Corporate spectacle"
+    - "Traditional ceremonies"
+    - "Technology showcase"
+    - "Family presentations"
+  
+  crowd_dynamics:
+    - "Corporate hierarchy"
+    - "Social networking"
+    - "Power positioning"
+    - "Image competition"
+
+related:
+  - "search_and_destroy"
+  - "gimme_danger"
+  - "hanako_arasaka"
+  - "goro_takemura"
+  - "arasaka_corporation"
+  - "corporate_culture"
+
+elena_notes:
+  talking_points:
+    - "Social infiltration gameplay"
+    - "Corporate culture exposure"
+    - "Hanako character introduction"
+    - "High-stakes networking"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Kľúčové pre Devil ending setup"
+    - "Shows V's adaptability"
+    - "Corporate world insight"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

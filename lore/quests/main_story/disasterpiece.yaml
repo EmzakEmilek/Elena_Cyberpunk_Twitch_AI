@@ -1,0 +1,103 @@
+type: "quest"
+title: "Disasterpiece"
+category: "main_story"
+
+summary: "V a Judy sa snažia zachrániť Evelyn Parker z rúk únosných gangov, ale príliš neskoro - Evelyn je v kritickom stave."
+
+key_points:
+  - "Záchranná akcia pre Evelyn Parker"
+  - "Konfrontácia s Scavengers gangom"
+  - "Objavenie Evelyn v terrible condition"
+  - "Judy's emocionálny breakdown"
+  - "Transport Evelyn do bezpečia"
+  - "Realizácia že Evelyn je psychicky zničená"
+
+story_context:
+  act: "Act 2"
+  position: "Climax Evelyn Parker storyline"
+  importance: "Emocionálne devastujúci moment"
+
+characters:
+  - "V (protagonist)"
+  - "Judy Alvarez"
+  - "Evelyn Parker (victim)"
+  - "Scavengers gang members"
+  - "Johnny Silverhand (angry commentary)"
+
+locations:
+  - "Scavenger hideout"
+  - "Industrial warehouse"
+  - "Judy's apartment"
+  - "Medical facilities"
+
+emotional_tone:
+  - "Desperate rescue mission"
+  - "Horror a violence"
+  - "Traumatic discovery"
+  - "Hopelessness a rage"
+
+combat_encounters:
+  scavenger_gang:
+    - "Cyberware thieves"
+    - "Brutal organ harvesters"
+    - "Heavily armed opponents"
+    - "Makeshift weapons"
+
+choices:
+  rescue_approach:
+    description: "Stratégia na rescue Evelyn"
+    options:
+      - "Stealth infiltration"
+      - "Direct assault"
+      - "Negotiation attempt"
+    consequences: "Rôzne combat scenarios"
+
+objectives:
+  - "Infiltrovať Scavenger hideout"
+  - "Eliminovať threats"
+  - "Nájsť Evelyn Parker"
+  - "Secure extraction route"
+  - "Transport Evelyn to safety"
+  - "Deal with aftermath"
+
+tragic_discoveries:
+  - "Evelyn underwent severe trauma"
+  - "Scavengers harvested her implants"
+  - "Psychological damage je irreversible"
+  - "Judy blames herself"
+
+themes:
+  - "Consequences of desperate choices"
+  - "Violence against vulnerable"
+  - "Friendship a loyalty"
+  - "Limits of rescue"
+
+aftermath:
+  - "Evelyn's condition je critical"
+  - "Judy's guilt a anger"
+  - "V realizes stakes of their situation"
+  - "Johnny shows rare compassion"
+
+related:
+  - "automatic_love"
+  - "the_space_in_between"
+  - "judy_alvarez"
+  - "evelyn_parker"
+  - "scavengers_gang"
+
+elena_notes:
+  talking_points:
+    - "Emotionally heavy quest"
+    - "Shows brutality of Night City"
+    - "Important pre Judy development"
+    - "Consequences of corpo games"
+  spoiler_level: "high"
+  conversation_context:
+    - "Trigger warning - trauma content"
+    - "Key moment pre understanding stakes"
+    - "Judy's character development"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

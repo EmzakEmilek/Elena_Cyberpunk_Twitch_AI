@@ -1,0 +1,188 @@
+type: "quest"
+title: "Boat Drinks"
+category: "romance"
+
+summary: "Kerry Eurodyne's romance quest. Yacht party a relationship exploration s themes of aging rockstar, past glory, a possibility of new connections."
+
+key_points:
+  - "Kerry romance opportunity"
+  - "Yacht party setting"
+  - "Music industry themes"
+  - "Aging rockstar struggles"
+  - "Past glory vs present"
+  - "New relationship possibility"
+
+story_context:
+  type: "Romance Quest"
+  position: "Kerry storyline branch"
+  importance: "Determines Kerry romantic relationship"
+
+characters:
+  - "V (protagonist - male only)"
+  - "Kerry Eurodyne"
+  - "Us Cracks (band members)"
+  - "Party guests"
+  - "Music industry figures"
+
+yacht_party_setting:
+  luxury_environment:
+    - "High-end yacht"
+    - "Night City bay"
+    - "Music industry party"
+    - "Elite atmosphere"
+  
+  symbolic_significance:
+    - "Escape from reality"
+    - "Past success display"
+    - "Current emptiness"
+    - "Connection seeking"
+
+kerry_character_exploration:
+  aging_rockstar_themes:
+    - "Past glory days"
+    - "Current relevance questions"
+    - "Identity crisis"
+    - "Legacy concerns"
+  
+  personal_struggles:
+    - "Loneliness despite fame"
+    - "Authentic connection seeking"
+    - "Age vs youth industry"
+    - "Johnny's shadow"
+
+relationship_development:
+  friendship_to_romance:
+    - "Mutual respect building"
+    - "Emotional vulnerability"
+    - "Personal connection"
+    - "Romantic possibility"
+  
+  age_difference_dynamics:
+    - "Experience vs youth"
+    - "Different life stages"
+    - "Mutual attraction"
+    - "Connection depth"
+
+choices:
+  romantic_interest:
+    description: "Response k Kerry's advances"
+    options:
+      - "Reciprocate interest - explore romance"
+      - "Friendship only - maintain boundaries"
+      - "Uncertain - need time to think"
+    consequences: "Determines romance path availability"
+
+music_industry_commentary:
+  corporate_control:
+    - "Artist exploitation"
+    - "Creative limitations"
+    - "Commercial pressures"
+    - "Authentic expression"
+  
+  aging_in_industry:
+    - "Relevance maintenance"
+    - "Youth obsession"
+    - "Legacy building"
+    - "New generation"
+
+objectives:
+  - "Attend yacht party"
+  - "Explore relationship s Kerry"
+  - "Navigate music industry politics"
+  - "Make romantic decisions"
+  - "Support Kerry's struggles"
+
+themes:
+  - "Aging and relevance"
+  - "Fame vs connection"
+  - "Past vs present"
+  - "Authentic relationships"
+
+emotional_complexity:
+  kerry_vulnerability:
+    - "Fear of irrelevance"
+    - "Loneliness admission"
+    - "Connection desire"
+    - "Trust development"
+  
+  v_perspective:
+    - "Age difference consideration"
+    - "Genuine interest evaluation"
+    - "Friendship vs romance"
+    - "Future possibility"
+
+romance_requirements:
+  prerequisite_conditions:
+    - "Male V character"
+    - "Complete Kerry questline"
+    - "Support his music career"
+    - "Build friendship first"
+  
+  relationship_indicators:
+    - "Positive dialogue choices"
+    - "Emotional support provided"
+    - "Mutual respect development"
+    - "Personal connection"
+
+party_dynamics:
+  industry_networking:
+    - "Music business politics"
+    - "Celebrity interactions"
+    - "Image maintenance"
+    - "Authentic moments"
+  
+  personal_moments:
+    - "Private conversations"
+    - "Vulnerability sharing"
+    - "Connection building"
+    - "Romantic tension"
+
+ending_implications:
+  romance_success:
+    - "Kerry as love interest"
+    - "Music world integration"
+    - "Age gap relationship"
+    - "Creative partnership"
+  
+  relationship_nature:
+    - "Mature partnership"
+    - "Mutual support"
+    - "Industry navigation"
+    - "Personal growth"
+
+samurai_connection:
+  johnny_influence:
+    - "Past band dynamics"
+    - "Legacy comparisons"
+    - "Current relevance"
+    - "Moving forward"
+  
+  creative_evolution:
+    - "New music direction"
+    - "Artistic growth"
+    - "Industry adaptation"
+    - "Personal expression"
+
+related:
+  - "kerry_eurodyne"
+  - "male_v_romance"
+  - "samurai_band"
+  - "music_industry"
+  - "aging_themes"
+
+elena_notes:
+  talking_points:
+    - "Kerry romance mechanics"
+    - "Age difference themes"
+    - "Music industry commentary"
+    - "Male V requirement"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Mature relationship themes"
+    - "Industry insider perspective"
+    - "Character growth focus"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

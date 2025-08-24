@@ -1,0 +1,74 @@
+﻿type: "economy"
+title: "Projectile Modifications"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Modifications and enhancements for weapon projectiles and ammunition"
+  
+name: Projectile Modifications
+type: weapon_system
+description: Modifications and enhancements for weapon projectiles and ammunition
+details: |
+  Projectile modifications encompass various technologies and techniques used to vylepĹˇiĹĄ ammunition performance and effectiveness.
+
+  Types of Modifications:
+  - Penetration Enhancers
+    * Armor-piercing cores
+    * High-velocity modifications
+    * Material composition changes
+  - Special Effects
+    * Explosive rounds
+    * Incendiary ammunition
+    * EMP charges
+  - Smart Systems
+    * Guidance chips
+    * Tracking modules
+    * Trajectory control
+
+  Implementation Methods:
+  - Factory modifications
+  - Aftermarket changes
+  - Custom loading
+  - Chemical treatment
+
+  Legal Status:
+  - Regulated modifications
+  - Restricted enhancements
+  - Banned variants
+  - Civilian-legal options
+
+  Performance Impact:
+  - Increased damage
+  - Better penetration
+  - Special effects
+  - Enhanced accuracy
+
+importance: Critical for weapon customization and effectiveness
+common_locations:
+  - Ammunition shops
+  - Weapon workshops
+  - Military suppliers
+  - Black market dealers
+relationships:
+  - Ammunition Types
+  - Weapon Customization
+  - Military-Grade Weapons
+  - Black Market Weapons
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

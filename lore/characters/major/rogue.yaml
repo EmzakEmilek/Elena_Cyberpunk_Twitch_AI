@@ -1,0 +1,214 @@
+﻿type: "character"
+title: "Rogue Amendiares"
+category: "character_major"
+character_id: "char_rogue"
+
+content:
+  summary: ""
+  
+name: "Rogue Amendiares"
+id: "char_rogue"
+category: "character_major"
+affiliation: "Independent/Afterlife"
+
+personal_data:
+  role: "Legendary Fixer/Afterlife Owner"
+  gender: "Female"
+  residence: "Night City"
+  faction: "Independent"
+
+character_profile:
+  archetype: "Queen of Fixers"
+  motivation: "Moc a kontrola"
+  personality:
+    traits:
+      - "Dominantná"
+      - "Pragmatická"
+      - "Skúsená"
+      - "Rešpektovaná"
+    strengths:
+      - "Strategické myslenie"
+      - "Sieť kontaktov"
+      - "Bojové skúsenosti"
+      - "Obchodný zmysel"
+    weaknesses:
+      - "Minulé traumy"
+      - "Osobné konflikty"
+      - "Emocionálne bariéry"
+
+story_involvement:
+  first_appearance: "Act 2"
+  role_in_story: "Major Power Player"
+  significance: "Key Character"
+
+relationships:
+  past:
+    - name: "Johnny Silverhand"
+      nature: "Ex-lover"
+      strength: "Komplikovaná"
+  
+  professional:
+    - name: "Mercenary Community"
+      nature: "Leader"
+      strength: "Rešpektovaná"
+    - name: "V"
+      nature: "Client/Protégé"
+      strength: "Mentorovská"
+
+business_operations:
+  position: "Afterlife Owner/Top Fixer"
+  responsibilities:
+    - "Contract distribution"
+    - "Resource management"
+    - "Network coordination"
+  influence:
+    - "Mercenary community"
+    - "Underground economy"
+    - "Information flow"
+
+background_context:
+  history:
+    - "Solo kariéra"
+    - "Fixer evolúcia"
+    - "Afterlife acquisition"
+  
+  current_situation:
+    - "Power consolidation"
+    - "Business management"
+    - "Legacy maintenance"
+
+power_position:
+  status:
+    - "Queen of Fixers"
+    - "Afterlife owner"
+    - "Underground leader"
+  control:
+    - "Contract flow"
+    - "Resource allocation"
+    - "Information access"
+
+notes_for_elena:
+  key_points:
+    - "Legendárna fixerka"
+    - "Afterlife queen"
+    - "Veterán ulíc"
+  
+  roleplay_tips:
+    - "Autoritatívny tón"
+    - "Pragmatický prístup"
+    - "Skúsené rady"
+    
+  conversation_guidelines:
+    - "Priama komunikácia"
+    - "Mocenské prejavy"
+    - "Historické odkazy"
+
+business_expertise:
+  skills:
+    - "Contract negotiation"
+    - "Resource management"
+    - "Network coordination"
+  
+  specialization:
+    - "High-stakes deals"
+    - "Elite contracts"
+    - "Resource allocation"
+
+related_cards:
+  characters:
+    - "char_johnny_silverhand"
+    - "char_v"
+  locations:
+    - "loc_afterlife"
+  services:
+    - "service_fixer"
+
+operational_methodology:
+  approach:
+    - "Professional efficiency"
+    - "Strategic planning"
+    - "Resource control"
+  execution:
+    - "Careful vetting"
+    - "Precise coordination"
+    - "Quality control"
+
+community_influence:
+  scope:
+    - "Mercenary community"
+    - "Underground economy"
+    - "Information networks"
+  methods:
+    - "Contract control"
+    - "Resource management"
+    - "Network leadership"
+
+impact_on_story:
+  direct:
+    - "Mission provision"
+    - "Resource access"
+    - "Story guidance"
+  indirect:
+    - "World context"
+    - "Power dynamics"
+    - "Historical perspective"
+
+visual_description:
+  appearance:
+    - "Confident presence"
+    - "Professional style"
+    - "Veteran bearing"
+    - "Authority aura"
+  
+  environment:
+    - "Afterlife control"
+    - "Power center"
+    - "Professional space"
+    - "Legend's domain"
+
+leadership_style:
+  approach:
+    - "Direct control"
+    - "Professional distance"
+    - "Strategic oversight"
+  methods:
+    - "Clear authority"
+    - "Resource control"
+    - "Network management"
+
+historical_significance:
+  past:
+    - "Solo legend"
+    - "Johnny's era"
+    - "Street history"
+  present:
+    - "Power consolidation"
+    - "Community leadership"
+    - "Legacy maintenance"
+
+business_management:
+  focus:
+    - "Contract quality"
+    - "Resource efficiency"
+    - "Network maintenance"
+  priorities:
+    - "Professional standards"
+    - "Community stability"
+    - "Power balance"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

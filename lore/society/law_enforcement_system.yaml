@@ -1,0 +1,107 @@
+type: society
+title: "Law Enforcement System"
+category: "society_politics"
+society_id: "soc_law_enforcement"
+
+content:
+  summary: "Komplexný systém presadzovania práva v Night City, zahŕňajúci NCPD, korporátne bezpečnostné sily a súkromné bezpečnostné agentúry."
+  
+  organizations:
+    ncpd:
+      divisions:
+        - "Hliadková služba"
+        - "Vyšetrovací odbor"
+        - "SWAT tímy"
+        - "Kyberkriminálna jednotka"
+      jurisdiction: "Verejné priestory"
+      funding: "Mestský rozpočet a korporátne dotácie"
+    
+    corporate_security:
+      - "Arasaka Security"
+      - "Militech Forces"
+      - "Kang Tao Protection"
+      - "Local Corp Security"
+    
+    private_agencies:
+      - "Súkromní detektívi"
+      - "Bezpečnostné firmy"
+      - "Žoldnierske skupiny"
+      - "Ochranné služby"
+
+  enforcement_methods:
+    surveillance:
+      - "Kamerové systémy"
+      - "Dronové hliadky"
+      - "NET monitoring"
+      - "Biometrické sledovanie"
+    
+    response:
+      - "Rýchle zásahové tímy"
+      - "Automatizované systémy"
+      - "Kybernetické jednotky"
+      - "Ťažká technika"
+    
+    investigation:
+      - "Forenzné tímy"
+      - "Dátová analýza"
+      - "Informátorské siete"
+      - "Undercover operácie"
+
+  jurisdiction_areas:
+    public:
+      - "Mestské ulice"
+      - "Verejné priestranstvá"
+      - "Dopravná infraštruktúra"
+      - "Obchodné zóny"
+    
+    corporate:
+      - "Korporátne budovy"
+      - "Súkromné priestory"
+      - "Výskumné zariadenia"
+      - "Výrobné komplexy"
+    
+    contested:
+      - "Gangové teritóriá"
+      - "Combat zóny"
+      - "Opustené štvrte"
+      - "Sporné oblasti"
+
+  challenges:
+    operational:
+      - "Nedostatok zdrojov"
+      - "Korupcia"
+      - "Jurisdikčné spory"
+      - "Technologické limity"
+    
+    social:
+      - "Nedôvera verejnosti"
+      - "Gangové vojny"
+      - "Korporátne zasahovanie"
+      - "Sociálne nepokoje"
+
+technical_metadata:
+  efficiency: "Variabilná"
+  corruption_level: "Vysoká"
+  public_trust: "Nízka"
+  resources: "Limitované"
+
+related_cards:
+  organizations:
+    - "org_ncpd"
+    - "corp_arasaka_security"
+    - "corp_militech_forces"
+  society:
+    - "soc_street_level_politics"
+    - "soc_civil_rights"
+    - "soc_social_classes"
+
+notes_for_elena:
+  key_points:
+    - "Komplexný a často konfliktný systém"
+    - "Silný vplyv korporácií"
+    - "Vysoká miera korupcie"
+  
+  roleplay_aspects:
+    - "Vysvetliť rôzne úrovne policajnej práce"
+    - "Popísať každodenné výzvy"
+    - "Diskutovať o efektivite systému"

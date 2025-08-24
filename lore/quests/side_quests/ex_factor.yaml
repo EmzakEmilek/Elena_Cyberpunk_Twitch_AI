@@ -1,0 +1,164 @@
+type: "quest"
+title: "Ex-Factor"
+category: "side_quest"
+
+summary: "Judy a V investigate deeper into Evelyn's disappearance, discovering her connection k Maiko Maeda a corporate manipulation. Dark turn v investigation."
+
+key_points:
+  - "Maiko Maeda introduction"
+  - "Corporate manipulation discovery"
+  - "Evelyn's exploitation revealed"
+  - "Judy's anger intensification"
+  - "Power dynamics exploration"
+  - "Personal stakes rising"
+
+story_context:
+  type: "Romance/Friendship Chain"
+  position: "Investigation deepening"
+  importance: "Reveals Evelyn's fate"
+
+characters:
+  - "V (protagonist)"
+  - "Judy Alvarez"
+  - "Maiko Maeda (corpo manager)"
+  - "Hiromi Sato (corpo associate)"
+  - "Tom (Mox member)"
+  - "Evelyn Parker (victim)"
+
+maiko_maeda_introduction:
+  character_profile:
+    - "Corporate middle management"
+    - "Exploitation facilitator"
+    - "Power hungry individual"
+    - "Evelyn's handler"
+  
+  business_operations:
+    - "High-end client services"
+    - "Corporate entertainment"
+    - "Blackmail operations"
+    - "Information brokering"
+
+investigation_revelations:
+  evelyn_exploitation:
+    - "Corporate client abuse"
+    - "Blackmail scheme involvement"
+    - "Personal agency removal"
+    - "Psychological manipulation"
+  
+  maiko_role:
+    - "Exploitation enabler"
+    - "Corporate connection"
+    - "Profit prioritization"
+    - "Worker manipulation"
+
+choices:
+  confrontation_style:
+    description: "Ako confront Maiko"
+    options:
+      - "Aggressive confrontation - direct threats"
+      - "Diplomatic approach - negotiation"
+      - "Investigation focus - gather evidence"
+      - "Judy's lead - support her decisions"
+    consequences: "Affects information gathering a Judy relationship"
+
+judy_emotional_journey:
+  anger_development:
+    - "Friend's exploitation discovery"
+    - "System failure recognition"
+    - "Personal responsibility feelings"
+    - "Justice desire intensification"
+  
+  relationship_with_v:
+    - "Trust deepening"
+    - "Emotional vulnerability"
+    - "Shared mission"
+    - "Personal connection"
+
+corporate_exploitation_themes:
+  power_dynamics:
+    - "Corporate vs individual"
+    - "Economic coercion"
+    - "System enablement"
+    - "Victim blaming"
+  
+  sex_work_industry:
+    - "Worker protection absence"
+    - "Corporate control"
+    - "Personal agency denial"
+    - "Exploitation normalization"
+
+objectives:
+  - "Confront Maiko about Evelyn"
+  - "Gather information"
+  - "Support Judy emotionally"
+  - "Understand exploitation network"
+  - "Plan next steps"
+
+emotional_intensity:
+  judy_trauma:
+    - "Friend's suffering discovery"
+    - "System betrayal"
+    - "Helplessness feelings"
+    - "Revenge consideration"
+  
+  v_response:
+    - "Support providing"
+    - "Justice pursuit"
+    - "Relationship building"
+    - "Moral clarity"
+
+investigation_techniques:
+  information_gathering:
+    - "Corporate records analysis"
+    - "Personal interviews"
+    - "Digital forensics"
+    - "Network mapping"
+  
+  confrontation_methods:
+    - "Direct questioning"
+    - "Pressure application"
+    - "Evidence presentation"
+    - "Threat assessment"
+
+themes:
+  - "Corporate exploitation"
+  - "Friendship loyalty"
+  - "Justice vs revenge"
+  - "Power abuse consequences"
+
+network_expansion:
+  corporate_connections:
+    - "Client identification"
+    - "Money flow tracking"
+    - "Power structure mapping"
+    - "Exploitation network"
+  
+  victim_support:
+    - "Survivor assistance"
+    - "Protection provision"
+    - "Justice seeking"
+    - "Healing facilitation"
+
+related:
+  - "judy_alvarez"
+  - "evelyn_parker"
+  - "maiko_maeda"
+  - "corporate_exploitation"
+  - "mox_faction"
+
+elena_notes:
+  talking_points:
+    - "Corporate exploitation themes"
+    - "Judy emotional development"
+    - "Investigation intensification"
+    - "Power dynamics exploration"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Heavy subject matter"
+    - "Character relationship deepening"
+    - "Social justice focus"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

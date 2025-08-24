@@ -1,0 +1,77 @@
+﻿type: "economy"
+title: "Urban Slang Guide"
+category: ""
+economy_id: ""
+
+content:
+  summary: "beĹľnĂ˝ street language and slang used in Night City"
+  
+name: Urban Slang Guide
+type: culture
+description: beĹľnĂ˝ street language and slang used in Night City
+details: |
+  Night City's unique street language combines multiple influences and reflects its diverse cultural makeup.
+
+  beĹľnĂ˝ Terms:
+  - Tech Related
+    * Chrome: Cyberware
+    * Netrun: hacking
+    * Iced: killed/crashed
+    * Flatlined: dead
+  - Street Life
+    * Choom: friend
+    * Edge: advantage
+    * Preem: excellent
+    * Nova: excellent/new
+  - Status/Power
+    * Corpo: corporate
+    * Gonk: fool/idiot
+    * Delta: leave
+    * Eddies: money
+
+  Language Origins:
+  - Corporate terminology
+  - Gang vocabulary
+  - Tech jargon
+  - Cultural fusion
+
+  Usage Contexts:
+  - Street conversations
+  - Business dealings
+  - Gang communication
+  - Social media
+
+  Evolution Factors:
+  - Tech advances
+  - Cultural mixing
+  - Corporate influence
+  - Street culture
+
+importance: Essential for understanding Night City communication
+common_locations:
+  - Street level
+  - Social media
+  - Entertainment
+  - Daily life
+relationships:
+  - Street Culture
+  - Media Networks
+  - Corporate Culture
+  - Underground Music Scene
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

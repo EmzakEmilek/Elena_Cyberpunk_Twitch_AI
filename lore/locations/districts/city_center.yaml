@@ -1,0 +1,166 @@
+﻿type: "character"
+title: ""
+category: "location_district"
+character_id: ""
+
+content:
+  summary: ""
+  
+title: "City Center"
+category: "location_district"
+location_id: "loc_city_center"
+content:
+  summary: "Srdce Night City a centrum korporátnej moci. Domov najvyšších mrakodrapov, luxusných obchodov a sídiel megakorporácií. Symbol bohatstva a moci v meste."
+  
+  characteristics:
+    type: "Corporate/Business District"
+    population_density: "Vysoká cez deň, nízka v noci"
+    economic_status: "Najvyššia v meste"
+    security_level: "Maximálna"
+    
+    architecture:
+      style: "Ultra-moderný, neo-militaristický"
+      features:
+        - "Mega-mrakodrapy"
+        - "Sklenené a oceľové fasády"
+        - "Elevated walkways"
+        - "Corporate plazas"
+    
+    infrastructure:
+      transport:
+        - "Metro stations"
+        - "AV landing pads"
+        - "Automated traffic systems"
+        - "Corporate shuttle services"
+      
+      security:
+        - "NCPD elite units"
+        - "KorporĂˇtna bezpeÄŤnosĹĄ"
+        - "Automated defense systems"
+        - "Surveillance networks"
+
+  notable_locations:
+    arasaka_tower:
+      type: "Corporate HQ"
+      significance: "Centrum moci Arasaka"
+      security: "Maximálna"
+      
+    corporate_plaza:
+      type: "verejnĂ˝ space"
+      significance: "Centrum biznisu"
+      features: ["Fountains", "Corporate displays"]
+      
+    luxury_shopping:
+      type: "Commercial"
+      significance: "High-end retail"
+      clientele: "Corpo elites"
+
+  controlling_factions:
+    primary: "Megakorporácie"
+    security: "NCPD/Corporate forces"
+    influence:
+      - faction: "Arasaka"
+        level: "Dominantná"
+      - faction: "Militech"
+        level: "Významná"
+      - faction: "Other corps"
+        level: "Prítomná"
+
+  environment:
+    atmosphere: "Corporate dystopia"
+    lighting: "High-tech, jasné"
+    maintenance: "Perfektná"
+    pollution: "Kontrolovaná"
+
+  daily_life:
+    daytime:
+      - "Corpo employees"
+      - "Business meetings"
+      - "Security patrols"
+      - "Luxury shopping"
+    
+    nighttime:
+      - "Security patrols"
+      - "Cleaning crews"
+      - "Late workers"
+      - "Corporate events"
+
+  economy:
+    businesses:
+      - "Corporate offices"
+      - "Luxury retail"
+      - "High-end restaurants"
+      - "Executive services"
+    
+    employment:
+      - "Corporate jobs"
+      - "Security work"
+      - "Service industry"
+      - "Maintenance"
+
+  story_significance:
+    main_story:
+      - "Corpo life path lokácia"
+      - "The Heist quest"
+      - "Koncové misie"
+    
+    side_content:
+      - "Corporate infiltration missions"
+      - "High-stakes negotiations"
+      - "Corpo world activities"
+
+  access_restrictions:
+    general_public: "Limitovaný"
+    corporate: "Plný"
+    security: "Všadeprítomná"
+    monitoring: "Konštantné"
+
+technical_metadata:
+  fast_travel_points: true
+  respawning_enemies: false
+  traffic_density: "High"
+  npc_density: "Very High"
+
+related_cards:
+  locations:
+    - "loc_arasaka_tower"
+    - "loc_corporate_plaza"
+  factions:
+    - "faction_arasaka"
+    - "faction_militech"
+  characters:
+    - "char_saburo_arasaka"
+    - "char_jenkins"
+
+notes_for_elena:
+  key_points:
+    - "Centrum korporátnej moci"
+    - "Najbohatšia štvrť mesta"
+    - "Extrémne zabezpečená oblasť"
+  
+  conversation_guidelines:
+    - "Zdôrazňovať kontrast s inými časťami mesta"
+    - "Spomenúť vysokú úroveň bezpečnosti"
+    - "Hovoriť o korporátnej atmosfére"
+  
+  area_context:
+    - "Symbol korporátnej kontroly"
+    - "Centrum bohatstva a moci"
+    - "Nedostupné pre bežných ľudí"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

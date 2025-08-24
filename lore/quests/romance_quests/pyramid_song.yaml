@@ -1,0 +1,156 @@
+type: "quest"
+title: "Pyramid Song"
+category: "romance"
+
+summary: "Judy's final romance quest. Emotional culmination of her storyline s možnosťou romantic relationship a major life decisions."
+
+key_points:
+  - "Judy romance culmination"
+  - "Oregon cabin retreat"
+  - "Life decision discussion"
+  - "Relationship definition"
+  - "Future planning"
+  - "Emotional intimacy"
+
+story_context:
+  type: "Romance Finale"
+  position: "Judy storyline conclusion"
+  importance: "Determines romantic relationship"
+
+characters:
+  - "V (protagonist - female only)"
+  - "Judy Alvarez"
+
+retreat_setting:
+  oregon_cabin:
+    - "Peaceful lake location"
+    - "Isolation from Night City"
+    - "Natural beauty"
+    - "Romantic atmosphere"
+  
+  symbolic_significance:
+    - "Escape from corporate world"
+    - "New beginning possibility"
+    - "Personal relationship focus"
+    - "Life simplification"
+
+relationship_development:
+  emotional_intimacy:
+    - "Personal vulnerability sharing"
+    - "Past trauma discussion"
+    - "Future dreams exploration"
+    - "Love confession"
+  
+  physical_connection:
+    - "Romantic moments"
+    - "Physical intimacy"
+    - "Emotional bonding"
+    - "Relationship consummation"
+
+major_decisions:
+  life_choices:
+    description: "Future plans discussion"
+    options:
+      - "Stay in Night City - continue current life"
+      - "Leave together - start new life"
+      - "Temporary separation - individual goals"
+      - "Romantic relationship - maintain connection"
+    consequences: "Determines ending availability"
+
+judy_character_conclusion:
+  personal_growth:
+    - "Self-acceptance"
+    - "Love capacity"
+    - "Future optimism"
+    - "Healing progress"
+  
+  relationship_capacity:
+    - "Trust development"
+    - "Emotional openness"
+    - "Commitment readiness"
+    - "Partnership vision"
+
+choices:
+  romantic_response:
+    description: "Response k Judy's romantic advances"
+    options:
+      - "Reciprocate feelings - enter relationship"
+      - "Friendship only - maintain boundaries"
+      - "Uncertain feelings - need time"
+    consequences: "CRITICAL pre romance path success"
+
+emotional_climax:
+  confession_scene:
+    - "Mutual vulnerability"
+    - "Love declaration"
+    - "Fear acknowledgment"
+    - "Hope expression"
+  
+  intimate_moments:
+    - "Physical connection"
+    - "Emotional bonding"
+    - "Trust demonstration"
+    - "Future planning"
+
+objectives:
+  - "Enjoy peaceful retreat"
+  - "Deepen relationship s Judy"
+  - "Make romantic decisions"
+  - "Plan future together"
+  - "Achieve relationship closure"
+
+themes:
+  - "Love conquering adversity"
+  - "Escape from toxic environment"
+  - "Personal healing"
+  - "New beginning possibilities"
+
+relationship_requirements:
+  prerequisite_choices:
+    - "Support Judy v previous quests"
+    - "Female V character"
+    - "Proper dialogue choices"
+    - "Emotional investment"
+  
+  romance_indicators:
+    - "Positive relationship status"
+    - "Judy's trust level"
+    - "Previous quest outcomes"
+    - "Character compatibility"
+
+ending_implications:
+  romance_success:
+    - "Judy as love interest"
+    - "Possible joint endings"
+    - "Relationship continuation"
+    - "Emotional fulfillment"
+  
+  romance_failure:
+    - "Friendship maintenance"
+    - "Missed opportunity"
+    - "Alternative relationships"
+    - "Character growth"
+
+related:
+  - "judy_alvarez"
+  - "female_v_romance"
+  - "talkin_bout_a_revolution"
+  - "ex_factor"
+  - "both_sides_now"
+
+elena_notes:
+  talking_points:
+    - "Romance quest mechanics"
+    - "Judy relationship culmination"
+    - "Ending implications"
+    - "Female V requirement"
+  spoiler_level: "maximum"
+  conversation_context:
+    - "Sensitive romantic content"
+    - "Player choice importance"
+    - "Ending path determination"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

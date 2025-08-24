@@ -1,0 +1,153 @@
+﻿type: "character"
+title: "Animals Gang"
+category: "faction_gang"
+character_id: "faction_animals"
+
+content:
+  summary: ""
+  
+name: "Animals Gang"
+id: "faction_animals"
+category: "faction_gang"
+
+faction_overview:
+  description: "Brutálna gang zameraná na fyzickú silu a vylepšenia tela"
+  territory: "Pacifica, hlavne Grand Imperial Mall"
+  leader: "Sasquatch"
+  strength: "Vysoká"
+
+core_aspects:
+  philosophy:
+    - "Fyzická dominancia"
+    - "Sila nad technológiou"
+    - "Teritoriálna kontrola"
+  
+  methods:
+    - "Zastrašovanie"
+    - "Priama konfrontácia"
+    - "Silové riešenia"
+
+organization:
+  structure:
+    - "Silová hierarchia"
+    - "Gym leadership"
+    - "Territory crews"
+  
+  roles:
+    - "Bouncers"
+    - "Enforcers"
+    - "Territory guards"
+
+characteristics:
+  appearance:
+    - "Masívne postavy"
+    - "Viditeľné svaly"
+    - "Minimum Cyberware"
+  
+  style:
+    - "Športové oblečenie"
+    - "Gym wear"
+    - "Combat gear"
+
+activities:
+  primary:
+    - "Ochranné služby"
+    - "Územná kontrola"
+    - "Silové riešenia"
+  
+  secondary:
+    - "Black market steroids"
+    - "Gym operations"
+    - "Fight clubs"
+
+territory_control:
+  main_areas:
+    - "Grand Imperial Mall"
+    - "Pacifica gyms"
+    - "Control points"
+  
+  methods:
+    - "Physical presence"
+    - "Intimidation"
+    - "Direct control"
+
+relations:
+  allies:
+    - "None permanent"
+  
+  enemies:
+    - "Voodoo Boys"
+    - "Other Pacifica gangs"
+    - "Tech-heavy groups"
+
+resources:
+  physical:
+    - "Training facilities"
+    - "Territory holdings"
+    - "Combat gear"
+  
+  income:
+    - "Protection money"
+    - "Gym operations"
+    - "Security contracts"
+
+combat_style:
+  approach:
+    - "Direct confrontation"
+    - "Physical dominance"
+    - "Brute force"
+  
+  weapons:
+    - "Melee weapons"
+    - "Heavy guns"
+    - "Bare hands"
+
+special_traits:
+  strengths:
+    - "Physical power"
+    - "Intimidation"
+    - "Territory control"
+  
+  weaknesses:
+    - "Tech vulnerability"
+    - "Limited range"
+    - "Predictable tactics"
+
+recruitment:
+  requirements:
+    - "Physical strength"
+    - "Loyalty to group"
+    - "Combat ability"
+  
+  process:
+    - "Physical tests"
+    - "Combat trials"
+    - "Loyalty checks"
+
+notes_for_elena:
+  key_points:
+    - "Physical focus"
+    - "Territory importance"
+    - "Direct approach"
+  
+  interaction_tips:
+    - "Respect strength"
+    - "Watch territory"
+    - "Direct communication"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

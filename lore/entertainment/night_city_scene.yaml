@@ -1,0 +1,182 @@
+﻿type: "economy"
+title: ""
+category: "entertainment"
+economy_id: ""
+
+content:
+  summary: ""
+  
+type: entertainment
+title: "Night City Entertainment Scene"
+category: "entertainment"
+entertainment_id: "ent_night_city_scene"
+
+content:
+  summary: "Rozmanitá zábavná scéna Night City zahŕňajúca všetko od high-end korporátnych klubov po underground pouličné predstavenia."
+  
+  entertainment_categories:
+    nightlife:
+      clubs:
+        - "Lizzie's Bar (Moxes territory)"
+        - "Afterlife (legendary merc bar)"
+        - "Totentanz (Maelstrom club)"
+        - "El Coyote Cojo (Valentine territory)"
+      
+      bars_and_lounges:
+        - "Corporate executive lounges"
+        - "Neighborhood dive bars"
+        - "Themed establishments"
+        - "Exclusive member clubs"
+    
+    digital_entertainment:
+      Braindance:
+        - "Commercial BD experiences"
+        - "Interactive entertainment"
+        - "Educational content"
+        - "Underground/nelegĂˇlny content"
+      
+      virtual_experiences:
+        - "VR arcades"
+        - "Digital concerts"
+        - "Virtual tourism"
+        - "Online gaming platforms"
+    
+    live_performances:
+      music:
+        - "Rock concerts (Samurai legacy)"
+        - "Electronic music shows"
+        - "Corporate-sponsored events"
+        - "Underground gigs"
+      
+      theater_arts:
+        - "Traditional theater"
+        - "Holographic performances"
+        - "Interactive shows"
+        - "Street performances"
+    
+    sports_recreation:
+      popular_sports:
+        - "Combat sports (nelegĂˇlny fighting)"
+        - "Racing (street and professional)"
+        - "Cybersports competitions"
+        - "Traditional sports (modified)"
+      
+      recreational_activities:
+        - "Shooting ranges"
+        - "Combat training centers"
+        - "Tech workshops"
+        - "Social clubs"
+
+  district_specialties:
+    city_center:
+      - "High-end corporate entertainment"
+      - "Exclusive restaurants"
+      - "Luxury shopping experiences"
+      - "Elite social events"
+    
+    westbrook:
+      - "Japantown cultural events"
+      - "High-tech entertainment venues"
+      - "Luxury nightlife"
+      - "Cultural festivals"
+    
+    heywood:
+      - "Family-oriented entertainment"
+      - "Community events"
+      - "Local music scenes"
+      - "Traditional celebrations"
+    
+    watson:
+      - "Underground entertainment"
+      - "Tech-focused venues"
+      - "Alternative culture spots"
+      - "Hacker meetups"
+
+  entertainment_economics:
+    pricing_tiers:
+      street_level:
+        - "Free events: 0-10 €$"
+        - "Basic entertainment: 50-200 €$"
+        - "Local concerts: 100-500 €$"
+      
+      mid_tier:
+        - "Quality venues: 500-2000 €$"
+        - "Special events: 1000-5000 €$"
+        - "Premium experiences: 2000-10000 €$"
+      
+      high_end:
+        - "Exclusive events: 10000+ €$"
+        - "Corporate entertainment: 50000+ €$"
+        - "Celebrity appearances: 100000+ €$"
+
+  cultural_significance:
+    social_functions:
+      - "Identity expression"
+      - "Community building"
+      - "Stress relief from city life"
+      - "Status demonstration"
+    
+    resistance_culture:
+      - "Anti-corporate messaging"
+      - "Underground art movements"
+      - "Political commentary"
+      - "Cultural preservation"
+
+technical_metadata:
+  diversity: "Extrémne rozmanitá"
+  accessibility: "Závislá od sociálnej triedy"
+  innovation: "High-tech integration"
+  cultural_impact: "Vysoká"
+
+related_cards:
+  culture:
+    - "cult_underground_music"
+    - "cult_street_art"
+    - "cult_night_city_holidays"
+  technology:
+    - "tech_braindance"
+    - "tech_virtual_reality"
+    - "tech_entertainment_tech"
+  economy:
+    - "econ_entertainment_industry"
+    - "econ_luxury_markets"
+  locations:
+    - "loc_afterlife_bar"
+    - "loc_totentanz"
+    - "loc_westbrook"
+
+notes_for_elena:
+  key_points:
+    - "Entertainment reflektuje sociálne rozdelenie mesta"
+    - "Technology heavily integrated do všetkých foriem zábavy"
+    - "Underground scéna je dôležitá pre resistance culture"
+    - "Gang territories ovplyvňujú dostupné entertainment options"
+  
+  conversation_guidelines:
+    - "Spýtať sa na personal entertainment preferences"
+    - "Diskutovať o rôznych district specialties"
+    - "Vysvetliť pricing tiers a accessibility"
+    - "Spomenúť cultural significance različých venues"
+  
+  roleplay_aspects:
+    - "Entertainment venues sú miesta pre networking"
+    - "Different venues attract different crowds"
+    - "Gang affiliations ovplyvňujú safe venues"
+    - "Corporate events môžu byť opportunities pre jobs"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,177 @@
+﻿type: "character"
+title: "Voodoo Boys"
+category: "faction_gang"
+character_id: "faction_voodoo_boys"
+
+content:
+  summary: ""
+  
+name: "Voodoo Boys"
+id: "faction_voodoo_boys"
+category: "faction_gang"
+
+faction_overview:
+  description: "Elitná hackerská skupina s haitskými koreňmi, špecializovaná na kybernetickú vojnu a ovládanie NETu."
+  territory: "Pacifica (hlavné sídlo), digitálne priestory NETu"
+  leader: "Brigitte (vodkyňa), kolektívne vedenie"
+  strength: "Extrémne vysoká technologická úroveň, silná komunita"
+
+core_aspects:
+  philosophy:
+    - "Technologická dominancia nad nepriateľmi"
+    - "Haitská kultúra a tradície"
+    - "Kybernetický mysticizmus a digitálne rituály"
+  
+  methods:
+    - "Hackovanie a kyberútoky"
+    - "Netrunning (prienik do sietí)"
+    - "Informačná vojna a manipulácia dát"
+
+organization:
+  structure:
+    - "Technologická hierarchia"
+    - "Kultúrne vedenie (vodcovia tradícií)"
+    - "Tímy hackerov a netrunnerov"
+  
+  roles:
+    - "Netrunneri"
+    - "Technologickí experti"
+    - "Pouliční členovia"
+
+characteristics:
+  appearance:
+    - "Haitský štýl, tradičné tetovania"
+    - "Technologické augmentácie"
+    - "Mystické a spirituálne prvky"
+  
+  style:
+    - "Cyber-voodoo (spojenie techniky a viery)"
+    - "High-tech vzhľad"
+    - "Kultúrny mix"
+
+activities:
+  primary:
+    - "Netrunning (prienik do sietí)"
+    - "Krádež dát"
+    - "Vývoj vlastných technológií"
+  
+  secondary:
+    - "Kontrola územia v Pacifice"
+    - "Ochrana komunity"
+    - "Obchodovanie s informáciami"
+
+territory_control:
+  main_areas:
+    - "Štvrť Pacifica"
+    - "Digitálny priestor NETu"
+    - "Zóny NETu"
+  
+  methods:
+    - "Digitálna kontrola sietí"
+    - "Fyzická prítomnosť v teritóriu"
+    - "Kultúrny vplyv na komunitu"
+
+relations:
+  allies:
+    - "Haitská komunita v Night City"
+    - "Technologické siete"
+    - "Obchodníci s informáciami"
+  
+  enemies:
+    - "NetWatch (kyberpolícia)"
+    - "Gang Animals"
+    - "Korporátna bezpečnosť"
+
+resources:
+  physical:
+    - "Serverové farmy"
+    - "Technologické laboratóriá"
+    - "Bezpečné úkryty"
+  
+  digital:
+    - "Prístup do NETu"
+    - "Archívy dát"
+    - "Nástroje na hackovanie"
+
+combat_style:
+  approach:
+    - "Kybernetická vojna"
+    - "Vzdialené útoky"
+    - "Technologická prevaha"
+  
+  weapons:
+    - "Výbava pre netrunning"
+    - "Smart zbrane"
+    - "Technologické nástroje"
+
+special_traits:
+  strengths:
+    - "Technologická odbornosť"
+    - "Dominancia v NETe"
+    - "Kultúrna jednota"
+  
+  weaknesses:
+    - "Fyzická zraniteľnosť"
+    - "Obmedzené územie"
+    - "Nepriateľstvo zvonku"
+
+recruitment:
+  requirements:
+    - "Technologické zručnosti"
+    - "Kultúrne prepojenie"
+    - "Potenciál lojality"
+  
+  process:
+    - "Testovanie technologických schopností"
+    - "Kultúrna integrácia"
+    - "Budovanie dôvery"
+
+tech_capabilities:
+  specialties:
+    - "Hlboký prístup do NETu"
+    - "Vlastný malware"
+    - "Hackovanie systémov"
+  
+  infrastructure:
+    - "Súkromné servery"
+    - "Bezpečné siete"
+    - "Technologické laboratóriá"
+
+cultural_aspects:
+  traditions:
+    - "Viera vo Voodoo"
+    - "Haitská kultúra"
+    - "Technologický mysticizmus"
+  
+  practices:
+    - "Digitálne rituály"
+    - "Kultúrne ceremónie"
+    - "Technologický tréning"
+
+notes_for_elena:
+  key_points:
+    - "Technologická sila"
+    - "Kultúrna hĺbka"
+    - "Zameranie na NET"
+  
+  interaction_tips:
+    - "Rešpektuj kultúru"
+    - "Dbaj na bezpečnosť"
+    - "Sleduj technológie"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

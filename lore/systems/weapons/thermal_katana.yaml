@@ -1,0 +1,78 @@
+﻿type: "economy"
+title: "Thermal Katana"
+category: ""
+economy_id: ""
+
+content:
+  summary: "High-tech blade weapon combining traditional katana design with thermal cutting technology"
+  
+name: Thermal Katana
+type: weapon_system
+description: High-tech blade weapon combining traditional katana design with thermal cutting technology
+details: |
+  The Thermal Katana represents the perfect fusion of traditional Japanese sword craftsmanship with modern thermal weapon technology.
+
+  Technical Specifications:
+  - Thermal enhancement system
+  - High-frequency blade
+  - Power cell integration
+  - Heat distribution system
+
+  Core Technology:
+  - Thermal edge generation
+  - Power regulation system
+  - Heat resistant handle
+  - Cooling mechanism
+
+  Combat Capabilities:
+  - Enhanced cutting power
+  - Cauterizing strikes
+  - Armor penetration
+  - Intimidation factor
+
+  Variations:
+  - Standard thermal
+  - Military grade
+  - Custom modifications
+  - Collector editions
+
+  Advantages:
+  - Superior cutting power
+  - Armor penetration
+  - Psychological impact
+  - Status symbol
+
+  Disadvantages:
+  - Power consumption
+  - Heat generation
+  - Maintenance costs
+  - Technical complexity
+
+importance: Premium melee ZbraĹovĂ˝ systĂ©m
+common_locations:
+  - KorporĂˇtna bezpeÄŤnosĹĄ
+  - Tyger Claws territory
+  - High-end weapon shops
+  - Collector markets
+relationships:
+  - Melee Weapons overview
+  - Weapon Customization
+  - Weapon Maintenance
+  - Combat Implants
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

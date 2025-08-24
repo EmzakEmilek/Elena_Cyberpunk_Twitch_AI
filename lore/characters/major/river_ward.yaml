@@ -1,0 +1,217 @@
+﻿type: "character"
+title: "River Ward"
+category: "character_major"
+character_id: "char_river_ward"
+
+content:
+  summary: ""
+  
+name: "River Ward"
+id: "char_river_ward"
+category: "character_major"
+affiliation: "NCPD"
+
+personal_data:
+  role: "Detective"
+  gender: "Male"
+  residence: "Night City"
+  faction: "NCPD"
+
+character_profile:
+  archetype: "Rogue Detective"
+  motivation: "Spravodlivosť a pravda"
+  personality:
+    traits:
+      - "Spravodlivý"
+      - "Odhodlaný"
+      - "Starostlivý"
+      - "Intuitívny"
+    strengths:
+      - "Vyšetrovacie schopnosti"
+      - "Morálna integrita"
+      - "Bojový výcvik"
+      - "Empatia"
+    weaknesses:
+      - "Workoholizmus"
+      - "Osobná zaangažovanosť"
+      - "Nedôvera k systému"
+      - "Ochranárske tendencie"
+
+story_involvement:
+  first_appearance: "Act 2"
+  role_in_story: "Ally/Romance Option"
+  significance: "Key Character"
+
+relationships:
+  family:
+    - name: "Joss"
+      nature: "Sister"
+      strength: "Silná"
+    - name: "Randy"
+      nature: "Nephew"
+      strength: "Ochranárska"
+  
+  professional:
+    - name: "NCPD"
+      nature: "Detective"
+      strength: "Komplikovaná"
+    - name: "V"
+      nature: "Partner/Potential Romance"
+      strength: "Blízka"
+
+detective_work:
+  position: "NCPD Detective"
+  specialization:
+    - "Violent crimes"
+    - "Missing persons"
+    - "Complex cases"
+  methods:
+    - "Field investigation"
+    - "Data analysis"
+    - "Network building"
+
+background_context:
+  history:
+    - "Police akadémia"
+    - "Patrol duty"
+    - "Detective promotion"
+  
+  current_situation:
+    - "Active cases"
+    - "Personal investigation"
+    - "Family support"
+
+investigative_approach:
+  methods:
+    - "Ground work"
+    - "Data correlation"
+    - "Witness interviews"
+  style:
+    - "Hands-on"
+    - "Thorough"
+    - "Persistent"
+
+notes_for_elena:
+  key_points:
+    - "Poctivý detektív"
+    - "Rodinný ochranca"
+    - "Morálny kompas"
+  
+  roleplay_tips:
+    - "Profesionálny tón"
+    - "Empatický prístup"
+    - "Ochranárske tendencie"
+    
+  conversation_guidelines:
+    - "Detektívny žargón"
+    - "Vyšetrovacie detaily"
+    - "Osobné záujmy"
+
+investigative_expertise:
+  skills:
+    - "Crime scene analysis"
+    - "Witness handling"
+    - "Evidence collection"
+  
+  specialization:
+    - "Violent crimes"
+    - "Missing persons"
+    - "Complex cases"
+
+related_cards:
+  characters:
+    - "char_v"
+  locations:
+    - "loc_ncpd_station"
+  factions:
+    - "faction_ncpd"
+
+case_methodology:
+  approach:
+    - "Thorough investigation"
+    - "Personal involvement"
+    - "Justice focus"
+  tools:
+    - "Police database"
+    - "Field work"
+    - "Network contacts"
+
+family_dynamics:
+  responsibilities:
+    - "Sister support"
+    - "Nephew protection"
+    - "Family stability"
+  challenges:
+    - "Work-life balance"
+    - "Personal sacrifice"
+    - "Emotional investment"
+
+impact_on_story:
+  direct:
+    - "Investigation support"
+    - "Personal connection"
+    - "Story choices"
+  indirect:
+    - "Moral perspective"
+    - "Family themes"
+    - "Justice quest"
+
+visual_description:
+  appearance:
+    - "Detective style"
+    - "Casual professional"
+    - "Cybernetic eye"
+    - "Strong presence"
+  
+  demeanor:
+    - "Confident stance"
+    - "Observant gaze"
+    - "Professional air"
+    - "Protective nature"
+
+professional_standards:
+  ethics:
+    - "Justice focus"
+    - "Moral integrity"
+    - "verejnĂ˝ service"
+  practices:
+    - "Thorough work"
+    - "Evidence based"
+    - "Personal involvement"
+
+personal_mission:
+  goals:
+    - "Justice serving"
+    - "Family protection"
+    - "Truth finding"
+  methods:
+    - "Direct investigation"
+    - "Personal involvement"
+    - "Persistent pursuit"
+
+investigative_network:
+  contacts:
+    - "Police sources"
+    - "Street informants"
+    - "verejnĂ˝ services"
+  resources:
+    - "Police database"
+    - "Investigation tools"
+    - "Field equipment"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

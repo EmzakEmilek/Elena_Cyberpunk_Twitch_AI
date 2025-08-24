@@ -1,0 +1,189 @@
+﻿type: "character"
+title: "Saburo Arasaka"
+category: "character_major"
+character_id: "char_saburo_arasaka"
+
+content:
+  summary: ""
+  
+name: "Saburo Arasaka"
+id: "char_saburo_arasaka"
+category: "character_major"
+affiliation: "Arasaka Corporation"
+
+personal_data:
+  role: "CEO Arasaka Corporation"
+  gender: "Male"
+  residence: "Tokyo/Night City"
+  faction: "Arasaka"
+  age: "158 (enhanced longevity)"
+
+character_profile:
+  archetype: "Corporate Emperor"
+  motivation: "Dynastická moc a kontrola"
+  personality:
+    traits:
+      - "Autoritatívny"
+      - "Bezohľadný"
+      - "Strategický"
+      - "Tradicionalistický"
+    strengths:
+      - "Strategické myslenie"
+      - "Korporátna moc"
+      - "Politický vplyv"
+      - "Technologická kontrola"
+    weaknesses:
+      - "Pýcha"
+      - "Rigidné myslenie"
+      - "Nedôvera k inováciám"
+
+story_involvement:
+  first_appearance: "The Heist"
+  role_in_story: "Major Antagonist/Victim"
+  impact: "Jeho smrť spúšťa hlavnú zápletku"
+  return: "Through Mikoshi technology"
+
+relationships:
+  family:
+    - name: "Yorinobu Arasaka"
+      relation: "Syn"
+      nature: "Konfliktná"
+    - name: "Hanako Arasaka"
+      relation: "Dcéra"
+      nature: "Lojálna"
+  
+  professional:
+    - name: "Arasaka Board"
+      nature: "Absolute control"
+    - name: "Goro Takemura"
+      nature: "Personal bodyguard"
+
+character_development:
+  arc_type: "Tragic Power Figure"
+  key_moments:
+    - "Confrontation with Yorinobu"
+    - "Death in Konpeki Plaza"
+    - "Legacy through technology"
+
+visual_description:
+  appearance:
+    - "Elderly but imposing"
+    - "Traditional Japanese style"
+    - "High-tech life support"
+    - "Formal business wear"
+  presence:
+    - "Autoritatívna aura"
+    - "Zastrašujúci"
+    - "Imperial bearing"
+
+power_base:
+  corporate:
+    - "Arasaka Corporation"
+    - "Global influence"
+    - "Military power"
+  political:
+    - "Government connections"
+    - "International influence"
+    - "Corporate dominance"
+  technological:
+    - "Mikoshi control"
+    - "Cybertechnology"
+    - "Military tech"
+
+notes_for_elena:
+  key_points:
+    - "Symbol korporátnej moci"
+    - "Kľúčová obeť v príbehu"
+    - "Technologické dedičstvo"
+  
+  roleplay_tips:
+    - "Zdôrazniť autoritu"
+    - "Tradicionalistický prístup"
+    - "Bezohľadná moc"
+    
+  conversation_guidelines:
+    - "Formálny jazyk"
+    - "Priame vyjadrenia"
+    - "Očakávanie poslušnosti"
+
+background_context:
+  history:
+    - "Military background"
+    - "Corporation building"
+    - "Global expansion"
+    - "Technological dominance"
+  
+  legacy:
+    - "Arasaka empire"
+    - "Mikoshi project"
+    - "Corporate warfare"
+
+related_cards:
+  characters:
+    - "char_yorinobu_arasaka"
+    - "char_hanako_arasaka"
+    - "char_goro_takemura"
+  factions:
+    - "faction_arasaka"
+  locations:
+    - "loc_arasaka_tower"
+    - "loc_konpeki_plaza"
+  quests:
+    - "mq_the_heist"
+
+technology_control:
+  projects:
+    - "Mikoshi"
+    - "bezpeÄŤnĂ˝ Your Soul"
+    - "Military cybernetics"
+  innovations:
+    - "Soul preservation"
+    - "KorporĂˇtna bezpeÄŤnosĹĄ"
+    - "Military tech"
+
+philosophy:
+  beliefs:
+    - "Corporate supremacy"
+    - "Traditional values"
+    - "Power through control"
+  methods:
+    - "Absolute authority"
+    - "Technological dominance"
+    - "Family dynasty"
+
+impact_on_story:
+  direct:
+    - "Death triggers main plot"
+    - "Corporate power vacuum"
+    - "Family conflict"
+  symbolic:
+    - "Corporate control"
+    - "Family betrayal"
+    - "Technological immortality"
+
+military_background:
+  training:
+    - "Traditional martial arts"
+    - "Military strategy"
+    - "Leadership"
+  application:
+    - "Corporate warfare"
+    - "Security protocols"
+    - "Power projection"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

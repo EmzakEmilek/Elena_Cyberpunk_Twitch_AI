@@ -1,0 +1,168 @@
+﻿type: "character"
+title: "Clouds"
+category: "location_landmark"
+character_id: "landmark_clouds"
+
+content:
+  summary: ""
+  
+name: "Clouds"
+id: "landmark_clouds"
+category: "location_landmark"
+
+landmark_overview:
+  description: "Exkluzívny VIP dollhouse klub v Japantown"
+  location: "Westbrook District, Japantown"
+  owner: "Tyger Claws"
+  significance: "High-end zábavné centrum"
+
+physical_characteristics:
+  exterior:
+    - "Moderná budova"
+    - "Diskrétny vstup"
+    - "Neonové značenie"
+    - "Strážená zóna"
+  
+  interior:
+    - "Luxusné priestory"
+    - "Privátne miestnosti"
+    - "Zen záhrady"
+    - "VIP salóny"
+
+access:
+  requirements:
+    - "Členstvo"
+    - "Vysoká cena"
+    - "Dress code"
+  
+  restrictions:
+    - "Prísny výber"
+    - "Bezpečnostné kontroly"
+    - "Časové sloty"
+
+services:
+  primary:
+    - "Dollhouse služby"
+    - "Relaxačné procedúry"
+    - "Virtuálne zážitky"
+  
+  additional:
+    - "Bar"
+    - "Lounge"
+    - "Meditation"
+
+security:
+  measures:
+    - "Tyger Claws ochrana"
+    - "AI monitoring"
+    - "Skryté kamery"
+  
+  systems:
+    - "Biometrická kontrola"
+    - "Digitálne zámky"
+    - "Panic buttons"
+
+atmosphere:
+  design:
+    - "Japonská estetika"
+    - "Luxusný minimalizmus"
+    - "Zen prvky"
+  
+  ambiance:
+    - "Pokojná"
+    - "Diskrétna"
+    - "Sofistikovaná"
+
+clientele:
+  regular:
+    - "Korporátna elita"
+    - "Bohatí klienti"
+    - "Celebrity"
+  
+  vip:
+    - "Execs"
+    - "High-end fixeri"
+    - "Special guests"
+
+operational_aspects:
+  management:
+    - "Tyger Claws kontrola"
+    - "Profesionálny staff"
+    - "Diskrétny servis"
+  
+  policies:
+    - "Strict privacy"
+    - "No violence"
+    - "Member protection"
+
+special_features:
+  rooms:
+    - "Meditation spaces"
+    - "VIP suites"
+    - "Zen gardens"
+  
+  technology:
+    - "pokroÄŤilĂ˝ dolls"
+    - "VR systems"
+    - "Mood matching"
+
+business_model:
+  services:
+    - "Premium pricing"
+    - "Membership fees"
+    - "Special packages"
+  
+  income:
+    - "Regular clients"
+    - "VIP services"
+    - "Special events"
+
+security_protocols:
+  entry:
+    - "ID check"
+    - "Membership verify"
+    - "Security scan"
+  
+  internal:
+    - "Constant monitoring"
+    - "Quick response"
+    - "Privacy chrĂˇniĹĄ"
+
+staff_details:
+  roles:
+    - "Dolls"
+    - "Security"
+    - "Management"
+  
+  training:
+    - "Professional standards"
+    - "Privacy protocols"
+    - "Emergency procedures"
+
+notes_for_elena:
+  key_points:
+    - "High-end venue"
+    - "Strict privacy"
+    - "Japanese influence"
+  
+  interaction_tips:
+    - "Maintain discretion"
+    - "Respect rules"
+    - "Mind status"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

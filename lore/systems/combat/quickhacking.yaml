@@ -1,0 +1,210 @@
+﻿type: "technology"
+title: "Quickhacking System"
+category: "system_combat"
+technology_id: "system_combat_quickhacking"
+
+content:
+  summary: ""
+  
+name: "Quickhacking System"
+id: "system_combat_quickhacking"
+category: "system_combat"
+
+system_overview:
+  description: "Systém pre rýchle hackerské útoky v reálnom čase"
+  core_mechanics:
+    - "Quick execution"
+    - "Fast targeting"
+    - "Instant effects"
+    - "RAM management"
+
+mechanics:
+  execution:
+    - "Quick selection"
+    - "Fast targeting"
+    - "Instant upload"
+    - "Effect timing"
+  
+  management:
+    - "RAM usage"
+    - "Cooldown timing"
+    - "Effect duration"
+    - "Target priority"
+
+combat_elements:
+  offensive:
+    - "Damage hacks"
+    - "Control hacks"
+    - "Debuff hacks"
+  
+  utility:
+    - "Distraction hacks"
+    - "Support hacks"
+    - "Info gathering"
+
+equipment:
+  cyberdeck:
+    - "RAM capacity"
+    - "Upload speed"
+    - "Buffer size"
+  
+  quickhacks:
+    - "Combat programs"
+    - "Utility programs"
+    - "Special effects"
+
+notes_for_elena:
+  key_points:
+    - "Quick execution"
+    - "Combat timing"
+    - "Resource management"
+  
+  roleplay_tips:
+    - "Fast decisions"
+    - "Tactical choices"
+    - "Resource planning"
+    
+  conversation_guidelines:
+    - "Quick terms"
+    - "Combat focus"
+    - "Tech language"
+
+hack_categories:
+  damage:
+    - "System shock"
+    - "Neural burn"
+    - "Component overload"
+  
+  control:
+    - "System override"
+    - "Neural hijack"
+    - "Function control"
+  
+  utility:
+    - "System ping"
+    - "Data mining"
+    - "Network scan"
+
+skill_integration:
+  quickhacking_skills:
+    - "Upload speed"
+    - "RAM efficiency"
+    - "Effect power"
+  
+  related_skills:
+    - "Intelligence"
+    - "Cool"
+    - "Technical Ability"
+
+gameplay_elements:
+  strategic:
+    - "hacknĂşĹĄ selection"
+    - "Target priority"
+    - "RAM planning"
+  
+  tactical:
+    - "Combat timing"
+    - "Effect chaining"
+    - "Resource use"
+
+progression_system:
+  skills:
+    - "Upload speed"
+    - "RAM capacity"
+    - "Effect duration"
+  
+  perks:
+    - "Cost reduction"
+    - "Power zvĂ˝ĹˇiĹĄ"
+    - "Speed boost"
+
+combat_feedback:
+  visual:
+    - "hacknĂşĹĄ effects"
+    - "Target status"
+    - "System icons"
+  
+  audio:
+    - "Upload sounds"
+    - "Effect noise"
+    - "System alerts"
+
+ui_elements:
+  displays:
+    - "Quick menu"
+    - "RAM status"
+    - "Target info"
+  
+  feedback:
+    - "Success icons"
+    - "Effect timers"
+    - "Status updates"
+
+related_systems:
+  combat:
+    - "system_combat_hacking"
+    - "system_combat_netrunning"
+  Cyberware:
+    - "system_cyberware_operating_system"
+    - "system_cyberware_frontal_cortex"
+
+balance_considerations:
+  advantages:
+    - "Quick execution"
+    - "Instant effects"
+    - "Combat utility"
+  
+  limitations:
+    - "RAM limits"
+    - "Cooldowns"
+    - "Range restrictions"
+
+technical_implementation:
+  core_systems:
+    - "Quick targeting"
+    - "Effect processing"
+    - "RAM management"
+  
+  optimization:
+    - "Menu speed"
+    - "Effect rendering"
+    - "System response"
+
+target_dynamics:
+  selection:
+    - "Quick targeting"
+    - "Priority marking"
+    - "Multiple targets"
+  
+  interaction:
+    - "Effect application"
+    - "Status tracking"
+    - "Response handling"
+
+effect_management:
+  timing:
+    - "Upload speed"
+    - "Effect duration"
+    - "Cooldown periods"
+  
+  chaining:
+    - "Effect combinations"
+    - "Sequence timing"
+    - "Resource planning"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

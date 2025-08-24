@@ -1,0 +1,191 @@
+﻿type: "character"
+title: ""
+category: "quest_main_story"
+character_id: ""
+
+content:
+  summary: ""
+  
+title: "The Pickup"
+category: "quest_main_story"
+quest_id: "mq_the_pickup"
+act: 1
+content:
+  summary: "V a Jackie sa snažia získať high-tech Militech robot Flathead od gangu Maelstrom. Situácia sa komplikuje zapojením Militech agentky Meredith Stout a vnútorným konfliktom v Maelstrom."
+  
+  key_events:
+    - "Stretnutie s Meredith Stout"
+    - "Infiltrácia All Foods Plant"
+    - "Konflikt s Maelstrom"
+    - "Získanie/strata Flatheadu"
+    - "Royce konfrontácia"
+  
+  critical_choices:
+    - choice: "Ako riešiť Meredith"
+      options:
+        - "Spolupracovať (prijať infikované kredity)"
+        - "Odmietnuť spoluprácu"
+        - "Prezradiť jej plán Maelstromu"
+      impact: "Ovplyvní priebeh misie a budúce vzťahy"
+    
+    - choice: "Riešenie situácie s Maelstrom"
+      options:
+        - "Použiť infikované kredity"
+        - "Zaplatiť čisté kredity"
+        - "Zaútočiť priamo"
+      impact: "Ovplyvní konflikt a možné spojence"
+
+  progression_flags:
+    story_phase: "act1_main"
+    changes_world_state: true
+    leads_to: "The Information"
+    unlocks_content: ["Meredith romance možnosť", "Maelstrom nepriateľstvo/spojenectvo"]
+
+  objectives:
+    - id: "meet_militech"
+      title: "Stretnúť Meredith Stout (voliteľné)"
+      optional: true
+      stealth_available: false
+    
+    - id: "enter_factory"
+      title: "Infiltrovať All Foods"
+      optional: false
+      stealth_available: true
+    
+    - id: "deal_maelstrom"
+      title: "Vyriešiť situáciu s Maelstrom"
+      optional: false
+      stealth_available: true
+    
+    - id: "get_flathead"
+      title: "Získať Flathead"
+      optional: false
+      stealth_available: false
+
+combat_scenarios:
+  maelstrom_conflict:
+    enemies:
+      - type: "Maelstrom ganger"
+        count: "Multiple"
+      - type: "Royce (boss)"
+        condition: "If hostile"
+    environment:
+      - "Industriálne prostredie"
+      - "Výrobné linky"
+      - "Úzke chodby"
+    tactics:
+      - "Stealth možný v úvode"
+      - "Cover-based combat"
+      - "Vertical elements"
+
+key_characters:
+  meredith_stout:
+    role: "Militech agent"
+    interaction: "Potential ally/enemy"
+    outcome_influence: "High"
+    
+  royce:
+    role: "Maelstrom leader"
+    interaction: "Potential enemy"
+    outcome_influence: "High"
+    
+  brick:
+    role: "Former Maelstrom leader"
+    interaction: "Can be freed"
+    outcome_influence: "Medium"
+
+location_data:
+  primary: "All Foods Plant"
+  district: "Watson"
+  environment: "Industrial/Gang territory"
+  key_areas:
+    - "Entrance area"
+    - "Production floors"
+    - "Boss fight arena"
+
+quest_items:
+  - name: "Flathead"
+    type: "Military robot"
+    importance: "Critical"
+    
+  - name: "Militech kredity"
+    type: "Currency/trap"
+    importance: "Optional strategy"
+    
+  - name: "Brick's location data"
+    type: "Information"
+    importance: "Optional objective"
+
+rewards:
+  experience: 2000
+  street_cred: 1000
+  items:
+    - condition: "Peaceful resolution"
+      items: ["Flathead", "Maelstrom ally status"]
+    - condition: "Violent resolution"
+      items: ["Random Maelstrom weapons", "Militech ally status"]
+  relationships:
+    - character: "Meredith Stout"
+      outcomes:
+        - condition: "Cooperation"
+          result: "Potential romance"
+        - condition: "Betrayal"
+          result: "Enemy"
+    - character: "Maelstrom"
+      outcomes:
+        - condition: "Peaceful"
+          result: "Neutral/Allied"
+        - condition: "Violent"
+          result: "Hostile"
+
+technical_metadata:
+  average_duration: "45-60 minutes"
+  replayability: "High"
+  choice_complexity: "High"
+  bugs_to_note: "None critical"
+
+related_cards:
+  characters:
+    - "char_meredith_stout"
+    - "char_royce"
+    - "char_brick"
+  locations:
+    - "loc_all_foods"
+  factions:
+    - "faction_maelstrom"
+    - "faction_militech"
+  items:
+    - "tech_flathead"
+
+notes_for_elena:
+  key_points:
+    - "Prvá veľká misia s komplexnými voľbami"
+    - "Predstavenie korporátno-gangového konfliktu"
+    - "Dôležité pre vzťahy s frakciami"
+  
+  roleplay_tips:
+    - "Prispôsobiť dialóg podľa predošlých rozhodnutí"
+    - "Poznať detaily všetkých možných výsledkov"
+    - "Vedieť o dlhodobých následkoch"
+    
+  conversation_guidelines:
+    - "Neprebiehať pred rozhodnutiami"
+    - "Poznať všetky možné cesty"
+    - "Upozorniť na dôležité voľby bez spoilerovania"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

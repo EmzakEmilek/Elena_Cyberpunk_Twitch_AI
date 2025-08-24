@@ -1,0 +1,176 @@
+type: "quest"
+title: "M'ap Tann Pèlen"
+category: "main_story"
+
+summary: "V enters Voodooboys territory v Pacifica a meets Placide. First direct contact s faction, establishing relationship pre Blackwall investigation."
+
+key_points:
+  - "Voodooboys territory entry"
+  - "Placide introduction"
+  - "Pacifica district exploration"
+  - "Faction negotiation"
+  - "AI investigation setup"
+  - "Cultural immersion"
+
+story_context:
+  act: "Act 1"
+  position: "Faction introduction"
+  importance: "Establishes Voodooboys relationship"
+
+characters:
+  - "V (protagonist)"
+  - "Placide (Voodooboys leader)"
+  - "Brigitte (elder netrunner)"
+  - "Ti Neptune (gang member)"
+  - "Other Voodooboys members"
+
+pacifica_introduction:
+  district_characteristics:
+    - "Abandoned corporate project"
+    - "Voodooboys territory"
+    - "Haitian culture dominance"
+    - "Advanced technology hideouts"
+  
+  environmental_details:
+    - "Flooded streets"
+    - "Makeshift settlements"
+    - "Hidden tech installations"
+    - "Cultural artwork"
+
+voodooboys_culture:
+  haitian_heritage:
+    - "Creole language usage"
+    - "Traditional beliefs"
+    - "Family structures"
+    - "Resistance history"
+  
+  technological_fusion:
+    - "Advanced netrunning"
+    - "AI communication attempts"
+    - "Blackwall exploration"
+    - "Corporate infiltration"
+
+placide_character:
+  leadership_role:
+    - "Faction security chief"
+    - "Technology specialist"
+    - "Negotiation authority"
+    - "Cultural guardian"
+  
+  personality_traits:
+    - "Protective of family"
+    - "Suspicious of outsiders"
+    - "Pragmatic decision making"
+    - "Traditional values"
+
+choices:
+  approach_style:
+    description: "Ako approach Voodooboys"
+    options:
+      - "Respectful - honor their culture"
+      - "Business-like - focus on mutual benefit"
+      - "Aggressive - demand cooperation"
+      - "Curious - ask many questions"
+    consequences: "Affects faction relationship"
+
+faction_negotiations:
+  initial_meeting:
+    - "Territory entry protocols"
+    - "Respect demonstration"
+    - "Capability assessment"
+    - "Trust building"
+  
+  cooperation_terms:
+    - "Mutual benefit identification"
+    - "Risk sharing"
+    - "Information exchange"
+    - "Future collaboration"
+
+objectives:
+  - "Gain Voodooboys trust"
+  - "Establish cooperation"
+  - "Learn about AI plans"
+  - "Navigate cultural differences"
+  - "Secure faction support"
+
+ai_investigation_setup:
+  blackwall_interest:
+    - "AI contact attempts"
+    - "Forbidden knowledge seeking"
+    - "Corporate resistance"
+    - "Technological transcendence"
+  
+  netwatch_opposition:
+    - "Authority rejection"
+    - "Freedom pursuit"
+    - "Independent exploration"
+    - "Corporate defiance"
+
+themes:
+  - "Cultural respect vs exploitation"
+  - "Outsider acceptance"
+  - "Technology and tradition"
+  - "Collective vs individual goals"
+
+cultural_elements:
+  language_barriers:
+    - "Creole communications"
+    - "Cultural references"
+    - "Insider knowledge"
+    - "Respect demonstrations"
+  
+  traditional_practices:
+    - "Family loyalty"
+    - "Elder respect"
+    - "Community decisions"
+    - "Cultural preservation"
+
+technology_integration:
+  advanced_capabilities:
+    - "Sophisticated netrunning"
+    - "AI communication tools"
+    - "Corporate infiltration tech"
+    - "Blackwall exploration equipment"
+  
+  hidden_infrastructure:
+    - "Underground networks"
+    - "Secure communication"
+    - "Advanced servers"
+    - "Research facilities"
+
+emotional_dynamics:
+  v_perspective:
+    - "Cultural learning"
+    - "Respect development"
+    - "Trust building"
+    - "Goal alignment"
+  
+  voodooboys_view:
+    - "Outsider evaluation"
+    - "Usefulness assessment"
+    - "Risk calculation"
+    - "Cultural protection"
+
+related:
+  - "voodooboys_faction"
+  - "placide_character"
+  - "pacifica_district"
+  - "blackwall_investigation"
+  - "netwatch_conflict"
+
+elena_notes:
+  talking_points:
+    - "Voodooboys culture details"
+    - "Pacifica district exploration"
+    - "Faction relationship building"
+    - "AI investigation beginning"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Cultural sensitivity required"
+    - "Faction politics introduction"
+    - "Territory and character development"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

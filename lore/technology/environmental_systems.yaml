@@ -1,0 +1,78 @@
+﻿type: "technology"
+title: "Environmental Systems"
+category: ""
+technology_id: ""
+
+content:
+  summary: "Technology for environmental control and management in Night City"
+  
+name: Environmental Systems
+type: technology
+description: Technology for environmental control and management in Night City
+details: |
+  Environmental systems manage and control the urban environment of Night City.
+
+  System Types:
+  - Air Management
+    * Pollution control
+    * Air filtration
+    * Climate control
+    * Weather modification
+  - Water Systems
+    * Purification
+    * Distribution
+    * Recycling
+    * Waste management
+
+  Control Systems:
+  - Monitoring
+    * Air quality
+    * Water quality
+    * Pollution levels
+    * Climate metrics
+  - Response Systems
+    * Emergency protocols
+    * Disaster management
+    * Crisis response
+    * Damage control
+
+  Technologies:
+  - Cleanup Systems
+    * Pollution removal
+    * Waste processing
+    * Contamination control
+    * Environmental repair
+  - Prevention
+    * Emission control
+    * Resource management
+    * Sustainable tech
+    * Protection measures
+
+importance: Critical urban infrastructure
+common_locations:
+  - City infrastructure
+  - Industrial zones
+  - Residential areas
+  - Corporate facilities
+relationships:
+  - Energy Systems
+  - Transportation Tech
+  - verejnĂ˝ Health
+  - Environmental Politics
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,73 @@
+﻿type: "technology"
+title: "Street Art Movement"
+category: ""
+technology_id: ""
+
+content:
+  summary: "Urban art and expression in Night City's streets"
+  
+name: Street Art Movement
+type: culture
+description: Urban art and expression in Night City's streets
+details: |
+  Street art in Night City represents a vibrant form of cultural expression and social commentary.
+
+  Art Forms:
+  - Visual Media
+    * Holographic projections
+    * LED installations
+    * Traditional murals
+    * Digital displays
+  - Interactive Art
+    * AR experiences
+    * verejnĂ˝ installations
+    * Neural art
+    * Sensory pieces
+
+  beĹľnĂ˝ Themes:
+  - Corporate resistance
+  - Social inequality
+  - Cultural identity
+  - Technological impact
+  - Urban life
+
+  Technical Elements:
+  - Digital integration
+  - AR overlays
+  - Smart materials
+  - Interactive components
+
+  Cultural Impact:
+  - Social movements
+  - Political statements
+  - Community identity
+  - Cultural preservation
+
+importance: Vital form of cultural expression
+common_locations:
+  - City walls
+  - Abandoned buildings
+  - verejnĂ˝ spaces
+  - Underground galleries
+relationships:
+  - Urban Legends
+  - Street Fashion Trends
+  - Combat Zones Culture
+  - Street Level Politics
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

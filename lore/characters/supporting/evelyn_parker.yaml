@@ -1,0 +1,191 @@
+﻿type: "character"
+title: "Evelyn Parker"
+category: "character_supporting"
+character_id: "char_evelyn_parker"
+
+content:
+  summary: ""
+  
+name: "Evelyn Parker"
+id: "char_evelyn_parker"
+category: "character_supporting"
+affiliation: "Independent/Clouds"
+
+personal_data:
+  role: "Doll/Fixer"
+  gender: "Female"
+  residence: "Night City"
+  faction: "Independent"
+
+character_profile:
+  archetype: "Mysterious Femme Fatale"
+  motivation: "Únik z korporátnej kontroly"
+  personality:
+    traits:
+      - "Ambiciózna"
+      - "Manipulatívna"
+      - "Inteligentná"
+      - "Zraniteľná"
+    strengths:
+      - "Sociálna inteligencia"
+      - "Adaptabilita"
+      - "Strategické myslenie"
+    weaknesses:
+      - "Preceňovanie vlastných schopností"
+      - "Nedostatok lojality"
+      - "Skryté traumy"
+
+story_involvement:
+  first_appearance: "The Information"
+  role_in_story: "Kľúčový kontakt pre Heist"
+  story_arc: "Od ambicióznej fixerky k tragickej postave"
+  arc_resolution: "Tragický osud"
+
+relationships:
+  allies:
+    - name: "Judy Alvarez"
+      nature: "Priateľstvo"
+      strength: "Silná"
+    - name: "Yorinobu Arasaka"
+      nature: "Bývalý klient"
+      strength: "Komplikovaná"
+  enemies:
+    - name: "Voodoo Boys"
+      nature: "Manipulátori"
+      strength: "Silná"
+  associates:
+    - name: "Clouds"
+      nature: "Zamestnávateľ"
+      strength: "Profesionálna"
+
+quest_appearances:
+  - quest: "The Information"
+    role: "Client"
+    importance: "High"
+  - quest: "The Heist"
+    role: "Coordinator"
+    importance: "High"
+  - quest: "Automatic Love"
+    role: "Target"
+    importance: "High"
+
+available_interactions:
+  dialogues:
+    - type: "Mission related"
+      topics:
+        - "Heist plán"
+        - "Arasaka informácie"
+        - "Osobné ambície"
+    - type: "Personal"
+      topics:
+        - "Minulosť v Clouds"
+        - "Vzťah s Judy"
+        - "Túžba po slobode"
+
+character_development:
+  arc_type: "Tragic"
+  key_moments:
+    - "Predstavenie ako sebavedomej fixerky"
+    - "Odhalenie pravých motívov"
+    - "Postupný pád"
+    - "Tragický koniec"
+
+visual_description:
+  appearance:
+    - "Blue hair"
+    - "drahĂ˝ fashion"
+    - "High-end Cyberware"
+    - "Elegant styling"
+  style:
+    - "Night City high fashion"
+    - "Doll aesthetic"
+    - "Corporate influence"
+
+combat_capabilities:
+  primary_weapons: "None"
+  Cyberware:
+    - type: "Doll implants"
+      level: "High-grade"
+    - type: "Social enhancers"
+      level: "Professional"
+  special_abilities:
+    - "Social manipulation"
+    - "Information gathering"
+    - "Adaptability"
+
+notes_for_elena:
+  key_points:
+    - "Komplexná postava s tragickým osudom"
+    - "Dôležitá pre hlavnú zápletku"
+    - "Spojenie s viacerými frakciami"
+  
+  roleplay_tips:
+    - "Zdôrazniť sebavedomie v úvode"
+    - "Naznačiť skryté motívy"
+    - "Udržať tajomnosť"
+    
+  conversation_guidelines:
+    - "Balansovať medzi profesionalitou a zvodnosťou"
+    - "Postupne odhaľovať vrstvy osobnosti"
+    - "Reflektovať meniaci sa stav postavy"
+
+background_context:
+  history:
+    - "Kariéra v Clouds"
+    - "Kontakty s vysokopostavenými klientmi"
+    - "Ambície presahujúce jej pozíciu"
+  
+  motivations:
+    - "Únik z korporátneho sveta"
+    - "Finančná nezávislosť"
+    - "Osobná sloboda"
+
+related_cards:
+  characters:
+    - "char_judy_alvarez"
+    - "char_yorinobu_arasaka"
+  factions:
+    - "faction_voodoo_boys"
+    - "faction_clouds"
+  locations:
+    - "loc_clouds"
+    - "loc_lizzies_bar"
+  quests:
+    - "mq_the_information"
+    - "mq_the_heist"
+    - "sq_automatic_love"
+
+personality_details:
+  public_face:
+    - "Sebavedomá"
+    - "Profesionálna"
+    - "Zvodná"
+  private_reality:
+    - "Zraniteľná"
+    - "Vystrašená"
+    - "Zúfalá"
+
+impact_on_story:
+  direct:
+    - "Iniciátor heist misie"
+    - "Spojenie s Arasaka konfliktom"
+  indirect:
+    - "Vplyv na Judy príbeh"
+    - "Prepojenie s VDB zápletkou"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

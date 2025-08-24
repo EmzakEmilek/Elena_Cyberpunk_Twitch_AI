@@ -1,0 +1,177 @@
+﻿type: "character"
+title: "Valentinos"
+category: "faction_gang"
+character_id: "faction_valentinos"
+
+content:
+  summary: ""
+  
+name: "Valentinos"
+id: "faction_valentinos"
+category: "faction_gang"
+
+faction_overview:
+  description: "Latino gang s tradíciami a silným komunitným spojením"
+  territory: "Heywood District"
+  leader: "Kolektívne vedenie rodín"
+  strength: "Vysoká"
+
+core_aspects:
+  philosophy:
+    - "Rodinná česť"
+    - "Komunitná lojalita"
+    - "Latino tradície"
+  
+  methods:
+    - "Teritoriálna kontrola"
+    - "Komunitná ochrana"
+    - "Rodinné väzby"
+
+organization:
+  structure:
+    - "Rodinné klany"
+    - "Pouličné crews"
+    - "Komunitní lídri"
+  
+  roles:
+    - "Rodinní bosovia"
+    - "Street captains"
+    - "Soldiers"
+
+characteristics:
+  appearance:
+    - "Latino style"
+    - "Religious symbols"
+    - "Gang colors"
+  
+  style:
+    - "Traditional"
+    - "Family oriented"
+    - "Street proud"
+
+activities:
+  primary:
+    - "Territory control"
+    - "Community protection"
+    - "Family business"
+  
+  secondary:
+    - "Car culture"
+    - "Street racing"
+    - "Local trade"
+
+territory_control:
+  main_areas:
+    - "Heywood"
+    - "Vista del Rey"
+    - "The Glen"
+  
+  methods:
+    - "Family presence"
+    - "Community ties"
+    - "Street control"
+
+relations:
+  allies:
+    - "Local community"
+    - "Family networks"
+    - "Selected gangs"
+  
+  enemies:
+    - "6th Street"
+    - "Outside threats"
+    - "Community enemies"
+
+resources:
+  physical:
+    - "Territory holdings"
+    - "Family businesses"
+    - "Street networks"
+  
+  income:
+    - "Legal business"
+    - "Protection money"
+    - "Community support"
+
+combat_style:
+  approach:
+    - "Street fighting"
+    - "Car combat"
+    - "Group tactics"
+  
+  weapons:
+    - "Traditional arms"
+    - "Street weapons"
+    - "Cars and bikes"
+
+special_traits:
+  strengths:
+    - "Community support"
+    - "Family unity"
+    - "Street presence"
+  
+  weaknesses:
+    - "Internal rivalries"
+    - "Traditional limits"
+    - "Territory bounds"
+
+recruitment:
+  requirements:
+    - "Family ties"
+    - "Community connection"
+    - "Latino heritage"
+  
+  process:
+    - "Family vouch"
+    - "Street testing"
+    - "Loyalty proof"
+
+culture:
+  traditions:
+    - "Family values"
+    - "Religious respect"
+    - "Street honor"
+  
+  customs:
+    - "Family meetings"
+    - "Street ceremonies"
+    - "Community events"
+
+community_role:
+  protection:
+    - "Family safety"
+    - "Business guard"
+    - "Street peace"
+  
+  support:
+    - "Local help"
+    - "Youth programs"
+    - "Family aid"
+
+notes_for_elena:
+  key_points:
+    - "Family first"
+    - "Community focus"
+    - "Street pride"
+  
+  interaction_tips:
+    - "Respect family"
+    - "Honor traditions"
+    - "Support community"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

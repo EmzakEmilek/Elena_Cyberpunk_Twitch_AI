@@ -1,0 +1,190 @@
+name: "Tom"
+id: "char_tom_bartender"
+category: "character_supporting"
+affiliation: "Lizzie's Bar"
+
+personal_data:
+  role: "Bartender"
+  gender: "Male"
+  residence: "Watson, Night City"
+  faction: "Mox"
+
+character_profile:
+  archetype: "Friendly Bartender/Information Broker"
+  motivation: "Práca a informácie"
+  personality:
+    traits:
+      - "Priateľský"
+      - "Informovaný"
+      - "Diskrétny"
+      - "Profesionálny"
+    strengths:
+      - "Sociálne zručnosti"
+      - "Informačná sieť"
+      - "Diskrétnosť"
+      - "Profesionalita"
+    weaknesses:
+      - "Obmedzený vplyv"
+      - "Zraniteľná pozícia"
+
+story_involvement:
+  first_appearance: "Act 1"
+  role_in_story: "Informačný zdroj"
+  significance: "Podporná postava"
+
+relationships:
+  professional:
+    - name: "Judy Alvarez"
+      nature: "Kolega"
+      strength: "Pracovná"
+    - name: "Mox Members"
+      nature: "Kolega"
+      strength: "Pracovná"
+  
+  customers:
+    - name: "V"
+      nature: "Informačný zdroj"
+      strength: "Profesionálna"
+
+bar_operations:
+  position: "Head Bartender"
+  duties:
+    - "Drink mixing"
+    - "Customer service"
+    - "Information gathering"
+  expertise:
+    - "Mixology"
+    - "Social intelligence"
+    - "Crowd management"
+
+background_context:
+  history:
+    - "Bartending experience"
+    - "Mox association"
+    - "Information network"
+  
+  current_situation:
+    - "Lizzie's Bar operation"
+    - "Information gathering"
+    - "Customer service"
+
+workplace_role:
+  responsibilities:
+    - "Bar management"
+    - "Drink service"
+    - "Customer relations"
+  environment:
+    - "High energy"
+    - "Alternative"
+    - "Protected"
+
+notes_for_elena:
+  key_points:
+    - "Informovaný barman"
+    - "Mox člen"
+    - "Profesionál"
+  
+  roleplay_tips:
+    - "Priateľský prístup"
+    - "Informačný broker"
+    - "Diskrétnosť"
+    
+  conversation_guidelines:
+    - "Barmanský štýl"
+    - "Informačné náznaky"
+    - "Profesionálny tón"
+
+professional_skills:
+  bartending:
+    - "Mixology"
+    - "Customer service"
+    - "Stock management"
+  
+  information:
+    - "Gathering"
+    - "Filtering"
+    - "Distribution"
+
+related_cards:
+  characters:
+    - "char_judy_alvarez"
+    - "char_v"
+  locations:
+    - "loc_lizzies_bar"
+    - "loc_watson_district"
+  factions:
+    - "faction_mox"
+
+bar_expertise:
+  skills:
+    - "Drink mixing"
+    - "Customer relations"
+    - "Information management"
+  knowledge:
+    - "Local gossip"
+    - "Customer preferences"
+    - "Security awareness"
+
+information_network:
+  sources:
+    - "Customers"
+    - "Staff"
+    - "Local contacts"
+  types:
+    - "Local news"
+    - "Customer intel"
+    - "Market trends"
+
+impact_on_story:
+  direct:
+    - "Information provision"
+    - "Scene setting"
+    - "Atmosphere creation"
+  indirect:
+    - "Background context"
+    - "World building"
+    - "Character connections"
+
+visual_description:
+  appearance:
+    - "Professional attire"
+    - "Friendly demeanor"
+    - "Alert presence"
+    - "Clean-cut look"
+  
+  workspace:
+    - "Well-organized bar"
+    - "Professional setup"
+    - "Efficient layout"
+    - "Clean environment"
+
+role_in_community:
+  services:
+    - "Drink service"
+    - "Information sharing"
+    - "Social connection"
+  
+  connections:
+    - "Regular customers"
+    - "Local community"
+    - "Mox members"
+
+security_awareness:
+  responsibilities:
+    - "Customer monitoring"
+    - "Situation assessment"
+    - "Problem prevention"
+  protocols:
+    - "Mox guidelines"
+    - "Bar security"
+    - "Customer safety"
+
+customer_service:
+  approach:
+    - "Professional"
+    - "Friendly"
+    - "Efficient"
+  priorities:
+    - "Customer satisfaction"
+    - "Safety"
+    - "Information gathering"

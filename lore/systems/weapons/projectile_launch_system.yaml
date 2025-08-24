@@ -1,0 +1,70 @@
+﻿type: "technology"
+title: "Projectile Launch System"
+category: ""
+technology_id: ""
+
+content:
+  summary: "Integrated or external systems for launching various types of projectiles"
+  
+name: Projectile Launch System
+type: weapon_system
+description: Integrated or external systems for launching various types of projectiles
+details: |
+  Projectile Launch Systems encompass various technologies designed to launch specialized ammunition and projectiles.
+
+  System Types:
+  - Integrated Systems
+    * Cyberarm launchers
+    * Shoulder mounts
+    * Leg installations
+  - External Systems
+    * Portable launchers
+    * Vehicle mounts
+    * Stationary platforms
+
+  Ammunition Types:
+  - Explosive rounds
+  - Gas projectiles
+  - EMP charges
+  - Tracking devices
+  
+  Applications:
+  - Combat operations
+  - Crowd control
+  - Breach tactics
+  - Support roles
+
+  Technical Features:
+  - Targeting assistance
+  - Multiple load options
+  - Safety systems
+  - Quick reload mechanism
+
+importance: Versatile weapon platform for specialized operations
+common_locations:
+  - Military units
+  - Security forces
+  - Special operations
+  - KorporĂˇtna bezpeÄŤnosĹĄ
+relationships:
+  - Combat Implants
+  - Military-Grade Weapons
+  - Ammunition Types
+  - Targeting Systems
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

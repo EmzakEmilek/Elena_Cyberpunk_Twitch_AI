@@ -1,0 +1,155 @@
+﻿type: "character"
+title: "The Moxes"
+category: "faction_gang"
+character_id: "faction_moxes"
+
+content:
+  summary: ""
+  
+name: "The Moxes"
+id: "faction_moxes"
+category: "faction_gang"
+
+faction_overview:
+  description: "Gang zameraný na ochranu sex workers a boj proti zneužívaniu"
+  territory: "Lizzie's Bar a okolie"
+  leader: "Susie Q"
+  strength: "Stredná"
+
+core_aspects:
+  philosophy:
+    - "Ochrana slabších"
+    - "Boj proti zneužívaniu"
+    - "Vzájomná podpora"
+  
+  methods:
+    - "Community protection"
+    - "Information network"
+    - "Direct action"
+
+organization:
+  structure:
+    - "Voľná hierarchia"
+    - "Vzájomná podpora"
+    - "Komunitné vedenie"
+  
+  roles:
+    - "Ochrankári"
+    - "Informátori"
+    - "Support staff"
+
+characteristics:
+  appearance:
+    - "Punk estetika"
+    - "Výrazné farby"
+    - "Provokative style"
+  
+  style:
+    - "Sex-positive"
+    - "Punk rock"
+    - "Street fashion"
+
+activities:
+  primary:
+    - "Ochrana sex workers"
+    - "Bezpečné priestory"
+    - "Komunitná podpora"
+  
+  secondary:
+    - "Bar operations"
+    - "Information trading"
+    - "Underground support"
+
+territory_control:
+  main_areas:
+    - "Lizzie's Bar"
+    - "Okolité ulice"
+    - "Safe houses"
+  
+  methods:
+    - "Active patrols"
+    - "Community watch"
+    - "Info network"
+
+relations:
+  allies:
+    - "Independent workers"
+    - "Local community"
+    - "Progressive groups"
+  
+  enemies:
+    - "Tyger Claws"
+    - "Abusers"
+    - "Exploiters"
+
+resources:
+  physical:
+    - "Lizzie's Bar"
+    - "Safe houses"
+    - "Community spaces"
+  
+  income:
+    - "Bar profits"
+    - "Community support"
+    - "Protection fees"
+
+combat_style:
+  approach:
+    - "Defensive focus"
+    - "Quick response"
+    - "Community defense"
+  
+  weapons:
+    - "Smart weapons"
+    - "Quick firearms"
+    - "Personal defense"
+
+special_traits:
+  strengths:
+    - "Community support"
+    - "Information network"
+    - "Quick response"
+  
+  weaknesses:
+    - "Limited territory"
+    - "Small numbers"
+    - "Resource constraints"
+
+recruitment:
+  requirements:
+    - "Community focus"
+    - "Protection mindset"
+    - "Loyalty to cause"
+  
+  process:
+    - "Community vouching"
+    - "Trust building"
+    - "Proven support"
+
+notes_for_elena:
+  key_points:
+    - "Protection focus"
+    - "Community support"
+    - "Progressive values"
+  
+  interaction_tips:
+    - "Respect workers"
+    - "Support community"
+    - "Show solidarity"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

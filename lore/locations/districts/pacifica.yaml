@@ -1,0 +1,147 @@
+name: "Pacifica District"
+id: "district_pacifica"
+category: "location_district"
+
+district_overview:
+  description: "Opustená turistická štvrť premenená na nebezpečnú zónu ovládanú Voodoo Boys"
+  population: "Nízka, hlavne gangy a bezdomovci"
+  safety_level: "Extrémne nebezpečné"
+  dominant_gangs: 
+    - "Voodoo Boys"
+    - "Animals"
+
+key_features:
+  architecture:
+    - "Opustené hotely"
+    - "Nedokončené projekty"
+    - "Zničené atrakcie"
+    - "Underground bunky"
+  
+  atmosphere:
+    - "Post-apokalyptická"
+    - "Nebezpečná"
+    - "Opustená"
+    - "Mysteriózna"
+
+areas:
+  coastview:
+    description: "Bývalá plážová zóna"
+    features:
+      - "Opustené hotely"
+      - "Zničené pláže"
+      - "Gang teritórium"
+  
+  west_wind_estate:
+    description: "Nedokončený bytový komplex"
+    features:
+      - "Rozostavaná štruktúra"
+      - "Squatterské obydlia"
+      - "Underground aktivita"
+
+economy:
+  legal:
+    - "Minimálny obchod"
+    - "Základné služby"
+    - "Prežitie"
+  
+  illegal:
+    - "Gang ekonomika"
+    - "Čierny trh"
+    - "Hackerské služby"
+
+security:
+  official:
+    presence: "Žiadna"
+    control: "Gang ovládané"
+    risk: "Maximálne"
+  
+  unofficial:
+    - "Gang hliadky"
+    - "Teritoriálne zóny"
+    - "Násilné strety"
+
+social_aspects:
+  groups:
+    - "Gang členovia"
+    - "Hackeri"
+    - "Bezdomovci"
+  
+  culture:
+    - "Gang pravidlá"
+    - "Haitská kultúra"
+    - "Prežitie"
+
+transportation:
+  public:
+    - "Minimálna doprava"
+    - "Zničené cesty"
+    - "Nebezpečné zóny"
+  
+  private:
+    - "Gang vozidlá"
+    - "Pašerácke trasy"
+    - "Únikové cesty"
+
+landmarks:
+  abandoned:
+    - name: "Grand Imperial Mall"
+      type: "Opustené centrum"
+    - name: "Abandoned Hotels"
+      type: "Zničené hotely"
+    - name: "Beach Ruins"
+      type: "Plážové ruiny"
+
+services:
+  basic:
+    - "Underground obchody"
+    - "Gang služby"
+    - "Hackerské služby"
+  
+  illegal:
+    - "Pašovanie"
+    - "Netrunning"
+    - "Gang ochrana"
+
+dangers:
+  constant:
+    - "Gang násilie"
+    - "Prepadnutia"
+    - "Kybernetické útoky"
+  
+  environmental:
+    - "Nestabilné budovy"
+    - "Toxické oblasti"
+    - "Nebezpečné ruiny"
+
+opportunities:
+  illegal:
+    - "Gang práca"
+    - "Hackovanie"
+    - "Pašovanie"
+  
+  survival:
+    - "Scavenging"
+    - "Underground obchod"
+    - "Informácie"
+
+daily_life:
+  activities:
+    - "Prežitie"
+    - "Gang operácie"
+    - "Hackerské akcie"
+  
+  challenges:
+    - "Násilné strety"
+    - "Nedostatok zdrojov"
+    - "Nebezpečné prostredie"
+
+notes_for_elena:
+  key_points:
+    - "Extrémne nebezpečné"
+    - "Gang kontrola"
+    - "Hackerský raj"
+  
+  interaction_tips:
+    - "Maximálna opatrnosť"
+    - "Rešpektuj gangy"
+    - "Priprav sa na hack"

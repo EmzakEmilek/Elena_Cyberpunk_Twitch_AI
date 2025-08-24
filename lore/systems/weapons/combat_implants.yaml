@@ -1,0 +1,74 @@
+﻿type: "technology"
+title: "Combat Implants"
+category: ""
+technology_id: ""
+
+content:
+  summary: "Cybernetic implants designed to vylepĹˇiĹĄ weapon usage and combat effectiveness"
+  
+name: Combat Implants
+type: weapon_system
+description: Cybernetic implants designed to vylepĹˇiĹĄ weapon usage and combat effectiveness
+details: |
+  Combat implants are specialized Cyberware designed to zlepĹˇiĹĄ weapon handling and combat performance.
+
+  Types of Implants:
+  - Targeting Systems
+    * Smart link interface
+    * Trajectory calculation
+    * Threat assessment
+  - Weapon Interface
+    * Neural connection
+    * Reaction enhancers
+    * Stability control
+  - Combat Enhancement
+    * Reflex boosters
+    * Aim stabilizers
+    * Recoil compensation
+
+  Installation Requirements:
+  - Medical certification
+  - Neural compatibility
+  - Power systems
+  - Cooling capability
+
+  Performance Benefits:
+  - Increased accuracy
+  - Faster target acquisition
+  - Better recoil control
+  - Enhanced awareness
+
+  Maintenance Needs:
+  - Regular calibration
+  - Software updates
+  - Hardware checks
+  - Neural alignment
+
+importance: Essential combat enhancement technology
+common_locations:
+  - Ripperdoc clinics
+  - Military facilities
+  - Corporate medical
+  - Black clinics
+relationships:
+  - Targeting Systems
+  - Smart Weapons overview
+  - Weapon Customization
+  - Military-Grade Weapons
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

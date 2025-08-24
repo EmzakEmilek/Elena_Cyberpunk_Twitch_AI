@@ -1,0 +1,82 @@
+﻿type: "economy"
+title: "Underground Music Scene"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Night City's vibrant underground music culture and scene"
+  
+name: Underground Music Scene
+type: culture
+description: Night City's vibrant underground music culture and scene
+details: |
+  The underground music scene in Night City is a diverse ecosystem of styles, venues, and subcultures.
+
+  Major Genres:
+  - Chromrock
+    * Electronic heavy
+    * Industrial elements
+    * Cyber-punk fusion
+    * Neural feedback
+  - Street Beat
+    * Urban rhythm
+    * Gang influence
+    * Social commentary
+    * Raw energy
+  - Corpo Pop
+    * Manufactured sound
+    * High production
+    * Marketing driven
+    * Synthetic vocals
+  - Tech Metal
+    * Heavy synthesis
+    * Machine rhythms
+    * Aggressive style
+    * Digital distortion
+
+  Venues:
+  - Underground clubs
+  - Street parties
+  - skrytĂ˝ venues
+  - Virtual spaces
+
+  Scene Elements:
+  - Braindance integration
+  - Neural enhancement
+  - VR performances
+  - Holographic shows
+
+  Cultural Impact:
+  - Social movements
+  - Fashion trends
+  - Political expression
+  - Cultural identity
+
+importance: Major cultural force in Night City
+common_locations:
+  - Underground clubs
+  - Street venues
+  - Virtual spaces
+  - Private parties
+relationships:
+  - Street Art Movement
+  - Popular Entertainment
+  - Entertainment Industry
+  - Media Networks
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

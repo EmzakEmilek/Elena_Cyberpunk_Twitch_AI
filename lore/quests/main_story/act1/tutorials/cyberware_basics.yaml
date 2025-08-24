@@ -1,0 +1,167 @@
+name: "Cyberware Basics"
+id: "quest_tutorial_cyberware"
+category: "quest_tutorial"
+act: 1
+
+quest_type: "Tutorial"
+quest_giver: "Viktor Vector"
+location: "Viktor's Clinic"
+
+quest_overview:
+  description: "Základný tutoriál o cyberware a ripperdoc službách"
+  objectives:
+    - "Porozumieť cyberware systémom"
+    - "Naučiť sa používať implants"
+    - "Zvládnuť údržbu"
+    - "Poznať riziká"
+
+tutorial_elements:
+  cyberware_basics:
+    - "Typy implantov"
+    - "Inštalácia"
+    - "Používanie"
+    - "Údržba"
+  
+  gameplay_mechanics:
+    - "Cyberware menu"
+    - "Activation controls"
+    - "Resource management"
+    - "Health monitoring"
+
+quest_structure:
+  setup:
+    - "Návšteva Viktor's Clinic"
+    - "Diagnostika"
+    - "Výber implantu"
+  
+  progression:
+    - "Theoretical intro"
+    - "Installation demo"
+    - "Practice session"
+    - "System test"
+
+reward_structure:
+  items:
+    - "Basic implant"
+    - "Maintenance kit"
+    - "Health items"
+  knowledge:
+    - "Cyberware basics"
+    - "Maintenance info"
+    - "Health management"
+
+notes_for_elena:
+  key_points:
+    - "Cyberware význam"
+    - "Bezpečnostné riziká"
+    - "Údržbové potreby"
+  
+  roleplay_tips:
+    - "Medicínsky prístup"
+    - "Technické detaily"
+    - "Bezpečnostné rady"
+    
+  conversation_guidelines:
+    - "Medicínska terminológia"
+    - "Technické termíny"
+    - "Zdravotné rady"
+
+training_content:
+  theory:
+    - "Cyberware types"
+    - "System integration"
+    - "Risk factors"
+  practice:
+    - "Interface use"
+    - "Activation methods"
+    - "Emergency protocols"
+
+safety_protocols:
+  medical:
+    - "Health monitoring"
+    - "Risk assessment"
+    - "Emergency response"
+  technical:
+    - "System checks"
+    - "Performance monitoring"
+    - "Maintenance alerts"
+
+skill_development:
+  basic_skills:
+    - "Interface navigation"
+    - "Basic activation"
+    - "Health monitoring"
+  advanced_skills:
+    - "Resource management"
+    - "Emergency procedures"
+    - "Maintenance tasks"
+
+quest_flow:
+  introduction:
+    - "Meet Viktor"
+    - "Medical history"
+    - "System overview"
+  training:
+    - "Theory session"
+    - "Installation process"
+    - "Practice time"
+  conclusion:
+    - "Final check"
+    - "Instructions review"
+    - "Future planning"
+
+related_cards:
+  characters:
+    - "char_viktor_vector"
+  locations:
+    - "loc_viktor_clinic"
+  services:
+    - "service_ripperdoc"
+
+gameplay_impact:
+  learned_skills:
+    - "Cyberware management"
+    - "Health monitoring"
+    - "Resource optimization"
+  applications:
+    - "Combat enhancement"
+    - "Daily activities"
+    - "Special abilities"
+
+equipment_provided:
+  cyberware:
+    - "Basic implant"
+    - "Interface system"
+  tools:
+    - "Maintenance kit"
+    - "Monitoring device"
+
+success_criteria:
+  requirements:
+    - "System understanding"
+    - "Basic operation"
+    - "Safety awareness"
+  evaluation:
+    - "Practical test"
+    - "Theory check"
+    - "Safety compliance"
+
+health_considerations:
+  monitoring:
+    - "Vital signs"
+    - "System integration"
+    - "Rejection signs"
+  maintenance:
+    - "Regular checks"
+    - "Performance tuning"
+    - "Issue prevention"
+
+future_upgrades:
+  possibilities:
+    - "Advanced systems"
+    - "Specialized implants"
+    - "Custom solutions"
+  requirements:
+    - "Health status"
+    - "Resource availability"
+    - "Technical compatibility"

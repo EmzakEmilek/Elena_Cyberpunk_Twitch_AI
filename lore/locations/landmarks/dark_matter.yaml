@@ -1,0 +1,154 @@
+name: "Dark Matter"
+id: "landmark_dark_matter"
+category: "location_landmark"
+
+landmark_overview:
+  description: "Underground technický klub, centrum hackerov a netrunnerov"
+  location: "Watson District"
+  owner: "Anonymous collective"
+  significance: "Hackerské centrum"
+
+physical_characteristics:
+  exterior:
+    - "Skrytý vstup"
+    - "Industriálny vzhľad"
+    - "Neon accents"
+    - "Tech graffiti"
+  
+  interior:
+    - "Hackspace"
+    - "Data terminals"
+    - "Dance floor"
+    - "Tech workshops"
+
+access:
+  requirements:
+    - "Tech knowledge"
+    - "Insider info"
+    - "Correct passwords"
+  
+  restrictions:
+    - "Members only"
+    - "Security checks"
+    - "Dynamic access"
+
+services:
+  tech:
+    - "Data trading"
+    - "Hardware swap"
+    - "Tech support"
+  
+  social:
+    - "Networking"
+    - "Info sharing"
+    - "Underground party"
+
+security:
+  digital:
+    - "ICE protocols"
+    - "Net monitoring"
+    - "Crypto access"
+  
+  physical:
+    - "Hidden cameras"
+    - "Secret exits"
+    - "Panic systems"
+
+atmosphere:
+  style:
+    - "Cyberpunk"
+    - "Tech-heavy"
+    - "Underground"
+  
+  elements:
+    - "Data streams"
+    - "Tech displays"
+    - "Neon lights"
+
+clientele:
+  regulars:
+    - "Netrunners"
+    - "Hackers"
+    - "Tech heads"
+  
+  special:
+    - "Data traders"
+    - "Tech fixers"
+    - "Underground celebs"
+
+activities:
+  tech:
+    - "Hack sessions"
+    - "Tech trades"
+    - "Data auctions"
+  
+  social:
+    - "Tech parties"
+    - "Info exchanges"
+    - "Underground meets"
+
+special_features:
+  facilities:
+    - "Hack pods"
+    - "Data centers"
+    - "Tech labs"
+  
+  equipment:
+    - "Custom terminals"
+    - "VR stations"
+    - "Debug tools"
+
+business_model:
+  income:
+    - "Member fees"
+    - "Data sales"
+    - "Tech trades"
+  
+  expenses:
+    - "Equipment"
+    - "Security"
+    - "Maintenance"
+
+tech_aspects:
+  infrastructure:
+    - "Custom network"
+    - "Secure servers"
+    - "Debug systems"
+  
+  services:
+    - "Data access"
+    - "Tech support"
+    - "Hardware mod"
+
+community:
+  culture:
+    - "Hacker ethic"
+    - "Tech focus"
+    - "Information freedom"
+  
+  activities:
+    - "Tech meets"
+    - "Hack events"
+    - "Data sharing"
+
+security_measures:
+  digital:
+    - "AI guards"
+    - "ICE systems"
+    - "Crypto locks"
+  
+  physical:
+    - "Hidden security"
+    - "Escape routes"
+    - "Safe rooms"
+
+notes_for_elena:
+  key_points:
+    - "Tech central"
+    - "Underground vibe"
+    - "Hacker paradise"
+  
+  interaction_tips:
+    - "Tech knowledge"
+    - "Security aware"
+    - "Info careful"

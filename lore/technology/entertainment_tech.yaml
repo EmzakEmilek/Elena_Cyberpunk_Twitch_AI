@@ -1,0 +1,78 @@
+﻿type: "technology"
+title: "Entertainment Tech"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ entertainment and leisure technology systems"
+  
+name: Entertainment Tech
+type: technology
+description: pokroÄŤilĂ˝ entertainment and leisure technology systems
+details: |
+  Entertainment technology encompasses various systems for delivering immersive experiences and entertainment.
+
+  System Types:
+  - Virtual Systems
+    * VR environments
+    * AR experiences
+    * Mixed reality
+    * Holographic displays
+  - Sensory Tech
+    * Neural stimulation
+    * Mood enhancement
+    * Sensory feedback
+    * Experience sharing
+
+  Entertainment Forms:
+  - Interactive Media
+    * Gaming systems
+    * Virtual worlds
+    * Social platforms
+    * Live events
+  - Passive Entertainment
+    * Video streams
+    * Neural recordings
+    * Ambient media
+    * Sound systems
+
+  Features:
+  - Experience Quality
+    * High definition
+    * Neural sync
+    * Emotional depth
+    * Sensory range
+  - User Interface
+    * Neural control
+    * Gesture systems
+    * Voice commands
+    * Thought interface
+
+importance: Major leisure technology sector
+common_locations:
+  - Entertainment districts
+  - Private venues
+  - verejnĂ˝ spaces
+  - Home systems
+relationships:
+  - Braindance Technology
+  - Virtual Reality Systems
+  - Media Networks
+  - Entertainment Industry
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

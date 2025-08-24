@@ -1,0 +1,173 @@
+type: "quest"
+title: "Never Fade Away"
+category: "main_story"
+
+summary: "Johnny Silverhand's memory quest - reliving his 2023 attack na Arasaka Tower. Key backstory revelation about Johnny, Alt Cunningham, a origins of current conflict."
+
+key_points:
+  - "Johnny Silverhand backstory"
+  - "2023 Arasaka Tower attack"
+  - "Alt Cunningham's fate"
+  - "Soulkiller technology origins"
+  - "Samurai band history"
+  - "Corporate war context"
+
+story_context:
+  act: "Act 1"
+  position: "Flashback sequence"
+  importance: "Reveals Johnny's motivation"
+
+characters:
+  - "Johnny Silverhand (memories)"
+  - "Alt Cunningham"
+  - "Kerry Eurodyne"
+  - "Rogue Amendiares"
+  - "Morgan Blackhand"
+  - "Adam Smasher"
+  - "Arasaka security"
+
+flashback_sequence:
+  band_formation:
+    - "Samurai creation"
+    - "Anti-corpo music"
+    - "Rebellion philosophy"
+    - "Friendship bonds"
+  
+  alt_relationship:
+    - "Love story beginning"
+    - "Genius netrunner"
+    - "Soulkiller development"
+    - "Corporate interest"
+  
+  corporate_war:
+    - "Militech vs Arasaka"
+    - "Night City battlefield"
+    - "Civilian casualties"
+    - "Technology warfare"
+
+arasaka_tower_assault:
+  mission_planning:
+    - "Team assembly"
+    - "Nuclear device acquisition"
+    - "Infiltration strategy"
+    - "Extraction planning"
+  
+  assault_execution:
+    - "Tower infiltration"
+    - "Security encounters"
+    - "Alt rescue attempt"
+    - "Nuclear detonation"
+
+alt_cunningham_tragedy:
+  capture_events:
+    - "Arasaka kidnapping"
+    - "Soulkiller experimentation"
+    - "Consciousness digitization"
+    - "Physical death"
+  
+  johnny_trauma:
+    - "Rescue failure"
+    - "Love loss"
+    - "Guilt development"
+    - "Revenge motivation"
+
+choices:
+  memory_interpretation:
+    description: "Ako interpret Johnny's memories"
+    options:
+      - "Heroic narrative - noble cause"
+      - "Terrorist action - destructive violence"
+      - "Personal vendetta - love-driven"
+      - "Corporate resistance - necessary evil"
+    consequences: "Affects V's opinion of Johnny"
+
+soulkiller_revelation:
+  technology_impact:
+    - "Consciousness transfer"
+    - "Digital immortality"
+    - "Personality preservation"
+    - "AI creation"
+  
+  ethical_implications:
+    - "Human soul questions"
+    - "Identity preservation"
+    - "Death redefinition"
+    - "Corporate control"
+
+objectives:
+  - "Experience Johnny's memories"
+  - "Understand Alt's fate"
+  - "Learn about Soulkiller"
+  - "See 2023 attack events"
+  - "Grasp Johnny's motivation"
+
+corporate_war_context:
+  militech_arasaka_conflict:
+    - "Technology competition"
+    - "Market dominance"
+    - "Government contracts"
+    - "Global influence"
+  
+  night_city_impact:
+    - "Civilian suffering"
+    - "Infrastructure damage"
+    - "Social upheaval"
+    - "Corporate occupation"
+
+themes:
+  - "Love transcending death"
+  - "Technology vs humanity"
+  - "Corporate oppression"
+  - "Memory and truth"
+  - "Sacrifice for ideals"
+
+samurai_band:
+  musical_rebellion:
+    - "Anti-corpo lyrics"
+    - "Underground concerts"
+    - "Fan movement"
+    - "Cultural impact"
+  
+  band_members:
+    - "Johnny - lead vocals, guitar"
+    - "Kerry - keyboard, vocals"
+    - "Other band members"
+    - "Creative process"
+
+nuclear_aftermath:
+  immediate_consequences:
+    - "Massive casualties"
+    - "Arasaka power reduction"
+    - "Night City devastation"
+    - "Corporate retaliation"
+  
+  long_term_effects:
+    - "Arasaka rebuilding"
+    - "Corporate lessons learned"
+    - "Underground resistance"
+    - "Historical revision"
+
+related:
+  - "johnny_silverhand"
+  - "alt_cunningham"
+  - "soulkiller_technology"
+  - "arasaka_tower"
+  - "corporate_war"
+  - "samurai_band"
+
+elena_notes:
+  talking_points:
+    - "Johnny's tragic backstory"
+    - "Alt Cunningham love story"
+    - "2023 historical events"
+    - "Soulkiller technology horror"
+  spoiler_level: "high"
+  conversation_context:
+    - "Kľúčové pre understanding Johnny"
+    - "Emotional investment building"
+    - "Historical context explanation"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

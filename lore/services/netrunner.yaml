@@ -1,0 +1,141 @@
+name: "Netrunner Services"
+id: "service_netrunner"
+category: "service_type"
+
+service_overview:
+  description: "Profesionálne hackerské služby a kybernetická bezpečnosť"
+  legality: "Semi-legal až illegal"
+  availability: "Underground networks"
+  price_range: "High"
+
+core_services:
+  hacking:
+    - "System infiltration"
+    - "Data extraction"
+    - "Security bypass"
+    - "ICE breaking"
+  
+  security:
+    - "Network protection"
+    - "ICE installation"
+    - "System hardening"
+    - "Counter-hacking"
+
+service_providers:
+  types:
+    - "Freelance netrunners"
+    - "Security specialists"
+    - "Data merchants"
+    - "ICE experts"
+  
+  locations:
+    - "Underground dens"
+    - "Tech shops"
+    - "Secret locations"
+    - "Mobile operations"
+
+pricing_structure:
+  factors:
+    - "Job difficulty"
+    - "Security level"
+    - "Time pressure"
+    - "Risk factor"
+  
+  payment:
+    - "Eurodollars"
+    - "Data trades"
+    - "Favor system"
+    - "Crypto currency"
+
+equipment_needs:
+  hardware:
+    - "Cyberdeck"
+    - "Neural links"
+    - "Connection gear"
+    - "Security tools"
+  
+  software:
+    - "Custom ICE"
+    - "Breach programs"
+    - "Security suites"
+    - "Data tools"
+
+security_measures:
+  digital:
+    - "Encrypted comms"
+    - "Secure channels"
+    - "Anonymous routing"
+  
+  physical:
+    - "Hidden locations"
+    - "Secure meets"
+    - "Escape routes"
+
+client_relations:
+  requirements:
+    - "Trusted contacts"
+    - "Secure communication"
+    - "Payment guarantee"
+  
+  protocols:
+    - "Anonymous meetings"
+    - "Secure data exchange"
+    - "Discrete operations"
+
+service_quality:
+  levels:
+    - name: "Basic"
+      description: "Simple hacks"
+    - name: "Advanced"
+      description: "Complex operations"
+    - name: "Expert"
+      description: "High-risk jobs"
+  
+  guarantees:
+    - "Success rate"
+    - "Data security"
+    - "Client privacy"
+
+risk_management:
+  threats:
+    - "Corporate tracking"
+    - "Rival hackers"
+    - "Law enforcement"
+  
+  precautions:
+    - "Multiple exits"
+    - "Data encryption"
+    - "Identity protection"
+
+specializations:
+  areas:
+    - "Corporate systems"
+    - "Security networks"
+    - "Database access"
+  
+  skills:
+    - "ICE breaking"
+    - "System infiltration"
+    - "Data manipulation"
+
+market_position:
+  competition:
+    - "Other netrunners"
+    - "Security firms"
+    - "Corporate teams"
+  
+  advantages:
+    - "Unique skills"
+    - "Special access"
+    - "Custom tools"
+
+notes_for_elena:
+  key_points:
+    - "High-risk service"
+    - "Technical expertise"
+    - "Discrete operations"
+  
+  interaction_tips:
+    - "Maintain secrecy"
+    - "Verify clients"
+    - "Secure comms"

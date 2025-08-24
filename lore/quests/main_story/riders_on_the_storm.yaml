@@ -1,0 +1,125 @@
+type: "quest"
+title: "Riders on the Storm"
+category: "main_story"
+
+summary: "V pomáha Panam zachrániť Saula, lídra Aldecaldos klanu, z rúk Kang Tao korporácie. Misiunea zahŕňa infiltráciu a high-tech rescue operáciu."
+
+key_points:
+  - "Saul Bright je zajatý Kang Tao"
+  - "Plánovanie rescue operácie"
+  - "Infiltrácia Kang Tao facility"
+  - "Koordinácia s Aldecaldos family"
+  - "Advanced tech vs nomad ingenuity"
+  - "Panam's leadership qualities"
+
+story_context:
+  act: "Act 2"
+  position: "Pokračovanie Panam storyline"
+  importance: "Establishment Panam ako leader"
+
+characters:
+  - "V (protagonist)"
+  - "Panam Palmer"
+  - "Saul Bright (Aldecaldos leader)"
+  - "Mitch Anderson (nomad tech expert)"
+  - "Scorpion (nomad member)"
+  - "Kang Tao security forces"
+
+locations:
+  - "Aldecaldos camp"
+  - "Kang Tao research facility"
+  - "Biotechnica protein farms"
+  - "Desert highway"
+  - "Underground tunnels"
+
+mission_phases:
+  planning:
+    - "Intel gathering"
+    - "Team coordination"
+    - "Equipment preparation"
+    - "Route planning"
+  
+  infiltration:
+    - "Stealth entry"
+    - "Security bypassing"
+    - "Guard elimination"
+    - "Saul location"
+  
+  extraction:
+    - "Rescue coordination"
+    - "Combat retreat"
+    - "Vehicle escape"
+    - "Pursuir evasion"
+
+choices:
+  rescue_approach:
+    description: "Metóda rescue operácie"
+    options:
+      - "Stealth infiltration - minimal casualties"
+      - "Direct assault - rychlý ale risky"
+      - "Tech solution - hacking approach"
+    consequences: "Rôzne combat scenarios a casualties"
+
+family_dynamics:
+  aldecaldos_relationships:
+    panam_saul:
+      - "Father figure relationship"
+      - "Leadership succession"
+      - "Mutual respect"
+    
+    clan_loyalty:
+      - "Family above individuals"
+      - "Collective decision making"
+      - "Shared responsibility"
+
+objectives:
+  - "Naplánrovať rescue Saula"
+  - "Koordinovať s nomad family"
+  - "Infiltrovať Kang Tao facility"
+  - "Locate a rescue Saul"
+  - "Escape bez casualties"
+  - "Reunite Aldecaldos family"
+
+corporate_opposition:
+  kang_tao:
+    - "High-tech security systems"
+    - "Advanced weaponry"
+    - "Corporate black ops"
+    - "AI-assisted defenses"
+
+themes:
+  - "Family bonds vs individual goals"
+  - "David vs Goliath (nomads vs corpo)"
+  - "Leadership under pressure"
+  - "Sacrifice for loved ones"
+
+emotional_moments:
+  - "Panam's vulnerability about Saul"
+  - "Clan's trust in V"
+  - "Saul's gratitude"
+  - "Family reunion"
+
+related:
+  - "ghost_town"
+  - "queen_of_the_highway"
+  - "panam_palmer"
+  - "saul_bright"
+  - "aldecaldos_clan"
+  - "kang_tao_corporation"
+
+elena_notes:
+  talking_points:
+    - "Hlboká nomad family dynamics"
+    - "High-stakes rescue mission"
+    - "Panam's leadership development"
+    - "Corpo vs nomad conflict"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Kľúčový moment pre Panam relationship"
+    - "Shows nomad values v akcii"
+    - "Important pre nomad ending path"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

@@ -1,0 +1,215 @@
+﻿type: "character"
+title: "Goro Takemura"
+category: "character_major"
+character_id: "char_takemura"
+
+content:
+  summary: ""
+  
+name: "Goro Takemura"
+id: "char_takemura"
+category: "character_major"
+affiliation: "Former Arasaka"
+
+personal_data:
+  role: "Former Arasaka Bodyguard"
+  gender: "Male"
+  residence: "Night City (formerly Japan)"
+  faction: "Independent"
+
+character_profile:
+  archetype: "Honor-bound Warrior"
+  motivation: "Česť a spravodlivosť"
+  personality:
+    traits:
+      - "Čestný"
+      - "Lojálny"
+      - "Disciplinovaný"
+      - "Tradičný"
+    strengths:
+      - "Bojové schopnosti"
+      - "Strategické myslenie"
+      - "Technické znalosti"
+      - "Neoblomná vôľa"
+    weaknesses:
+      - "Rigidné hodnoty"
+      - "Kultúrna izolácia"
+      - "Slepá lojalita"
+      - "Obmedzená adaptabilita"
+
+story_involvement:
+  first_appearance: "Act 1"
+  role_in_story: "Key Ally"
+  significance: "Major Character"
+
+relationships:
+  professional:
+    - name: "Saburo Arasaka"
+      nature: "Former Master"
+      strength: "Absolútna"
+    - name: "V"
+      nature: "Ally"
+      strength: "Rešpektovaná"
+  
+  enemies:
+    - name: "Yorinobu Arasaka"
+      nature: "Target"
+      strength: "Nepriateľská"
+
+security_expertise:
+  skills:
+    - "Close protection"
+    - "Combat tactics"
+    - "Security systems"
+  specialization:
+    - "VIP protection"
+    - "Tactical operations"
+    - "Threat assessment"
+
+background_context:
+  history:
+    - "Chudobné detstvo"
+    - "Arasaka training"
+    - "Bodyguard service"
+  
+  current_situation:
+    - "Honor quest"
+    - "Revenge mission"
+    - "Resource limitation"
+
+combat_capabilities:
+  training:
+    - "Traditional martial arts"
+    - "Modern combat"
+    - "Tactical operations"
+  equipment:
+    - "Cybernetic enhancements"
+    - "Combat gear"
+    - "Traditional weapons"
+
+notes_for_elena:
+  key_points:
+    - "Čestný bojovník"
+    - "Bývalý bodyguard"
+    - "Tradičný Japonec"
+  
+  roleplay_tips:
+    - "Formálny prejav"
+    - "Kultúrne odkazy"
+    - "Čestné správanie"
+    
+  conversation_guidelines:
+    - "Formálny jazyk"
+    - "Japonské frázy"
+    - "Kultúrny kontext"
+
+cultural_perspective:
+  values:
+    - "Traditional honor"
+    - "Loyalty"
+    - "Discipline"
+  
+  worldview:
+    - "Hierarchical society"
+    - "Personal honor"
+    - "Duty focus"
+
+related_cards:
+  characters:
+    - "char_saburo_arasaka"
+    - "char_v"
+    - "char_yorinobu_arasaka"
+  locations:
+    - "loc_arasaka_tower"
+  factions:
+    - "faction_arasaka"
+
+honor_code:
+  principles:
+    - "Personal honor"
+    - "Loyalty to duty"
+    - "Justice pursuit"
+  application:
+    - "Mission focus"
+    - "Ethical conduct"
+    - "Determined action"
+
+tactical_approach:
+  strategy:
+    - "Careful planning"
+    - "Precise execution"
+    - "Honor bound"
+  methods:
+    - "Traditional techniques"
+    - "Modern tactics"
+    - "Efficient action"
+
+impact_on_story:
+  direct:
+    - "Mission support"
+    - "Cultural perspective"
+    - "Honor themes"
+  indirect:
+    - "Moral compass"
+    - "Story development"
+    - "Character growth"
+
+visual_description:
+  appearance:
+    - "Traditional elements"
+    - "Cybernetic eyes"
+    - "Professional dress"
+    - "Warrior bearing"
+  
+  presence:
+    - "Dignified manner"
+    - "Formal posture"
+    - "Combat readiness"
+    - "Cultural identity"
+
+mission_focus:
+  objectives:
+    - "Justice pursuit"
+    - "Honor restoration"
+    - "Truth revelation"
+  methods:
+    - "Traditional approach"
+    - "Modern adaptation"
+    - "Honor bound"
+
+personal_values:
+  core:
+    - "Personal honor"
+    - "Loyalty"
+    - "Tradition"
+  expression:
+    - "Formal conduct"
+    - "Ethical behavior"
+    - "Cultural pride"
+
+combat_methodology:
+  style:
+    - "Traditional arts"
+    - "Modern tactics"
+    - "Efficient action"
+  approach:
+    - "Precise execution"
+    - "Honor bound"
+    - "Tactical awareness"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

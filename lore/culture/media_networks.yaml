@@ -1,0 +1,77 @@
+﻿type: "economy"
+title: "Media Networks"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Major media corporations and information networks in Night City"
+  
+name: Media Networks
+type: culture
+description: Major media corporations and information networks in Night City
+details: |
+  Media networks control and distribute information throughout Night City, shaping verejnĂ˝ opinion and culture.
+
+  Major Networks:
+  - Network 54
+    * Corporate news
+    * Entertainment shows
+    * Political coverage
+    * Market updates
+  - WorldSat
+    * Global coverage
+    * Breaking news
+    * Documentary content
+    * International affairs
+  - Independent Media
+    * Underground news
+    * Alternative views
+    * Investigative reporting
+    * Street coverage
+
+  Content Types:
+  - News broadcasts
+  - Entertainment shows
+  - Reality programming
+  - Marketing content
+
+  Distribution Channels:
+  - verejnĂ˝ screens
+  - Personal devices
+  - Braindance feeds
+  - Holographic displays
+
+  Control Mechanisms:
+  - Corporate oversight
+  - Content filtering
+  - Information control
+  - Narrative management
+
+importance: Critical information control system
+common_locations:
+  - Corporate towers
+  - verejnĂ˝ spaces
+  - Entertainment districts
+  - Private networks
+relationships:
+  - Corporate Culture
+  - Media Control
+  - Entertainment Industry
+  - Information Economy
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

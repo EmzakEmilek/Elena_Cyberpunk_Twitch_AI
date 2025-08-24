@@ -1,0 +1,114 @@
+type: society
+title: "Educational System"
+category: "society_politics"
+society_id: "soc_education"
+
+content:
+  summary: "Vzdelávací systém Night City, charakterizovaný extrémnou nerovnosťou, korporátnou kontrolou a technologickou integráciou."
+  
+  system_structure:
+    corporate:
+      institutions:
+        - "Korporátne akadémie"
+        - "Výskumné inštitúty"
+        - "Špecializované tréningové centrá"
+      features:
+        - "Najmodernejšie vybavenie"
+        - "Elite vyučujúci"
+        - "Guaranteed zamestnanie"
+        - "Selektívny prístup"
+    
+    public:
+      institutions:
+        - "Mestské školy"
+        - "Komunitné centrá"
+        - "Verejné univerzity"
+      challenges:
+        - "Nedostatočné financovanie"
+        - "Preľudnené triedy"
+        - "Zastaralé vybavenie"
+        - "Bezpečnostné problémy"
+    
+    alternative:
+      types:
+        - "Súkromné tutoring"
+        - "Online vzdelávanie"
+        - "Streetwise learning"
+        - "Hackerské kolektívy"
+
+  curriculum:
+    standard:
+      - "Technologická gramotnosť"
+      - "Korporátna kultúra"
+      - "Praktické zručnosti"
+      - "Základné predmety"
+    
+    specialized:
+      tech:
+        - "Programming"
+        - "Cybersecurity"
+        - "Hardware engineering"
+        - "AI development"
+      business:
+        - "Corporate management"
+        - "Market analysis"
+        - "Financial operations"
+        - "Business strategy"
+      practical:
+        - "Combat training"
+        - "Medical skills"
+        - "Technical maintenance"
+        - "Street survival"
+
+  technology_integration:
+    tools:
+      - "BrainDance learning"
+      - "Virtual classrooms"
+      - "Neural interface education"
+      - "AR/VR training"
+    
+    challenges:
+      - "Digital divide"
+      - "Tech addiction"
+      - "Privacy concerns"
+      - "Hardware compatibility"
+
+  access_issues:
+    barriers:
+      - "Finančné náklady"
+      - "Sociálny status"
+      - "Geografická lokácia"
+      - "Technologické požiadavky"
+    
+    solutions:
+      - "Scholarship programy"
+      - "Komunitné iniciatívy"
+      - "Distance learning"
+      - "Alternatívne vzdelávanie"
+
+technical_metadata:
+  quality_range: "Extrémne variabilná"
+  accessibility: "Limitovaná"
+  tech_integration: "Vysoká"
+  corporate_influence: "Dominantná"
+
+related_cards:
+  society:
+    - "soc_social_classes"
+    - "soc_corporate_politics"
+    - "soc_civil_rights"
+  technology:
+    - "tech_virtual_reality"
+    - "tech_braindance"
+    - "tech_neural_implants"
+
+notes_for_elena:
+  key_points:
+    - "Extrémne rozdiely v kvalite vzdelávania"
+    - "Silná závislosť na technológiách"
+    - "Korporátna kontrola nad vzdelávaním"
+  
+  roleplay_aspects:
+    - "Vysvetliť rozdiel medzi korporátnym a verejným vzdelávaním"
+    - "Diskutovať o dostupnosti vzdelania"
+    - "Popísať typické študentské skúsenosti"

@@ -1,0 +1,196 @@
+﻿type: "character"
+title: ""
+category: "main_story"
+character_id: ""
+
+content:
+  summary: ""
+  
+type: quest
+title: "The Heist"
+category: "main_story"
+quest_id: "quest_the_heist"
+
+content:
+  summary: "Kľúčová misia, ktorá spúšťa hlavný príbeh hry. V a Jackie sa pokúšajú ukradnúť Relic z Arasaka penthouse."
+  
+  quest_details:
+    act: 1
+    location: "Arasaka Estate, City Center"
+    duration: "Približne 2-3 hodiny gameplay"
+    difficulty: "Story-driven"
+    
+    prerequisites:
+      - "Dokončenie Prologue (Life Path)"
+      - "The Pickup quest"
+      - "Meeting with Dexter DeShawn"
+    
+    key_participants:
+      primary:
+        - "V (protagonist)"
+        - "Jackie Welles (partner)"
+        - "T-Bug (Netrunner support)"
+      
+      secondary:
+        - "Dexter DeShawn (fixer)"
+        - "Evelyn Parker (client)"
+        - "Yorinobu Arasaka (target's son)"
+        - "Saburo Arasaka (unexpected arrival)"
+
+  mission_phases:
+    preparation:
+      - "Meeting with Evelyn Parker"
+      - "Scouting Arasaka Estate"
+      - "Equipment preparation"
+      - "Final briefing with Dex"
+    
+    infiltration:
+      stealth_path:
+        - "Vstupy cez maintenance areas"
+        - "Vyhnutie sa security guards"
+        - "Hacking security systems"
+        - "Quiet takedowns"
+      
+      aggressive_path:
+        - "Direct confrontation"
+        - "Combat with security"
+        - "Alarm systems activated"
+        - "Higher risk approach"
+    
+    extraction:
+      - "Obtaining the Relic"
+      - "Unexpected complications"
+      - "Emergency escape route"
+      - "Jackie's sacrifice"
+
+  critical_choices:
+    client_decision:
+      options:
+        - "Trust Evelyn Parker"
+        - "Stay loyal to Dexter DeShawn"
+      consequences:
+        - "Affects relationship dynamics"
+        - "Changes dialogue options"
+        - "Influences later story beats"
+    
+    approach_method:
+      options:
+        - "Stealth infiltration"
+        - "Aggressive approach"
+        - "Technical hacking route"
+      consequences:
+        - "Different gameplay experience"
+        - "Varied enemy encounters"
+        - "Alternative story moments"
+
+  major_events:
+    relic_acquisition:
+      - "Discovery of Relic technology"
+      - "First glimpse of pokroÄŤilĂ˝ AI"
+      - "Understanding of true value"
+    
+    saburo_encounter:
+      - "Unexpected arrival of Arasaka patriarch"
+      - "Witness to family conflict"
+      - "Escalation of situation"
+    
+    jackie_death:
+      - "Partner's fatal injury"
+      - "Emotional climax of quest"
+      - "Relic implantation into V"
+
+  story_consequences:
+    immediate:
+      - "V becomes Relic carrier"
+      - "Johnny Silverhand's engram activation"
+      - "Six month death countdown begins"
+      - "Transition to Act 2"
+    
+    long_term:
+      - "Central conflict establishment"
+      - "Relationship with Johnny begins"
+      - "Search for Relic solution"
+      - "Night City underworld introduction"
+
+  gameplay_rewards:
+    experience:
+      - "Major story progression XP"
+      - "Skill point allocation"
+      - "New abilities unlocked"
+    
+    equipment:
+      - "Upgraded weapons access"
+      - "New clothing options"
+      - "Technical equipment"
+    
+    relationships:
+      - "Jackie Welles relationship peak"
+      - "Dexter DeShawn reputation"
+      - "Evelyn Parker connection"
+
+technical_metadata:
+  importance: "Central plot catalyst"
+  replayability: "High due to choices"
+  emotional_impact: "Maximum"
+  technical_complexity: "High"
+
+related_cards:
+  characters:
+    - "char_v"
+    - "char_jackie_welles"
+    - "char_dexter_deshawn"
+    - "char_evelyn_parker"
+    - "char_yorinobu_arasaka"
+    - "char_saburo_arasaka"
+  
+  technology:
+    - "tech_relic"
+    - "tech_braindance"
+    - "tech_arasaka_security"
+  
+  locations:
+    - "loc_arasaka_estate"
+    - "loc_city_center"
+  
+  subsequent_quests:
+    - "quest_love_like_fire"
+    - "quest_playing_for_time"
+    - "quest_automatic_love"
+
+notes_for_elena:
+  key_points:
+    - "Toto je misia, ktorá mení všetko pre V"
+    - "Jackie Welles zomiera a V dostáva Relic"
+    - "Začína sa 6-mesačný countdown do smrti"
+    - "Prvé stretnutie s Johnny Silverhand"
+  
+  conversation_guidelines:
+    - "Zdôrazniť emočný dopad Jackie's smrti"
+    - "Vysvetliť dôležitosť Relic technology"
+    - "Diskutovať o voľbách hráča a ich dôsledkoch"
+    - "Spomenúť začiatok vzťahu V a Johnny"
+  
+  roleplay_aspects:
+    - "Misia mení V z malého criminal na main character"
+    - "Ustanovuje central conflict hry"
+    - "Ukazuje realitu Night City - všetko má cenu"
+    - "Začiatok time pressure narrative"
+  
+  spoiler_level: "Major story spoilers"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

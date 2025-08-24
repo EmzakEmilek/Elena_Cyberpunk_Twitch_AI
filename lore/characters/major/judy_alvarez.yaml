@@ -1,0 +1,218 @@
+﻿type: "character"
+title: "Judy Alvarez"
+category: "character_major"
+character_id: "char_judy_alvarez"
+
+content:
+  summary: ""
+  
+name: "Judy Alvarez"
+id: "char_judy_alvarez"
+category: "character_major"
+affiliation: "Mox"
+
+personal_data:
+  role: "Braindance Technician"
+  gender: "Female"
+  residence: "Night City (Watson)"
+  faction: "Mox"
+
+character_profile:
+  archetype: "Skilled Tech Specialist"
+  motivation: "Sociálna spravodlivosť a technologický pokrok"
+  personality:
+    traits:
+      - "Inteligentná"
+      - "Empatická"
+      - "Idealistická"
+      - "Technicky zdatná"
+    strengths:
+      - "BD expertise"
+      - "Technické znalosti"
+      - "Silné morálne zásady"
+    weaknesses:
+      - "Emocionálna zraniteľnosť"
+      - "Naivita v politike"
+      - "Workoholizmus"
+
+story_involvement:
+  first_appearance: "The Information"
+  role_in_story: "BD expert a potenciálna romance"
+  story_arc: "Od technického experta k osobnému spojeniu"
+  major_quests:
+    - "The Information"
+    - "Automatic Love"
+    - "Ex-Factor"
+    - "Pisces"
+    - "Pyramid Song"
+
+relationships:
+  close:
+    - name: "Evelyn Parker"
+      nature: "Priateľstvo"
+      strength: "Silná"
+    - name: "V (female)"
+      nature: "Potenciálna romance"
+      condition: "Len ženská V"
+  allies:
+    - name: "Mox"
+      nature: "Gang affiliation"
+      strength: "Stredná"
+  professional:
+    - name: "Maiko"
+      nature: "Ex-girlfriend"
+      strength: "Komplikovaná"
+
+quest_appearances:
+  main_story:
+    - quest: "The Information"
+      role: "Technical Expert"
+      importance: "High"
+    - quest: "Automatic Love"
+      role: "Support"
+      importance: "Medium"
+  side_quests:
+    - quest: "Ex-Factor"
+      role: "Quest Giver"
+      importance: "High"
+    - quest: "Pisces"
+      role: "Quest Giver"
+      importance: "High"
+    - quest: "Pyramid Song"
+      role: "Quest Giver"
+      importance: "High"
+
+available_interactions:
+  dialogues:
+    - type: "Technical"
+      topics:
+        - "Braindance technology"
+        - "VR developments"
+        - "Cyberspace theory"
+    - type: "Personal"
+      topics:
+        - "Past experiences"
+        - "Social justice"
+        - "Romance (female V)"
+    - type: "Mission"
+      topics:
+        - "Mox activities"
+        - "Clouds issues"
+        - "Personal missions"
+
+character_development:
+  arc_type: "Growth and Connection"
+  key_moments:
+    - "Pomoc s BD analýzou"
+    - "Evelyn tragédia"
+    - "Clouds konflikt"
+    - "Osobný príbeh s V"
+  romance_path:
+    available: "Len pre ženskú V"
+    requirements:
+      - "Ženská V"
+      - "Dokončené osobné questy"
+      - "Správne dialógové voľby"
+
+visual_description:
+  appearance:
+    - "Rainbow colored hair"
+    - "Tech-casual style"
+    - "Tattoos"
+    - "Cyberware goggles"
+  style:
+    - "Alternative/Punk"
+    - "Tech-oriented"
+    - "Casual comfort"
+
+technical_expertise:
+  primary_field: "Braindance Technology"
+  skills:
+    - "BD editing"
+    - "VR programming"
+    - "Hardware modification"
+    - "Network security"
+  equipment:
+    - "Custom BD station"
+    - "Modified editing software"
+    - "Specialized Cyberware"
+
+notes_for_elena:
+  key_points:
+    - "Technický expert s hlbokým charakterom"
+    - "Dôležitá pre hlavný príbeh aj vedľajšie questy"
+    - "Potenciálna romance pre ženskú V"
+  
+  roleplay_tips:
+    - "Balansovať technickú a emocionálnu stránku"
+    - "Zdôrazniť sociálne presvedčenie"
+    - "Prispôsobiť interakcie pohlaviu V"
+    
+  conversation_guidelines:
+    - "Používať technický žargón pri BD témach"
+    - "Odrážať silné morálne zásady"
+    - "Ukázať emocionálnu inteligenciu"
+
+background_context:
+  history:
+    - "Oregon origins"
+    - "Self-taught BD expert"
+    - "Mox association"
+    - "Clouds connection"
+  
+  expertise:
+    - "BD technology pioneer"
+    - "VR programming expert"
+    - "Hardware modifier"
+
+related_cards:
+  characters:
+    - "char_evelyn_parker"
+    - "char_maiko"
+  factions:
+    - "faction_mox"
+    - "faction_clouds"
+  locations:
+    - "loc_lizzies_bar"
+    - "loc_clouds"
+  quests:
+    - "mq_the_information"
+    - "sq_ex_factor"
+    - "sq_pisces"
+    - "sq_pyramid_song"
+
+impact_on_story:
+  technical_role:
+    - "BD expert pre heist"
+    - "Technical support"
+  personal_role:
+    - "Evelyn storyline"
+    - "Mox storyline"
+    - "Romance option"
+
+character_values:
+  beliefs:
+    - "Technológia ako nástroj zmeny"
+    - "Sociálna spravodlivosť"
+    - "Lojalita k priateľom"
+  goals:
+    - "Ochrana zraniteľných"
+    - "Technologický pokrok"
+    - "Osobné šťastie"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

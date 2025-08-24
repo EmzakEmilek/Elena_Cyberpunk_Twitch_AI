@@ -1,0 +1,205 @@
+﻿type: "character"
+title: "All Foods Processing Plant"
+category: "location_landmark"
+character_id: "loc_all_foods"
+
+content:
+  summary: ""
+  
+name: "All Foods Processing Plant"
+id: "loc_all_foods"
+category: "location_landmark"
+district: "Watson"
+
+basic_info:
+  type: "Abandoned Factory"
+  ownership: "Maelstrom Gang"
+  status: "Occupied"
+  security_level: "High (Gang)"
+  public_access: false
+
+location_profile:
+  description: "Opustená potravinárska továreň obsadená gangom Maelstrom. Slúži ako ich hlavná základňa a miesto výroby drog."
+  
+  history:
+    - era: "Pred obsadením"
+      details: "Funkčná potravinárska továreň"
+    - era: "Po krachu"
+      details: "Opustená industriálna budova"
+    - era: "Súčasnosť"
+      details: "Maelstrom stronghold"
+
+physical_characteristics:
+  exterior:
+    - "Industriálna architektúra"
+    - "Zničené vybavenie"
+    - "Maelstrom modifikácie"
+    - "Strážne pozície"
+  
+  interior_areas:
+    entrance:
+      description: "Bývalá recepcia a loading dock"
+      features:
+        - "Maelstrom checkpoints"
+        - "Improvizované barikády"
+        - "Strážne pozície"
+    
+    production_floor:
+      description: "Hlavná výrobná hala"
+      features:
+        - "Staré výrobné linky"
+        - "Maelstrom vybavenie"
+        - "Laboratória na drogy"
+    
+    storage:
+      description: "Skladovacie priestory"
+      features:
+        - "Zbrane a munícia"
+        - "Kybernetické vylepšenia"
+        - "Ukradnutý tovar"
+    
+    boss_area:
+      description: "Royce's territory"
+      features:
+        - "Vylepšená bezpečnosť"
+        - "Osobné priestory"
+        - "Meeting area"
+
+security_features:
+  personnel:
+    - "Maelstrom gangers"
+    - "Heavily augmented guards"
+    - "Mechanized defenses"
+  systems:
+    - "Improvised cameras"
+    - "Alarm systems"
+    - "Automated turrets"
+  weak_points:
+    - "Stará infraštruktúra"
+    - "Neprofesionálna ochrana"
+    - "Nekomplexné zabezpečenie"
+
+story_significance:
+  main_quests:
+    - quest: "The Pickup"
+      role: "Primary mission location"
+      features:
+        - "Flathead deal location"
+        - "Maelstrom confrontation"
+        - "Multiple resolution options"
+
+regular_characters:
+  permanent:
+    - name: "Royce"
+      role: "Gang leader"
+    - name: "Brick"
+      role: "Former leader (imprisoned)"
+  
+  beĹľnĂ˝:
+    - name: "Maelstrom members"
+      role: "Gang activities"
+
+activities:
+  gang_operations:
+    - "Výroba drog"
+    - "Zbrane trafficking"
+    - "Cyberwear modding"
+  
+  mission_elements:
+    - "Stealth infiltration options"
+    - "Combat scenarios"
+    - "Negotiation possibilities"
+
+atmosphere:
+  time_of_day:
+    day:
+      - "Gang activity"
+      - "Visible security"
+      - "Industrial noise"
+    night:
+      - "Increased security"
+      - "Neon and spotlights"
+      - "Shadow operations"
+  
+  sensory_details:
+    visual:
+      - "Industrial decay"
+      - "Gang modifications"
+      - "Tech and chrome"
+    audio:
+      - "Machinery sounds"
+      - "Gang activity"
+      - "Alarm systems"
+    atmosphere:
+      - "Nebezpečná"
+      - "Industriálna"
+      - "Cyber-punk"
+
+gameplay_elements:
+  approach_options:
+    - "Stealth infiltration"
+    - "Direct confrontation"
+    - "Negotiation"
+  
+  combat_areas:
+    - "Multiple levels"
+    - "Cover positions"
+    - "Environmental hazards"
+
+notes_for_elena:
+  key_points:
+    - "Dôležitá lokácia pre The Pickup"
+    - "Reprezentuje Maelstrom teritorium"
+    - "Viacero možností prístupu"
+  
+  atmosphere_guidelines:
+    - "Zdôrazniť nebezpečnosť prostredia"
+    - "Opísať industriálny charakter"
+    - "Reflektovať Maelstrom kultúru"
+  
+  interaction_tips:
+    - "Reakcie závisia od predošlých rozhodnutí"
+    - "Rôzne prístupové cesty"
+    - "Dôsledky konfrontácie"
+
+related_cards:
+  characters:
+    - "char_royce"
+    - "char_brick"
+    - "char_meredith_stout"
+  factions:
+    - "faction_maelstrom"
+    - "faction_militech"
+  locations:
+    - "loc_watson_district"
+  quests:
+    - "mq_the_pickup"
+
+technical_metadata:
+  respawn_time: "Story dependent"
+  npc_density: "High"
+  combat_allowed: true
+  stealth_options: true
+
+environmental_hazards:
+  - "Exposed electrical wiring"
+  - "Toxic chemicals"
+  - "Unstable structures"
+  - "Improvised explosives"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

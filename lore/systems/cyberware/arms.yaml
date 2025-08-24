@@ -1,0 +1,223 @@
+﻿type: "technology"
+title: "Cybernetic Arms"
+category: "system_cyberware"
+technology_id: "system_cyberware_arms"
+
+content:
+  summary: ""
+  
+name: "Cybernetic Arms"
+id: "system_cyberware_arms"
+category: "system_cyberware"
+
+system_overview:
+  description: "Kybernetické vylepšenia pre horné končatiny"
+  core_functions:
+    - "Enhanced strength"
+    - "Precision control"
+    - "Special weapons"
+    - "Tool integration"
+
+core_features:
+  physical:
+    - "Strength boost"
+    - "Precision control"
+    - "Durability"
+    - "Flexibility"
+  
+  combat:
+    - "Weapon systems"
+    - "Mantis blades"
+    - "Gorilla arms"
+    - "Projectile launcher"
+
+enhancement_capabilities:
+  primary:
+    - "Strength enhancement"
+    - "Weapon integration"
+    - "Tool functionality"
+    - "Precision work"
+  
+  secondary:
+    - "Sensor systems"
+    - "Interface options"
+    - "Utility features"
+    - "Special functions"
+
+hardware_components:
+  structural:
+    - "Synthetic muscle"
+    - "Titanium frame"
+    - "Neural interface"
+  
+  systems:
+    - "Control unit"
+    - "Power supply"
+    - "Cooling system"
+
+notes_for_elena:
+  key_points:
+    - "Enhanced capabilities"
+    - "Combat options"
+    - "Utility functions"
+  
+  roleplay_tips:
+    - "Physical prowess"
+    - "Combat expertise"
+    - "Technical skill"
+    
+  conversation_guidelines:
+    - "Technical terms"
+    - "Combat aspects"
+    - "Utility features"
+
+performance_levels:
+  basic:
+    description: "Standard augmentation"
+    capabilities: "Basic functions"
+    limitations: "Limited power"
+  
+  pokroÄŤilĂ˝:
+    description: "Enhanced systems"
+    capabilities: "pokroÄŤilĂ˝ features"
+    limitations: "Higher demands"
+  
+  premium:
+    description: "Maximum capability"
+    capabilities: "Full feature set"
+    limitations: "High maintenance"
+
+integration_aspects:
+  physical:
+    - "Muscle interface"
+    - "Bone mounting"
+    - "Nerve connection"
+  
+  control:
+    - "Neural linking"
+    - "Motion control"
+    - "Feedback systems"
+
+skill_benefits:
+  strength:
+    - "Lifting power"
+    - "Strike force"
+    - "Grip strength"
+  
+  precision:
+    - "Fine control"
+    - "Accuracy"
+    - "Tool use"
+
+gameplay_impact:
+  advantages:
+    - "Combat power"
+    - "Utility options"
+    - "Strength tasks"
+  
+  limitations:
+    - "Power needs"
+    - "Maintenance"
+    - "Weight balance"
+
+ui_elements:
+  status:
+    - "Power levels"
+    - "System health"
+    - "Mode indicators"
+  
+  control:
+    - "Mode selection"
+    - "Power settings"
+    - "Function control"
+
+related_systems:
+  Cyberware:
+    - "system_cyberware_operating_system"
+    - "system_cyberware_nervous"
+  combat:
+    - "system_combat_melee"
+    - "system_combat_gunplay"
+
+maintenance_requirements:
+  routine:
+    - "Joint lubrication"
+    - "Power check"
+    - "Calibration"
+  
+  repair:
+    - "Damage fixing"
+    - "Part replacement"
+    - "System tuning"
+
+combat_features:
+  weapons:
+    - "Mantis blades"
+    - "Gorilla arms"
+    - "Projectile systems"
+  
+  techniques:
+    - "Special moves"
+    - "Combat combos"
+    - "Defensive options"
+
+utility_functions:
+  tools:
+    - "Built-in tools"
+    - "Interface ports"
+    - "Utility mounts"
+  
+  applications:
+    - "Technical work"
+    - "Heavy lifting"
+    - "Precision tasks"
+
+safety_features:
+  protection:
+    - "Overload prevention"
+    - "Impact absorption"
+    - "Emergency stop"
+  
+  recovery:
+    - "Backup systems"
+    - "Fail-safes"
+    - "Emergency mode"
+
+upgrade_options:
+  hardware:
+    - "Strength boost"
+    - "New weapons"
+    - "Tool additions"
+  
+  software:
+    - "Control updates"
+    - "Efficiency patches"
+    - "New features"
+
+customization_aspects:
+  appearance:
+    - "Color schemes"
+    - "Surface finish"
+    - "Design elements"
+  
+  function:
+    - "Special tools"
+    - "Custom weapons"
+    - "Unique features"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

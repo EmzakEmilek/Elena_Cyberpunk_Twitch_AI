@@ -1,0 +1,29 @@
+# 🚀 QUEST GENERATOR REQUIREMENTS
+# Dependencies for local LLM quest generation
+
+# Core dependencies
+requests>=2.31.0
+PyYAML>=6.0.1
+asyncio-http>=0.1.0
+aiofiles>=23.2.0
+
+# Data processing
+beautifulsoup4>=4.12.2  # For wiki scraping
+lxml>=4.9.3
+pandas>=2.0.3
+
+# LLM and AI
+ollama>=0.1.8  # Official Ollama Python client (if available)
+
+# File handling
+pathlib2>=2.3.7.post1
+chardet>=5.2.0
+
+# Progress and logging
+tqdm>=4.66.1
+colorlog>=6.7.0
+
+# Optional: Advanced features
+# transformers>=4.35.0  # For HuggingFace models
+# torch>=2.1.0  # PyTorch for local inference
+# accelerate>=0.24.0  # GPU acceleration

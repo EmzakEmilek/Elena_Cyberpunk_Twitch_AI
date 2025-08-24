@@ -1,0 +1,154 @@
+name: "Badlands Region"
+id: "district_badlands"
+category: "location_district"
+
+district_overview:
+  description: "Rozsiahla púštna oblasť obklopujúca Night City, domov Nomádov"
+  population: "Riedka, hlavne Nomádi"
+  safety_level: "Nebezpečné"
+  dominant_groups: 
+    - "Nomádske klany"
+    - "Raider skupiny"
+
+key_features:
+  terrain:
+    - "Púštna krajina"
+    - "Opustené mestá"
+    - "Diaľnice"
+    - "Skryté tábory"
+  
+  atmosphere:
+    - "Drsná"
+    - "Slobodná"
+    - "Nebezpečná"
+    - "Post-apokalyptická"
+
+areas:
+  northern_plains:
+    description: "Hlavná nomádska oblasť"
+    features:
+      - "Nomádske tábory"
+      - "Obchodné body"
+      - "Skryté základne"
+  
+  rocky_ridge:
+    description: "Hornatá púštna oblasť"
+    features:
+      - "Skalné úkryty"
+      - "Opustené bane"
+      - "Tajné cesty"
+  
+  ghost_town:
+    description: "Opustené mestečká"
+    features:
+      - "Ruiny"
+      - "Scavenging miesta"
+      - "Raider základne"
+
+economy:
+  trade:
+    - "Nomádsky obchod"
+    - "Pašovanie"
+    - "Scavenging"
+  
+  services:
+    - "Opravy"
+    - "Transport"
+    - "Sprievodcovstvo"
+
+security:
+  threats:
+    - "Raideri"
+    - "Nebezpečná príroda"
+    - "Extrémne počasie"
+  
+  protection:
+    - "Klanová ochrana"
+    - "Skryté hliadky"
+    - "Včasné varovanie"
+
+social_aspects:
+  groups:
+    - "Nomádske rodiny"
+    - "Samotári"
+    - "Raideri"
+  
+  culture:
+    - "Klanová vernosť"
+    - "Prežitie"
+    - "Sloboda"
+
+transportation:
+  vehicles:
+    - "Nomádske vozidlá"
+    - "Motorky"
+    - "Terénne autá"
+  
+  routes:
+    - "Skryté cesty"
+    - "Púštne trasy"
+    - "Obchodné cesty"
+
+landmarks:
+  natural:
+    - name: "Rocky Mountains"
+      type: "Prírodná oblasť"
+    - name: "Desert Plains"
+      type: "Púštna oblasť"
+    - name: "Hidden Valley"
+      type: "Tajná lokalita"
+
+resources:
+  natural:
+    - "Voda"
+    - "Minerály"
+    - "Scrap"
+  
+  salvage:
+    - "Tech parts"
+    - "Vozidlá"
+    - "Vybavenie"
+
+dangers:
+  environmental:
+    - "Búrky"
+    - "Extrémne teploty"
+    - "Toxické oblasti"
+  
+  human:
+    - "Raider útoky"
+    - "Teritoriálne spory"
+    - "Pašerácke konflikty"
+
+opportunities:
+  trade:
+    - "Nomád obchod"
+    - "Pašovanie"
+    - "Sprievodcovstvo"
+  
+  resources:
+    - "Scavenging"
+    - "Lov"
+    - "Mining"
+
+survival_aspects:
+  necessities:
+    - "Voda management"
+    - "Jedlo lov"
+    - "Úkryt stavba"
+  
+  skills:
+    - "Púštne prežitie"
+    - "Vozidlo oprava"
+    - "Tracking"
+
+notes_for_elena:
+  key_points:
+    - "Nomádska kultúra"
+    - "Prežitie"
+    - "Sloboda"
+  
+  interaction_tips:
+    - "Rešpektuj klany"
+    - "Buď pripravená"
+    - "Poznaj terén"

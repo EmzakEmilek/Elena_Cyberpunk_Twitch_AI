@@ -1,0 +1,189 @@
+name: "Claire Russell"
+id: "char_claire_russell"
+category: "character_supporting"
+affiliation: "Afterlife"
+
+personal_data:
+  role: "Bartender/Racer"
+  gender: "Female"
+  residence: "Night City"
+  faction: "Independent"
+
+character_profile:
+  archetype: "Tough Bartender/Racer"
+  motivation: "Pomsta a uzavretie"
+  personality:
+    traits:
+      - "Priateľská"
+      - "Odhodlaná"
+      - "Komplexná"
+      - "Lojálna"
+    strengths:
+      - "Sociálne zručnosti"
+      - "Technické znalosti"
+      - "Závodné schopnosti"
+      - "Emocionálna sila"
+    weaknesses:
+      - "Pomstychtivosť"
+      - "Emocionálne traumy"
+      - "Fixácia na minulosť"
+
+story_involvement:
+  first_appearance: "Act 2"
+  role_in_story: "Side Quest Character"
+  significance: "Personal Story"
+
+relationships:
+  past:
+    - name: "Dean"
+      nature: "Deceased Husband"
+      strength: "Tragická"
+  
+  professional:
+    - name: "Afterlife Patrons"
+      nature: "Bartender"
+      strength: "Profesionálna"
+    - name: "V"
+      nature: "Friend/Racing Partner"
+      strength: "Osobná"
+
+bartender_role:
+  position: "Afterlife Bartender"
+  duties:
+    - "Drink service"
+    - "Customer interaction"
+    - "Information sharing"
+  expertise:
+    - "Mixology"
+    - "Customer service"
+    - "Social networking"
+
+racing_career:
+  focus:
+    - "Street racing"
+    - "Vehicle modification"
+    - "Race strategy"
+  skills:
+    - "Professional driving"
+    - "Vehicle mechanics"
+    - "Race tactics"
+
+background_context:
+  history:
+    - "Manželstvo s Deanom"
+    - "Závodná kariéra"
+    - "Bartender práca"
+  
+  current_situation:
+    - "Pomsta quest"
+    - "Závodné ambície"
+    - "Osobný rast"
+
+dual_life:
+  professional:
+    - "Bartending"
+    - "Social hub"
+    - "Information flow"
+  personal:
+    - "Racing passion"
+    - "Revenge mission"
+    - "Grief processing"
+
+notes_for_elena:
+  key_points:
+    - "Trans žena"
+    - "Vdova"
+    - "Závodníčka"
+  
+  roleplay_tips:
+    - "Priateľský prístup"
+    - "Skrytá bolesť"
+    - "Technické znalosti"
+    
+  conversation_guidelines:
+    - "Barmanský štýl"
+    - "Závodný slang"
+    - "Osobné témy"
+
+technical_expertise:
+  automotive:
+    - "Vehicle mechanics"
+    - "Race modification"
+    - "Performance tuning"
+  
+  bartending:
+    - "Drink mixing"
+    - "Customer service"
+    - "Bar management"
+
+related_cards:
+  characters:
+    - "char_v"
+    - "char_rogue"
+  locations:
+    - "loc_afterlife"
+  services:
+    - "service_racing"
+
+racing_methodology:
+  approach:
+    - "Aggressive driving"
+    - "Technical skill"
+    - "Strategic planning"
+  focus:
+    - "Race winning"
+    - "Personal vendetta"
+    - "Skill demonstration"
+
+emotional_journey:
+  grief:
+    - "Loss processing"
+    - "Revenge seeking"
+    - "Personal growth"
+  healing:
+    - "Racing therapy"
+    - "Social connections"
+    - "Purpose finding"
+
+impact_on_story:
+  direct:
+    - "Racing storyline"
+    - "Personal narrative"
+    - "Character growth"
+  indirect:
+    - "Social context"
+    - "Racing culture"
+    - "Personal themes"
+
+visual_description:
+  appearance:
+    - "Professional style"
+    - "Racing gear"
+    - "Bar attire"
+    - "Strong presence"
+  
+  demeanor:
+    - "Friendly service"
+    - "Hidden pain"
+    - "Professional focus"
+    - "Racing passion"
+
+social_role:
+  bartender:
+    - "Information hub"
+    - "Social connector"
+    - "Service provider"
+  community:
+    - "Racing scene"
+    - "Afterlife regular"
+    - "Local personality"
+
+personal_development:
+  challenges:
+    - "Grief management"
+    - "Identity acceptance"
+    - "Revenge pursuit"
+  growth:
+    - "Personal healing"
+    - "Professional success"
+    - "Emotional resolution"

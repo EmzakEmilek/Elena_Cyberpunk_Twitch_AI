@@ -1,0 +1,224 @@
+﻿type: "character"
+title: "Wilson"
+category: "character_supporting"
+character_id: "char_wilson"
+
+content:
+  summary: ""
+  
+name: "Wilson"
+id: "char_wilson"
+category: "character_supporting"
+affiliation: "2nd Amendment"
+
+personal_data:
+  role: "Weapons Dealer"
+  gender: "Male"
+  residence: "Watson, Night City"
+  faction: "Independent"
+
+character_profile:
+  archetype: "Local Gun Merchant"
+  motivation: "Biznis a zbrane"
+  personality:
+    traits:
+      - "Profesionálny"
+      - "Znalý"
+      - "Praktický"
+      - "Opatrný"
+    strengths:
+      - "Zbrojné znalosti"
+      - "Biznis zmysel"
+      - "Lokálne kontakty"
+      - "Praktické skúsenosti"
+    weaknesses:
+      - "Obmedzený vplyv"
+      - "Teritoriálne limity"
+      - "Konkurenčné tlaky"
+
+story_involvement:
+  first_appearance: "Act 1"
+  role_in_story: "Weapons Supplier"
+  significance: "Equipment Source"
+
+relationships:
+  business:
+    - name: "V"
+      nature: "Customer"
+      strength: "Profesionálna"
+    - name: "Local Mercs"
+      nature: "Supplier"
+      strength: "Obchodná"
+  
+  professional:
+    - name: "Weapon Manufacturers"
+      nature: "Dealer"
+      strength: "Obchodná"
+
+store_operations:
+  position: "Owner/Operator"
+  services:
+    - "Weapon sales"
+    - "Ammunition supply"
+    - "Equipment advice"
+  expertise:
+    - "Firearms knowledge"
+    - "Market awareness"
+    - "Customer service"
+
+background_context:
+  history:
+    - "Zbrojárske skúsenosti"
+    - "Biznis rozvoj"
+    - "Lokálne etablovanie"
+  
+  current_situation:
+    - "Shop operations"
+    - "Market competition"
+    - "Customer service"
+
+business_role:
+  responsibilities:
+    - "Weapon sales"
+    - "Stock management"
+    - "Customer advice"
+  environment:
+    - "Competitive market"
+    - "Local focus"
+    - "Professional setup"
+
+notes_for_elena:
+  key_points:
+    - "Zbrojný expert"
+    - "Lokálny obchodník"
+    - "Praktický profesionál"
+  
+  roleplay_tips:
+    - "Vecný prístup"
+    - "Technické znalosti"
+    - "Biznis fokus"
+    
+  conversation_guidelines:
+    - "Praktické informácie"
+    - "Technické detaily"
+    - "Obchodný kontext"
+
+weapons_expertise:
+  knowledge:
+    - "Firearms mechanics"
+    - "Market trends"
+    - "Equipment maintenance"
+  
+  specialization:
+    - "Personal weapons"
+    - "Combat gear"
+    - "Ammunition"
+
+related_cards:
+  characters:
+    - "char_v"
+  locations:
+    - "loc_second_amendment"
+    - "loc_watson_district"
+  services:
+    - "service_weapons"
+
+business_practices:
+  approach:
+    - "Professional service"
+    - "Technical expertise"
+    - "Market awareness"
+  standards:
+    - "Quality products"
+    - "Fair pricing"
+    - "Expert advice"
+
+market_position:
+  strengths:
+    - "Local presence"
+    - "Product knowledge"
+    - "Customer service"
+  challenges:
+    - "Competition"
+    - "Market fluctuations"
+    - "Supply chain"
+
+impact_on_story:
+  direct:
+    - "Equipment provision"
+    - "Technical advice"
+    - "Market access"
+  indirect:
+    - "Game mechanics"
+    - "Equipment options"
+    - "Player progression"
+
+visual_description:
+  appearance:
+    - "Professional dress"
+    - "Practical style"
+    - "Business demeanor"
+    - "Technical focus"
+  
+  workspace:
+    - "Weapon displays"
+    - "Security measures"
+    - "Professional layout"
+    - "Technical equipment"
+
+product_knowledge:
+  categories:
+    - "Firearms"
+    - "Ammunition"
+    - "Combat gear"
+  expertise:
+    - "Technical specs"
+    - "Market trends"
+    - "User requirements"
+
+customer_service:
+  approach:
+    - "Professional"
+    - "Informative"
+    - "Practical"
+  priorities:
+    - "Customer needs"
+    - "Technical accuracy"
+    - "Fair business"
+
+business_management:
+  operations:
+    - "Inventory control"
+    - "Supply chain"
+    - "Customer relations"
+  strategy:
+    - "Market positioning"
+    - "Product selection"
+    - "Service quality"
+
+technical_advisory:
+  services:
+    - "Equipment selection"
+    - "Usage guidance"
+    - "Maintenance advice"
+  expertise:
+    - "Weapon systems"
+    - "Combat applications"
+    - "Technical specifications"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

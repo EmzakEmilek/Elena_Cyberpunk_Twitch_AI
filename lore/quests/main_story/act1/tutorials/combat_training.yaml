@@ -1,0 +1,172 @@
+﻿type: "character"
+title: "Combat Training 101"
+category: "quest_tutorial"
+character_id: "quest_tutorial_combat"
+
+content:
+  summary: ""
+  
+name: "Combat Training 101"
+id: "quest_tutorial_combat"
+category: "quest_tutorial"
+act: 1
+
+quest_type: "Tutorial"
+quest_giver: "Wilson"
+location: "Wilson's Gun Shop"
+
+quest_overview:
+  description: "Základný combat tréning pre nových mercov"
+  objectives:
+    - "Naučiť sa základy streľby"
+    - "Porozumieť krytiu"
+    - "Zvládnuť základný pohyb"
+    - "Používať healing items"
+
+tutorial_elements:
+  combat_basics:
+    - "Mierenie a streľba"
+    - "Používanie krytia"
+    - "Pohyb v boji"
+    - "Healing mechaniky"
+  
+  gameplay_mechanics:
+    - "Weapon handling"
+    - "Cover system"
+    - "Movement controls"
+    - "Health management"
+
+quest_structure:
+  setup:
+    - "Návšteva Wilson's Gun Shop"
+    - "Získanie základnej zbrane"
+    - "Vstup do tréningovej zóny"
+  
+  progression:
+    - "Základy streľby"
+    - "Pokročilé techniky"
+    - "Praktický tréning"
+    - "Finálny test"
+
+reward_structure:
+  items:
+    - "Základná zbraň"
+    - "Munícia"
+    - "Healing items"
+  knowledge:
+    - "Combat základy"
+    - "Survival techniky"
+    - "Weapon handling"
+
+notes_for_elena:
+  key_points:
+    - "Základný combat tutorial"
+    - "Dôležité mechaniky"
+    - "Bezpečnostné pravidlá"
+  
+  roleplay_tips:
+    - "Profesionálny prístup"
+    - "Jasné inštrukcie"
+    - "Bezpečnostný dôraz"
+    
+  conversation_guidelines:
+    - "Technická terminológia"
+    - "Bezpečnostné pokyny"
+    - "Tréningové inštrukcie"
+
+training_zones:
+  shooting_range:
+    - "Static targets"
+    - "Moving targets"
+    - "Distance variations"
+  combat_area:
+    - "Cover positions"
+    - "Movement spaces"
+    - "Practice zones"
+
+safety_protocols:
+  rules:
+    - "Weapon handling"
+    - "Area security"
+    - "Emergency procedures"
+  supervision:
+    - "Instructor presence"
+    - "Safety monitors"
+    - "Emergency response"
+
+skill_development:
+  basic_skills:
+    - "Aim and shoot"
+    - "Use cover"
+    - "Basic movement"
+  advanced_skills:
+    - "Combat mobility"
+    - "Target priority"
+    - "Resource management"
+
+quest_flow:
+  introduction:
+    - "Meet Wilson"
+    - "Safety briefing"
+    - "Equipment check"
+  training:
+    - "Basic instruction"
+    - "Practical exercises"
+    - "Skill assessment"
+  conclusion:
+    - "Final test"
+    - "Performance review"
+    - "Equipment return"
+
+related_cards:
+  characters:
+    - "char_wilson"
+  locations:
+    - "loc_wilsons_gun_shop"
+  services:
+    - "service_weapons"
+
+gameplay_impact:
+  learned_skills:
+    - "Basic combat"
+    - "Survival tactics"
+    - "Resource management"
+  applications:
+    - "Combat situations"
+    - "Self-defense"
+    - "Mission preparation"
+
+equipment_provided:
+  weapons:
+    - "Training pistol"
+    - "Practice ammo"
+  gear:
+    - "Basic armor"
+    - "Health items"
+
+success_criteria:
+  requirements:
+    - "Target accuracy"
+    - "Cover usage"
+    - "Movement proficiency"
+  evaluation:
+    - "Performance metrics"
+    - "Skill demonstration"
+    - "Safety compliance"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

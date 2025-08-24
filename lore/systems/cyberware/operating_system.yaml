@@ -1,0 +1,201 @@
+﻿type: "technology"
+title: "Operating System"
+category: "system_cyberware"
+technology_id: "system_cyberware_os"
+
+content:
+  summary: ""
+  
+name: "Operating System"
+id: "system_cyberware_os"
+category: "system_cyberware"
+
+system_overview:
+  description: "Základný operačný systém pre všetky kybernetické vylepšenia"
+  core_functions:
+    - "System management"
+    - "Resource allocation"
+    - "Program execution"
+    - "Network interface"
+
+core_features:
+  processing:
+    - "Neural connection"
+    - "Data processing"
+    - "System control"
+    - "Network management"
+  
+  management:
+    - "Resource allocation"
+    - "Program execution"
+    - "Memory handling"
+    - "Security protocols"
+
+system_capabilities:
+  primary:
+    - "Cyberdeck interface"
+    - "RAM management"
+    - "Program execution"
+    - "Network access"
+  
+  secondary:
+    - "System monitoring"
+    - "Resource tracking"
+    - "Performance tuning"
+    - "Security management"
+
+hardware_requirements:
+  components:
+    - "Neural processor"
+    - "Memory units"
+    - "Network interface"
+  
+  specifications:
+    - "Processing power"
+    - "Memory capacity"
+    - "Network bandwidth"
+
+notes_for_elena:
+  key_points:
+    - "OS significance"
+    - "System integration"
+    - "Performance impact"
+  
+  roleplay_tips:
+    - "Technical knowledge"
+    - "System expertise"
+    - "Performance awareness"
+    
+  conversation_guidelines:
+    - "Technical terms"
+    - "System concepts"
+    - "Performance metrics"
+
+performance_tiers:
+  basic:
+    description: "Standard operations"
+    capabilities: "Basic functions"
+    limitations: "Limited resources"
+  
+  pokroÄŤilĂ˝:
+    description: "Enhanced operations"
+    capabilities: "pokroÄŤilĂ˝ features"
+    limitations: "Higher demands"
+  
+  premium:
+    description: "Maximum performance"
+    capabilities: "Full feature set"
+    limitations: "Resource intensive"
+
+integration_aspects:
+  hardware:
+    - "Component compatibility"
+    - "Resource requirements"
+    - "Performance scaling"
+  
+  software:
+    - "Program support"
+    - "Feature enablement"
+    - "Update capability"
+
+skill_requirements:
+  technical:
+    - "System understanding"
+    - "Performance tuning"
+    - "Troubleshooting"
+  
+  practical:
+    - "Resource management"
+    - "Program handling"
+    - "Network usage"
+
+gameplay_impact:
+  capabilities:
+    - "Program execution"
+    - "Resource limits"
+    - "Performance levels"
+  
+  limitations:
+    - "Resource constraints"
+    - "System overhead"
+    - "Compatibility issues"
+
+ui_elements:
+  system:
+    - "Status display"
+    - "Resource meters"
+    - "Performance indicators"
+  
+  control:
+    - "System settings"
+    - "Resource allocation"
+    - "Program management"
+
+related_systems:
+  Cyberware:
+    - "system_cyberware_frontal_cortex"
+    - "system_cyberware_nervous"
+  combat:
+    - "system_combat_hacking"
+    - "system_combat_quickhacking"
+
+maintenance_aspects:
+  routine:
+    - "Performance checks"
+    - "Resource optimization"
+    - "Update management"
+  
+  emergency:
+    - "System recovery"
+    - "Error handling"
+    - "Crash recovery"
+
+security_features:
+  protection:
+    - "Access control"
+    - "Data encryption"
+    - "Threat detection"
+  
+  response:
+    - "ĂştoÄŤiĹĄ prevention"
+    - "System defense"
+    - "Recovery protocols"
+
+upgrade_paths:
+  hardware:
+    - "Component upgrades"
+    - "Capacity zvĂ˝ĹˇiĹĄ"
+    - "Performance boost"
+  
+  software:
+    - "Feature updates"
+    - "Optimization patches"
+    - "Security updates"
+
+performance_optimization:
+  methods:
+    - "Resource allocation"
+    - "Process priority"
+    - "Cache management"
+  
+  tools:
+    - "System monitors"
+    - "Performance tuners"
+    - "Diagnostic utilities"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

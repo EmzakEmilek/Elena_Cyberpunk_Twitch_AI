@@ -1,0 +1,65 @@
+﻿type: "technology"
+title: "Smart Weapons overview"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ ZbraĹovĂ˝ systĂ©m utilizing guided ammunition and neural targeting"
+  
+name: Smart Weapons overview
+type: weapon_system
+description: pokroÄŤilĂ˝ ZbraĹovĂ˝ systĂ©m utilizing guided ammunition and neural targeting
+details: |
+  Smart Weapons represent the cutting edge of firearms technology in Night City. These weapons use guided ammunition and interface with the user's Cyberware to track and engage targets with unprecedented accuracy.
+
+  Key Features:
+  - Neural targeting through Cyberware interface
+  - Self-guiding ammunition
+  - Multiple target tracking capability
+  - Real-time trajectory calculation
+
+  Requirements:
+  - Smart link Cyberware
+  - Compatible ammunition
+  - Target marking system
+
+  Advantages:
+  - High accuracy even for inexperienced users
+  - Ability to hit targets behind cover
+  - Reduced collateral damage
+  - Effective against moving targets
+
+  Disadvantages:
+  - Higher ammunition cost
+  - Susceptible to electronic warfare
+  - Requires Cyberware installation
+  - Less effective against targets with counter-measures
+
+importance: Critical ZbraĹovĂ˝ systĂ©m in Night City's arsenal
+common_locations:
+  - KorporĂˇtna bezpeÄŤnosĹĄ forces
+  - Military units
+  - High-end weapon shops
+  - Elite mercenaries
+relationships:
+  - Targeting Systems
+  - Combat Implants
+  - Military-Grade Weapons
+  - Weapon Manufacturers
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

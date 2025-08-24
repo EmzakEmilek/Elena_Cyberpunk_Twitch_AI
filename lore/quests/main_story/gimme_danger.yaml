@@ -1,0 +1,176 @@
+type: "quest"
+title: "Gimme Danger"
+category: "main_story"
+
+summary: "V a Takemura infiltrate Arasaka Industrial Park na získanie crucial evidence. Stealth mission s high stakes a potential pre massive consequences ak sú caught."
+
+key_points:
+  - "Arasaka Industrial Park infiltration"
+  - "High-security facility bypassing"
+  - "Critical evidence theft"
+  - "Takemura-V teamwork"
+  - "Stealth vs combat choices"
+  - "Corporate retaliation setup"
+
+story_context:
+  act: "Act 2"
+  position: "Critical evidence gathering"
+  importance: "Provides proof pre Hanako meeting"
+
+characters:
+  - "V (protagonist)"
+  - "Goro Takemura"
+  - "Arasaka security forces"
+  - "Corporate employees"
+  - "Security AI systems"
+
+infiltration_phases:
+  preparation:
+    - "Security analysis"
+    - "Entry point identification"
+    - "Equipment selection"
+    - "Timing coordination"
+  
+  entry:
+    - "Perimeter bypassing"
+    - "Guard avoidance"
+    - "Security system hacking"
+    - "Access card acquisition"
+  
+  data_extraction:
+    - "Server room infiltration"
+    - "Database access"
+    - "Evidence download"
+    - "Cover traces"
+  
+  escape:
+    - "Detection avoidance"
+    - "Emergency evacuation"
+    - "Pursuit evasion"
+    - "Safe house retreat"
+
+security_challenges:
+  physical_barriers:
+    - "Reinforced doors"
+    - "Motion sensors"
+    - "Laser grids"
+    - "Patrol routes"
+  
+  digital_defenses:
+    - "ICE protection"
+    - "Access controls"
+    - "Monitoring systems"
+    - "Alert mechanisms"
+  
+  human_elements:
+    - "Security guards"
+    - "Employee presence"
+    - "Random patrols"
+    - "Emergency responses"
+
+choices:
+  infiltration_style:
+    description: "Approach k mission"
+    options:
+      - "Pure stealth - no detection"
+      - "Pacification - non-lethal takedowns"
+      - "Combat ready - eliminate threats"
+      - "Tech heavy - hacking focus"
+    consequences: "Rôzne alert levels a corpo response"
+
+takemura_cooperation:
+  complementary_skills:
+    - "V's street experience"
+    - "Takemura's corpo knowledge"
+    - "Combined tactical planning"
+    - "Mutual backup"
+  
+  trust_building:
+    - "Life-death situations"
+    - "Shared risks"
+    - "Professional respect"
+    - "Personal bonding"
+
+evidence_gathered:
+  critical_data:
+    - "Saburo assassination proof"
+    - "Biochip project files"
+    - "Yorinobu conspiracy evidence"
+    - "Corporate communications"
+  
+  implications:
+    - "Family betrayal confirmation"
+    - "Murder motive revelation"
+    - "Corporate coup proof"
+    - "Hanako alliance justification"
+
+objectives:
+  - "Infiltrovať Arasaka facility"
+  - "Získať crucial evidence"
+  - "Avoid detection"
+  - "Support Takemura"
+  - "Escape safely"
+  - "Prepare pre Hanako meeting"
+
+risk_factors:
+  detection_consequences:
+    - "Massive security response"
+    - "Corpo manhunt activation"
+    - "Future infiltration difficulty"
+    - "Alliance exposure risk"
+  
+  failure_implications:
+    - "Evidence loss"
+    - "Hanako trust damage"
+    - "Alternative path necessity"
+    - "Strategic disadvantage"
+
+themes:
+  - "Corporate espionage"
+  - "Trust v dangerous situations"
+  - "High-stakes infiltration"
+  - "Technology vs skill"
+
+technical_challenges:
+  security_systems:
+    - "Advanced ICE"
+    - "Biometric scanners"
+    - "AI monitoring"
+    - "Automated defenses"
+  
+  counter_measures:
+    - "Hacking expertise"
+    - "Physical bypassing"
+    - "Social engineering"
+    - "Technology exploitation"
+
+emotional_stakes:
+  - "Takemura's honor at risk"
+  - "V's survival dependent"
+  - "Family justice pursuit"
+  - "Corporate enemy creation"
+
+related:
+  - "search_and_destroy"
+  - "playing_for_time"
+  - "goro_takemura"
+  - "arasaka_industrial_park"
+  - "corpo_espionage"
+  - "stealth_missions"
+
+elena_notes:
+  talking_points:
+    - "High-tension stealth gameplay"
+    - "Takemura partnership depth"
+    - "Corporate security systems"
+    - "Evidence importance"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Crucial pre Devil ending setup"
+    - "Shows V's adaptability"
+    - "Corporate infiltration skills"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

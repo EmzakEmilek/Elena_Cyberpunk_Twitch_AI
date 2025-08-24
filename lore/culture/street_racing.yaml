@@ -1,0 +1,77 @@
+﻿type: "economy"
+title: "Street Racing Scene"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Underground racing culture and competitions in Night City"
+  
+name: Street Racing Scene
+type: culture
+description: Underground racing culture and competitions in Night City
+details: |
+  Street racing represents a thriving subculture in Night City, combining high-tech vehicles with nebezpeÄŤnĂ˝ competition.
+
+  Racing Types:
+  - Street Sprints
+    * Urban corridors
+    * Highway runs
+    * District circuits
+    * Night races
+  - Combat Racing
+    * Armed vehicles
+    * Defense systems
+    * Tactical driving
+    * Team battles
+  - Tech Challenges
+    * AI assistance
+    * Neural control
+    * Vehicle mods
+    * Speed tech
+
+  Scene Elements:
+  - Betting systems
+  - Vehicle modification
+  - Racing crews
+  - Underground networks
+
+  Vehicle Categories:
+  - Modified cars
+  - Combat vehicles
+  - Hover vehicles
+  - Smart systems
+
+  Cultural Impact:
+  - Street prestige
+  - Tech innovation
+  - Economic activity
+  - Social networking
+
+importance: Significant street culture element
+common_locations:
+  - Industrial zones
+  - Highway systems
+  - Combat zones
+  - Underground meets
+relationships:
+  - Vehicle Trade
+  - Street Level Economy
+  - Combat Zones Culture
+  - Popular Entertainment
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,208 @@
+﻿type: "character"
+title: "Misty Olszewski"
+category: "character_supporting"
+character_id: "char_misty_olszewski"
+
+content:
+  summary: ""
+  
+name: "Misty Olszewski"
+id: "char_misty_olszewski"
+category: "character_supporting"
+affiliation: "Independent"
+
+personal_data:
+  role: "Esoteric Shop Owner"
+  gender: "Female"
+  residence: "Watson, Night City"
+  faction: "Independent"
+
+character_profile:
+  archetype: "Spiritual Guide/Friend"
+  motivation: "Duchovná pomoc a porozumenie"
+  personality:
+    traits:
+      - "Spirituálna"
+      - "Empatická"
+      - "Intuitívna"
+      - "Starostlivá"
+    strengths:
+      - "Duchovná intuícia"
+      - "Empatické porozumenie"
+      - "Vernosť"
+      - "Spirituálne znalosti"
+    weaknesses:
+      - "Naivita"
+      - "Sociálna izolácia"
+      - "Nedôvera mainstreamu"
+
+story_involvement:
+  first_appearance: "Act 1"
+  role_in_story: "Podporná postava/Duchovný guide"
+  significance: "Emotionálna podpora"
+
+relationships:
+  romantic:
+    - name: "Jackie Welles"
+      nature: "Priateľ"
+      strength: "Silná/Tragická"
+  
+  friends:
+    - name: "V"
+      nature: "Duchovný guide"
+      strength: "Podporná"
+    - name: "Viktor Vector"
+      nature: "Sused/Priateľ"
+      strength: "Priateľská"
+
+services_provided:
+  spiritual:
+    - "Tarot readings"
+    - "Aura cleansing"
+    - "Spiritual guidance"
+  
+  business:
+    - "Esoteric items"
+    - "Crystals"
+    - "Books"
+
+background_context:
+  history:
+    - "Spirituálne štúdium"
+    - "Obchod dedication"
+    - "Stretnutie s Jackie"
+  
+  current_situation:
+    - "Shop management"
+    - "Spiritual practice"
+    - "Community support"
+
+shop_operations:
+  location: "Watson back alley"
+  services:
+    - "Tarot readings"
+    - "Spiritual items"
+    - "Guidance"
+  atmosphere:
+    - "Mystical"
+    - "Peaceful"
+    - "Welcoming"
+
+notes_for_elena:
+  key_points:
+    - "Spirituálna poradkyňa"
+    - "Jackie's priateľka"
+    - "Empatická duša"
+  
+  roleplay_tips:
+    - "Mystický prístup"
+    - "Jemná komunikácia"
+    - "Duchovné referencie"
+    
+  conversation_guidelines:
+    - "Spirituálna terminológia"
+    - "Empatické reakcie"
+    - "Intuitívne vhľady"
+
+spiritual_practices:
+  specialties:
+    - "Tarot reading"
+    - "Aura work"
+    - "Crystal healing"
+  
+  beliefs:
+    - "Universal connection"
+    - "Spiritual guidance"
+    - "Energy work"
+
+related_cards:
+  characters:
+    - "char_jackie_welles"
+    - "char_viktor_vector"
+  locations:
+    - "loc_misty_shop"
+    - "loc_watson_district"
+  services:
+    - "service_spiritual"
+    - "service_esoteric"
+
+spiritual_expertise:
+  practices:
+    - "Tarot divination"
+    - "Energy healing"
+    - "Spiritual counseling"
+  tools:
+    - "Tarot cards"
+    - "Crystals"
+    - "Incense"
+
+business_model:
+  offerings:
+    - "Personal readings"
+    - "Spiritual items"
+    - "Guidance sessions"
+  approach:
+    - "Individual attention"
+    - "Spiritual focus"
+    - "Emotional support"
+
+impact_on_story:
+  direct:
+    - "Emotional support"
+    - "Spiritual guidance"
+    - "Jackie connection"
+  indirect:
+    - "Philosophical insights"
+    - "Alternative perspective"
+    - "Personal growth"
+
+visual_description:
+  appearance:
+    - "Alternative style"
+    - "Spiritual accessories"
+    - "Gentle presence"
+    - "Mystical aura"
+  
+  shop:
+    - "Mystical atmosphere"
+    - "Esoteric items"
+    - "Peaceful space"
+    - "Crystal displays"
+
+role_in_community:
+  services:
+    - "Spiritual guidance"
+    - "Emotional support"
+    - "Alternative healing"
+  
+  connections:
+    - "Local businesses"
+    - "Seekers"
+    - "Alternative community"
+
+response_to_tragedy:
+  jackie:
+    - "Deep personal loss"
+    - "Spiritual processing"
+    - "Continued connection"
+  support:
+    - "For V"
+    - "For community"
+    - "Through readings"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

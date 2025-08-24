@@ -1,0 +1,74 @@
+﻿type: "economy"
+title: "Iconic Weapons Collection"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Unique and legendary weapons with special capabilities and historical significance"
+  
+name: Iconic Weapons Collection
+type: weapon_system
+description: Unique and legendary weapons with special capabilities and historical significance
+details: |
+  Iconic Weapons are unique, named weapons with special capabilities and often significant historical or cultural value in Night City.
+
+  Categories:
+  - Historical Icons
+    * Silverhand's Gun
+    * Smasher's Artillery
+    * Rogue's Pride
+  - Corporate Prototypes
+    * Arasaka Exclusives
+    * Militech Specials
+    * Biotechnica Experiments
+  - Street Legends
+    * Gang Leader Weapons
+    * Fixer Specials
+    * Mercenary Treasures
+
+  Special Features:
+  - Unique modifications
+  - Custom aesthetics
+  - Enhanced capabilities
+  - Historical significance
+
+  Acquisition Methods:
+  - Special missions
+  - High-profile contracts
+  - Underground auctions
+  - Corporate theft
+
+  Value Factors:
+  - Historical significance
+  - Technical capabilities
+  - Previous ownership
+  - Rarity level
+
+importance: Cultural and historical weapon artifacts
+common_locations:
+  - Private collections
+  - Corporate vaults
+  - Gang leader arsenals
+  - Black market auctions
+relationships:
+  - Weapon Manufacturers
+  - Black Market Weapons
+  - Weapon Customization
+  - Military-Grade Weapons
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

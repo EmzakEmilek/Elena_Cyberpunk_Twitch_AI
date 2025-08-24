@@ -1,0 +1,78 @@
+﻿type: "economy"
+title: "Communication Networks"
+category: ""
+economy_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ communication infrastructure and systems in Night City"
+  
+name: Communication Networks
+type: technology
+description: pokroÄŤilĂ˝ communication infrastructure and systems in Night City
+details: |
+  Communication networks form the backbone of information exchange and connectivity in Night City.
+
+  Network Types:
+  - verejnĂ˝ Systems
+    * Mobile networks
+    * verejnĂ˝ access
+    * Emergency comms
+    * Broadcast systems
+  - Private Networks
+    * Corporate channels
+    * bezpeÄŤnĂ˝ comms
+    * Military bands
+    * Emergency services
+
+  Technologies:
+  - Wireless Systems
+    * Neural networks
+    * Data transmission
+    * Voice systems
+    * Holographic comms
+  - Infrastructure
+    * Network towers
+    * Satellite links
+    * Underground cables
+    * Relay stations
+
+  Security Features:
+  - Encryption
+    * Data protection
+    * bezpeÄŤnĂ˝ channels
+    * Identity verification
+    * Access control
+  - Monitoring
+    * Traffic analysis
+    * Threat detection
+    * Usage tracking
+    * Quality control
+
+importance: Critical infrastructure system
+common_locations:
+  - Network centers
+  - Corporate facilities
+  - verejnĂ˝ spaces
+  - Emergency services
+relationships:
+  - NET Architecture
+  - Security Systems
+  - Information Economy
+  - Media Networks
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,66 @@
+﻿type: "technology"
+title: "Tech Weapons Systems"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ weaponry using electromagnetic charging for armor-piercing capabilities"
+  
+name: Tech Weapons Systems
+type: weapon_system
+description: pokroÄŤilĂ˝ weaponry using electromagnetic charging for armor-piercing capabilities
+details: |
+  Tech Weapons represent specialized firearms that utilize charging mechanisms to fire high-velocity projectiles capable of penetrating multiple layers of armor and cover.
+
+  Core Technology:
+  - Electromagnetic charging system
+  - Armor-piercing rounds
+  - Charge-up mechanism
+  - pokroÄŤilĂ˝ targeting systems
+
+  Key Features:
+  - Charged shots for increased damage
+  - Superior armor penetration
+  - Ability to shoot through walls
+  - Precision targeting
+
+  Advantages:
+  - Extreme penetration capability
+  - Effective against heavily armored targets
+  - Can engage enemies behind cover
+  - High single-shot damage potential
+
+  Disadvantages:
+  - Charging time requirement
+  - Higher skill requirement
+  - Complex maintenance needs
+  - drahĂ˝ ammunition
+
+importance: Specialized ZbraĹovĂ˝ systĂ©m for tactical operations
+common_locations:
+  - Military facilities
+  - KorporĂˇtna bezpeÄŤnosĹĄ
+  - Special forces
+  - High-end arms dealers
+relationships:
+  - Tech Sniper Systems
+  - Military-Grade Weapons
+  - Weapon Manufacturers
+  - Weapon Maintenance
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

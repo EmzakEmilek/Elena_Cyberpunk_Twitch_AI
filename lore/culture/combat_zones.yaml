@@ -1,0 +1,72 @@
+﻿type: "economy"
+title: "Combat Zones Culture"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Life and society in Night City's most nebezpeÄŤnĂ˝ districts"
+  
+name: Combat Zones Culture
+type: culture
+description: Life and society in Night City's most nebezpeÄŤnĂ˝ districts
+details: |
+  Combat Zones represent the most nebezpeÄŤnĂ˝ and lawless areas of Night City, with their own unique culture and rules.
+
+  Social Structure:
+  - Gang Control
+    * Territory marking
+    * Power dynamics
+    * Protection rackets
+    * Local authority
+  - Survival Systems
+    * Underground economy
+    * Bartering networks
+    * Protection groups
+    * Medical services
+
+  Daily Life:
+  - Survival tactics
+  - Community bonds
+  - Local commerce
+  - Defense systems
+
+  Cultural Elements:
+  - Street justice
+  - Gang traditions
+  - Survival art
+  - Local legends
+
+  Economic Activities:
+  - Black markets
+  - Street services
+  - Underground trade
+  - Salvage operations
+
+importance: Unique subculture within Night City
+common_locations:
+  - Abandoned districts
+  - Gang territories
+  - Contested zones
+  - War-torn areas
+relationships:
+  - Street Level Politics
+  - Black Market Economics
+  - Urban Legends
+  - Street Level Economy
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

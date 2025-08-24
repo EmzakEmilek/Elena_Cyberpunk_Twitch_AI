@@ -1,0 +1,72 @@
+﻿type: "technology"
+title: "Weapon Maintenance"
+category: ""
+technology_id: ""
+
+content:
+  summary: "Essential maintenance and care procedures for weapons"
+  
+name: Weapon Maintenance
+type: weapon_system
+description: Essential maintenance and care procedures for weapons
+details: |
+  Proper weapon maintenance is crucial for reliability and longevity in Night City's harsh environment.
+
+  Maintenance Areas:
+  - Basic Care
+    * Cleaning
+    * Lubrication
+    * Parts inspection
+    * Storage
+  - Technical Service
+    * Calibration
+    * Parts replacement
+    * Performance testing
+    * Software updates
+
+  Maintenance Schedule:
+  - Daily checks
+  - Weekly cleaning
+  - Monthly service
+  - Annual overhaul
+
+  beĹľnĂ˝ Issues:
+  - Dirt accumulation
+  - Parts wear
+  - Electronic failures
+  - Software glitches
+
+  Service Providers:
+  - Licensed technicians
+  - Weapon shops
+  - Military armorers
+  - Corporate maintenance
+
+importance: Critical for weapon reliability
+common_locations:
+  - Gun shops
+  - Maintenance facilities
+  - Military bases
+  - Corporate armories
+relationships:
+  - Weapon Manufacturers
+  - Weapon Customization
+  - Smart Weapons overview
+  - Tech Weapons Systems
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

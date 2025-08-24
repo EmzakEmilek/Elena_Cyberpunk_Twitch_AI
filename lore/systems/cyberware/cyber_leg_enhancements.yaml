@@ -1,0 +1,66 @@
+﻿type: "technology"
+title: "Cyber-leg Enhancements"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ cybernetic leg modifications for enhanced mobility and strength"
+  
+name: Cyber-leg Enhancements
+type: Cyberware
+description: pokroÄŤilĂ˝ cybernetic leg modifications for enhanced mobility and strength
+details: |
+  Cyber-leg enhancements provide superior mobility, strength, and specialized functions through leg modifications.
+
+  Core Features:
+  - Enhanced speed
+  - Jump augmentation
+  - Stability control
+  - Shock absorption
+
+  Performance Upgrades:
+  - Power assistance
+  - Sprint enhancement
+  - Landing impact reduction
+  - Balance optimization
+
+  Special Functions:
+  - skrytĂ˝ storage
+  - Anchor systems
+  - Silent movement
+  - Grip enhancement
+
+  Movement Modes:
+  - Enhanced running
+  - Power jumping
+  - Silent stepping
+  - Wall gripping
+
+importance: Critical mobility enhancement system
+common_locations:
+  - Athletes
+  - Military personnel
+  - Parkour specialists
+  - Security forces
+relationships:
+  - Skeletal Reinforcement
+  - Combat Implants
+  - Reflex Boosters
+  - Experimental Cyberware
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,193 @@
+﻿type: "character"
+title: "Lizzie's Bar"
+category: "location_landmark"
+character_id: "loc_lizzies_bar"
+
+content:
+  summary: ""
+  
+name: "Lizzie's Bar"
+id: "loc_lizzies_bar"
+category: "location_landmark"
+district: "Watson"
+
+basic_info:
+  type: "Night Club/Bar"
+  ownership: "Mox Gang"
+  status: "Active"
+  security_level: "Medium"
+  public_access: true
+
+location_profile:
+  description: "Bývalý strip klub premenený na bar spravovaný gangom Mox. Slúži ako bezpečné miesto pre sex workers a technické zázemie pre BD expertov."
+  
+  history:
+    - era: "Pred Mox"
+      details: "Strip klub s pochybnou povesťou"
+    - era: "Mox prevzatie"
+      details: "Transformácia na bezpečnejší priestor"
+    - era: "Súčasnosť"
+      details: "Významné centrum Mox aktivít"
+
+physical_characteristics:
+  exterior:
+    - "Neonové značenie"
+    - "Graffiti a street art"
+    - "Viditeľná Mox prítomnosť"
+    - "Industriálny štýl budovy"
+  
+  interior_areas:
+    main_bar:
+      description: "Hlavný priestor s barom a sedením"
+      features:
+        - "Dlhý barový pult"
+        - "Stolíky a boxy"
+        - "Tanečný priestor"
+        - "Neonové osvetlenie"
+    
+    bd_lab:
+      description: "Judy's workspace a BD laboratórium"
+      features:
+        - "High-tech BD vybavenie"
+        - "Pracovné stanice"
+        - "Technické prístroje"
+    
+    backrooms:
+      description: "Súkromné priestory a kancelárie"
+      features:
+        - "Bezpečnostné systémy"
+        - "Skladovacie priestory"
+        - "Mox meeting rooms"
+
+security_features:
+  personnel:
+    - "Mox bouncers"
+    - "Skrytá ochrana"
+  systems:
+    - "Kamerový systém"
+    - "Kontrolované vstupy"
+    - "Panic buttons"
+
+story_significance:
+  main_quests:
+    - quest: "The Information"
+      role: "Miesto stretnutia s Evelyn"
+    
+  side_content:
+    - "Mox related quests"
+    - "Judy storyline"
+    - "Local gigs"
+
+regular_characters:
+  permanent:
+    - name: "Judy Alvarez"
+      role: "BD Technician"
+    - name: "Mateo"
+      role: "Bartender"
+    - name: "Rita Wheeler"
+      role: "Bouncer"
+  
+  frequent:
+    - name: "Various Mox members"
+      role: "Gang activities"
+    - name: "Local clients"
+      role: "Patrons"
+
+services_available:
+  entertainment:
+    - "Bar service"
+    - "Music"
+    - "Dancing"
+  technical:
+    - "BD services (unofficial)"
+    - "Information trading"
+  other:
+    - "Safe haven pre sex workers"
+    - "Mox networking"
+
+atmosphere:
+  time_of_day:
+    day:
+      - "Quieter atmosphere"
+      - "Regular bar service"
+      - "Staff preparations"
+    night:
+      - "Živá atmosféra"
+      - "Plný bar"
+      - "Increased security"
+  
+  sensory_details:
+    visual:
+      - "Neon lights"
+      - "Dymové efekty"
+      - "Crowd movement"
+    audio:
+      - "Electronic music"
+      - "Crowd noise"
+      - "Bar ambient"
+    atmosphere:
+      - "Underground vibe"
+      - "Safe but edgy"
+      - "Tech-punk aesthetic"
+
+gameplay_elements:
+  interactions:
+    - "Dialogue opportunities"
+    - "Quest triggers"
+    - "Information gathering"
+  
+  activities:
+    - "Meeting NPCs"
+    - "Getting quests"
+    - "BD related activities"
+
+notes_for_elena:
+  key_points:
+    - "Centrálne miesto pre Mox gang"
+    - "Dôležité pre príbeh s Evelyn"
+    - "Judy's hlavná základňa"
+  
+  atmosphere_guidelines:
+    - "Balansovať medzi nebezpečným a bezpečným"
+    - "Zdôrazniť Mox prítomnosť"
+    - "Technologický aspekt"
+  
+  interaction_tips:
+    - "Prispôsobiť NPC reakcie dennému času"
+    - "Reflektovať vzťah s Mox"
+    - "Spomenúť bežné aktivity"
+
+related_cards:
+  characters:
+    - "char_judy_alvarez"
+    - "char_evelyn_parker"
+    - "char_rita_wheeler"
+  factions:
+    - "faction_mox"
+  locations:
+    - "loc_watson_district"
+  quests:
+    - "mq_the_information"
+
+technical_metadata:
+  respawn_time: "24 hours"
+  npc_density: "High"
+  combat_allowed: false
+  stealth_options: false
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

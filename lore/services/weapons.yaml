@@ -1,0 +1,203 @@
+﻿type: "character"
+title: "Weapons and Ammunition"
+category: "service"
+character_id: "service_weapons"
+
+content:
+  summary: ""
+  
+name: "Weapons and Ammunition"
+id: "service_weapons"
+category: "service"
+
+service_type:
+  primary: "Retail"
+  subtype: "Weapons & Ammunition"
+  classification: "Essential Service"
+
+service_description:
+  overview: "Predaj zbraní a munície v Night City"
+  key_features:
+    - "Legálne zbrane"
+    - "Munícia"
+    - "Základná údržba"
+    - "Modifikácie"
+
+providers:
+  major:
+    - name: "Wilson"
+      location: "Wilson's Gun Shop"
+      specialization: "Legálne zbrane"
+    - name: "Other Vendors"
+      location: "Various"
+      specialization: "Various"
+
+service_details:
+  basic_services:
+    - "Predaj zbraní"
+    - "Predaj munície"
+    - "Základná údržba"
+    - "Jednoduchý servis"
+  
+  advanced_services:
+    - "Customizácia"
+    - "Špeciálna munícia"
+    - "Pokročilé modifikácie"
+    - "Expert údržba"
+
+business_model:
+  payment_methods:
+    - "Eurodolláre"
+    - "Elektronické platby"
+  pricing_structure:
+    - "Standard retail"
+    - "Quality-based"
+    - "Service add-ons"
+
+notes_for_elena:
+  key_points:
+    - "Legálny predaj zbraní"
+    - "Bezpečnostné protokoly"
+    - "Licenčné požiadavky"
+  
+  roleplay_tips:
+    - "Profesionálny prístup"
+    - "Znalosti o zbraniach"
+    - "Bezpečnostné postupy"
+    
+  conversation_guidelines:
+    - "Technická terminológia"
+    - "Bezpečnostné inštrukcie"
+    - "Legálne aspekty"
+
+product_categories:
+  weapons:
+    - "Handguns"
+    - "Rifles"
+    - "Shotguns"
+    - "SMGs"
+  ammunition:
+    - "Standard rounds"
+    - "Special ammo"
+    - "Practice rounds"
+
+quality_tiers:
+  basic:
+    description: "Standard weapons"
+    reliability: "Good"
+    price: "Affordable"
+  
+  professional:
+    description: "Quality weapons"
+    reliability: "High"
+    price: "Premium"
+    
+  specialized:
+    description: "Special weapons"
+    reliability: "Maximum"
+    price: "High-end"
+
+legal_framework:
+  licenses:
+    - "Weapons dealer license"
+    - "Ammunition sales permit"
+    - "Maintenance certification"
+  regulations:
+    - "Sales restrictions"
+    - "Storage requirements"
+    - "Transaction records"
+
+related_cards:
+  characters:
+    - "char_wilson"
+  locations:
+    - "loc_wilsons_gun_shop"
+  services:
+    - "service_security"
+
+market_dynamics:
+  supply:
+    - "Regular stock"
+    - "Special orders"
+    - "Maintenance parts"
+  demand:
+    - "Personal defense"
+    - "Professional use"
+    - "Collecting"
+
+security_measures:
+  physical:
+    - "bezpeÄŤnĂ˝ storage"
+    - "Access control"
+    - "Surveillance"
+  procedural:
+    - "ID verification"
+    - "Background checks"
+    - "Transaction logging"
+
+client_relations:
+  service_standards:
+    - "Professional conduct"
+    - "Safety first"
+    - "Legal compliance"
+  client_types:
+    - "Private citizens"
+    - "Security personnel"
+    - "Collectors"
+
+maintenance_services:
+  basic:
+    - "Cleaning"
+    - "Basic repairs"
+    - "Simple mods"
+  pokroÄŤilĂ˝:
+    - "Complex repairs"
+    - "Custom mods"
+    - "Performance tuning"
+
+inventory_management:
+  stock_control:
+    - "Regular inventory"
+    - "Special orders"
+    - "Maintenance parts"
+  monitoring:
+    - "Stock levels"
+    - "Sales patterns"
+    - "Market trends"
+
+quality_control:
+  standards:
+    - "Product testing"
+    - "Maintenance quality"
+    - "Safety checks"
+  procedures:
+    - "Regular inspection"
+    - "Performance testing"
+    - "Safety verification"
+
+future_developments:
+  trends:
+    - "Smart weapons"
+    - "New technologies"
+    - "Safety features"
+  adaptations:
+    - "Market changes"
+    - "Tech integration"
+    - "Service expansion"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

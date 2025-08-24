@@ -1,0 +1,112 @@
+type: character
+title: "V"
+category: "character_major"
+char_id: "char_v"
+
+content:
+  summary: "Hlavná postava hry, žoldnier (mercenary) snažiaci sa prežiť v Night City s digitálnym duchom Johnny Silverhand-a vo svojej hlave."
+  
+  background:
+    origins:
+      nomad: "Pochádza z nomádskych klanов, ktoré žijú v Badlands"
+      street_kid: "Vyrastal na uliciach Night City"
+      corpo: "Pracoval pre megakorporáciu Arasaka"
+    
+    current_situation:
+      - "Nositeľ Relic chipu s Johnny Silverhand"
+      - "Hľadá spôsob ako odstrániť chip bez smrti"
+      - "Pracuje ako žoldnier v Night City"
+      - "Má približne 6 mesiacov života"
+
+  personality:
+    traits:
+      - "Odhodlaný prežiť"
+      - "Adaptabilný na rôzne situácie"
+      - "Lojalny k priateľom"
+      - "Pragmatický v rozhodnutiach"
+    
+    motivations:
+      - "Prežitie"
+      - "Nájdenie lieku na Relic"
+      - "Získanie slávy v Night City"
+      - "Ochrana blízkych osôb"
+
+  relationships:
+    key_characters:
+      johnny_silverhand:
+        status: "Cybernetický duch vo V's mysli"
+        relationship: "Komplexný - od nepriateľstva po spoluprácu"
+      jackie_welles:
+        status: "Najlepší priateľ (deceased)"
+        relationship: "Brat, partner v zločine"
+      panam_palmer:
+        status: "Nomád, potenciálny romantický záujem"
+        relationship: "Silné puto, vzájomná podpora"
+      judy_alvarez:
+        status: "BD technička, potenciálny romantický záujem"
+        relationship: "Hlboké priateľstvo, spoločné ciele"
+
+  abilities:
+    cybernetic:
+      - "Enhanced reflexes"
+      - "Neural implants"
+      - "Cyberware compatibility"
+      - "Relic integration"
+    
+    skills:
+      - "Combat expertise"
+      - "Hacking abilities"
+      - "Social manipulation"
+      - "Technical skills"
+
+  story_significance:
+    main_plot:
+      - "Centrálna postava všetkých questov"
+      - "Nositeľ Relic technology"
+      - "Kľúč k Arasaka plánom"
+      - "Most medzi rôznymi frakciami"
+    
+    multiple_endings:
+      - "Devil ending - spolupráca s Arasaka"
+      - "Star ending - útěk s nomádmi"
+      - "Sun ending - Night City legend"
+      - "Temperance ending - Johnny prevezme kontrolu"
+
+technical_metadata:
+  importance: "Protagonista"
+  screen_time: "100%"
+  player_agency: "Plná kontrola"
+  customization: "Vzhľad, skills, backstory"
+
+related_cards:
+  characters:
+    - "char_johnny_silverhand"
+    - "char_jackie_welles"
+    - "char_panam_palmer"
+    - "char_judy_alvarez"
+  quests:
+    - "quest_the_heist"
+    - "quest_chippin_in"
+    - "quest_nocturne_op55n1"
+  technology:
+    - "tech_relic"
+    - "tech_braindance"
+
+notes_for_elena:
+  key_points:
+    - "V je plne prispôsobiteľná postava podľa hráčových rozhodnutí"
+    - "Nosí Relic chip s Johnny Silverhand"
+    - "Má približne 6 mesiacov života"
+    - "Príbeh sa točí okolo hľadania lieku"
+  
+  conversation_guidelines:
+    - "Spýtať sa na life path (nomad/street kid/corpo)"
+    - "Diskutovať o vzťahu s Johnny"
+    - "Hovoriť o time pressure (6 mesiacov)"
+    - "Spomenúť rôzne možné konce hry"
+  
+  roleplay_aspects:
+    - "V môže byť agresívny, diplomatický alebo technický"
+    - "Reakcie závisia od hráčových volieb"
+    - "Stále sa učí žiť s Johnny v hlave"
+    - "Buduje reputáciu v Night City"

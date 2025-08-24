@@ -1,0 +1,172 @@
+﻿type: "economy"
+title: "Clothing Services"
+category: "service_type"
+economy_id: "service_clothing"
+
+content:
+  summary: ""
+  
+name: "Clothing Services"
+id: "service_clothing"
+category: "service_type"
+
+service_overview:
+  description: "Módne obchody a štýlové služby v Night City"
+  legality: "Legal"
+  availability: "Widespread"
+  price_range: "Low to Luxury"
+
+core_services:
+  retail:
+    - "Ready-to-wear"
+    - "Custom designs"
+    - "Accessories"
+    - "Street wear"
+  
+  custom:
+    - "Tailoring"
+    - "Style consulting"
+    - "Fashion design"
+    - "Modifications"
+
+service_providers:
+  types:
+    - "Fashion boutiques"
+    - "Street vendors"
+    - "Designer studios"
+    - "Market stalls"
+  
+  locations:
+    - "Shopping centers"
+    - "Street markets"
+    - "Fashion districts"
+    - "Corporate zones"
+
+pricing_structure:
+  categories:
+    - name: "Street wear"
+      range: "Low cost"
+    - name: "Fashion brands"
+      range: "Medium"
+    - name: "Designer pieces"
+      range: "High"
+    - name: "Custom work"
+      range: "Variable"
+
+style_options:
+  trends:
+    - "Corpo fashion"
+    - "Street style"
+    - "Punk aesthetic"
+    - "Tech wear"
+  
+  customization:
+    - "Color options"
+    - "Material choice"
+    - "Style mixing"
+    - "Personal touches"
+
+quality_levels:
+  standard:
+    - "Basic wear"
+    - "Daily clothing"
+    - "Work wear"
+  
+  premium:
+    - "Designer labels"
+    - "Luxury materials"
+    - "Custom pieces"
+
+market_segments:
+  street:
+    - "Affordable fashion"
+    - "Local styles"
+    - "Basic needs"
+  
+  luxury:
+    - "Designer brands"
+    - "Exclusive pieces"
+    - "Custom work"
+
+special_services:
+  styling:
+    - "Personal shopping"
+    - "Style consultation"
+    - "Wardrobe planning"
+  
+  maintenance:
+    - "Repairs"
+    - "Alterations"
+    - "Cleaning"
+
+client_relations:
+  services:
+    - "Style advice"
+    - "Size fitting"
+    - "Color matching"
+  
+  support:
+    - "Returns policy"
+    - "Alterations"
+    - "Customer service"
+
+fashion_trends:
+  current:
+    - "Tech-wear"
+    - "Street punk"
+    - "Corpo chic"
+  
+  seasonal:
+    - "Summer styles"
+    - "Winter wear"
+    - "Special events"
+
+location_specifics:
+  city_center:
+    - "Luxury boutiques"
+    - "Designer stores"
+    - "High-end retail"
+  
+  local_areas:
+    - "Street markets"
+    - "Local shops"
+    - "Bargain stores"
+
+style_consulting:
+  services:
+    - "Personal styling"
+    - "Image consulting"
+    - "Fashion advice"
+  
+  specialties:
+    - "Corporate look"
+    - "Street style"
+    - "Special events"
+
+notes_for_elena:
+  key_points:
+    - "Style variety"
+    - "Price ranges"
+    - "Location types"
+  
+  interaction_tips:
+    - "Know trends"
+    - "Match style"
+    - "Price awareness"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,188 @@
+name: "Melee Combat System"
+id: "system_combat_melee"
+category: "system_combat"
+
+system_overview:
+  description: "Systém pre boj zblízka a súboje na krátku vzdialenosť"
+  core_mechanics:
+    - "Attack combinations"
+    - "Blocking system"
+    - "Dodge mechanics"
+    - "Counter attacks"
+
+mechanics:
+  attacks:
+    - "Light attacks"
+    - "Heavy attacks"
+    - "Power attacks"
+    - "Special moves"
+  
+  defense:
+    - "Blocking"
+    - "Parrying"
+    - "Dodging"
+    - "Counter-attacks"
+
+combat_dynamics:
+  engagement:
+    - "Distance control"
+    - "Timing windows"
+    - "Stamina management"
+    - "Position advantage"
+  
+  damage:
+    - "Hit zones"
+    - "Critical strikes"
+    - "Bleeding effects"
+    - "Stun potential"
+
+equipment:
+  weapon_types:
+    - "Blades"
+    - "Blunt weapons"
+    - "Fists"
+    - "Cyberware arms"
+  
+  gear:
+    - "Armor impact"
+    - "Weight factors"
+    - "Durability"
+
+notes_for_elena:
+  key_points:
+    - "Melee combat flow"
+    - "Tactical choices"
+    - "Equipment impact"
+  
+  roleplay_tips:
+    - "Combat intensity"
+    - "Physical prowess"
+    - "Strategic thinking"
+    
+  conversation_guidelines:
+    - "Combat terminology"
+    - "Technical terms"
+    - "Tactical language"
+
+weapon_categories:
+  blades:
+    - "Katanas"
+    - "Knives"
+    - "Machetes"
+  
+  blunt:
+    - "Batons"
+    - "Hammers"
+    - "Clubs"
+  
+  unarmed:
+    - "Fists"
+    - "Gorilla arms"
+    - "Mantis blades"
+
+skill_integration:
+  melee_skills:
+    - "Blade mastery"
+    - "Blunt expertise"
+    - "Unarmed combat"
+  
+  related_skills:
+    - "Body"
+    - "Reflexes"
+    - "Cool"
+
+gameplay_elements:
+  strategic:
+    - "Weapon choice"
+    - "Combat style"
+    - "Approach timing"
+  
+  tactical:
+    - "Distance management"
+    - "Enemy patterns"
+    - "Environment use"
+
+progression_system:
+  skills:
+    - "Damage increase"
+    - "Block efficiency"
+    - "Counter damage"
+  
+  perks:
+    - "Special moves"
+    - "Combo extenders"
+    - "Defense boost"
+
+combat_feedback:
+  visual:
+    - "Hit effects"
+    - "Blood splatter"
+    - "Impact marks"
+  
+  audio:
+    - "Weapon sounds"
+    - "Impact effects"
+    - "Combat calls"
+
+ui_elements:
+  hud:
+    - "Stamina bar"
+    - "Combo counter"
+    - "Block meter"
+  
+  feedback:
+    - "Damage numbers"
+    - "Critical indicators"
+    - "Status effects"
+
+related_systems:
+  combat:
+    - "system_combat_gunplay"
+    - "system_combat_stealth"
+  cyberware:
+    - "system_cyberware_arms"
+    - "system_cyberware_legs"
+
+balance_considerations:
+  advantages:
+    - "High damage"
+    - "No ammo needed"
+    - "Silent options"
+  
+  limitations:
+    - "Range limited"
+    - "Stamina dependent"
+    - "Risk exposure"
+
+technical_implementation:
+  core_systems:
+    - "Hit detection"
+    - "Animation blending"
+    - "Physics impact"
+  
+  optimization:
+    - "Animation system"
+    - "Collision checks"
+    - "Effect rendering"
+
+combo_system:
+  basic_combos:
+    - "Light chains"
+    - "Heavy finishers"
+    - "Mix-ups"
+  
+  advanced_combos:
+    - "Special sequences"
+    - "Counter chains"
+    - "Weapon techniques"
+
+environmental_interaction:
+  objects:
+    - "Destructibles"
+    - "Cover impact"
+    - "Hazards"
+  
+  positioning:
+    - "Corner fights"
+    - "Elevation use"
+    - "Space management"

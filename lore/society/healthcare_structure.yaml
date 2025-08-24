@@ -1,0 +1,111 @@
+type: society
+title: "Healthcare Structure"
+category: "society_politics"
+society_id: "soc_healthcare"
+
+content:
+  summary: "Hierarchický a nerovnomerný systém zdravotnej starostlivosti v Night City, od špičkových korporátnych kliník po pouličné kliniky."
+  
+  system_levels:
+    corporate:
+      facilities:
+        - "Luxury medical centers"
+        - "Private hospitals"
+        - "Research clinics"
+        - "Executive care units"
+      features:
+        - "Najmodernejšie vybavenie"
+        - "Elite personál"
+        - "Experimentálne procedúry"
+        - "Komplexná starostlivosť"
+    
+    public:
+      facilities:
+        - "Mestské nemocnice"
+        - "Komunitné kliniky"
+        - "Pohotovostné centrá"
+        - "Mobilné jednotky"
+      challenges:
+        - "Preťaženie"
+        - "Nedostatok zdrojov"
+        - "Dlhé čakacie doby"
+        - "Obmedzené služby"
+    
+    street:
+      options:
+        - "Ripperdocs"
+        - "Pouličné kliniky"
+        - "Nelegálne ordinácie"
+        - "Mobilní medici"
+
+  services:
+    standard_care:
+      - "Urgentná medicína"
+      - "Základná chirurgia"
+      - "Preventívna starostlivosť"
+      - "Diagnostika"
+    
+    specialized:
+      cybernetic:
+        - "Implant installation"
+        - "Kybernetická údržba"
+        - "Neural programming"
+        - "Hardware upgrades"
+      medical:
+        - "Genetická terapia"
+        - "Nano-chirurgia"
+        - "Orgánové transplantácie"
+        - "Psychologická starostlivosť"
+
+  access_barriers:
+    financial:
+      - "Vysoké náklady"
+      - "Limitované poistenie"
+      - "Korporátne členstvo"
+      - "Sociálny status"
+    
+    practical:
+      - "Geografická dostupnosť"
+      - "Dlhé čakacie doby"
+      - "Dokumentačné požiadavky"
+      - "Technologické limity"
+
+  major_issues:
+    systemic:
+      - "Nerovnomerná dostupnosť"
+      - "Kvalitné rozdiely"
+      - "Korupcia"
+      - "Etické problémy"
+    
+    medical:
+      - "Kyberpsychóza"
+      - "Nové choroby"
+      - "Rezistentné infekcie"
+      - "Environmentálne ochorenia"
+
+technical_metadata:
+  quality_range: "Extrémne variabilná"
+  accessibility: "Limitovaná"
+  tech_level: "Vysoká"
+  regulation: "Minimálna"
+
+related_cards:
+  society:
+    - "soc_social_classes"
+    - "soc_civil_rights"
+    - "soc_corporate_politics"
+  services:
+    - "serv_ripperdoc"
+    - "serv_trauma_team"
+    - "serv_street_docs"
+
+notes_for_elena:
+  key_points:
+    - "Extrémne rozdiely v kvalite starostlivosti"
+    - "Dôležitosť korporátneho členstva"
+    - "Alternatívne možnosti liečby"
+  
+  roleplay_aspects:
+    - "Vysvetliť rôzne úrovne zdravotnej starostlivosti"
+    - "Diskutovať o dostupnosti liečby"
+    - "Popísať typické zdravotné problémy"

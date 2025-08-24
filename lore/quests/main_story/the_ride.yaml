@@ -1,0 +1,143 @@
+type: "quest"
+title: "The Ride"
+category: "main_story"
+
+summary: "Jackie a V prepare pre The Heist. Final preparations, team gathering, a emotional moments before attempting najväčší job ich lives."
+
+key_points:
+  - "Heist preparation completion"
+  - "Team final meeting"
+  - "Jackie-V friendship depth"
+  - "Delamain taxi introduction"
+  - "Pre-heist tension building"
+  - "Emotional farewell setup"
+
+story_context:
+  act: "Prologue"
+  position: "Pre-heist preparation"
+  importance: "Final setup before major event"
+
+characters:
+  - "V (protagonist)"
+  - "Jackie Welles"
+  - "Delamain (AI taxi)"
+  - "T-Bug (netrunner)"
+  - "Dex DeShawn (fixer)"
+
+mission_phases:
+  preparation:
+    - "Final equipment check"
+    - "Plan review"
+    - "Team coordination"
+    - "Mental preparation"
+  
+  journey:
+    - "Delamain taxi ride"
+    - "Final conversation with Jackie"
+    - "Heist location approach"
+    - "Last minute adjustments"
+
+jackie_relationship:
+  friendship_moments:
+    - "Personal conversation"
+    - "Shared memories"
+    - "Future plans discussion"
+    - "Mutual support"
+  
+  character_development:
+    - "Jackie's ambitions"
+    - "Family relationships"
+    - "Street dreams"
+    - "Loyalty demonstration"
+
+delamain_introduction:
+  ai_character:
+    - "Sophisticated AI taxi service"
+    - "Professional demeanor"
+    - "Advanced capabilities"
+    - "Corporate technology"
+  
+  service_features:
+    - "Autonomous driving"
+    - "Privacy protection"
+    - "Route optimization"
+    - "Client discretion"
+
+choices:
+  conversation_topics:
+    description: "Final talk s Jackie"
+    options:
+      - "Personal life - relationships and dreams"
+      - "Professional future - career plans"
+      - "Current job - heist concerns"
+      - "Past memories - shared experiences"
+    consequences: "Emotional depth preparation"
+
+pre_heist_atmosphere:
+  tension_building:
+    - "Anticipation rising"
+    - "Risk awareness"
+    - "Success possibility"
+    - "Failure consequences"
+  
+  emotional_weight:
+    - "Friendship importance"
+    - "Life-changing moment"
+    - "Point of no return"
+    - "Dreams on the line"
+
+objectives:
+  - "Complete final preparations"
+  - "Travel k heist location"
+  - "Maintain team morale"
+  - "Review mission parameters"
+  - "Prepare pre contingencies"
+
+team_dynamics:
+  v_jackie_partnership:
+    - "Complementary skills"
+    - "Mutual trust"
+    - "Shared goals"
+    - "Emotional bond"
+  
+  support_network:
+    - "T-Bug technical support"
+    - "Dex coordination"
+    - "Delamain transportation"
+    - "Equipment suppliers"
+
+themes:
+  - "Friendship before danger"
+  - "Dreams and ambitions"
+  - "Trust in uncertainty"
+  - "Preparation importance"
+
+foreshadowing_elements:
+  - "Jackie's future concerns"
+  - "Heist risk factors"
+  - "Relationship value"
+  - "Life change potential"
+
+related:
+  - "the_heist"
+  - "jackie_welles"
+  - "delamain_ai"
+  - "t_bug"
+  - "dex_deshawn"
+
+elena_notes:
+  talking_points:
+    - "Jackie relationship depth"
+    - "Pre-heist emotional setup"
+    - "Delamain AI introduction"
+    - "Team preparation importance"
+  spoiler_level: "low"
+  conversation_context:
+    - "Emotional buildup pre tragedy"
+    - "Character relationship investment"
+    - "Heist preparation details"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

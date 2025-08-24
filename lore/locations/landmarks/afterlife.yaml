@@ -1,0 +1,158 @@
+﻿type: "character"
+title: "Afterlife"
+category: "location_landmark"
+character_id: "landmark_afterlife"
+
+content:
+  summary: ""
+  
+name: "Afterlife"
+id: "landmark_afterlife"
+category: "location_landmark"
+
+landmark_overview:
+  description: "Legendárny mercenársky bar vedený Rogue, centrum Night City undergroundu"
+  location: "Watson District"
+  owner: "Rogue"
+  significance: "Centrum mercenárskej komunity"
+
+physical_characteristics:
+  exterior:
+    - "Bývalá pohrebná služba"
+    - "Nenápadný vstup"
+    - "Strážené okolie"
+    - "Underground atmosféra"
+  
+  interior:
+    - "Hlavný bar"
+    - "VIP sekcia"
+    - "Súkromné boxy"
+    - "Tancparket"
+
+access:
+  requirements:
+    - "Reputácia"
+    - "Pozvanie"
+    - "Mercenársky status"
+  
+  restrictions:
+    - "Prísna ochrana"
+    - "VIP kontrola"
+    - "Zbraňová politika"
+
+services:
+  primary:
+    - "Bar služby"
+    - "Informácie"
+    - "Kontrakty"
+    - "Networking"
+  
+  vip:
+    - "Súkromné stretnutia"
+    - "Špeciálne drinky"
+    - "Exkluzívne informácie"
+
+security:
+  measures:
+    - "Profesionálna ochranka"
+    - "Kamerový systém"
+    - "Biometrická kontrola"
+  
+  personnel:
+    - "Skúsení bouncer"
+    - "Tajná služba"
+    - "Rogue's tím"
+
+atmosphere:
+  ambiance:
+    - "Underground feeling"
+    - "Historická váha"
+    - "Mercenárska kultúra"
+  
+  music:
+    - "Rock klasika"
+    - "Punk"
+    - "Elektro"
+
+clientele:
+  regular:
+    - "Mercenári"
+    - "Fixeri"
+    - "Veterans"
+  
+  vip:
+    - "Legendárni mercs"
+    - "Vysokí fixeri"
+    - "Špeciálni hostia"
+
+historical_significance:
+  past:
+    - "Morgan Blackhand"
+    - "Johnny Silverhand"
+    - "Legendary jobs"
+  
+  present:
+    - "Merc headquarters"
+    - "Info centrum"
+    - "Networking hub"
+
+business_aspects:
+  operations:
+    - "Bar management"
+    - "Info trading"
+    - "Job brokering"
+  
+  revenue:
+    - "Drink sales"
+    - "Info fees"
+    - "VIP services"
+
+special_features:
+  drinks:
+    - "Johnny Silverhand"
+    - "Jackie Welles"
+    - "Other legends"
+  
+  areas:
+    - "Rogue's booth"
+    - "Merc wall"
+    - "Memorial corner"
+
+cultural_impact:
+  community:
+    - "Merc traditions"
+    - "Status symbol"
+    - "Legend maker"
+  
+  influence:
+    - "Job market"
+    - "Info flow"
+    - "Rep building"
+
+notes_for_elena:
+  key_points:
+    - "Legendary status"
+    - "Merc central"
+    - "Rogue's domain"
+  
+  interaction_tips:
+    - "Show respect"
+    - "Know protocols"
+    - "Mind reputation"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

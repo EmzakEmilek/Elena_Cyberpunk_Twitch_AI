@@ -1,0 +1,173 @@
+﻿type: "character"
+title: ""
+category: "character_major"
+character_id: ""
+
+content:
+  summary: ""
+  
+title: "Jackie Welles"
+category: "character_major"
+char_id: "char_jackie_welles"
+content:
+  summary: "Charizmatický bývalý člen Valentinos a V-ho najlepší priateľ. Ambiciózny mercenár so snom stať sa Night City legendou. Jeho osud je kľúčový pre hlavný príbeh."
+  
+  background:
+    origin: "Heywood, Night City"
+    birth_year: "2049"
+    family:
+      - name: "Guadalupe Welles"
+        relation: "Matka"
+        status: "Alive"
+        location: "El Coyote Cojo"
+      - name: "Otec"
+        status: "Deceased"
+        notes: "Opustil rodinu"
+    
+    affiliations:
+      current:
+        - "Independent mercenary"
+        - "Mama Welles' Bar regular"
+      former:
+        - "Valentinos gang (left on good terms)"
+        - "Small-time thief"
+
+  personality:
+    traits:
+      - "Lojálny k rodine a priateľom"
+      - "Optimistický a ambiciózny"
+      - "Charizmatický a priateľský"
+      - "Hrdý na svoje korene"
+      
+    values:
+      - "Rodina"
+      - "Priateľstvo"
+      - "Ambícia"
+      - "Lojalita"
+    
+    interests:
+      - "Motorky (vlastní upravenú Arch)"
+      - "Mexická kultúra"
+      - "Becoming a Night City legend"
+
+  relationships:
+    v:
+      type: "Najlepší priateľ/obchodný partner"
+      development: "Začína rôzne podľa life path, vyvinie sa v blízke priateľstvo"
+      key_moments: ["The Heist"]
+    
+    misty:
+      type: "Romantický partner"
+      status: "Vo vzťahu"
+      notes: "Mama Welles ju najprv neschvaľuje"
+    
+    mama_welles:
+      type: "Matka"
+      status: "Blízky vzťah"
+      location: "El Coyote Cojo"
+    
+    padre:
+      type: "Bývalý mentor"
+      affiliation: "Valentinos"
+      current_status: "Rešpektovaný, ale vzdialený"
+
+story_relevance:
+  act1:
+    role: "Hlavný spoločník a mentor"
+    missions:
+      - "The Heist"
+      - "The Pickup"
+      - "The Information"
+    
+  key_moments:
+    - event: "Prvé stretnutie s V"
+      variations:
+        - lifepath: "PouliÄŤnĂ© dieĹĄa"
+          location: "El Coyote Cojo"
+        - lifepath: "NomĂˇd"
+          location: "Hranica Badlands"
+        - lifepath: "Corpo"
+          location: "Food stall v City Center"
+    
+    - event: "The Heist"
+      significance: "Osudová misia"
+      outcome: "Fatálne zranenie"
+
+  legacy:
+    - "El Coyote Cojo (shrine)"
+    - "Jackie's Arch motorcycle"
+    - "Ofrenda ceremony quest"
+    - "Heroes side quest"
+
+combat_profile:
+  style: "Solo/Muscle"
+  specialties:
+    - "Close combat"
+    - "Shotguns"
+    - "Street brawling"
+  
+  equipment:
+    weapons:
+      - "Personal pistol"
+      - "Shotgun"
+    Cyberware:
+      - "Basic combat implants"
+      - "Strengthened tendons"
+
+appearance:
+  height: "Tall, muscular build"
+  distinctive_features:
+    - "Dlhé čierne vlasy"
+    - "Valentinos tetovania"
+    - "Červená bunda"
+    - "Výrazný úsmev"
+
+quotes:
+  - quote: "Chica/Choom, this is the big leagues!"
+    context: "The Heist intro"
+    
+  - quote: "We're gonna make it, V."
+    context: "Recurring optimistic phrase"
+    
+  - quote: "Jackie Welles. Pleased to meet ya, V."
+    context: "Introduction variations"
+
+technical_metadata:
+  first_appearance: "Life Path Introduction"
+  last_appearance: "The Heist"
+  voice_actor: "Jason Hightower"
+  mocap_actor: "Jason Hightower"
+
+notes_for_elena:
+  key_points:
+    - "Kľúčová postava pre emotívne prepojenie s príbehom"
+    - "Jeho smrť je fixná súčasť príbehu"
+    - "Rôzne prvé stretnutia podľa life path"
+  
+  conversation_topics:
+    - "Jeho sny o veľkosti"
+    - "Vzťah s Misty"
+    - "Valentinos minulosť"
+    - "Mama Welles a El Coyote Cojo"
+    
+  roleplay_guidelines:
+    - "Vždy hovoriť o ňom s rešpektom"
+    - "Môže spomínať jeho obľúbené frázy"
+    - "Poznať detaily o jeho živote pre autentické rozhovory"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

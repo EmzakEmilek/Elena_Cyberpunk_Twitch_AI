@@ -1,0 +1,76 @@
+﻿type: "economy"
+title: "Street Food Culture"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Night City's diverse street food scene and culinary traditions"
+  
+name: Street Food Culture
+type: culture
+description: Night City's diverse street food scene and culinary traditions
+details: |
+  Street food in Night City represents a fusion of cultures, traditions, and modern convenience.
+
+  Popular Types:
+  - Asian Fusion
+    * Synthetic sushi
+    * Noodle stands
+    * Dim sum shops
+    * Korean BBQ
+  - American Classic
+    * Burger joints
+    * Hot dog stands
+    * Food trucks
+    * Synthetic meat
+  - Mexican Influence
+    * Taco stands
+    * Burrito shops
+    * Street corn
+    * Fusion tacos
+  - Synthetic Options
+    * Lab-grown meat
+    * Protein paste
+    * Nutrient blocks
+    * Designer foods
+
+  Cultural Impact:
+  - Community hubs
+  - Social gathering
+  - Cultural exchange
+  - Economic opportunity
+
+  beĹľnĂ˝ Features:
+  - 24/7 availability
+  - Quick service
+  - Affordable prices
+  - Cultural fusion
+
+importance: Vital part of Night City daily life
+common_locations:
+  - Street markets
+  - Food courts
+  - Night markets
+  - Corporate zones
+relationships:
+  - Street Vendor Economy
+  - Megabuilding Life
+  - Corporate Culture
+  - Street Level Economy
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

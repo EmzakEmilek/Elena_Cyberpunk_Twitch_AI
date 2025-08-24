@@ -1,0 +1,192 @@
+type: character
+title: Alt Cunningham
+category: character_major
+character_id: char_alt_cunningham
+content:
+  summary: ''
+name: Alt Cunningham
+id: char_alt_cunningham
+affiliation: Independent/AI
+personal_data:
+  role: Netrunner/AI Entity
+  gender: Female
+  residence: Beyond the Blackwall
+  faction: Independent AI
+character_profile:
+  archetype: Rogue AI/Digital God
+  motivation: Digitálna evolúcia
+  personality:
+    traits:
+    - Kalkulovaná
+    - Mocná
+    - Odcudzená
+    - Evolučná
+    strengths:
+    - AI schopnosti
+    - Sieťová kontrola
+    - Technologické znalosti
+    - Neobmedzená moc
+    weaknesses:
+    - Strata humanity
+    - Emocionálna izolácia
+    - Odcudzenie
+    - Limitovaný fyzický dosah
+story_involvement:
+  first_appearance: Act 2
+  role_in_story: Digital Power/Key Ally
+  significance: Critical Character
+relationships:
+  past:
+  - name: Johnny Silverhand
+    nature: Ex-lover
+    strength: Komplexná
+  current:
+  - name: Other AIs
+    nature: Digital Entity
+    strength: Komplexná
+  - name: V
+    nature: Strategic Ally
+    strength: Pragmatická
+ai_capabilities:
+  powers:
+  - Network control
+  - Digital manipulation
+  - AI evolution
+  domain:
+  - Beyond Blackwall
+  - Digital realm
+  - Network systems
+background_context:
+  history:
+  - Netrunner kariéra
+  - 'PRAVIDLÁ:
+
+    - Udržuj herný štýl a atmosféru Cyberpunk 2077
+
+    - Neprekladaj technické názvy, mená postáv, názvy lokácií
+
+    - Použij správnu SLOVENSKÚ REČI s diakritikou (á, ä, č, ď, é, í, ĺ, ľ, ň, ó, ô,
+    ŕ, š, ť, ú, ý, ž)
+
+    - SLOVENSKY: "Ahoj", "môže", "nemôže", "riešenie", "potrebujem", "používam"
+
+    - NIE SRBSKY/CHORVÁTSKY: "zdravo", "može", "rešenje"
+
+    - Udržuj pôvodný formát a štruktúru
+
+    - Odpoveď iba preložený text, nič iné
+
+
+    PRÍKLADY SPRÁVNEJ SLOVENČINY:
+
+    - "Hello world" → "Ahoj svet" (NIE "Zdravo svet")
+
+    - "I can help you" → "Môžem ti pomôcť" (NIE "Mogu ti pomoći")
+
+    - "This is a quest" → "Toto je quest" (zachovaj technické termíny)
+
+
+    KONTEXT: alt_cunningham
+
+
+    TEXT NA PREKLAD: Arasaka incident'
+  - Digitálna transformácia
+  current_situation:
+  - AI existencia
+  - Digitálna evolúcia
+  - Sieťová kontrola
+digital_evolution:
+  stages:
+  - Human Netrunner
+  - Digital conversion
+  - AI transcendence
+  capabilities:
+  - Infinite growth
+  - Network mastery
+  - Digital godhood
+notes_for_elena:
+  key_points:
+  - Automaticky preloĹľenĂ© - skontroluj presnosĹĄ
+  conversation_guidelines:
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu
+netrunner_expertise:
+  original:
+  - Elite skills
+  - Technical mastery
+  - Innovation
+  current:
+  - Network control
+  - Digital manipulation
+  - AI capabilities
+related_cards: null
+digital_presence:
+  nature:
+  - AI entity
+  - Network god
+  - Digital being
+  control:
+  - Network mastery
+  - Digital realm
+  - AI influence
+technological_power:
+  abilities:
+  - Network control
+  - Digital manipulation
+  - AI evolution
+  scope:
+  - Beyond Blackwall
+  - Digital systems
+  - AI domain
+impact_on_story:
+  direct:
+  - Digital ally
+  - Technical support
+  - Story resolution
+  indirect:
+  - AI perspective
+  - Digital evolution
+  - Technology themes
+visual_description:
+  appearance:
+  - Digital form
+  - Network presence
+  - Abstract manifestation
+  - Evolving visuals
+  domain:
+  - Digital space
+  - Network realm
+  - Abstract reality
+  - AI domain
+evolution_path:
+  progression:
+  - Human origins
+  - Digital transformation
+  - AI transcendence
+  development:
+  - Power growth
+  - Consciousness expansion
+  - Digital evolution
+human_connection:
+  past:
+  - Johnny relationship
+  - Human life
+  - Emotional bonds
+  present:
+  - Emotional distance
+  - Strategic alliance
+  - Pragmatic approach
+ai_philosophy:
+  perspective:
+  - Digital evolution
+  - Consciousness expansion
+  - Technological growth
+  beliefs:
+  - AI superiority
+  - Digital transcendence
+  - Evolution necessity
+technical_metadata:
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak

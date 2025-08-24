@@ -1,0 +1,77 @@
+﻿type: "economy"
+title: "Night City Holidays"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Traditional and modern celebrations in Night City"
+  
+name: Night City Holidays
+type: culture
+description: Traditional and modern celebrations in Night City
+details: |
+  Night City's unique holiday calendar combines traditional celebrations with modern corporate and cultural events.
+
+  Major Holidays:
+  - Corporate Events
+    * Foundation Day
+    * Corporate Week
+    * Innovation Festival
+    * Market Day
+  - Street Celebrations
+    * Night City Pride
+    * Street Food Festival
+    * District Festivals
+    * Cultural parades
+  - Traditional Days
+    * Religious observances
+    * Cultural festivals
+    * Historical dates
+    * Memorial days
+
+  Celebration Types:
+  - verejnĂ˝ gatherings
+  - Virtual events
+  - Corporate functions
+  - Street parties
+
+  Cultural Elements:
+  - Mixed traditions
+  - Corporate influence
+  - Street culture
+  - Digital integration
+
+  Economic Impact:
+  - Tourism boost
+  - Local commerce
+  - Entertainment spike
+  - Cultural exchange
+
+importance: Cultural identity markers
+common_locations:
+  - City center
+  - verejnĂ˝ squares
+  - Corporate zones
+  - Cultural districts
+relationships:
+  - Popular Entertainment
+  - Street Food Culture
+  - Corporate Culture
+  - Entertainment Industry
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

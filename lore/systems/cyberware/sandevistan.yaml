@@ -1,0 +1,66 @@
+﻿type: "technology"
+title: "Sandevistan Technology"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ temporal perception manipulation system"
+  
+name: Sandevistan Technology
+type: Cyberware
+description: pokroÄŤilĂ˝ temporal perception manipulation system
+details: |
+  Sandevistan systems are military-grade temporal perception manipulators that allow users to experience enhanced time perception.
+
+  Core Functions:
+  - Time dilation
+  - Neural acceleration
+  - Reflex enhancement
+  - Perception alteration
+
+  System Components:
+  - Neural processor
+  - Time dilation matrix
+  - Cooling system
+  - Power management
+
+  Usage Modes:
+  - Combat enhancement
+  - Emergency response
+  - Tactical operations
+  - Precision tasks
+
+  Side Effects:
+  - Physical strain
+  - Mental fatigue
+  - System heat
+  - Recovery time
+
+importance: Elite combat enhancement system
+common_locations:
+  - Military forces
+  - Special operations
+  - KorporĂˇtna bezpeÄŤnosĹĄ
+  - Elite mercenaries
+relationships:
+  - Reflex Boosters
+  - Neural Implants
+  - Operating System Types
+  - Combat Implants
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

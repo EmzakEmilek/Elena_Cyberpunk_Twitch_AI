@@ -1,0 +1,187 @@
+name: "Fixer Services"
+id: "service_fixer"
+category: "service"
+
+service_type:
+  primary: "Contract Brokerage"
+  subtype: "Information & Jobs"
+  classification: "Essential Service"
+
+service_description:
+  overview: "Sprostredkovanie kontraktov a informácií v Night City"
+  key_features:
+    - "Job contracts"
+    - "Information brokering"
+    - "Network connections"
+    - "Resource access"
+
+providers:
+  major:
+    - name: "Regina Jones"
+      location: "Watson"
+      specialization: "Ethical jobs"
+    - name: "Wakako Okada"
+      location: "Westbrook"
+      specialization: "Traditional jobs"
+    - name: "Padre"
+      location: "Heywood"
+      specialization: "Community jobs"
+
+service_details:
+  basic_services:
+    - "Contract brokering"
+    - "Information trading"
+    - "Resource connections"
+    - "Local knowledge"
+  
+  advanced_services:
+    - "High-profile jobs"
+    - "Specialized contracts"
+    - "Exclusive information"
+    - "Premium connections"
+
+business_model:
+  payment_methods:
+    - "Eurodolláre"
+    - "Favor trading"
+    - "Information exchange"
+  pricing_structure:
+    - "Commission based"
+    - "Information value"
+    - "Contract complexity"
+
+notes_for_elena:
+  key_points:
+    - "Kľúčoví hráči v Night City"
+    - "Rôzne špecializácie"
+    - "Networking význam"
+  
+  roleplay_tips:
+    - "Profesionálny odstup"
+    - "Informačná opatrnosť"
+    - "Reputačný manažment"
+    
+  conversation_guidelines:
+    - "Obchodná terminológia"
+    - "Diskrétne informácie"
+    - "Reputačné odkazy"
+
+operational_aspects:
+  methods:
+    - "Contract vetting"
+    - "Client screening"
+    - "Risk assessment"
+    - "Resource allocation"
+  
+  requirements:
+    - "Information network"
+    - "Local influence"
+    - "Resource access"
+
+quality_tiers:
+  street:
+    description: "Basic contracts"
+    risk_level: "Variable"
+    pay: "Low-Medium"
+  
+  professional:
+    description: "Quality jobs"
+    risk_level: "Managed"
+    pay: "Medium-High"
+    
+  premium:
+    description: "Elite contracts"
+    risk_level: "High-stakes"
+    pay: "Premium"
+
+legal_framework:
+  status: "Semi-legal"
+  operations:
+    - "Contract mediation"
+    - "Information trading"
+    - "Resource brokering"
+  boundaries:
+    - "Client privacy"
+    - "Contract discretion"
+    - "Information security"
+
+related_cards:
+  characters:
+    - "char_regina_jones"
+    - "char_wakako_okada"
+    - "char_padre_ibarra"
+  locations:
+    - "loc_watson_district"
+  services:
+    - "service_information"
+
+market_dynamics:
+  supply:
+    - "Constant contracts"
+    - "Information flow"
+    - "Resource availability"
+  demand:
+    - "Job seekers"
+    - "Information needs"
+    - "Resource access"
+
+security_measures:
+  operational:
+    - "Client screening"
+    - "Information verification"
+    - "Contract security"
+  personal:
+    - "Location security"
+    - "Communication encryption"
+    - "Network protection"
+
+client_relations:
+  standards:
+    - "Professional conduct"
+    - "Clear communication"
+    - "Fair dealing"
+  requirements:
+    - "Reliability"
+    - "Discretion"
+    - "Competence"
+
+reputation_management:
+  factors:
+    - "Success rate"
+    - "Client satisfaction"
+    - "Network reliability"
+  importance:
+    - "Business continuity"
+    - "Client trust"
+    - "Network strength"
+
+contract_management:
+  process:
+    - "Initial contact"
+    - "Job assessment"
+    - "Resource allocation"
+    - "Completion verification"
+  quality_control:
+    - "Job screening"
+    - "Risk assessment"
+    - "Outcome monitoring"
+
+network_development:
+  aspects:
+    - "Contact cultivation"
+    - "Resource identification"
+    - "Information channels"
+  maintenance:
+    - "Regular contact"
+    - "Value exchange"
+    - "Trust building"
+
+future_developments:
+  trends:
+    - "Digital integration"
+    - "Network expansion"
+    - "Service specialization"
+  adaptations:
+    - "Tech integration"
+    - "Market evolution"
+    - "Service refinement"

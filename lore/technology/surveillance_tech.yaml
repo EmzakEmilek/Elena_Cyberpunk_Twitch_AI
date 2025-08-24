@@ -1,0 +1,135 @@
+type: technology
+title: "Surveillance Tech"
+category: "technology"
+tech_id: "tech_surveillance"
+
+content:
+  summary: "Komplexné sledovacie systémy v Night City, od kamerových sietí po pokročilé biometrické systémy a kybernetické sledovanie."
+  
+  surveillance_types:
+    visual:
+      - "HD kamerové systémy"
+      - "Termálne kamery"
+      - "Satelitné sledovanie"
+      - "Dronové systémy"
+    
+    digital:
+      - "NET monitoring"
+      - "Dátové sledovanie"
+      - "Komunikačné odpočúvanie"
+      - "Sociálne média tracking"
+    
+    biometric:
+      - "Skenovanie tváre"
+      - "DNA tracking"
+      - "Biometrická autentifikácia"
+      - "Behaviorálna analýza"
+    
+    cyber:
+      - "Kybernetické sledovanie"
+      - "Neurálne monitoring"
+      - "Implant tracking"
+      - "BrainDance záznam"
+
+  operators:
+    official:
+      - "NCPD"
+      - "Korporátna bezpečnosť"
+      - "Mestská správa"
+      - "NetWatch"
+    
+    unofficial:
+      - "Súkromní detektívi"
+      - "Kriminálne gangy"
+      - "Korporátna špionáž"
+      - "Nezávislí hackeri"
+
+  coverage_areas:
+    public:
+      - "Ulice a námestia"
+      - "Dopravné uzly"
+      - "Obchodné centrá"
+      - "Zábavné zóny"
+    
+    private:
+      - "Korporátne priestory"
+      - "Rezidenčné zóny"
+      - "Súkromné kluby"
+      - "VIP oblasti"
+    
+    restricted:
+      - "Vládne budovy"
+      - "Vojenské zóny"
+      - "Výskumné zariadenia"
+      - "Bezpečnostné centrá"
+
+  counter_surveillance:
+    methods:
+      - "Rušičky signálu"
+      - "Maskovacie systémy"
+      - "Krypto-protokoly"
+      - "Stealth technológie"
+    
+    technology:
+      - "Anti-sledovacie zariadenia"
+      - "Signálové blokátory"
+      - "Identita-meniace systémy"
+      - "NET maskovanie"
+
+  legal_framework:
+    regulations:
+      - "Zákony o súkromí"
+      - "Korporátne práva"
+      - "Bezpečnostné výnimky"
+      - "Občianske práva"
+    
+    enforcement:
+      - "NCPD dohľad"
+      - "Súdne povolenia"
+      - "Korporátne privilégiá"
+      - "Verejný dohľad"
+
+  social_impact:
+    benefits:
+      - "Zníženie kriminality"
+      - "Rýchla reakcia na incidenty"
+      - "Verejná bezpečnosť"
+      - "Prevencia terorizmu"
+    
+    concerns:
+      - "Strata súkromia"
+      - "Zneužitie údajov"
+      - "Sociálna kontrola"
+      - "Diskriminácia"
+
+technical_metadata:
+  implementation_cost: "Vysoká"
+  maintenance_requirements: "Nepretržité"
+  security_level: "Maximálna"
+  reliability: "Vysoká"
+
+related_cards:
+  technology:
+    - "tech_security_systems"
+    - "tech_data_management"
+    - "tech_communication_networks"
+  organizations:
+    - "org_ncpd"
+    - "org_netwatch"
+    - "corp_arasaka_security"
+
+notes_for_elena:
+  key_points:
+    - "Všadeprítomné sledovanie v Night City"
+    - "Rôzne úrovne sledovacích technológií"
+    - "Neustály boj o súkromie"
+  
+  conversation_guidelines:
+    - "Zdôrazniť rozsiahlosť sledovacích systémov"
+    - "Diskutovať o dôsledkoch pre obyvateľov"
+    - "Spomenúť možnosti úniku pred sledovaním"
+  
+  roleplay_aspects:
+    - "Popísať každodenný život pod dohľadom"
+    - "Vysvetliť rôzne metódy sledovania"
+    - "Diskutovať o súkromí vs. bezpečnosti"

@@ -1,0 +1,72 @@
+﻿type: "economy"
+title: "Megabuilding Life"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Daily life and culture within Night City's massive residential complexes"
+  
+name: Megabuilding Life
+type: culture
+description: Daily life and culture within Night City's massive residential complexes
+details: |
+  Megabuildings form self-contained communities with their own unique culture and social dynamics.
+
+  Living Spaces:
+  - Residential Units
+    * Micro apartments
+    * Family units
+    * Shared spaces
+    * Luxury penthouses
+  - beĹľnĂ˝ Areas
+    * Markets
+    * Recreation zones
+    * Meeting spaces
+    * Service areas
+
+  Social Structure:
+  - Floor communities
+  - Building politics
+  - Security systems
+  - Service networks
+
+  Daily Life:
+  - Vertical living
+  - Community events
+  - Local commerce
+  - Shared services
+
+  Cultural Aspects:
+  - Building identity
+  - Local traditions
+  - Community bonds
+  - Internal economy
+
+importance: Major residential culture center
+common_locations:
+  - Residential sectors
+  - beĹľnĂ˝ areas
+  - Market levels
+  - Service floors
+relationships:
+  - Street Food Culture
+  - Street Vendor Economy
+  - Real Estate System
+  - Street Level Economy
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

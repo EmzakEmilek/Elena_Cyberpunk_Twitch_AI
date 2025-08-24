@@ -1,0 +1,202 @@
+﻿type: "character"
+title: "Yorinobu Arasaka"
+category: "character_major"
+character_id: "char_yorinobu_arasaka"
+
+content:
+  summary: ""
+  
+name: "Yorinobu Arasaka"
+id: "char_yorinobu_arasaka"
+category: "character_major"
+affiliation: "Arasaka Corporation"
+
+personal_data:
+  role: "Arasaka Heir/Rebel"
+  gender: "Male"
+  residence: "Night City/Tokyo"
+  faction: "Arasaka (complicated)"
+
+character_profile:
+  archetype: "Rebel Prince/skrytĂ˝ Revolutionary"
+  motivation: "Zničiť Arasaka zvnútra"
+  personality:
+    traits:
+      - "Rebelský"
+      - "Manipulatívny"
+      - "Komplexný"
+      - "Odhodlaný"
+    strengths:
+      - "Strategické myslenie"
+      - "Adaptabilita"
+      - "Charizma"
+      - "Inside knowledge"
+    weaknesses:
+      - "Rodinné traumy"
+      - "Vnútorné konflikty"
+      - "Trust issues"
+
+story_involvement:
+  first_appearance: "The Heist"
+  role_in_story: "Key Antagonist/skrytĂ˝ Ally"
+  significance: "Vrah Sabura/Tajný rebel"
+
+relationships:
+  family:
+    - name: "Saburo Arasaka"
+      relation: "Otec"
+      nature: "Antagonistická"
+    - name: "Hanako Arasaka"
+      relation: "Sestra"
+      nature: "Komplikovaná"
+  
+  professional:
+    - name: "Arasaka Board"
+      nature: "Povrchná lojalita"
+    - name: "Steel Dragons"
+      nature: "Bývalé spojenectvo"
+
+character_development:
+  arc_type: "Complex Anti-Hero"
+  key_moments:
+    - "Vražda Sabura"
+    - "Prevzatie Arasaka"
+    - "Odhalenie pravých motívov"
+
+visual_description:
+  appearance:
+    - "Moderný biznis štýl"
+    - "Cyber vylepšenia"
+    - "Mix japonského a západného štýlu"
+    - "Charizmatická prezencia"
+  style:
+    - "Corporate rebel"
+    - "High fashion"
+    - "Power dresser"
+
+power_dynamics:
+  official:
+    - "Arasaka heir"
+    - "Corporate executive"
+    - "verejnĂ˝ face"
+  skrytĂ˝:
+    - "Revolutionary"
+    - "Saboteur"
+    - "Strategic planner"
+
+notes_for_elena:
+  key_points:
+    - "Komplexná motivácia"
+    - "Skrytá agenda"
+    - "Rodinné konflikty"
+  
+  roleplay_tips:
+    - "Balansovať verejnú a skrytú osobnosť"
+    - "Naznačovať hlbšie motívy"
+    - "Udržiavať mystériu"
+    
+  conversation_guidelines:
+    - "Formálny v oficiálnych situáciách"
+    - "Skryté náznaky rebélie"
+    - "Komplexné odpovede"
+
+background_context:
+  history:
+    - "Založenie Steel Dragons"
+    - "Rebélia proti otcovi"
+    - "Návrat do Arasaka"
+  
+  motivation:
+    - "Zničiť Arasaka zvnútra"
+    - "Pomsta otcovi"
+    - "Systémová zmena"
+
+related_cards:
+  characters:
+    - "char_saburo_arasaka"
+    - "char_hanako_arasaka"
+  factions:
+    - "faction_arasaka"
+    - "faction_steel_dragons"
+  locations:
+    - "loc_konpeki_plaza"
+    - "loc_arasaka_tower"
+  quests:
+    - "mq_the_heist"
+
+rebellion_history:
+  steel_dragons:
+    - "Založenie gangu"
+    - "Anti-Arasaka aktivity"
+    - "Budovanie siete"
+  corporate:
+    - "Návrat do firmy"
+    - "Získavanie pozície"
+    - "Príprava prevratu"
+
+public_persona:
+  image:
+    - "Corporate heir"
+    - "Reformed rebel"
+    - "Business leader"
+  activities:
+    - "Corporate management"
+    - "verejnĂ˝ appearances"
+    - "Business deals"
+
+hidden_agenda:
+  goals:
+    - "Destroy Arasaka from within"
+    - "End corporate control"
+    - "Personal revenge"
+  methods:
+    - "Long-term infiltration"
+    - "Strategic positioning"
+    - "Careful manipulation"
+
+impact_on_story:
+  direct:
+    - "Saburo murder"
+    - "Arasaka destabilization"
+    - "Relic theft opportunity"
+  symbolic:
+    - "Corporate rebellion"
+    - "Family conflict"
+    - "skrytĂ˝ revolution"
+
+combat_capabilities:
+  training:
+    - "KorporĂˇtna bezpeÄŤnosĹĄ"
+    - "Martial arts"
+    - "Tactical planning"
+  equipment:
+    - "High-end Cyberware"
+    - "Corporate resources"
+    - "Personal security"
+
+philosophical_stance:
+  verejnĂ˝:
+    - "Corporate reform"
+    - "Modernization"
+    - "Progress"
+  private:
+    - "Anti-corporate revolution"
+    - "System destruction"
+    - "Personal vengeance"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

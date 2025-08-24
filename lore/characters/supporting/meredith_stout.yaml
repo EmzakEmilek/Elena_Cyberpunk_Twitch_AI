@@ -1,0 +1,165 @@
+﻿type: "character"
+title: "Meredith Stout"
+category: "character_supporting"
+character_id: "char_meredith_stout"
+
+content:
+  summary: ""
+  
+name: "Meredith Stout"
+id: "char_meredith_stout"
+category: "character_supporting"
+affiliation: "Militech"
+
+personal_data:
+  role: "Senior Operations Manager"
+  gender: "Female"
+  residence: "Night City"
+  faction: "Militech"
+
+character_profile:
+  archetype: "Corporate Agent"
+  motivation: "Kariérny postup v Militech"
+  personality:
+    traits:
+      - "Ambiciózna"
+      - "Bezohľadná"
+      - "Profesionálna"
+      - "Manipulatívna"
+    strengths:
+      - "Strategické myslenie"
+      - "Vyjednávacie schopnosti"
+      - "Korporátna lojalita"
+    weaknesses:
+      - "Prehnané sebavedomie"
+      - "Paranoja"
+      - "Neschopnosť dôverovať"
+
+story_involvement:
+  first_appearance: "The Pickup"
+  role_in_story: "Potenciálny spojenec/nepriateľ v konflikte s Maelstrom"
+  possible_outcomes:
+    - condition: "Spolupráca"
+      result: "Spojenenctvo a možná romance"
+    - condition: "Zrada"
+      result: "Nepriateľstvo"
+    - condition: "Neutrálne"
+      result: "Žiadny ďalší kontakt"
+
+relationships:
+  allies:
+    - name: "Militech"
+      nature: "Zamestnávateľ"
+      strength: "Silná"
+  enemies:
+    - name: "Maelstrom"
+      nature: "Konkurenčný konflikt"
+      strength: "Silná"
+  potential:
+    - name: "V"
+      nature: "Obchodná/Romantická"
+      condition: "Závisí od rozhodnutí"
+
+quest_appearances:
+  - quest: "The Pickup"
+    role: "Key NPC"
+    importance: "High"
+
+available_interactions:
+  dialogues:
+    - type: "Mission related"
+      topics:
+        - "Maelstrom konflikt"
+        - "Militech záujmy"
+        - "Flathead tech"
+    - type: "Personal"
+      topics:
+        - "Kariéra v Militech"
+        - "Osobné ambície"
+        - "Romance (podmienené)"
+
+character_development:
+  arc_type: "Situational"
+  potential_changes:
+    - "Povýšenie v Militech"
+    - "Strata pozície"
+    - "Rozvoj vzťahu s V"
+  
+visual_description:
+  appearance:
+    - "Blonde hair"
+    - "Corporate suit"
+    - "Military-grade Cyberware"
+    - "Profesionálny vzhľad"
+  style:
+    - "Corporate fashion"
+    - "Military influence"
+    - "High-end Cyberware"
+
+combat_capabilities:
+  primary_weapons: "Corporate pistol"
+  Cyberware:
+    - type: "Combat enhancers"
+      level: "High-grade"
+    - type: "KorporĂˇtna bezpeÄŤnosĹĄ suite"
+      level: "Top-tier"
+  tactics:
+    - "Využitie Militech zdrojov"
+    - "Taktická analýza"
+    - "Delegácia konfliktu"
+
+notes_for_elena:
+  key_points:
+    - "Dôležitá pre The Pickup misiu"
+    - "Reprezentuje korporátny element"
+    - "Možná romance option"
+  
+  roleplay_tips:
+    - "Zdôrazniť profesionalitu"
+    - "Naznačiť skryté motívy"
+    - "Prispôsobiť správanie podľa predošlých rozhodnutí"
+    
+  conversation_guidelines:
+    - "Udržiavať korporátny tón"
+    - "Reflektovať mocenskú dynamiku"
+    - "Reagovať na V's životnú cestu"
+
+background_context:
+  career:
+    - "Rýchly postup v Militech"
+    - "Skúsenosti s korporátnou politikou"
+    - "Špecializácia na krízový manažment"
+  
+  motivations:
+    - "Kariérny rast"
+    - "Militech dominancia"
+    - "Osobná moc"
+
+related_cards:
+  characters:
+    - "char_royce"
+    - "char_brick"
+  factions:
+    - "faction_militech"
+    - "faction_maelstrom"
+  locations:
+    - "loc_all_foods"
+  quests:
+    - "mq_the_pickup"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

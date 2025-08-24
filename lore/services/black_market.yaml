@@ -1,0 +1,172 @@
+﻿type: "economy"
+title: "Black Market Services"
+category: "service_type"
+economy_id: "service_black_market"
+
+content:
+  summary: ""
+  
+name: "Black Market Services"
+id: "service_black_market"
+category: "service_type"
+
+service_overview:
+  description: "Nelegálny obchod a underground služby"
+  legality: "nelegĂˇlny"
+  availability: "skrytĂ˝ networks"
+  risk_level: "High"
+
+core_services:
+  goods:
+    - "nelegĂˇlny weapons"
+    - "Stolen tech"
+    - "Restricted Cyberware"
+    - "Contraband items"
+  
+  services:
+    - "Data trades"
+    - "Identity forgery"
+    - "Smuggling"
+    - "Underground mods"
+
+market_access:
+  requirements:
+    - "Trusted contacts"
+    - "Secret locations"
+    - "Correct passwords"
+    - "Fixer intro"
+  
+  networks:
+    - "Gang connections"
+    - "Fixer networks"
+    - "Underground dealers"
+    - "skrytĂ˝ markets"
+
+security_measures:
+  operational:
+    - "Location rotation"
+    - "Code systems"
+    - "Lookouts"
+    - "Escape routes"
+  
+  digital:
+    - "Encrypted comms"
+    - "Anonymous deals"
+    - "bezpeÄŤnĂ˝ payments"
+
+product_categories:
+  weapons:
+    - "Military grade"
+    - "Restricted mods"
+    - "Custom builds"
+  
+  tech:
+    - "Stolen hardware"
+    - "nelegĂˇlny software"
+    - "Restricted tech"
+
+service_quality:
+  verification:
+    - "Product testing"
+    - "Source checking"
+    - "Quality control"
+  
+  guarantees:
+    - "Limited warranty"
+    - "Replacement options"
+    - "Discretion promise"
+
+pricing_structure:
+  factors:
+    - "Risk level"
+    - "Rarity"
+    - "Demand"
+    - "Heat level"
+  
+  methods:
+    - "Crypto payment"
+    - "Cash only"
+    - "Trade system"
+
+operational_security:
+  protocols:
+    - "Meeting rules"
+    - "Communication codes"
+    - "Drop systems"
+  
+  precautions:
+    - "Counter-surveillance"
+    - "Identity protection"
+    - "Location security"
+
+supplier_network:
+  sources:
+    - "Theft rings"
+    - "Inside contacts"
+    - "Smuggling ops"
+  
+  verification:
+    - "Quality check"
+    - "Source verify"
+    - "Trust build"
+
+client_relations:
+  screening:
+    - "Background check"
+    - "Referral system"
+    - "Trust building"
+  
+  rules:
+    - "No cops"
+    - "No corps"
+    - "No snitches"
+
+risk_management:
+  threats:
+    - "Law enforcement"
+    - "KorporĂˇtna bezpeÄŤnosĹĄ"
+    - "Rival operations"
+  
+  mitigation:
+    - "Quick moves"
+    - "Clean trails"
+    - "Backup plans"
+
+location_management:
+  spots:
+    - "skrytĂ˝ shops"
+    - "Mobile points"
+    - "Secret markets"
+  
+  rotation:
+    - "Regular changes"
+    - "Multiple locations"
+    - "Backup spots"
+
+notes_for_elena:
+  key_points:
+    - "High risk"
+    - "Need contacts"
+    - "Stay careful"
+  
+  interaction_tips:
+    - "Trust needed"
+    - "No questions"
+    - "Follow rules"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

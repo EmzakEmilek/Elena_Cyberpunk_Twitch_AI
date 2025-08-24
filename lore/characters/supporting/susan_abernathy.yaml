@@ -1,0 +1,138 @@
+﻿type: "character"
+title: ""
+category: "character_supporting"
+character_id: ""
+
+content:
+  summary: ""
+  
+title: "Susan Abernathy"
+category: "character_supporting"
+char_id: "char_abernathy"
+content:
+  summary: "Vysokopostavená manažérka v Arasaka Counterintelligence, zapletená do mocenského boja s Jenkinsom. Jej konflikt s Jenkinsom vedie k V's pádu v Corpo lifepath."
+  
+  background:
+    position: "Senior Manager"
+    department: "Arasaka Counterintelligence"
+    years_of_service: "15+"
+    specialization: "Strategické operácie"
+    
+    career_history:
+      - "Rýchly postup v Arasaka hierarchii"
+      - "Známa agresívnymi taktikami"
+      - "Množstvo úspešných eliminácií konkurencie"
+    
+  personality:
+    traits:
+      - "Ambiciózna"
+      - "Nemilosrdná"
+      - "Strategická"
+      - "Dominantná"
+      
+    values:
+      - "Moc"
+      - "Status"
+      - "Kontrola"
+      - "Víťazstvo"
+    
+    methods:
+      - "Agresívna expanzia vplyvu"
+      - "Eliminácia konkurencie"
+      - "Politické manévrovanie"
+
+  relationships:
+    jenkins:
+      type: "Rival/Nepriateľ"
+      status: "Aktívny konflikt"
+      notes: "Súboj o moc v oddelení"
+    
+    v_corpo:
+      type: "Vedľajšia obeť"
+      status: "Negatívny"
+      notes: "V bol použitý v ich konflikte"
+    
+    arasaka:
+      type: "Ambiciózny člen"
+      position: "Senior management"
+      influence: "Rastúca"
+
+story_relevance:
+  main_story:
+    role: "Katalyzátor Corpo príbehu"
+    appearances: ["Corpo life path"]
+    impact: "Nepriamy dôvod V's pádu"
+    
+  significance:
+    - "Reprezentuje korporátne mocenské boje"
+    - "Ukazuje brutálnosť vnútrofiremnej politiky"
+    - "Demonštruje bezcitnosť systému"
+
+professional_profile:
+  expertise:
+    - "Strategické plánovanie"
+    - "Korporátna politika"
+    - "Operačné riadenie"
+  
+  resources:
+    - "Rozsiahla sieť informátorov"
+    - "Significant budget control"
+    - "Loyal subordinates"
+  
+  methods:
+    - "Aggressive expansion"
+    - "Strategic elimination"
+    - "Political maneuvering"
+
+appearance:
+  description: "Elegantná, autoritatívna korporátna executive"
+  distinctive_features:
+    - "drahĂ˝ corporate attire"
+    - "Commanding presence"
+    - "Cold, calculating demeanor"
+    - "Perfect posture"
+
+quotes:
+  - quote: "In this company, you're either climbing up, or being stepped on."
+    context: "Corpo life path"
+    
+  - quote: "Jenkins thought he could play with the big dogs. Time to show him otherwise."
+    context: "Mocenský konflikt"
+
+technical_metadata:
+  first_appearance: "Corpo Life Path"
+  recurring: false
+  voice_actor: "Nepotvrdené"
+
+notes_for_elena:
+  key_points:
+    - "Súčasť toxického korporátneho prostredia"
+    - "Nepriamy katalyzátor V's zmeny života"
+    - "Príklad nemilosrdnej korporátnej kultúry"
+  
+  conversation_guidelines:
+    - "Zmieňovať ako súčasť korporátnych intríg"
+    - "Používať ako príklad korporátnej bezohľadnosti"
+    - "Zdôrazniť jej rolu v mocenskom boji"
+  
+  character_context:
+    - "Reprezentuje agresívnu korporátnu kultúru"
+    - "Príklad toho, ako funguje moc v Arasake"
+    - "Súčasť väčšieho obrazu korporátnej politiky"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

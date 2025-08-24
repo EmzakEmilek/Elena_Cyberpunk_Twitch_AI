@@ -1,0 +1,66 @@
+﻿type: "technology"
+title: "Kiroshi Optics"
+category: ""
+technology_id: ""
+
+content:
+  summary: "Premium optical enhancement system for pokroÄŤilĂ˝ visual capabilities"
+  
+name: Kiroshi Optics
+type: Cyberware
+description: Premium optical enhancement system for pokroÄŤilĂ˝ visual capabilities
+details: |
+  Kiroshi Optics represents the industry standard in cybernetic visual enhancement technology.
+
+  Core Features:
+  - High resolution imaging
+  - Multiple vision modes
+  - Tactical overlay
+  - Data integration
+
+  Vision Modes:
+  - Night vision
+  - Thermal imaging
+  - Zoom capability
+  - Analysis mode
+
+  Additional Functions:
+  - Target tracking
+  - Threat assessment
+  - Environmental scanning
+  - Data recording
+
+  Integration Features:
+  - Neural link
+  - HUD display
+  - Data overlay
+  - System linking
+
+importance: Premium visual enhancement technology
+common_locations:
+  - KorporĂˇtna bezpeÄŤnosĹĄ
+  - Military personnel
+  - Law enforcement
+  - Professional services
+relationships:
+  - Optical Modifications
+  - Neural Implants
+  - Targeting Systems
+  - Sensory Amplifiers
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

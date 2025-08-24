@@ -1,0 +1,223 @@
+﻿type: "technology"
+title: "Integumentary System"
+category: "system_cyberware"
+technology_id: "system_cyberware_integumentary"
+
+content:
+  summary: ""
+  
+name: "Integumentary System"
+id: "system_cyberware_integumentary"
+category: "system_cyberware"
+
+system_overview:
+  description: "Kybernetické vylepšenia pre kožný systém"
+  core_functions:
+    - "Skin enhancement"
+    - "Protection boost"
+    - "Healing acceleration"
+    - "Sensory interface"
+
+core_features:
+  protection:
+    - "Damage resistance"
+    - "Environmental shield"
+    - "Impact absorption"
+    - "Temperature control"
+  
+  enhancement:
+    - "Healing boost"
+    - "Sensory upgradovaĹĄ"
+    - "Interface capability"
+    - "Aesthetic options"
+
+enhancement_capabilities:
+  primary:
+    - "Damage protection"
+    - "Quick healing"
+    - "Environmental resistance"
+    - "Sensory enhancement"
+  
+  secondary:
+    - "Temperature control"
+    - "Interface options"
+    - "Aesthetic features"
+    - "Status display"
+
+hardware_components:
+  structural:
+    - "Subdermal armor"
+    - "Sensory mesh"
+    - "Healing matrix"
+  
+  systems:
+    - "Control unit"
+    - "Power supply"
+    - "Interface grid"
+
+notes_for_elena:
+  key_points:
+    - "Protection systems"
+    - "Healing features"
+    - "Interface options"
+  
+  roleplay_tips:
+    - "Enhanced durability"
+    - "Quick recovery"
+    - "System awareness"
+    
+  conversation_guidelines:
+    - "Medical terms"
+    - "Technical aspects"
+    - "Enhancement details"
+
+performance_levels:
+  basic:
+    description: "Standard protection"
+    capabilities: "Basic features"
+    limitations: "Limited enhancement"
+  
+  pokroÄŤilĂ˝:
+    description: "Enhanced systems"
+    capabilities: "Better protection"
+    limitations: "Higher demands"
+  
+  premium:
+    description: "Maximum capability"
+    capabilities: "Full features"
+    limitations: "High maintenance"
+
+integration_aspects:
+  biological:
+    - "Skin interface"
+    - "Nerve connection"
+    - "Tissue integration"
+  
+  technical:
+    - "System control"
+    - "Power management"
+    - "Interface handling"
+
+skill_benefits:
+  protection:
+    - "Damage resistance"
+    - "Impact absorption"
+    - "Environmental shield"
+  
+  recovery:
+    - "Quick healing"
+    - "Damage repair"
+    - "System restoration"
+
+gameplay_impact:
+  advantages:
+    - "Better protection"
+    - "Fast recovery"
+    - "Environmental resistance"
+  
+  limitations:
+    - "Power needs"
+    - "Maintenance"
+    - "System complexity"
+
+ui_elements:
+  status:
+    - "Protection level"
+    - "System health"
+    - "Environmental data"
+  
+  control:
+    - "Mode selection"
+    - "Power settings"
+    - "Interface options"
+
+related_systems:
+  Cyberware:
+    - "system_cyberware_operating_system"
+    - "system_cyberware_circulatory"
+  combat:
+    - "system_combat_melee"
+    - "system_combat_gunplay"
+
+maintenance_requirements:
+  routine:
+    - "System check"
+    - "Protection test"
+    - "Interface calibration"
+  
+  emergency:
+    - "Damage repair"
+    - "System reset"
+    - "Quick recovery"
+
+protection_features:
+  physical:
+    - "Impact resistance"
+    - "Puncture protection"
+    - "Abrasion defense"
+  
+  environmental:
+    - "Temperature control"
+    - "Chemical resistance"
+    - "Radiation shield"
+
+healing_capabilities:
+  regeneration:
+    - "Wound closure"
+    - "Tissue repair"
+    - "System recovery"
+  
+  enhancement:
+    - "Healing speed"
+    - "Damage control"
+    - "Recovery boost"
+
+safety_features:
+  protection:
+    - "Overload prevention"
+    - "Damage distribution"
+    - "Emergency modes"
+  
+  recovery:
+    - "Backup systems"
+    - "Quick repair"
+    - "Emergency protection"
+
+upgrade_options:
+  hardware:
+    - "Protection boost"
+    - "Healing vylepĹˇiĹĄ"
+    - "Sensor upgradovaĹĄ"
+  
+  software:
+    - "Control updates"
+    - "Efficiency patches"
+    - "New features"
+
+aesthetic_options:
+  appearance:
+    - "Skin texture"
+    - "Color options"
+    - "Pattern display"
+  
+  function:
+    - "Status indicators"
+    - "Interface displays"
+    - "Custom features"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,243 @@
+﻿type: "character"
+title: "Arasaka Corporation"
+category: "faction"
+character_id: "faction_arasaka"
+
+content:
+  summary: ""
+  
+name: "Arasaka Corporation"
+id: "faction_arasaka"
+category: "faction"
+type: "Megacorporation"
+
+basic_info:
+  status: "Active"
+  headquarters: "Tokyo/Night City"
+  leader: "Saburo Arasaka/Yorinobu Arasaka"
+  size: "Global Megacorporation"
+  founding: "1915"
+
+faction_profile:
+  core_business:
+    - "Security services"
+    - "Banking"
+    - "Manufacturing"
+    - "Research and Development"
+    - "Military contracting"
+  
+  philosophy:
+    main_beliefs:
+      - "Corporate supremacy"
+      - "Japanese traditionalism"
+      - "Technological control"
+    ideology:
+      - "Power through control"
+      - "Corporate feudalism"
+      - "Technological dominance"
+
+organization:
+  leadership:
+    board:
+      - name: "Saburo Arasaka"
+        role: "CEO (until death)"
+      - name: "Yorinobu Arasaka"
+        role: "Heir/CEO"
+      - name: "Hanako Arasaka"
+        role: "Board member"
+  
+  divisions:
+    security:
+      - "Private military"
+      - "KorporĂˇtna bezpeÄŤnosĹĄ"
+      - "Counter-intelligence"
+    technology:
+      - "Cybernetics research"
+      - "Soul preservation (Mikoshi)"
+      - "Military tech"
+    financial:
+      - "Banking operations"
+      - "Investment"
+      - "Asset management"
+
+global_presence:
+  headquarters:
+    - location: "Tokyo"
+      role: "Global HQ"
+    - location: "Night City"
+      role: "North American HQ"
+  
+  major_facilities:
+    - "Arasaka Tower (Night City)"
+    - "Mikoshi facilities"
+    - "Research centers"
+    - "Military bases"
+
+security_forces:
+  types:
+    military:
+      - "Elite soldiers"
+      - "Cyber-enhanced troops"
+      - "Special forces"
+    corporate:
+      - "Building security"
+      - "Executive protection"
+      - "Counter-intel teams"
+    specialized:
+      - "Netrunner divisions"
+      - "Black ops teams"
+      - "Intelligence units"
+
+resources:
+  assets:
+    - "Global infrastructure"
+    - "Military hardware"
+    - "PokroÄŤilĂˇ technolĂłgia"
+    - "Financial reserves"
+  
+  technology:
+    - "Proprietary Cyberware"
+    - "Soul preservation tech"
+    - "Military equipment"
+    - "Security systems"
+
+relationships:
+  allies:
+    - faction: "Other corporations"
+      nature: "Business"
+    - faction: "Government entities"
+      nature: "Political"
+  
+  enemies:
+    - faction: "Militech"
+      reason: "Corporate rivalry"
+    - faction: "Kang Tao"
+      reason: "Market competition"
+    - faction: "Various resistance groups"
+      reason: "Anti-corporate activity"
+
+story_significance:
+  main_plot:
+    - "The Heist target"
+    - "Relic technology"
+    - "Corporate intrigue"
+  
+  ongoing_presence:
+    - "Security force"
+    - "Corporate power"
+    - "Technological control"
+
+notes_for_elena:
+  key_points:
+    - "Najpowerfulnejšia korporácia"
+    - "Japonské tradície a hodnoty"
+    - "Technologická dominancia"
+  
+  roleplay_tips:
+    - "Zdôrazniť moc a kontrolu"
+    - "Formálne a hierarchické vzťahy"
+    - "Technologická nadradenosť"
+  
+  interaction_guidelines:
+    - "Striktná hierarchia"
+    - "Formálna komunikácia"
+    - "Dôraz na protokol"
+
+corporate_culture:
+  values:
+    - "Loyalty to corporation"
+    - "Japanese traditions"
+    - "Hierarchical respect"
+    - "Technological progress"
+  
+  practices:
+    - "Strict protocols"
+    - "Corporate ritual"
+    - "Power dynamics"
+
+technological_assets:
+  key_projects:
+    - name: "Mikoshi"
+      type: "Soul preservation"
+    - name: "bezpeÄŤnĂ˝ Your Soul"
+      type: "Consciousness transfer"
+    - name: "Military R&D"
+      type: "Combat tech"
+
+related_cards:
+  characters:
+    - "char_saburo_arasaka"
+    - "char_yorinobu_arasaka"
+    - "char_hanako_arasaka"
+    - "char_goro_takemura"
+  locations:
+    - "loc_arasaka_tower"
+    - "loc_konpeki_plaza"
+  quests:
+    - "mq_the_heist"
+
+historical_events:
+  founding:
+    - "1915 establishment"
+    - "Military origins"
+    - "Corporate evolution"
+  
+  major_events:
+    - "Fourth Corporate War"
+    - "Night City expansion"
+    - "Saburo's death"
+
+impact_on_night_city:
+  physical:
+    - "Arasaka Tower"
+    - "Corporate zone control"
+    - "Security presence"
+  
+  social:
+    - "Employment influence"
+    - "Security contracts"
+    - "Political power"
+
+security_protocols:
+  standard:
+    - "Biometric scanning"
+    - "Armed response"
+    - "Surveillance systems"
+  
+  special:
+    - "Elite guard units"
+    - "Netrunner defense"
+    - "Black ops teams"
+
+power_projection:
+  military:
+    - "Private army"
+    - "pokroÄŤilĂ˝ weapons"
+    - "Global reach"
+  
+  economic:
+    - "Market control"
+    - "Financial power"
+    - "Resource dominance"
+  
+  political:
+    - "Government influence"
+    - "Corporate legislation"
+    - "International relations"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

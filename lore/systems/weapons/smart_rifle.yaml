@@ -1,0 +1,66 @@
+﻿type: "technology"
+title: "Smart Rifle Technology"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ rifle systems with intelligent targeting and tracking capabilities"
+  
+name: Smart Rifle Technology
+type: weapon_system
+description: pokroÄŤilĂ˝ rifle systems with intelligent targeting and tracking capabilities
+details: |
+  Smart Rifles represent the pinnacle of intelligent weapon systems, combining pokroÄŤilĂ˝ targeting with sophisticated ammunition guidance.
+
+  Core Features:
+  - Neural interface
+  - Target tracking
+  - Predictive targeting
+  - Multiple target engagement
+
+  Technical Components:
+  - Smart link integration
+  - Targeting computer
+  - Guidance system
+  - Neural feedback
+
+  Combat Applications:
+  - Multiple target tracking
+  - Through-cover targeting
+  - Moving target prediction
+  - Threat prioritization
+
+  Ammunition System:
+  - Guided rounds
+  - Smart projectiles
+  - Tracking bullets
+  - Programmable payload
+
+importance: pokroÄŤilĂ˝ combat system for precision engagement
+common_locations:
+  - Corporate military
+  - Special forces
+  - Elite security
+  - Professional mercenaries
+relationships:
+  - Smart Weapons overview
+  - Targeting Systems
+  - Combat Implants
+  - Military-Grade Weapons
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

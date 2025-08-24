@@ -1,0 +1,147 @@
+name: "Santo Domingo District"
+id: "district_santo_domingo"
+category: "location_district"
+
+district_overview:
+  description: "Industriálna štvrť plná tovární, elektrární a robotnickej triedy"
+  population: "Pracujúca trieda"
+  safety_level: "Stredne nebezpečné"
+  dominant_gangs: 
+    - "6th Street"
+    - "Scavengers"
+
+key_features:
+  architecture:
+    - "Industriálne komplexy"
+    - "Robotnícke ubytovne"
+    - "Elektrárne"
+    - "Skladové priestory"
+  
+  atmosphere:
+    - "Industriálny dym"
+    - "Robotnícka atmosféra"
+    - "Technické prostredie"
+    - "Továrenský hluk"
+
+areas:
+  arroyo:
+    description: "Hlavná priemyselná zóna"
+    features:
+      - "Továrne"
+      - "Sklady"
+      - "Robotnícke ubytovne"
+  
+  rancho_coronado:
+    description: "Rezidenčná časť pre pracujúcich"
+    features:
+      - "Bytové domy"
+      - "Malé obchody"
+      - "Komunintné priestory"
+
+economy:
+  industries:
+    - "Výroba"
+    - "Energetika"
+    - "Skladovanie"
+  
+  services:
+    - "Robotnícke bary"
+    - "Základné obchody"
+    - "Opravárenské služby"
+
+security:
+  corporate:
+    presence: "Vysoká"
+    type: "Priemyselná bezpečnosť"
+    focus: "Ochrana majetku"
+  
+  public:
+    - "Minimálna polícia"
+    - "Gang kontrola"
+    - "Súkromná ochrana"
+
+social_aspects:
+  communities:
+    - "Továrenskí robotníci"
+    - "Technickí pracovníci"
+    - "Miestni obyvatelia"
+  
+  culture:
+    - "Pracovná etika"
+    - "Robotnícka solidarita"
+    - "Technická zručnosť"
+
+transportation:
+  industrial:
+    - "Nákladná doprava"
+    - "Pracovné autobusy"
+    - "Železničné spojenie"
+  
+  public:
+    - "Metro linky"
+    - "Autobusové spoje"
+    - "Firemná doprava"
+
+landmarks:
+  industrial:
+    - name: "Power Plant"
+      type: "Elektráreň"
+    - name: "Factory Complex"
+      type: "Továrenský komplex"
+    - name: "Storage Yards"
+      type: "Skladové priestory"
+
+services:
+  basic:
+    - "Robotnícke jedálne"
+    - "Technické obchody"
+    - "Opravovne"
+  
+  specialized:
+    - "Priemyselné služby"
+    - "Technická podpora"
+    - "Skladové služby"
+
+dangers:
+  environmental:
+    - "Toxické emisie"
+    - "Priemyselné nehody"
+    - "Nebezpečné materiály"
+  
+  social:
+    - "Gang aktivity"
+    - "Pracovné úrazy"
+    - "Kriminalita"
+
+opportunities:
+  work:
+    - "Továrenská práca"
+    - "Technická údržba"
+    - "Skladová logistika"
+  
+  business:
+    - "Priemyselné služby"
+    - "Technický servis"
+    - "Robotnícke služby"
+
+daily_life:
+  schedule:
+    - "Továrenské smeny"
+    - "Pracovné prestávky"
+    - "Nočná výroba"
+  
+  activities:
+    - "Pracovné zmeny"
+    - "Barové stretnutia"
+    - "Technické opravy"
+
+notes_for_elena:
+  key_points:
+    - "Industriálny charakter"
+    - "Robotnícka kultúra"
+    - "Technické zameranie"
+  
+  interaction_tips:
+    - "Rešpektuj pracovné zmeny"
+    - "Poznaj nebezpečenstvá"
+    - "Komunikuj technicky"

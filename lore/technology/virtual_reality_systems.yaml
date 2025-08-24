@@ -1,0 +1,135 @@
+type: technology
+title: "Virtual Reality Systems"
+category: "technology"
+tech_id: "tech_vr_systems"
+
+content:
+  summary: "Pokročilé systémy virtuálnej reality v Night City, od zábavných simulácií po tréningové programy a digitálne únikové svety."
+  
+  system_types:
+    entertainment:
+      - "Herné simulácie"
+      - "Virtuálne kluby"
+      - "Digitálne galérie"
+      - "Zábavné parky"
+    
+    professional:
+      - "Tréningové simulátory"
+      - "Virtuálne konferencie"
+      - "Architektonické vizualizácie"
+      - "Medicínske simulácie"
+    
+    educational:
+      - "Virtuálne učebne"
+      - "Interaktívne laboratóriá"
+      - "Historické rekonštrukcie"
+      - "Jazykové prostredia"
+    
+    therapeutic:
+      - "Psychologická terapia"
+      - "Rehabilitačné programy"
+      - "Stres manažment"
+      - "Trauma liečba"
+
+  hardware:
+    interfaces:
+      - "Neurálne prepojenia"
+      - "VR headsety"
+      - "Haptické obleky"
+      - "Senzorické rukavice"
+    
+    processing:
+      - "Kvantové procesory"
+      - "Neurálne akcelerátory"
+      - "Realtime renderovanie"
+      - "AI asistencia"
+
+  software:
+    engines:
+      - "Reality+ Engine"
+      - "NeoVerse System"
+      - "Digital Dreams Platform"
+      - "Virtual Life Framework"
+    
+    features:
+      - "Realtime fyzika"
+      - "AI NPCs"
+      - "Dynamické prostredia"
+      - "Multi-user support"
+
+  applications:
+    social:
+      - "Virtuálne stretnutia"
+      - "Digitálne komunity"
+      - "VR dating"
+      - "Sociálne siete"
+    
+    business:
+      - "Remote práca"
+      - "Produktové prezentácie"
+      - "Virtuálne showroomy"
+      - "Tréningové programy"
+    
+    military:
+      - "Bojové simulácie"
+      - "Taktický tréning"
+      - "Virtuálne misie"
+      - "Scenárové cvičenia"
+
+  health_concerns:
+    physical:
+      - "Nevoľnosť z VR"
+      - "Zrakové problémy"
+      - "Neurologické efekty"
+      - "Fyzická únava"
+    
+    psychological:
+      - "VR závislosť"
+      - "Strata reality"
+      - "Sociálna izolácia"
+      - "Identitné poruchy"
+
+  security:
+    threats:
+      - "Virtuálne útoky"
+      - "Dátové krádeže"
+      - "Identity theft"
+      - "Psychologická manipulácia"
+    
+    protection:
+      - "Firewally"
+      - "Encryption"
+      - "Biometrická autentifikácia"
+      - "Bezpečnostné protokoly"
+
+technical_metadata:
+  implementation_cost: "Vysoká"
+  maintenance_requirements: "Pravidelné"
+  security_level: "Vysoká"
+  reliability: "Stabilná"
+
+related_cards:
+  technology:
+    - "tech_braindance"
+    - "tech_net_architecture"
+    - "tech_entertainment_tech"
+  corporations:
+    - "corp_virtual_systems"
+    - "corp_entertainment_tech"
+    - "corp_medical_vr"
+
+notes_for_elena:
+  key_points:
+    - "VR je bežnou súčasťou života v Night City"
+    - "Široké využitie od zábavy po profesionálne aplikácie"
+    - "Významné zdravotné a bezpečnostné riziká"
+  
+  conversation_guidelines:
+    - "Zdôrazniť rozmanitosť VR aplikácií"
+    - "Diskutovať o výhodách aj rizikách"
+    - "Spomenúť sociálne dopady"
+  
+  roleplay_aspects:
+    - "Popísať bežné VR skúsenosti"
+    - "Vysvetliť rôzne typy VR systémov"
+    - "Diskutovať o hranici medzi realitou a virtuálnom"

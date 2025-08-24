@@ -1,0 +1,132 @@
+﻿type: "character"
+title: ""
+category: "character_supporting"
+character_id: ""
+
+content:
+  summary: ""
+  
+title: "Kirk"
+category: "character_supporting"
+char_id: "char_kirk"
+content:
+  summary: "Malý fixer z Heywood, známy pouličný úžerník. Významný pre PouliÄŤnĂ© dieĹĄa life path, kde zadáva V prvú prácu po návrate do Night City."
+  
+  background:
+    origin: "Heywood, Night City"
+    occupation: "Fixer, úžerník"
+    territory: "Heywood"
+    base_of_operations: "El Coyote Cojo"
+    
+    history:
+      - "Dlhoročný malý fixer v Heywood"
+      - "Špecializuje sa na krádeže áut"
+      - "Známy neférovými podmienkami"
+    
+  personality:
+    traits:
+      - "Manipulatívny"
+      - "Opportunistický"
+      - "Nedôveryhodný"
+      
+    values:
+      - "Zisk"
+      - "Osobný prospech"
+      - "Územná kontrola"
+    
+    methods:
+      - "Využívanie dlžníkov"
+      - "Manipulácia cez dlhy"
+      - "Menšie podvody"
+
+  relationships:
+    v_street_kid:
+      type: "Bývalý zamestnávateľ"
+      status: "Komplikovaný"
+      history: "Pozná V z minulosti v Heywood"
+    
+    padre:
+      type: "Konkurent/Tolerovaný"
+      status: "Profesionálny rešpekt"
+      territory: "Operuje v Padreho teritóriu"
+    
+    el_coyote_cojo:
+      type: "Pravidelný zákazník"
+      status: "Základňa operácií"
+
+story_relevance:
+  main_story:
+    role: "Minor character"
+    appearances: ["PouliÄŤnĂ© dieĹĄa intro"]
+    significance: "Predstavuje V do sveta fixerov"
+    
+  side_content:
+    available_jobs: "Menšie vedľajšie úlohy"
+    territory: "Heywood car theft operations"
+
+business_profile:
+  specialization:
+    - "Krádeže áut"
+    - "Pôžičky s vysokým úrokom"
+    - "Malé kriminálne akcie"
+  
+  operation_scale: "Malý lokálny fixer"
+  territory_control: "Limitované na časť Heywood"
+  
+  typical_jobs:
+    - "Krádeže vozidiel"
+    - "Vymáhanie dlhov"
+    - "Prepraty ukradnutého tovaru"
+
+appearance:
+  description: "Menší, obtlstnutý muž v lacnom obleku"
+  distinctive_features:
+    - "Lesklý oblek"
+    - "Mastné vlasy"
+    - "Nervózne správanie"
+    - "Vždy pripravená výhovorka"
+
+quotes:
+  - quote: "Welcome back, kid. Got some work for ya."
+    context: "PouliÄŤnĂ© dieĹĄa intro"
+    
+  - quote: "Just a simple car theft. What could go wrong?"
+    context: "Zadávanie prvej misie"
+
+technical_metadata:
+  first_appearance: "PouliÄŤnĂ© dieĹĄa Life Path"
+  recurring: false
+  voice_actor: "Nepotvrdené"
+
+notes_for_elena:
+  key_points:
+    - "Reprezentuje nižšiu úroveň fixerov"
+    - "Dôležitý len pre PouliÄŤnĂ© dieĹĄa backstory"
+    - "Príklad nedôveryhodného fixera"
+  
+  conversation_guidelines:
+    - "Môže ho spomenúť pri témach o Heywood"
+    - "Príklad toho, ako fungujú menší fixeri"
+    - "Reprezentuje menej prestížnu časť fixerskej komunity"
+  
+  character_context:
+    - "Negatívny príklad fixera"
+    - "Kontrast s väčšími fixermi ako Wakako alebo Rogue"
+    - "Typický predstaviteľ pouličnej mikro-kriminality"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

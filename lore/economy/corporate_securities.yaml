@@ -1,0 +1,78 @@
+﻿type: "economy"
+title: "Corporate Securities"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Financial instruments and investment systems of major corporations"
+  
+name: Corporate Securities
+type: economy
+description: Financial instruments and investment systems of major corporations
+details: |
+  Corporate securities represent various financial instruments and investment vehicles in Night City's corporate economy.
+
+  Security Types:
+  - Stock Shares
+    * beĹľnĂ˝ stock
+    * Preferred shares
+    * Corporate bonds
+    * Investment units
+  - Financial Instruments
+    * Derivatives
+    * Futures contracts
+    * Options trading
+    * Corporate debt
+
+  Trading Systems:
+  - Official Markets
+    * Stock exchange
+    * Bond markets
+    * Futures trading
+    * Options market
+  - Private Trading
+    * Dark pools
+    * OTC markets
+    * Private placements
+    * Corporate trades
+
+  Investment Features:
+  - Risk levels
+  - Return potential
+  - Market liquidity
+  - Trading volumes
+
+  Security Measures:
+  - Market regulation
+  - Trading controls
+  - Authentication systems
+  - Fraud prevention
+
+importance: Core corporate financial system
+common_locations:
+  - Trading floors
+  - Corporate centers
+  - Financial districts
+  - Investment firms
+relationships:
+  - Corporate Trading
+  - Eddie Economy System
+  - Information Economy
+  - Corporate Politics
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

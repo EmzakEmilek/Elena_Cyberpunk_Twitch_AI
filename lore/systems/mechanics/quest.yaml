@@ -1,0 +1,213 @@
+﻿type: "character"
+title: "Quest System"
+category: "system_mechanics"
+character_id: "system_mechanics_quest"
+
+content:
+  summary: ""
+  
+name: "Quest System"
+id: "system_mechanics_quest"
+category: "system_mechanics"
+
+system_overview:
+  description: "Systém pre správu úloh, misií a ich progres"
+  core_aspects:
+    - "Quest tracking"
+    - "Mission types"
+    - "Reward system"
+    - "Choice impact"
+
+core_features:
+  quests:
+    - "Main story"
+    - "Side jobs"
+    - "Gigs"
+    - "Activities"
+  
+  tracking:
+    - "Progress log"
+    - "Map marks"
+    - "Time track"
+    - "Choice record"
+
+mechanics_details:
+  quest_types:
+    main_story:
+      - "Critical path"
+      - "Major choices"
+      - "Big rewards"
+    side_quests:
+      - "Character stories"
+      - "Area missions"
+      - "Special tasks"
+    gigs:
+      - "Quick jobs"
+      - "Small tasks"
+      - "Fast cash"
+
+functionality:
+  basic_actions:
+    - "Accept quest"
+    - "Track progress"
+    - "Make choice"
+    - "Complete task"
+  
+  advanced_features:
+    - "Multi-track"
+    - "Choice tree"
+    - "Time manage"
+    - "Fail option"
+
+notes_for_elena:
+  key_points:
+    - "Quest types"
+    - "Track system"
+    - "Choice impact"
+  
+  roleplay_tips:
+    - "Quest talk"
+    - "Choice guide"
+    - "Progress note"
+    
+  conversation_guidelines:
+    - "Mission terms"
+    - "Task words"
+    - "Choice speech"
+
+interface_elements:
+  displays:
+    - "Quest log"
+    - "Map markers"
+    - "Task list"
+    - "Choice tree"
+  
+  controls:
+    - "Track toggle"
+    - "Sort quests"
+    - "Filter type"
+    - "View details"
+
+quest_tracking:
+  methods:
+    - "Journal log"
+    - "Map mark"
+    - "HUD show"
+  
+  details:
+    - "Current step"
+    - "Next task"
+    - "Time left"
+
+reward_system:
+  types:
+    - "Money pay"
+    - "Item give"
+    - "XP gain"
+    - "Rep boost"
+  
+  scaling:
+    - "Quest type"
+    - "Difficulty"
+    - "Time spent"
+
+choice_system:
+  impacts:
+    - "Story change"
+    - "World effect"
+    - "NPC react"
+  
+  tracking:
+    - "Choice log"
+    - "Effect note"
+    - "Result show"
+
+related_systems:
+  skills:
+    - "All skill systems"
+  mechanics:
+    - "system_mechanics_reputation"
+    - "system_mechanics_progression"
+
+balance_considerations:
+  rewards:
+    - "Money rate"
+    - "Item worth"
+    - "XP amount"
+  
+  difficulty:
+    - "Task hard"
+    - "Time limit"
+    - "Fail risk"
+
+time_management:
+  factors:
+    - "Task time"
+    - "Travel time"
+    - "Choice time"
+  
+  limits:
+    - "Due date"
+    - "Time window"
+    - "Rush job"
+
+mission_variety:
+  types:
+    - "Combat job"
+    - "Stealth task"
+    - "Social quest"
+  
+  elements:
+    - "Multi-path"
+    - "Choice mix"
+    - "Style option"
+
+progression_impact:
+  effects:
+    - "Level gain"
+    - "Skill boost"
+    - "Rep change"
+  
+  unlocks:
+    - "New areas"
+    - "More quests"
+    - "Better gear"
+
+failure_handling:
+  causes:
+    - "Time out"
+    - "Wrong choice"
+    - "Task fail"
+  
+  results:
+    - "Quest fail"
+    - "Rep loss"
+    - "Lock out"
+
+quest_generation:
+  sources:
+    - "Story need"
+    - "NPC give"
+    - "World event"
+  
+  factors:
+    - "Area type"
+    - "Player level"
+    - "Rep state"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

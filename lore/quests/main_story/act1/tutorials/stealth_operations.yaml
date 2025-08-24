@@ -1,0 +1,167 @@
+name: "Stealth Operations"
+id: "quest_tutorial_stealth"
+category: "quest_tutorial"
+act: 1
+
+quest_type: "Tutorial"
+quest_giver: "T-Bug"
+location: "Training Facility"
+
+quest_overview:
+  description: "Základný stealth tutoriál pre infiltráciu a skrytý postup"
+  objectives:
+    - "Naučiť sa základy stealth"
+    - "Zvládnuť tichý pohyb"
+    - "Porozumieť detection systémom"
+    - "Praktikovať infiltráciu"
+
+tutorial_elements:
+  stealth_basics:
+    - "Skrytý pohyb"
+    - "Tieňové krytie"
+    - "Distrakcie"
+    - "Tichá eliminácia"
+  
+  gameplay_mechanics:
+    - "Stealth controls"
+    - "Vision cones"
+    - "Sound detection"
+    - "Cover system"
+
+quest_structure:
+  setup:
+    - "Stretnutie s T-Bug"
+    - "Briefing"
+    - "Equipment check"
+  
+  progression:
+    - "Basic movement"
+    - "Advanced techniques"
+    - "Practice scenarios"
+    - "Final test"
+
+reward_structure:
+  items:
+    - "Stealth gear"
+    - "Distraction tools"
+    - "Basic equipment"
+  knowledge:
+    - "Stealth tactics"
+    - "Infiltration methods"
+    - "Detection awareness"
+
+notes_for_elena:
+  key_points:
+    - "Stealth význam"
+    - "Taktické možnosti"
+    - "Bezpečnostné systémy"
+  
+  roleplay_tips:
+    - "Diskrétny prístup"
+    - "Technické znalosti"
+    - "Taktické myslenie"
+    
+  conversation_guidelines:
+    - "Stealth terminológia"
+    - "Taktické inštrukcie"
+    - "Bezpečnostné rady"
+
+training_areas:
+  basic_course:
+    - "Shadow practice"
+    - "Movement training"
+    - "Cover usage"
+  advanced_course:
+    - "Guard patterns"
+    - "Camera systems"
+    - "Distraction techniques"
+
+safety_protocols:
+  training:
+    - "Non-lethal equipment"
+    - "Safe environment"
+    - "Emergency stops"
+  evaluation:
+    - "Performance monitoring"
+    - "Skill assessment"
+    - "Safety compliance"
+
+skill_development:
+  basic_skills:
+    - "Silent movement"
+    - "Cover usage"
+    - "Awareness"
+  advanced_skills:
+    - "Distraction creation"
+    - "Pattern recognition"
+    - "Quick thinking"
+
+quest_flow:
+  introduction:
+    - "Meet T-Bug"
+    - "Equipment intro"
+    - "Basic concepts"
+  training:
+    - "Movement practice"
+    - "Stealth techniques"
+    - "Scenario training"
+  conclusion:
+    - "Final mission"
+    - "Skill evaluation"
+    - "Future advice"
+
+related_cards:
+  characters:
+    - "char_t_bug"
+  locations:
+    - "loc_watson_district"
+  services:
+    - "service_security"
+
+gameplay_impact:
+  learned_skills:
+    - "Stealth movement"
+    - "Infiltration tactics"
+    - "Detection avoidance"
+  applications:
+    - "Infiltration missions"
+    - "Covert operations"
+    - "Silent approaches"
+
+equipment_provided:
+  gear:
+    - "Stealth clothing"
+    - "Distraction devices"
+  tools:
+    - "Detection meter"
+    - "Practice weapons"
+
+success_criteria:
+  requirements:
+    - "Silent movement"
+    - "Detection avoidance"
+    - "Mission completion"
+  evaluation:
+    - "Time efficiency"
+    - "Detection levels"
+    - "Objective completion"
+
+detection_systems:
+  visual:
+    - "Guard vision"
+    - "Camera coverage"
+    - "Light levels"
+  audio:
+    - "Footstep noise"
+    - "Action sounds"
+    - "Environmental noise"
+
+environmental_factors:
+  lighting:
+    - "Shadow usage"
+    - "Light sources"
+    - "Visibility levels"
+  sound:
+    - "Surface types"
+    - "Background noise"
+    - "Sound propagation"

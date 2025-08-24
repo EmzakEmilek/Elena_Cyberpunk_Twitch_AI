@@ -1,0 +1,82 @@
+type: "quest"
+title: "The Rescue"
+category: "main_story"
+
+summary: "V's first major decision v Night City. Rescue operation pre Jackie Welles, establishing key relationships a learning basic combat mechanics."
+
+key_points:
+  - "Jackie Welles introduction"
+  - "First combat encounter"
+  - "Night City introduction"
+  - "Corporate vs street choice"
+  - "Basic gameplay mechanics"
+  - "Friendship establishment"
+
+story_context:
+  act: "Prologue"
+  position: "Character introduction"
+  importance: "Establishes key relationships"
+
+characters:
+  - "V (protagonist)"
+  - "Jackie Welles"
+  - "Corpo security forces"
+  - "Street contacts"
+
+mission_objectives:
+  - "Rescue Jackie from corpo trouble"
+  - "Learn basic combat"
+  - "Navigate Night City streets"
+  - "Establish friendship with Jackie"
+  - "Understand corpo vs street dynamics"
+
+choices:
+  rescue_approach:
+    description: "Metóda rescuing Jackie"
+    options:
+      - "Direct assault - violent approach"
+      - "Stealth infiltration - avoid detection"
+      - "Negotiation - talk your way out"
+    consequences: "Sets tone pre future missions"
+
+gameplay_introduction:
+  combat_basics:
+    - "Weapon handling"
+    - "Cover system"
+    - "Enemy tactics"
+    - "Health management"
+  
+  exploration:
+    - "Night City navigation"
+    - "Interactive objects"
+    - "Loot system"
+    - "Environmental storytelling"
+
+themes:
+  - "Loyalty and friendship"
+  - "Street vs corporate world"
+  - "First impressions matter"
+  - "Violence as solution"
+
+related:
+  - "the_job"
+  - "jackie_welles"
+  - "night_city_introduction"
+  - "lifepath_choices"
+
+elena_notes:
+  talking_points:
+    - "First major quest mechanics"
+    - "Jackie relationship establishment"
+    - "Combat system introduction"
+    - "Night City world building"
+  spoiler_level: "none"
+  conversation_context:
+    - "Tutorial quest experience"
+    - "Character development začiatok"
+    - "Game mechanics learning"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

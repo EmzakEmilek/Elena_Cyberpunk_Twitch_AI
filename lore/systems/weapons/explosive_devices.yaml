@@ -1,0 +1,69 @@
+﻿type: "technology"
+title: "Explosive Devices"
+category: ""
+technology_id: ""
+
+content:
+  summary: "Various explosive weapons and devices used in Night City"
+  
+name: Explosive Devices
+type: weapon_system
+description: Various explosive weapons and devices used in Night City
+details: |
+  Explosive devices encompass a wide range of weapons designed for maximum area effect and structural damage.
+
+  Categories:
+  - Grenades
+    * Fragmentation
+    * Concussion
+    * EMP
+    * Gas
+  - Planted Explosives
+    * Shaped charges
+    * Proximity mines
+    * Remote detonators
+  - Launched Explosives
+    * Rocket warheads
+    * Missile payloads
+    * Grenade rounds
+
+  Usage Types:
+  - Combat deployment
+  - Breaching operations
+  - Area denial
+  - Structure demolition
+
+  Safety Features:
+  - Timer systems
+  - Remote detonation
+  - Fail-safes
+  - Safety locks
+
+importance: Critical area effect weapons
+common_locations:
+  - Military arsenals
+  - Demolition crews
+  - Security forces
+  - Combat zones
+relationships:
+  - Military-Grade Weapons
+  - Weapon Manufacturers
+  - Ammunition Types
+  - Heavy Machinery Weapons
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

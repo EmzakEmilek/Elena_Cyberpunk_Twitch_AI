@@ -1,0 +1,84 @@
+﻿type: "economy"
+title: "Technology Trade"
+category: ""
+economy_id: ""
+
+content:
+  summary: "Market for PokroÄŤilĂˇ technolĂłgia and technological innovations"
+  
+name: Technology Trade
+type: economy
+description: Market for PokroÄŤilĂˇ technolĂłgia and technological innovations
+details: |
+  Technology trade encompasses the buying, selling, and exchange of cutting-edge technology in Night City.
+
+  Market Sectors:
+  - Hardware
+    * Computing systems
+    * Cybernetic components
+    * Network infrastructure
+    * Manufacturing tech
+  - Software
+    * Operating systems
+    * Security programs
+    * Custom applications
+    * AI systems
+
+  Trading Channels:
+  - Corporate Market
+    * Official dealers
+    * Licensed distributors
+    * Corporate contracts
+    * Research exchanges
+  - Underground Market
+    * Black market tech
+    * Stolen goods
+    * Custom builds
+    * Experimental tech
+
+  Product Categories:
+  - Consumer Tech
+    * Personal devices
+    * Home systems
+    * Entertainment
+    * Communication
+  - Industrial Tech
+    * Manufacturing
+    * Infrastructure
+    * Security systems
+    * Research equipment
+
+  Market Features:
+  - Innovation rate
+  - Obsolescence
+  - Market demand
+  - Security concerns
+
+importance: Critical economic sector
+common_locations:
+  - Tech districts
+  - Corporate zones
+  - Research centers
+  - Black markets
+relationships:
+  - Corporate Trading
+  - Information Economy
+  - Black Market Economics
+  - Security Systems
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

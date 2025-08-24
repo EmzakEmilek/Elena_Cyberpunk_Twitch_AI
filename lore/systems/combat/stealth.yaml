@@ -1,0 +1,196 @@
+﻿type: "technology"
+title: "Stealth System"
+category: "system_combat"
+technology_id: "system_combat_stealth"
+
+content:
+  summary: ""
+  
+name: "Stealth System"
+id: "system_combat_stealth"
+category: "system_combat"
+
+system_overview:
+  description: "Systém pre skryté prenikanie a tichú elimináciu"
+  core_mechanics:
+    - "Skrytý pohyb"
+    - "Tichá eliminácia"
+    - "Detection meter"
+    - "Line of sight"
+
+mechanics:
+  movement:
+    - "Crouching"
+    - "Silent walking"
+    - "Cover system"
+    - "Shadow hiding"
+  
+  actions:
+    - "Takedowns"
+    - "Silent weapons"
+    - "Distraction tools"
+    - "Body hiding"
+
+detection_system:
+  visual:
+    - "Enemy vision cones"
+    - "Light levels"
+    - "Cover detection"
+    - "Movement speed"
+  
+  audio:
+    - "Footstep noise"
+    - "Action sounds"
+    - "Environmental noise"
+    - "Alert triggers"
+
+equipment:
+  weapons:
+    - "Silenced guns"
+    - "Throwing knives"
+    - "Tranquilizer darts"
+  
+  tools:
+    - "Distraction devices"
+    - "Smoke grenades"
+    - "EMP devices"
+
+notes_for_elena:
+  key_points:
+    - "Stealth mechaniky"
+    - "Detection systém"
+    - "Taktické možnosti"
+  
+  roleplay_tips:
+    - "Emphasis on tension"
+    - "Tactical decisions"
+    - "Risk/reward choices"
+    
+  conversation_guidelines:
+    - "Stealth terminológia"
+    - "Taktické pojmy"
+    - "Napäté momenty"
+
+enemy_behavior:
+  states:
+    - name: "Unaware"
+      description: "Normal patrol patterns"
+    - name: "Suspicious"
+      description: "Investigating disturbances"
+    - name: "Alert"
+      description: "Active searching"
+    - name: "Combat"
+      description: "Full engagement"
+
+environmental_factors:
+  lighting:
+    - "Darkness levels"
+    - "Shadow zones"
+    - "Light sources"
+  
+  cover:
+    - "High cover"
+    - "Low cover"
+    - "Partial cover"
+
+skill_integration:
+  stealth_skills:
+    - "Silent movement"
+    - "Takedown damage"
+    - "Detection reduction"
+  
+  related_skills:
+    - "Athletics"
+    - "Cool"
+    - "Ninjutsu"
+
+gameplay_elements:
+  strategic:
+    - "Path planning"
+    - "Timing windows"
+    - "Risk assessment"
+  
+  tactical:
+    - "Enemy patterns"
+    - "Environment use"
+    - "Tool selection"
+
+progression_system:
+  skills:
+    - "Stealth movement speed"
+    - "Detection threshold"
+    - "Takedown damage"
+  
+  perks:
+    - "Silent running"
+    - "Enhanced vision"
+    - "Quick takedown"
+
+combat_interaction:
+  stealth_attacks:
+    - "Sneak attacks"
+    - "Silent takedowns"
+    - "Critical hits"
+  
+  transition:
+    - "Combat initiation"
+    - "Escape options"
+    - "Re-stealth mechanics"
+
+ui_elements:
+  indicators:
+    - "Detection meter"
+    - "Noise indicator"
+    - "Vision cones"
+  
+  feedback:
+    - "Alert states"
+    - "Enemy awareness"
+    - "Environmental status"
+
+related_systems:
+  combat:
+    - "system_combat_gunplay"
+    - "system_combat_hacking"
+  mechanics:
+    - "system_mechanics_movement"
+    - "system_mechanics_cover"
+
+balance_considerations:
+  rewards:
+    - "XP bonuses"
+    - "Stealth completion"
+    - "No detection runs"
+  
+  penalties:
+    - "Alert triggers"
+    - "Combat escalation"
+    - "Mission complications"
+
+technical_implementation:
+  core_systems:
+    - "Detection calculation"
+    - "Sound propagation"
+    - "Vision raycasting"
+  
+  performance:
+    - "AI pathfinding"
+    - "Visual effects"
+    - "Audio cues"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,78 @@
+﻿type: "character"
+title: "Street Weapons beĹľnĂ˝ Types"
+category: ""
+character_id: ""
+
+content:
+  summary: "beĹľnĂ˝ firearms and weapons found in Night City's streets"
+  
+name: Street Weapons beĹľnĂ˝ Types
+type: weapon_system
+description: beĹľnĂ˝ firearms and weapons found in Night City's streets
+details: |
+  Street weapons represent the most commonly available and used firearms in Night City, ranging from simple handguns to modified assault weapons.
+
+  beĹľnĂ˝ Categories:
+  - Handguns
+    * Budget revolvers
+    * Mass-produced pistols
+    * Modified compact guns
+  - Submachine Guns
+    * Street-manufactured SMGs
+    * Modified civilian models
+    * Compact automatic weapons
+  - Shotguns
+    * Basic pump-action
+    * Semi-automatic models
+    * Modified short-barrel variants
+  - Assault Weapons
+    * Civilian-grade rifles
+    * Modified automatic weapons
+    * Street-manufactured copies
+
+  Market Characteristics:
+  - Variable quality
+  - Often modified/customized
+  - Mixed legality status
+  - Wide price range
+
+  Sources:
+  - Licensed dealers
+  - Black market vendors
+  - Street arms dealers
+  - Underground manufacturers
+
+  beĹľnĂ˝ Modifications:
+  - Extended magazines
+  - Custom grips
+  - Modified sights
+  - Aftermarket parts
+
+importance: Foundation of Night City's weapons ecosystem
+common_locations:
+  - Local gun shops
+  - Street markets
+  - Gang territories
+  - Personal collections
+relationships:
+  - Black Market Weapons
+  - Weapon Customization
+  - Ammunition Types
+  - Weapon Maintenance
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

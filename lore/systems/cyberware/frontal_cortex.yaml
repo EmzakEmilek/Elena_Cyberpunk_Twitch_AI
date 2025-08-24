@@ -1,0 +1,187 @@
+name: "Frontal Cortex"
+id: "system_cyberware_cortex"
+category: "system_cyberware"
+
+system_overview:
+  description: "Kybernetické vylepšenia pre čelnú časť mozgu"
+  core_functions:
+    - "Cognitive enhancement"
+    - "Memory augmentation"
+    - "Neural processing"
+    - "Decision support"
+
+core_features:
+  cognitive:
+    - "Memory boost"
+    - "Processing speed"
+    - "Decision making"
+    - "Pattern recognition"
+  
+  neural:
+    - "Synaptic enhancement"
+    - "Neural pathways"
+    - "Brain-computer interface"
+    - "Cognitive mapping"
+
+enhancement_capabilities:
+  primary:
+    - "Memory expansion"
+    - "Cognitive boost"
+    - "Neural speed"
+    - "Decision enhancement"
+  
+  secondary:
+    - "Pattern analysis"
+    - "Information processing"
+    - "Learning acceleration"
+    - "Mental focus"
+
+hardware_components:
+  neural:
+    - "Processor units"
+    - "Memory modules"
+    - "Interface chips"
+  
+  support:
+    - "Cooling system"
+    - "Power management"
+    - "Neural protection"
+
+notes_for_elena:
+  key_points:
+    - "Cognitive enhancement"
+    - "Neural integration"
+    - "Mental capabilities"
+  
+  roleplay_tips:
+    - "Enhanced thinking"
+    - "Quick processing"
+    - "Mental clarity"
+    
+  conversation_guidelines:
+    - "Technical terms"
+    - "Neural concepts"
+    - "Cognitive aspects"
+
+performance_levels:
+  basic:
+    description: "Standard enhancement"
+    benefits: "Basic improvements"
+    limitations: "Moderate boost"
+  
+  advanced:
+    description: "Enhanced capabilities"
+    benefits: "Significant boost"
+    limitations: "Higher strain"
+  
+  premium:
+    description: "Maximum enhancement"
+    benefits: "Peak performance"
+    limitations: "High maintenance"
+
+integration_aspects:
+  biological:
+    - "Neural adaptation"
+    - "Brain plasticity"
+    - "Synaptic integration"
+  
+  technical:
+    - "System interface"
+    - "Data processing"
+    - "Power management"
+
+skill_benefits:
+  cognitive:
+    - "Faster thinking"
+    - "Better memory"
+    - "Enhanced focus"
+  
+  practical:
+    - "Quick decisions"
+    - "Pattern recognition"
+    - "Information processing"
+
+gameplay_impact:
+  advantages:
+    - "Mental speed"
+    - "Memory capacity"
+    - "Decision quality"
+  
+  limitations:
+    - "Power consumption"
+    - "Heat generation"
+    - "Maintenance needs"
+
+ui_elements:
+  status:
+    - "Cognitive load"
+    - "Memory usage"
+    - "Processing speed"
+  
+  control:
+    - "Enhancement settings"
+    - "Mode selection"
+    - "Power management"
+
+related_systems:
+  cyberware:
+    - "system_cyberware_operating_system"
+    - "system_cyberware_nervous"
+  combat:
+    - "system_combat_hacking"
+    - "system_combat_netrunning"
+
+maintenance_requirements:
+  regular:
+    - "System checks"
+    - "Performance tuning"
+    - "Cooling maintenance"
+  
+  emergency:
+    - "Overload handling"
+    - "Error correction"
+    - "System recovery"
+
+enhancement_modes:
+  focus:
+    - "Concentration boost"
+    - "Mental clarity"
+    - "Processing speed"
+  
+  memory:
+    - "Storage expansion"
+    - "Quick recall"
+    - "Pattern linking"
+
+safety_features:
+  protection:
+    - "Overload prevention"
+    - "Temperature control"
+    - "Error detection"
+  
+  recovery:
+    - "System backup"
+    - "Neural protection"
+    - "Emergency shutdown"
+
+upgrade_options:
+  hardware:
+    - "Processor upgrade"
+    - "Memory expansion"
+    - "Cooling enhancement"
+  
+  software:
+    - "Algorithm updates"
+    - "Efficiency patches"
+    - "Feature additions"
+
+cognitive_optimization:
+  methods:
+    - "Neural training"
+    - "Pattern optimization"
+    - "Process streamlining"
+  
+  tools:
+    - "Mental exercises"
+    - "Focus enhancers"
+    - "Memory trainers"

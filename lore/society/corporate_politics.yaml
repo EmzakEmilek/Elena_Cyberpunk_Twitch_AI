@@ -1,0 +1,92 @@
+type: society
+title: "Corporate Politics"
+category: "society_politics"
+society_id: "soc_corp_politics"
+
+content:
+  summary: "Komplexná sieť korporátnych politických vzťahov, intríg a mocenských bojov v Night City."
+  
+  power_structure:
+    major_players:
+      - "Arasaka"
+      - "Militech"
+      - "Kang Tao"
+      - "Biotechnica"
+    
+    influence_spheres:
+      economic: "Kontrola trhov a zdrojov"
+      political: "Manipulácia legislatívy"
+      social: "Ovplyvňovanie verejnej mienky"
+      military: "Súkromné armády"
+    
+    decision_making:
+      - "Predstavenstvo korporácií"
+      - "Výkonní riaditelia"
+      - "Tajné aliancie"
+      - "Lobistické skupiny"
+
+  political_tactics:
+    official:
+      - "Lobovanie"
+      - "Mediálne kampane"
+      - "Legislatívne návrhy"
+      - "Verejné vzťahy"
+    
+    unofficial:
+      - "Vydieranie"
+      - "Priemyselná špionáž"
+      - "Tajné dohody"
+      - "Atentáty"
+
+  inter_corporate_relations:
+    alliances:
+      - "Strategické partnerstvá"
+      - "Dočasné koalície"
+      - "Obchodné dohody"
+      - "Výskumné spolupráce"
+    
+    conflicts:
+      - "Obchodné vojny"
+      - "Teritoriálne spory"
+      - "Technologické súperenie"
+      - "Mocenské boje"
+
+  impact_on_society:
+    control:
+      - "Manipulácia médií"
+      - "Ekonomická kontrola"
+      - "Sociálne inžinierstvo"
+      - "Technologická závislosť"
+    
+    resistance:
+      - "Aktivistické skupiny"
+      - "Hackerské kolektívy"
+      - "Odborové hnutia"
+      - "Občianske protesty"
+
+technical_metadata:
+  influence_level: "Maximálna"
+  stability: "Nestabilná"
+  public_awareness: "Stredná"
+  documentation: "Utajené"
+
+related_cards:
+  corporations:
+    - "corp_arasaka"
+    - "corp_militech"
+    - "corp_kang_tao"
+  society:
+    - "soc_media_control"
+    - "soc_social_classes"
+    - "soc_civil_rights"
+
+notes_for_elena:
+  key_points:
+    - "Korporácie sú skutočnou vládnucou silou"
+    - "Neustály boj o moc a vplyv"
+    - "Manipulácia na všetkých úrovniach"
+  
+  roleplay_aspects:
+    - "Vysvetliť skryté mocenské vzťahy"
+    - "Ukázať vplyv na bežný život"
+    - "Diskutovať o možnostiach odporu"

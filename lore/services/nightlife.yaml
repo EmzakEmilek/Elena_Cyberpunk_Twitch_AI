@@ -1,0 +1,173 @@
+﻿type: "technology"
+title: "Nightlife Services"
+category: "service_type"
+technology_id: "service_nightlife"
+
+content:
+  summary: ""
+  
+name: "Nightlife Services"
+id: "service_nightlife"
+category: "service_type"
+
+service_overview:
+  description: "Nočný život a zábava v Night City"
+  legality: "Legal to Grey"
+  availability: "Evening to Early Morning"
+  price_range: "Low to Premium"
+
+core_services:
+  entertainment:
+    - "Clubs"
+    - "Bars"
+    - "Live music"
+    - "Dance venues"
+  
+  special:
+    - "VIP lounges"
+    - "Private parties"
+    - "Special events"
+    - "Underground scenes"
+
+venue_types:
+  mainstream:
+    - "Dance clubs"
+    - "Sports bars"
+    - "Music venues"
+    - "Cocktail lounges"
+  
+  exclusive:
+    - "VIP clubs"
+    - "Private lounges"
+    - "Members only"
+    - "Rooftop bars"
+
+entertainment_options:
+  music:
+    - "Live bands"
+    - "DJs"
+    - "Dance floors"
+    - "Concert venues"
+  
+  activities:
+    - "Dancing"
+    - "Gaming"
+    - "Social mixing"
+    - "Special shows"
+
+pricing_structure:
+  entry:
+    - "Cover charges"
+    - "Membership fees"
+    - "VIP access"
+  
+  consumption:
+    - "Drink prices"
+    - "Food options"
+    - "Special services"
+
+location_distribution:
+  districts:
+    - "City Center"
+    - "Watson"
+    - "Westbrook"
+    - "Heywood"
+  
+  areas:
+    - "Entertainment zones"
+    - "Red light districts"
+    - "Corporate sectors"
+
+security_measures:
+  entry:
+    - "ID checks"
+    - "Weapons scan"
+    - "Dress code"
+  
+  internal:
+    - "Security staff"
+    - "Cameras"
+    - "Emergency protocols"
+
+client_services:
+  standard:
+    - "Bar service"
+    - "Dance floor"
+    - "Basic amenities"
+  
+  premium:
+    - "VIP areas"
+    - "Bottle service"
+    - "Private rooms"
+
+atmosphere_types:
+  settings:
+    - "High energy"
+    - "Relaxed lounge"
+    - "Underground vibe"
+  
+  themes:
+    - "Cyberpunk"
+    - "Corporate"
+    - "Street style"
+
+special_features:
+  technology:
+    - "Light shows"
+    - "Sound systems"
+    - "VR experiences"
+  
+  amenities:
+    - "VIP sections"
+    - "Smoking areas"
+    - "Private booths"
+
+operation_hours:
+  standard:
+    - "Evening start"
+    - "Late night"
+    - "Early morning"
+  
+  special:
+    - "All night events"
+    - "Special occasions"
+    - "Private bookings"
+
+staff_roles:
+  front:
+    - "Bouncers"
+    - "Bartenders"
+    - "Servers"
+  
+  management:
+    - "Managers"
+    - "VIP hosts"
+    - "Security chiefs"
+
+notes_for_elena:
+  key_points:
+    - "Venue variety"
+    - "Price levels"
+    - "Security importance"
+  
+  interaction_tips:
+    - "Check atmosphere"
+    - "Know clientele"
+    - "Mind security"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,81 @@
+﻿type: "technology"
+title: "Military-Grade Weapons"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ military weaponry used by corporate armies and elite forces"
+  
+name: Military-Grade Weapons
+type: weapon_system
+description: pokroÄŤilĂ˝ military weaponry used by corporate armies and elite forces
+details: |
+  Military-grade weapons represent the pinnacle of firearms technology, typically restricted to corporate military forces and high-level security organizations.
+
+  Categories:
+  - Assault Weapons
+    * pokroÄŤilĂ˝ assault rifles
+    * Heavy machine guns
+    * Precision sniper systems
+  - Heavy Ordnance
+    * Guided missile systems
+    * Anti-materiel rifles
+    * pokroÄŤilĂ˝ explosives
+  - Specialized Systems
+    * EMP weapons
+    * Sonic weapons
+    * Chemical delivery systems
+
+  Key Features:
+  - Maximum reliability
+  - pokroÄŤilĂ˝ targeting systems
+  - Modular design
+  - Military-grade materials
+  - Integrated smart systems
+
+  Access Restrictions:
+  - Corporate military permits
+  - Special forces authorization
+  - High-level security clearance
+  - Import/export controls
+
+  Advantages:
+  - Superior performance
+  - pokroÄŤilĂ˝ features
+  - High durability
+  - Best-in-class accuracy
+
+  Disadvantages:
+  - Extremely drahĂ˝
+  - Strictly regulated
+  - Complex maintenance
+  - Limited availability
+
+importance: Top-tier weapons in Night City's arsenal
+common_locations:
+  - Corporate military bases
+  - Military compounds
+  - Special forces armories
+  - High-security facilities
+relationships:
+  - Weapon Manufacturers
+  - Smart Weapons overview
+  - Tech Weapons Systems
+  - Combat Implants
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

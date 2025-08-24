@@ -1,0 +1,149 @@
+name: "Medical Services"
+id: "service_medical"
+category: "service_type"
+
+service_overview:
+  description: "Zdravotné služby a lekárska starostlivosť v Night City"
+  legality: "Legal"
+  availability: "24/7"
+  price_range: "Variable"
+
+core_services:
+  emergency:
+    - "Trauma care"
+    - "Critical response"
+    - "Accident handling"
+    - "Combat injuries"
+  
+  general:
+    - "Check-ups"
+    - "Treatment"
+    - "Recovery care"
+    - "Prevention"
+
+facility_types:
+  hospitals:
+    - "Trauma centers"
+    - "General hospitals"
+    - "Specialty clinics"
+    - "Emergency rooms"
+  
+  clinics:
+    - "Local medical"
+    - "Private practice"
+    - "Street clinics"
+    - "Mobile units"
+
+service_quality:
+  levels:
+    - name: "Premium"
+      description: "Corporate care"
+    - name: "Standard"
+      description: "General public"
+    - name: "Basic"
+      description: "Street clinics"
+  
+  factors:
+    - "Equipment quality"
+    - "Staff expertise"
+    - "Facility type"
+
+staff_categories:
+  medical:
+    - "Doctors"
+    - "Nurses"
+    - "Specialists"
+    - "Trauma teams"
+  
+  support:
+    - "Tech staff"
+    - "Admin personnel"
+    - "Security teams"
+
+equipment_resources:
+  standard:
+    - "Diagnostic tools"
+    - "Treatment gear"
+    - "Recovery equipment"
+  
+  specialized:
+    - "Trauma units"
+    - "Surgery systems"
+    - "Critical care"
+
+pricing_structure:
+  basic:
+    - "Standard care"
+    - "Regular check-ups"
+    - "Common treatments"
+  
+  premium:
+    - "Trauma team"
+    - "Specialist care"
+    - "Private rooms"
+
+emergency_response:
+  services:
+    - "Trauma team"
+    - "Emergency transport"
+    - "Critical care"
+  
+  coverage:
+    - "City zones"
+    - "Response times"
+    - "Service areas"
+
+treatment_options:
+  standard:
+    - "General medicine"
+    - "Basic surgery"
+    - "Recovery care"
+  
+  specialized:
+    - "Trauma surgery"
+    - "Critical care"
+    - "Specialty treatment"
+
+insurance_systems:
+  types:
+    - "Corporate cover"
+    - "Public plans"
+    - "Private insurance"
+  
+  benefits:
+    - "Care levels"
+    - "Coverage types"
+    - "Service access"
+
+facility_security:
+  measures:
+    - "Armed guards"
+    - "Access control"
+    - "Monitoring systems"
+  
+  protocols:
+    - "Emergency lockdown"
+    - "Threat response"
+    - "Patient protection"
+
+technology_use:
+  diagnostic:
+    - "Scanning systems"
+    - "Lab equipment"
+    - "Monitoring tools"
+  
+  treatment:
+    - "Surgery tech"
+    - "Recovery systems"
+    - "Care automation"
+
+notes_for_elena:
+  key_points:
+    - "Service levels"
+    - "Emergency focus"
+    - "Cost variance"
+  
+  interaction_tips:
+    - "Check coverage"
+    - "Know options"
+    - "Emergency prep"

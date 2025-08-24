@@ -1,0 +1,117 @@
+type: society
+title: "Civil Rights Status"
+category: "society_politics"
+society_id: "soc_civil_rights"
+
+content:
+  summary: "Komplexný prehľad stavu občianskych práv v Night City, kde sa stretávajú korporátne záujmy s osobnými slobodami v dystopickom prostredí."
+  
+  basic_rights:
+    theoretical:
+      - "Právo na život"
+      - "Osobná sloboda"
+      - "Súkromie"
+      - "Spravodlivý proces"
+    
+    reality:
+      restrictions:
+        - "Korporátna kontrola"
+        - "Policajný štát"
+        - "Sociálna diskriminácia"
+        - "Technologický dohľad"
+      exceptions:
+        - "Korporátne privilégiá"
+        - "Sociálny status"
+        - "Ekonomická sila"
+        - "Politické konexie"
+
+  key_issues:
+    privacy:
+      threats:
+        - "Všadeprítomné sledovanie"
+        - "Dátové zbieranie"
+        - "Biometrický monitoring"
+        - "NET surveillance"
+      protection:
+        - "Encryption technológie"
+        - "Privacy enhancers"
+        - "Anonymizačné služby"
+        - "Digital masking"
+    
+    freedom:
+      expression:
+        - "Mediálna cenzúra"
+        - "Online monitoring"
+        - "Protest restrictions"
+        - "Identity control"
+      movement:
+        - "Zónové obmedzenia"
+        - "Travel kontroly"
+        - "Residenčné limitácie"
+        - "Access restrictions"
+
+  discrimination:
+    types:
+      social:
+        - "Triedna diskriminácia"
+        - "Technologický status"
+        - "Korporátna príslušnosť"
+        - "Sociálne skóre"
+      physical:
+        - "Kybernetické modifikácie"
+        - "Genetické vylepšenia"
+        - "Zdravotný stav"
+        - "Fyzické schopnosti"
+
+  legal_protection:
+    official:
+      - "Mestské vyhlášky"
+      - "Korporátne regulácie"
+      - "Súdny systém"
+      - "Občianske práva"
+    
+    reality:
+      - "Selektívne uplatňovanie"
+      - "Korupcia"
+      - "Korporátny vplyv"
+      - "Systémová nespravodlivosť"
+
+  resistance_movements:
+    organized:
+      - "Ľudskoprávne skupiny"
+      - "Digitálni aktivisti"
+      - "Právna pomoc"
+      - "Občianske iniciatívy"
+    
+    underground:
+      - "Hacktivisti"
+      - "Protest movements"
+      - "Informačné siete"
+      - "Podporné komunity"
+
+technical_metadata:
+  rights_status: "Kriticky obmedzené"
+  enforcement: "Selektívne"
+  public_awareness: "Vysoká"
+  resistance_level: "Aktívne"
+
+related_cards:
+  society:
+    - "soc_corporate_politics"
+    - "soc_law_enforcement"
+    - "soc_social_classes"
+  technology:
+    - "tech_surveillance"
+    - "tech_security_systems"
+    - "tech_privacy_tools"
+
+notes_for_elena:
+  key_points:
+    - "Občianske práva sú často len teoretické"
+    - "Silná závislosť na sociálnom statuse"
+    - "Neustály boj o základné slobody"
+  
+  roleplay_aspects:
+    - "Vysvetliť každodenné obmedzenia práv"
+    - "Diskutovať o možnostiach odporu"
+    - "Popísať rozdiely medzi teóriou a praxou"

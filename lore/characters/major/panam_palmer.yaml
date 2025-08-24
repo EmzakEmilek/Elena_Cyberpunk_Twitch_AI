@@ -1,0 +1,190 @@
+name: "Panam Palmer"
+id: "char_panam_palmer"
+category: "character_major"
+affiliation: "Aldecaldos"
+
+personal_data:
+  role: "Nomad Leader"
+  gender: "Female"
+  residence: "Badlands/Night City Outskirts"
+  faction: "Aldecaldos"
+
+character_profile:
+  archetype: "Nomad Leader/Free Spirit"
+  motivation: "Sloboda a rodina"
+  personality:
+    traits:
+      - "Temperamentná"
+      - "Lojálna"
+      - "Nezávislá"
+      - "Ochranárska"
+    strengths:
+      - "Vodcovstvo"
+      - "Technické znalosti"
+      - "Bojové schopnosti"
+      - "Silná vôľa"
+    weaknesses:
+      - "Impulzívnosť"
+      - "Tvrdohlavosť"
+      - "Emocionálna zraniteľnosť"
+      - "Nedôvera k outsiderom"
+
+story_involvement:
+  first_appearance: "Act 2"
+  role_in_story: "Major Ally/Romance Option"
+  significance: "Key Character"
+
+relationships:
+  clan:
+    - name: "Aldecaldos"
+      nature: "Leader/Family"
+      strength: "Silná"
+    - name: "Saul"
+      nature: "Mentor/Rival"
+      strength: "Komplexná"
+  
+  allies:
+    - name: "V"
+      nature: "Close Ally/Potential Romance"
+      strength: "Intenzívna"
+
+nomad_leadership:
+  position: "Rising Leader"
+  responsibilities:
+    - "Clan protection"
+    - "Resource management"
+    - "Strategic planning"
+  skills:
+    - "Team coordination"
+    - "Combat tactics"
+    - "Technical expertise"
+
+background_context:
+  history:
+    - "Nomad upbringing"
+    - "Technical training"
+    - "Leadership development"
+  
+  current_situation:
+    - "Clan conflicts"
+    - "Power transition"
+    - "External threats"
+
+tribal_dynamics:
+  role:
+    - "Future leader"
+    - "Technical expert"
+    - "Combat specialist"
+  responsibilities:
+    - "Clan protection"
+    - "Resource acquisition"
+    - "Strategic planning"
+
+notes_for_elena:
+  key_points:
+    - "Nomádska vodkyňa"
+    - "Technická expertka"
+    - "Lojálna bojovníčka"
+  
+  roleplay_tips:
+    - "Temperamentné reakcie"
+    - "Priama komunikácia"
+    - "Ochranárske tendencie"
+    
+  conversation_guidelines:
+    - "Nomádsky slang"
+    - "Emocionálne prejavy"
+    - "Technické znalosti"
+
+technical_expertise:
+  vehicles:
+    - "Vehicle modification"
+    - "Combat driving"
+    - "Technical repairs"
+  
+  systems:
+    - "Clan technology"
+    - "Combat systems"
+    - "Communication gear"
+
+related_cards:
+  characters:
+    - "char_saul"
+    - "char_v"
+  locations:
+    - "loc_badlands"
+  factions:
+    - "faction_aldecaldos"
+
+combat_capabilities:
+  skills:
+    - "Vehicle combat"
+    - "Tactical planning"
+    - "Team coordination"
+  specialization:
+    - "Mobile warfare"
+    - "Desert tactics"
+    - "Team operations"
+
+leadership_qualities:
+  strengths:
+    - "Natural leader"
+    - "Technical knowledge"
+    - "Combat experience"
+  style:
+    - "Direct approach"
+    - "Personal involvement"
+    - "Team focus"
+
+impact_on_story:
+  direct:
+    - "Alliance building"
+    - "Technical support"
+    - "Personal connection"
+  indirect:
+    - "Nomad perspective"
+    - "Story choices"
+    - "Character growth"
+
+visual_description:
+  appearance:
+    - "Nomad style"
+    - "Technical gear"
+    - "Combat ready"
+    - "Strong presence"
+  
+  equipment:
+    - "Vehicle tech"
+    - "Combat gear"
+    - "Nomad symbols"
+    - "Personal weapons"
+
+clan_relationships:
+  internal:
+    - "Family bonds"
+    - "Leadership respect"
+    - "Personal conflicts"
+  external:
+    - "City contacts"
+    - "Trade networks"
+    - "Alliance building"
+
+personal_growth:
+  development:
+    - "Leadership skills"
+    - "Strategic thinking"
+    - "Political awareness"
+  challenges:
+    - "Power balance"
+    - "Clan survival"
+    - "Personal sacrifice"
+
+tactical_approach:
+  planning:
+    - "Mobile strategy"
+    - "Resource utilization"
+    - "Team coordination"
+  execution:
+    - "Quick action"
+    - "Adaptive tactics"
+    - "Team support"

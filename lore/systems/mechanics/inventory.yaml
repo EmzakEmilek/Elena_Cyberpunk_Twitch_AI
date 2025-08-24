@@ -1,0 +1,213 @@
+﻿type: "economy"
+title: "Inventory System"
+category: "system_mechanics"
+economy_id: "system_mechanics_inventory"
+
+content:
+  summary: ""
+  
+name: "Inventory System"
+id: "system_mechanics_inventory"
+category: "system_mechanics"
+
+system_overview:
+  description: "Systém správy inventára a manažmentu predmetov"
+  core_aspects:
+    - "Item management"
+    - "Weight system"
+    - "Category organization"
+    - "Quick access"
+
+core_features:
+  storage:
+    - "Item slots"
+    - "Weight limits"
+    - "Category tabs"
+    - "Sort options"
+  
+  management:
+    - "Quick slots"
+    - "Auto sort"
+    - "Stack system"
+    - "Search function"
+
+mechanics_details:
+  capacity:
+    base_slots: 50
+    weight_limit: "100kg"
+    quick_slots: 8
+    categories:
+      - "Weapons"
+      - "Armor"
+      - "Consumables"
+      - "Cyberware"
+      - "Materials"
+      - "Misc"
+
+functionality:
+  basic_actions:
+    - "Add item"
+    - "Remove item"
+    - "Move item"
+    - "Split stack"
+    - "Combine stack"
+  
+  advanced_features:
+    - "Auto sorting"
+    - "Quick transfer"
+    - "Mass actions"
+    - "Filters"
+
+notes_for_elena:
+  key_points:
+    - "Storage limits"
+    - "Weight system"
+    - "Organization"
+  
+  roleplay_tips:
+    - "Inventory check"
+    - "Weight warning"
+    - "Category help"
+    
+  conversation_guidelines:
+    - "Storage terms"
+    - "Weight words"
+    - "Item names"
+
+interface_elements:
+  displays:
+    - "Item grid"
+    - "Weight bar"
+    - "Category tabs"
+    - "Quick slots"
+  
+  controls:
+    - "Sort buttons"
+    - "Filter options"
+    - "Search bar"
+    - "Stack controls"
+
+item_handling:
+  actions:
+    - "Pick up"
+    - "Drop"
+    - "Use"
+    - "Equip"
+  
+  restrictions:
+    - "Weight limit"
+    - "Size limit"
+    - "Type rules"
+
+weight_system:
+  calculation:
+    - "Item weight"
+    - "Total load"
+    - "Capacity check"
+  
+  effects:
+    - "Movement speed"
+    - "Stamina use"
+    - "Action speed"
+
+organization_features:
+  categories:
+    - "Auto sort"
+    - "Custom tabs"
+    - "Favorites"
+  
+  filters:
+    - "Type filter"
+    - "Weight filter"
+    - "Value filter"
+
+quick_access:
+  slots:
+    - "Weapon slots"
+    - "Consumable slots"
+    - "Tool slots"
+  
+  features:
+    - "Fast swap"
+    - "Auto refill"
+    - "Hotkeys"
+
+stacking_system:
+  rules:
+    - "Stack limits"
+    - "Type rules"
+    - "Split options"
+  
+  management:
+    - "Auto stack"
+    - "Stack split"
+    - "Stack move"
+
+search_functionality:
+  options:
+    - "name search"
+    - "Type search"
+    - "Tag search"
+  
+  features:
+    - "Auto complete"
+    - "Suggestions"
+    - "History"
+
+related_systems:
+  mechanics:
+    - "system_mechanics_crafting"
+    - "system_mechanics_economy"
+  skills:
+    - "system_skill_technical"
+    - "system_skill_body"
+
+balance_considerations:
+  limits:
+    - "Weight cap"
+    - "Slot number"
+    - "Stack size"
+  
+  upgrades:
+    - "Capacity boost"
+    - "Weight buff"
+    - "Stack zvĂ˝ĹˇiĹĄ"
+
+upgrade_options:
+  capacity:
+    - "More slots"
+    - "Higher weight"
+    - "Better stacks"
+  
+  features:
+    - "Auto sort"
+    - "Mass transfer"
+    - "Smart stack"
+
+quality_of_life:
+  auto_features:
+    - "Sort system"
+    - "Stack manage"
+    - "Quick move"
+  
+  shortcuts:
+    - "Hot keys"
+    - "Quick slots"
+    - "Fast actions"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

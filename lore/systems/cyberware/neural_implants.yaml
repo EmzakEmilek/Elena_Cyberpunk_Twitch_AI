@@ -1,0 +1,66 @@
+﻿type: "technology"
+title: "Neural Implants"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ neural interface technology for direct brain-computer connection"
+  
+name: Neural Implants
+type: Cyberware
+description: pokroÄŤilĂ˝ neural interface technology for direct brain-computer connection
+details: |
+  Neural implants represent the foundation of Cyberware technology, enabling direct neural interface with various cybernetic enhancements and digital systems.
+
+  Core Functions:
+  - Neural interface processing
+  - Synaptic enhancement
+  - Brain-computer connection
+  - Neural network integration
+
+  beĹľnĂ˝ Applications:
+  - Cyberware control
+  - Digital interface
+  - Enhanced cognition
+  - Neural networking
+
+  Installation Requirements:
+  - Neural compatibility check
+  - Brain mapping
+  - Surgical procedure
+  - Recovery protocol
+
+  Risk Factors:
+  - Cyberpsychosis potential
+  - Neural overload
+  - Interface rejection
+  - System conflicts
+
+importance: Essential component for pokroÄŤilĂ˝ Cyberware
+common_locations:
+  - Premium ripperdocs
+  - Corporate clinics
+  - Military facilities
+  - Research centers
+relationships:
+  - Operating System Types
+  - Cyberdeck Systems
+  - Memory Implants
+  - Nervous System Upgrades
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

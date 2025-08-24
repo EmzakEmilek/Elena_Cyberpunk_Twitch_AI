@@ -1,0 +1,72 @@
+type: "quest"
+title: "The Job"
+category: "main_story"
+
+summary: "Úvodný quest kde sa V stretáva s fixerom Dexterom DeShawnom a dostáva prácu na veľkú lúpež v Konpeki Plaza hoteli."
+
+key_points:
+  - "Prvý kontakt s Dexterom DeShawnom"
+  - "Stretnutie s Jackie Wellesom a T-Bugom"
+  - "Plánovanie heist operácie"
+  - "Výber prístupu k misii (stealth vs aggro)"
+  - "Príprava na infiltráciu Arasaka"
+  - "Získanie informácií o Evelyn Parker"
+
+story_context:
+  act: "Act 1"
+  position: "Úvodný quest pre The Heist"
+  importance: "Nastavuje hlavný príbeh"
+
+characters:
+  - "V (protagonist)"
+  - "Dexter DeShawn (fixer)"
+  - "Jackie Welles (partner)"
+  - "T-Bug (netrunner)"
+  - "Evelyn Parker (klientka)"
+
+locations:
+  - "Afterlife Bar"
+  - "Dexter's car"
+  - "No-Tell Motel"
+
+choices:
+  planning_approach:
+    description: "Výber stratégie pre heist"
+    options:
+      - "Stealth prístup - tichý vstup"
+      - "Aggressive prístup - priamy útok"
+    consequences: "Ovplyvňuje možnosti v The Heist queste"
+
+objectives:
+  - "Stretnúť sa s Dexom v Afterlife"
+  - "Diskutovať detaily práce"
+  - "Stretnúť klientku Evelyn Parker"
+  - "Vybrať prístup k misii"
+  - "Pripraviť sa na heist"
+
+rewards:
+  - "Pokrok v hlavnom príbehu"
+  - "Prvé stretnutie s kľúčovými postavami"
+  - "Nastavenie pre The Heist"
+
+related:
+  - "the_heist"
+  - "dexter_deshawn"
+  - "jackie_welles"
+  - "evelyn_parker"
+
+elena_notes:
+  talking_points:
+    - "Prvý veľký quest v hre"
+    - "Dôležité rozhodnutia o prístupe"
+    - "Úvod do sveta fixerov a heistov"
+  spoiler_level: "low"
+  conversation_context:
+    - "Začiatok hlavného príbehu"
+    - "Stretnutie s Dexom"
+    - "Plánovanie lúpeže"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

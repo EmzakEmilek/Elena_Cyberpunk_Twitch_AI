@@ -1,0 +1,183 @@
+﻿type: "character"
+title: "Brick"
+category: "character_supporting"
+character_id: "char_brick"
+
+content:
+  summary: ""
+  
+name: "Brick"
+id: "char_brick"
+category: "character_supporting"
+affiliation: "Former Maelstrom"
+
+personal_data:
+  role: "Former Maelstrom Leader"
+  gender: "Male"
+  residence: "Watson (imprisoned)"
+  faction: "Maelstrom (former)"
+
+character_profile:
+  archetype: "Deposed Gang Leader"
+  motivation: "Prežitie a pomsta"
+  personality:
+    traits:
+      - "Pragmatický"
+      - "Opatrný"
+      - "Tvrdý"
+      - "Lojálny k svojim"
+    strengths:
+      - "Vodcovské schopnosti"
+      - "Bojové skúsenosti"
+      - "Gang politika"
+    weaknesses:
+      - "Uväznený"
+      - "Strata moci"
+      - "Obmedzené spojenia"
+
+story_involvement:
+  first_appearance: "The Pickup"
+  role_in_story: "Voliteľný spojenec"
+  possible_outcomes:
+    - condition: "Oslobodený"
+      result: "Potenciálny spojenec"
+    - condition: "Ponechaný"
+      result: "Žiadna interakcia"
+    - condition: "Mŕtvy"
+      result: "Zmena gang dynamiky"
+
+relationships:
+  former_allies:
+    - name: "Maelstrom members"
+      nature: "Bývalí podriadení"
+      strength: "Varied"
+  enemies:
+    - name: "Royce"
+      nature: "Uzurpátor"
+      strength: "Silná"
+  potential:
+    - name: "V"
+      nature: "Osloboditeľ/Spojenec"
+      condition: "Ak oslobodený"
+
+quest_appearances:
+  - quest: "The Pickup"
+    role: "Optional rescue target"
+    importance: "Medium"
+
+available_interactions:
+  dialogues:
+    - type: "Rescue"
+      topics:
+        - "Oslobodenie"
+        - "Gang informácie"
+        - "Royce konflikt"
+    - type: "Alliance"
+      topics:
+        - "Budúca spolupráca"
+        - "Maelstrom politika"
+        - "Osobná vďačnosť"
+
+character_development:
+  arc_type: "Potential Ally"
+  possible_paths:
+    - path: "Oslobodenie"
+      outcomes:
+        - "Vďačný spojenec"
+        - "Informačný zdroj"
+    - path: "Ponechanie"
+      outcomes:
+        - "Žiadny vplyv"
+        - "Stratená príležitosť"
+
+visual_description:
+  appearance:
+    - "Cybernetic enhancements"
+    - "Gang tattoos"
+    - "Battle scars"
+    - "Maelstrom style"
+  condition:
+    - "Imprisoned"
+    - "Beaten but unbroken"
+    - "Combat-ready"
+
+combat_capabilities:
+  primary_weapons: "None (imprisoned)"
+  Cyberware:
+    - type: "Combat mods"
+      level: "High-grade"
+    - type: "Body enhancements"
+      level: "Significant"
+  potential:
+    - "Experienced fighter"
+    - "Gang warfare expert"
+    - "Strategic mind"
+
+notes_for_elena:
+  key_points:
+    - "Voliteľná záchranna misia"
+    - "Dôležitý pre Maelstrom politiku"
+    - "Potenciálny zdroj informácií"
+  
+  roleplay_tips:
+    - "Zdôrazniť ťažkú situáciu"
+    - "Naznačiť bývalú autoritu"
+    - "Ukázať vďačnosť pri záchrane"
+    
+  conversation_guidelines:
+    - "Opatrný pri prvom kontakte"
+    - "Vďačný po záchrane"
+    - "Informatívny o Maelstrom"
+
+background_context:
+  leadership:
+    - "Bývalý vodca Maelstrom"
+    - "Zvrhnutý Roycom"
+    - "Rešpektovaný veterán"
+  
+  current_situation:
+    - "Uväznený v All Foods"
+    - "Čaká na popravu"
+    - "Možnosť záchrany"
+
+related_cards:
+  characters:
+    - "char_royce"
+  factions:
+    - "faction_maelstrom"
+  locations:
+    - "loc_all_foods"
+  quests:
+    - "mq_the_pickup"
+
+rescue_mission:
+  requirements:
+    - "Nájsť informácie o lokácii"
+    - "Získať prístupový kód"
+    - "Dostať sa k cele"
+  
+  consequences:
+    positive:
+      - "Nový spojenec"
+      - "Maelstrom informácie"
+      - "Budúce príležitosti"
+    negative:
+      - "Možná pozornosť Royce"
+      - "Komplikácie v misii"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,171 @@
+﻿type: "character"
+title: ""
+category: "culture"
+character_id: ""
+
+content:
+  summary: ""
+  
+type: culture
+title: "Street Fashion Trends"
+category: "culture"
+culture_id: "cult_street_fashion"
+
+content:
+  summary: "Súčasné a vyvíjajúce sa módne trendy na uliciach Night City, ktoré reprezentujú jedinečnú kombináciu štýlu, funkčnosti a kultúrnej identity."
+  
+  major_styles:
+    kitsch:
+      description: "Jasný, syntetický štýl inšpirovaný retro-futurizmom"
+      characteristics:
+        - "Žiarivé neónové farby"
+        - "Syntetické materiály"
+        - "LED doplnky a svetelné efekty"
+        - "Retro-futuristické prvky"
+        - "Plastové a holografické detaily"
+      typical_wearers: "Mladí ľudia, party-goers, niekto kto chce vyniknúť"
+    
+    entropism:
+      description: "Praktický štýl zameraný na funkcionalitu a recykláciu"
+      characteristics:
+        - "Recyklované a použité materiály"
+        - "Utility vesty a viacúčelové oblečenie"
+        - "Survival-focused design"
+        - "Zašité a oprávené kusy"
+        - "Funkcia nad estetikou"
+      typical_wearers: "Chudobní obyvatelia, nomádi, pracujúca trieda"
+    
+    neomilitarism:
+      description: "Korporátny štýl inšpirovaný vojenským dizajnom"
+      characteristics:
+        - "Čisté línie a minimalizmus"
+        - "Vojensky inšpirované kroje"
+        - "Neutrálne farby (čierna, sivá, khaki)"
+        - "Power dressing prvky"
+        - "Disciplinovaný vzhľad"
+      typical_wearers: "Corpos, security personnel, aspirants na vyšší status"
+    
+    neokitsch:
+      description: "Luxusný streetwear kombinujúci high fashion s urbánnou estetikou"
+      characteristics:
+        - "Designer Cyberware integration"
+        - "Exkluzívne materiály"
+        - "Subtle tech integration"
+        - "Status symboly"
+        - "Limitované edície"
+      typical_wearers: "Úspešní žoldnieri, celebrity, new rich"
+
+  cultural_influences:
+    gang_aesthetics:
+      maelstrom: "Industrial cyber-goth s heavy metal prvkami"
+      valentinos: "Tradičné Latino vzory s modernou technológiou"
+      tyger_claws: "Japonská elegancia s neo-punk prvkami"
+      animals: "Fitness culture s tribal tetovaniami"
+    
+    corporate_influence:
+      - "Uniformity v korporátnom prostredí"
+      - "Brand loyalty cez clothing lines"
+      - "Technology integration standards"
+      - "Social status differentiation"
+    
+    nomad_heritage:
+      - "Practical outdoor wear"
+      - "Vehicle-integrated clothing"
+      - "Dust resistance features"
+      - "Family clan identifiers"
+
+  technology_integration:
+    smart_fabrics:
+      - "Temperature regulation"
+      - "Bullet-resistant materials"
+      - "Color-changing capabilities"
+      - "Health monitoring systems"
+    
+    cyberware_display:
+      - "Cut-out designs pre visible implants"
+      - "LED highlights on chrome"
+      - "Complementary color schemes"
+      - "Status-showing modifications"
+    
+    functional_features:
+      - "skrytĂ˝ pockets pre weapons"
+      - "EMP-resistant electronics pockets"
+      - "Quick-release mechanisms"
+      - "Modular attachment points"
+
+  shopping_locations:
+    high_end:
+      - "Corpo malls v City Center"
+      - "Designer boutiques v Westbrook"
+      - "Exclusive fashion districts"
+      - "Limited edition popup stores"
+    
+    street_level:
+      - "Secondhand markets"
+      - "Street vendor stalls"
+      - "Gang territory shops"
+      - "Underground fashion scenes"
+    
+    online:
+      - "Digital fashion platforms"
+      - "Virtual try-on systems"
+      - "Subscription clothing services"
+      - "Custom order systems"
+
+technical_metadata:
+  importance: "Kľúčový aspekt kultúrneho vyjadrenia"
+  change_rate: "Rýchla evolúcia"
+  accessibility: "Široká škála cien"
+  social_impact: "Vysoká identifikačná funkcia"
+
+related_cards:
+  culture:
+    - "cult_corporate_culture"
+    - "cult_street_art"
+    - "cult_underground_music"
+  economy:
+    - "econ_luxury_markets"
+    - "econ_street_vendor"
+  society:
+    - "soc_social_classes"
+    - "soc_corporate_lifestyle"
+  factions:
+    - "faction_maelstrom"
+    - "faction_valentinos"
+    - "faction_tyger_claws"
+
+notes_for_elena:
+  key_points:
+    - "Fashion je spôsob, ako ukázať príslušnosť k skupine"
+    - "Technology integration je štandardná súčasť oblečenia"
+    - "Štýl často určuje sociálnu vrstvu a príslušnosť"
+    - "Functional fashion pre survival v nebezpeÄŤnĂ˝ city"
+  
+  conversation_guidelines:
+    - "Spýtať sa na personal style preferences"
+    - "Vysvetliť význam rôznych štýlov"
+    - "Diskutovať o technology integration"
+    - "Spomenúť gang affiliations cez clothing"
+  
+  roleplay_aspects:
+    - "Oblečenie môže ovplyvniť NPC reakcie"
+    - "Rôzne štvrte preferujú rôzne štýly"
+    - "Gang colors môžu byť nebezpeÄŤnĂ˝ v wrong territory"
+    - "Corporate districts vyžadujú appropriate dress code"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

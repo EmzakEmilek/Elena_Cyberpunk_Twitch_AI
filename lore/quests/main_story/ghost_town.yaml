@@ -1,0 +1,119 @@
+type: "quest"
+title: "Ghost Town"
+category: "main_story"
+
+summary: "V sa stretáva s Panam Palmer, nomád fixerkou z Aldecaldos klanu, a pomáha jej získať späť ukradnutý Militech konvoj."
+
+key_points:
+  - "Prvé stretnutie s Panam Palmer"
+  - "Úvod do nomad kultúry a Aldecaldos"
+  - "Operácia proti Wraiths gangu"
+  - "Získanie Militech hardware"
+  - "Začiatok Panam romance možnosti"
+  - "Ukážka nomad lifestyle v Badlands"
+
+story_context:
+  act: "Act 2"
+  position: "Úvod Panam storyline"
+  importance: "Kľúčová postava pre nomad ending"
+
+characters:
+  - "V (protagonist)"
+  - "Panam Palmer (nomad fixer)"
+  - "Nash (Panam's contact)"
+  - "Wraiths gang members"
+  - "Johnny Silverhand (comments on nomads)"
+
+locations:
+  - "Badlands wasteland"
+  - "Ghost Town settlement"
+  - "Abandoned gas station"
+  - "Wraiths hideout"
+  - "Militech convoy route"
+
+nomad_culture:
+  values:
+    - "Family above everything"
+    - "Freedom from corpo control"
+    - "Self-reliance a survival"
+    - "Loyalty to clan"
+  
+  lifestyle:
+    - "Mobile communities"
+    - "Vehicle worship"
+    - "Desert survival skills"
+    - "Anti-establishment mentality"
+
+choices:
+  panam_approach:
+    description: "Ako sa správať k Panam"
+    options:
+      - "Professional - business only"
+      - "Friendly - build rapport"
+      - "Flirtatious - romantic interest"
+    consequences: "Ovplyvňuje relationship development"
+  
+  mission_strategy:
+    description: "Stratégia proti Wraiths"
+    options:
+      - "Stealth approach"
+      - "Direct assault"
+      - "Mixed tactics"
+
+objectives:
+  - "Stretnúť sa s Panam v Badlands"
+  - "Naplánrovať útok na Wraiths"
+  - "Infiltrovať Ghost Town"
+  - "Eliminovať Wraiths leadership"
+  - "Získať Militech equipment"
+  - "Escape s Panam"
+
+combat_elements:
+  enemies:
+    - "Wraiths gang members"
+    - "Armored vehicles"
+    - "Sniper positions"
+    - "Explosive traps"
+  
+  tactics:
+    - "Vehicle combat"
+    - "Long-range shooting"
+    - "Environmental usage"
+    - "Coordinated attacks"
+
+relationship_development:
+  panam_trust:
+    - "Professional respect"
+    - "Personal connection"
+    - "Mutual attraction (optional)"
+    - "Foundation for future quests"
+
+themes:
+  - "Freedom vs security"
+  - "Nomad values vs city life"
+  - "Building trust"
+  - "Survival v harsh environment"
+
+related:
+  - "riders_on_the_storm"
+  - "queen_of_the_highway"
+  - "panam_palmer"
+  - "aldecaldos_clan"
+  - "badlands_location"
+
+elena_notes:
+  talking_points:
+    - "Prvé stretnutie s Panam"
+    - "Úvod do nomad lifestyle"
+    - "Badlands ako setting"
+    - "Začiatok dôležitej relationship"
+  spoiler_level: "low"
+  conversation_context:
+    - "Popular romance option"
+    - "Alternative to city life"
+    - "Vehicle combat introduction"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

@@ -1,0 +1,178 @@
+type: "quest"
+title: "Talkin' 'Bout A Revolution"
+category: "side_quest"
+
+summary: "Judy plánuje revolution v Clouds against Maiko a corporate control. Major choice quest s long-term consequences pre both Judy relationship a Night City."
+
+key_points:
+  - "Judy's revolution plan"
+  - "Clouds takeover attempt"
+  - "Maiko confrontation"
+  - "Major moral choice"
+  - "Mox faction future"
+  - "Worker empowerment themes"
+
+story_context:
+  type: "Romance/Friendship Chain"
+  position: "Judy storyline climax"
+  importance: "Determines Judy's fate"
+
+characters:
+  - "V (protagonist)"
+  - "Judy Alvarez"
+  - "Maiko Maeda"
+  - "Tom (Mox member)"
+  - "Roxanne (Clouds worker)"
+  - "Hiromi Sato"
+  - "Other Clouds workers"
+
+revolution_planning:
+  judy_strategy:
+    - "Worker liberation plan"
+    - "Corporate control removal"
+    - "Democratic management"
+    - "Profit sharing system"
+  
+  tactical_approach:
+    - "Peaceful takeover"
+    - "Worker support gathering"
+    - "Maiko confrontation"
+    - "New leadership establishment"
+
+major_choice:
+  revolution_support:
+    description: "Support Judy's revolution"
+    options:
+      - "Full support - help with takeover"
+      - "Conditional support - negotiate terms"
+      - "Oppose plan - side with Maiko"
+      - "Stay neutral - avoid involvement"
+    consequences: "MAJOR impact na Judy relationship a romance possibility"
+
+clouds_transformation:
+  current_system:
+    - "Corporate management"
+    - "Worker exploitation"
+    - "Profit extraction"
+    - "Limited autonomy"
+  
+  proposed_changes:
+    - "Worker ownership"
+    - "Democratic decisions"
+    - "Fair profit sharing"
+    - "Safety improvements"
+
+maiko_confrontation:
+  power_struggle:
+    - "Management control"
+    - "Worker loyalty"
+    - "Financial resources"
+    - "Political connections"
+  
+  negotiation_points:
+    - "Transition terms"
+    - "Power sharing"
+    - "Worker protection"
+    - "Business continuity"
+
+objectives:
+  - "Support alebo oppose Judy's plan"
+  - "Navigate Clouds politics"
+  - "Confront Maiko"
+  - "Secure worker safety"
+  - "Determine future leadership"
+
+worker_empowerment:
+  collective_action:
+    - "Worker organization"
+    - "Rights assertion"
+    - "Democratic participation"
+    - "Economic justice"
+  
+  challenges:
+    - "Corporate retaliation"
+    - "Financial sustainability"
+    - "Security concerns"
+    - "External pressure"
+
+judy_character_arc:
+  idealistic_goals:
+    - "Worker liberation"
+    - "System change"
+    - "Justice achievement"
+    - "Community empowerment"
+  
+  personal_stakes:
+    - "Friend's justice"
+    - "Moral principles"
+    - "Future vision"
+    - "Identity definition"
+
+choices_consequences:
+  support_judy:
+    - "Revolution success/failure"
+    - "Judy gratitude/disappointment"
+    - "Romance path opening/closing"
+    - "Mox faction changes"
+  
+  oppose_judy:
+    - "Relationship damage"
+    - "Corporate system maintenance"
+    - "Worker status quo"
+    - "Judy's disillusionment"
+
+themes:
+  - "Individual vs system change"
+  - "Idealism vs pragmatism"
+  - "Worker rights and dignity"
+  - "Love vs principles"
+
+emotional_climax:
+  judy_vulnerability:
+    - "Dream realization attempt"
+    - "Personal investment"
+    - "Trust in V"
+    - "Future hopes"
+  
+  v_dilemma:
+    - "Friend support vs realism"
+    - "Romance vs principles"
+    - "Change vs stability"
+    - "Personal vs political"
+
+revolution_outcome:
+  success_scenario:
+    - "Worker control achieved"
+    - "Democratic management"
+    - "Judy's happiness"
+    - "System change"
+  
+  failure_scenario:
+    - "Corporate retaliation"
+    - "Worker punishment"
+    - "Judy's disillusionment"
+    - "Status quo maintenance"
+
+related:
+  - "judy_alvarez"
+  - "clouds_establishment"
+  - "maiko_maeda"
+  - "mox_faction"
+  - "worker_rights"
+
+elena_notes:
+  talking_points:
+    - "MAJOR choice quest importance"
+    - "Judy romance path critical point"
+    - "Worker rights themes"
+    - "Revolution vs reform debate"
+  spoiler_level: "high"
+  conversation_context:
+    - "Romance path determination"
+    - "Major moral decision"
+    - "Long-term consequences"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

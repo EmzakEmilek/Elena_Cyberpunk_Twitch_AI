@@ -1,0 +1,66 @@
+﻿type: "technology"
+title: "Cyber-arm Modifications"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ cybernetic arm replacements and enhancements"
+  
+name: Cyber-arm Modifications
+type: Cyberware
+description: pokroÄŤilĂ˝ cybernetic arm replacements and enhancements
+details: |
+  Cyber-arm modifications offer enhanced strength, dexterity, and specialized functions through complete or partial arm replacement.
+
+  Core Features:
+  - Enhanced strength
+  - Improved dexterity
+  - Tool integration
+  - Weapon systems
+
+  beĹľnĂ˝ Modifications:
+  - Reinforced structure
+  - skrytĂ˝ compartments
+  - Integrated tools
+  - Weapon mounts
+
+  Special Functions:
+  - Precision control
+  - Force feedback
+  - Smart weapon link
+  - Multi-tool system
+
+  Optional Features:
+  - Synthetic skin
+  - Sensory feedback
+  - Environmental resistance
+  - Quick-change mounts
+
+importance: Essential combat and utility enhancement
+common_locations:
+  - Military forces
+  - Technical workers
+  - Security personnel
+  - Combat specialists
+relationships:
+  - Skeletal Reinforcement
+  - Combat Implants
+  - Mantis Blades
+  - Experimental Cyberware
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

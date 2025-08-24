@@ -1,0 +1,78 @@
+﻿type: "technology"
+title: "Transportation Tech"
+category: ""
+technology_id: ""
+
+content:
+  summary: "pokroÄŤilĂ˝ transportation and mobility technologies in Night City"
+  
+name: Transportation Tech
+type: technology
+description: pokroÄŤilĂ˝ transportation and mobility technologies in Night City
+details: |
+  Transportation technology encompasses all aspects of personal and mass transit systems.
+
+  Transit Types:
+  - Personal Transport
+    * Smart vehicles
+    * Flying cars
+    * Personal pods
+    * Automated taxis
+  - Mass Transit
+    * Maglev trains
+    * Automated buses
+    * Subway systems
+    * Air transport
+
+  Technologies:
+  - Propulsion Systems
+    * Electric drives
+    * Hover technology
+    * Anti-gravity
+    * Smart engines
+  - Control Systems
+    * AI navigation
+    * Traffic management
+    * Safety protocols
+    * Emergency systems
+
+  Infrastructure:
+  - Physical Systems
+    * Smart roads
+    * Transit hubs
+    * Charging networks
+    * Maintenance facilities
+  - Digital Integration
+    * Traffic control
+    * Route optimization
+    * User interfaces
+    * Payment systems
+
+importance: Essential urban infrastructure
+common_locations:
+  - Transit centers
+  - Major roadways
+  - Corporate zones
+  - Transportation hubs
+relationships:
+  - Vehicle AI Systems
+  - Energy Systems
+  - Security Systems
+  - Environmental Systems
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

@@ -1,0 +1,177 @@
+﻿type: "character"
+title: "6th PouliÄŤnĂˇ gang"
+category: "faction_gang"
+character_id: "faction_6th_street"
+
+content:
+  summary: ""
+  
+name: "6th PouliÄŤnĂˇ gang"
+id: "faction_6th_street"
+category: "faction_gang"
+
+faction_overview:
+  description: "Militaristická gang založená vojnovými veteránmi"
+  territory: "Santo Domingo, časti Heywood"
+  leader: "Vojenská rada"
+  strength: "Stredne vysoká"
+
+core_aspects:
+  philosophy:
+    - "Militárny poriadok"
+    - "Americký patriotizmus"
+    - "Veteránska hrdosť"
+  
+  methods:
+    - "Vojenská taktika"
+    - "Územná kontrola"
+    - "Silové riešenia"
+
+organization:
+  structure:
+    - "Vojenská hierarchia"
+    - "Squad system"
+    - "Chain of command"
+  
+  roles:
+    - "Squad leaders"
+    - "Combat units"
+    - "Support teams"
+
+characteristics:
+  appearance:
+    - "Military style"
+    - "Patriotic symbols"
+    - "Combat gear"
+  
+  style:
+    - "Para-military"
+    - "American themes"
+    - "Tactical equipment"
+
+activities:
+  primary:
+    - "Territory control"
+    - "Security services"
+    - "Weapon trade"
+  
+  secondary:
+    - "Training camps"
+    - "Arms dealing"
+    - "Veteran support"
+
+territory_control:
+  main_areas:
+    - "Santo Domingo parts"
+    - "Heywood zones"
+    - "Training grounds"
+  
+  methods:
+    - "Military patrols"
+    - "Checkpoint system"
+    - "Armed presence"
+
+relations:
+  allies:
+    - "Military contacts"
+    - "Weapon dealers"
+    - "Selected fixers"
+  
+  enemies:
+    - "Valentinos"
+    - "Anti-american groups"
+    - "Rival gangs"
+
+resources:
+  physical:
+    - "Military gear"
+    - "Training facilities"
+    - "Weapon caches"
+  
+  income:
+    - "Security contracts"
+    - "Weapon sales"
+    - "Protection money"
+
+combat_style:
+  approach:
+    - "Military tactics"
+    - "Squad operations"
+    - "Heavy firepower"
+  
+  weapons:
+    - "Military grade"
+    - "Heavy weapons"
+    - "Tactical gear"
+
+special_traits:
+  strengths:
+    - "Military training"
+    - "Tactical knowledge"
+    - "Heavy weapons"
+  
+  weaknesses:
+    - "Rigid thinking"
+    - "Over-militarization"
+    - "Political conflicts"
+
+recruitment:
+  requirements:
+    - "Military background"
+    - "Combat experience"
+    - "Patriotic values"
+  
+  process:
+    - "Basic training"
+    - "Loyalty tests"
+    - "Combat evaluation"
+
+military_aspect:
+  training:
+    - "Combat drills"
+    - "Tactical exercises"
+    - "Weapon handling"
+  
+  operations:
+    - "Patrol routes"
+    - "Security jobs"
+    - "Territory defense"
+
+veteran_support:
+  services:
+    - "Job placement"
+    - "Medical help"
+    - "Housing aid"
+  
+  community:
+    - "Veteran meetings"
+    - "Support groups"
+    - "Social events"
+
+notes_for_elena:
+  key_points:
+    - "Military focus"
+    - "Veteran pride"
+    - "Patriotic theme"
+  
+  interaction_tips:
+    - "Military respect"
+    - "Follow protocol"
+    - "Watch territory"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

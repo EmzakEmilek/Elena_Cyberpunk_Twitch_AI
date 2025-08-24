@@ -1,0 +1,181 @@
+﻿type: "character"
+title: "Royce"
+category: "character_supporting"
+character_id: "char_royce"
+
+content:
+  summary: ""
+  
+name: "Royce"
+id: "char_royce"
+category: "character_supporting"
+affiliation: "Maelstrom"
+
+personal_data:
+  role: "Maelstrom Leader"
+  gender: "Male"
+  residence: "All Foods Plant, Watson"
+  faction: "Maelstrom"
+
+character_profile:
+  archetype: "Gang Leader/Cyberpsycho"
+  motivation: "Moc a technologická evolúcia"
+  personality:
+    traits:
+      - "Agresívny"
+      - "Nepredvídateľný"
+      - "Technologicky posadnutý"
+      - "Teritoriálny"
+    strengths:
+      - "Bojové schopnosti"
+      - "Technologické vylepšenia"
+      - "Vodcovská autorita"
+    weaknesses:
+      - "Nestabilná osobnosť"
+      - "Prehnané sebavedomie"
+      - "Cyber-psychóza"
+
+story_involvement:
+  first_appearance: "The Pickup"
+  role_in_story: "Antagonista/Obchodný partner"
+  possible_outcomes:
+    - condition: "Mierové riešenie"
+      result: "Obchodný partner"
+    - condition: "Konflikt"
+      result: "Boss fight"
+    - condition: "Smrť"
+      result: "Zmena Maelstrom dynamiky"
+
+relationships:
+  allies:
+    - name: "Maelstrom gang"
+      nature: "Vodca"
+      strength: "Silná"
+  enemies:
+    - name: "Militech"
+      nature: "Konflikt"
+      strength: "Silná"
+    - name: "Brick"
+      nature: "Bývalý vodca"
+      strength: "Nepriateľská"
+
+quest_appearances:
+  - quest: "The Pickup"
+    role: "Key Antagonist/Dealer"
+    importance: "High"
+
+available_interactions:
+  dialogues:
+    - type: "Business"
+      topics:
+        - "Flathead obchod"
+        - "Militech konflikt"
+        - "Gang politika"
+    - type: "Confrontational"
+      topics:
+        - "Vyhrážky"
+        - "Mocenská dynamika"
+        - "Technologická nadradenosť"
+
+character_development:
+  arc_type: "Potential Antagonist"
+  outcomes:
+    - "Smrť v konflikte"
+    - "Obchodné spojenectvo"
+    - "Pretrvávajúce nepriateľstvo"
+
+visual_description:
+  appearance:
+    - "Extrémne kybernetické modifikácie"
+    - "Mechanical limbs"
+    - "Military-grade implants"
+    - "Maelstrom aesthetics"
+  style:
+    - "Industrial cyber"
+    - "Military tech"
+    - "Gang insignia"
+
+combat_capabilities:
+  primary_weapons:
+    - "Heavy weapons"
+    - "Implanted weapons"
+  Cyberware:
+    - type: "Combat systems"
+      level: "Military grade"
+    - type: "Body modifications"
+      level: "Extreme"
+  tactics:
+    - "Aggressive assault"
+    - "Tech advantage"
+    - "Area control"
+
+notes_for_elena:
+  key_points:
+    - "Kľúčový antagonista v The Pickup"
+    - "Reprezentuje Maelstrom filozofiu"
+    - "Dôležitý pre príbehové rozhodnutia"
+  
+  roleplay_tips:
+    - "Zdôrazniť agresívnu povahu"
+    - "Ukazovať technologickú posadnutosť"
+    - "Reflektovať gang mentalitu"
+    
+  conversation_guidelines:
+    - "Agresívny a priamy štýl"
+    - "Časté zmienky o technológii"
+    - "Pohŕdanie 'meatbags'"
+
+background_context:
+  rise_to_power:
+    - "Násilné prevzatie od Brick"
+    - "Posilnenie gang identity"
+    - "Technologická radikalizácia"
+  
+  philosophy:
+    - "Technological supremacy"
+    - "Human evolution through chrome"
+    - "Might makes right"
+
+related_cards:
+  characters:
+    - "char_brick"
+    - "char_meredith_stout"
+  factions:
+    - "faction_maelstrom"
+    - "faction_militech"
+  locations:
+    - "loc_all_foods"
+  quests:
+    - "mq_the_pickup"
+
+combat_encounters:
+  boss_fight:
+    phases:
+      - "Initial confrontation"
+      - "Enhanced combat mode"
+      - "Final stand"
+    abilities:
+      - "Heavy weapons"
+      - "Cybernetic attacks"
+      - "Area control"
+    weaknesses:
+      - "Overconfidence"
+      - "Limited mobility"
+      - "System overload"
+
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "automated_bulk_process"
+  language: "slovak"
+
+related_cards:
+  # TODO: Add related cards during review
+
+notes_for_elena:
+  key_points:
+    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  conversation_guidelines:
+    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  roleplay_aspects:
+    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"

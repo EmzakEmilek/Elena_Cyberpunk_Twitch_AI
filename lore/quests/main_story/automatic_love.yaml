@@ -1,0 +1,98 @@
+type: "quest"
+title: "Automatic Love"
+category: "main_story"
+
+summary: "V navštívi Clouds bordello aby našiel Evelyn Parker, ale namiesto niej objaví temné tajomstvá a Evelyn's tragický osud."
+
+key_points:
+  - "Infiltrácia Clouds bordello"
+  - "Stretnutie s doll workers"
+  - "Odhalenie Evelyn's situácie"
+  - "Konfrontácia s Tyger Claws"
+  - "Judy's emocionálna reakcia"
+  - "Prvé náznaky Evelyn's mental breakdown"
+
+story_context:
+  act: "Act 2"
+  position: "Pokračovanie hľadania Evelyn"
+  importance: "Odhaľuje dark side of Night City"
+
+characters:
+  - "V (protagonist)"
+  - "Judy Alvarez"
+  - "Angel/Skye (doll workers)"
+  - "Tom (Clouds manager)"
+  - "Hiromi Sato (Tyger Claws)"
+  - "Johnny Silverhand (commentary)"
+
+locations:
+  - "Clouds bordello"
+  - "Doll booth rooms"
+  - "Clouds VIP areas"
+  - "Back office"
+
+atmosphere:
+  - "Dystopický sex industry"
+  - "Corporate kontrola nad telami"
+  - "Technológia vs ľudské emócie"
+  - "Exploitácia zraniteľných ľudí"
+
+choices:
+  doll_selection:
+    description: "Výber doll worker pre informácie"
+    options:
+      - "Angel - mužský doll"
+      - "Skye - ženský doll"
+    consequences: "Rôzne conversational approaches"
+  
+  clouds_approach:
+    description: "Stratégia pre získanie informácií"
+    options:
+      - "Stealth - tichý prieskum"
+      - "Social - rozhovory s workers"
+      - "Aggressive - donútenie informácií"
+
+objectives:
+  - "Vstúpiť do Clouds"
+  - "Nájsť informácie o Evelyn"
+  - "Komunikovať s doll workers"
+  - "Preskúmať VIP areas"
+  - "Konfrontovať management"
+  - "Reportovať Judy findings"
+
+dark_revelations:
+  - "Evelyn bola severely traumatized"
+  - "Clouds má dirty connections"
+  - "Doll technology je exploitative"
+  - "Tyger Claws kontrolujú sex industry"
+
+themes:
+  - "Sexuálna exploitácia"
+  - "Technologická kontrola"
+  - "Ľudská dôstojnosť"
+  - "Corporate power structures"
+
+related:
+  - "playing_for_time"
+  - "disasterpiece"
+  - "judy_alvarez"
+  - "evelyn_parker"
+  - "tyger_claws"
+  - "clouds_location"
+
+elena_notes:
+  talking_points:
+    - "Dark turn v príbehu"
+    - "Komplexnosť Night City society"
+    - "Judy's personal connection"
+    - "Evelyn's vulnerable state"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Serious mature themes"
+    - "Important for Judy questline"
+    - "Shows corpo exploitation"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"

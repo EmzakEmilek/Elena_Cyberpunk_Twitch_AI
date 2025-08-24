@@ -1,0 +1,10 @@
+2025-08-24 10:19:32,138 - INFO - ✅ Ollama pripojené - model llama3.1:8b
+2025-08-24 10:19:32,138 - INFO - 🚀 Spúšťam hromadný preklad kariet...
+2025-08-24 10:19:32,142 - INFO - 📊 Nájdených 249 YAML kariet
+2025-08-24 10:19:32,142 - INFO - 🔄 [1/249] adam_smasher.yaml
+2025-08-24 10:20:14,885 - INFO - ✅ Preložené: adam_smasher.yaml
+2025-08-24 10:20:15,386 - INFO - 🔄 [2/249] alt_cunningham.yaml
+2025-08-24 10:20:22,450 - INFO - ✅ Preložené: alt_cunningham.yaml
+2025-08-24 10:20:22,951 - INFO - 🔄 [3/249] jackie_welles.yaml
+2025-08-24 10:20:23,471 - INFO - 🔄 [4/249] johnny_silverhand.yaml
+2025-08-24 10:20:23,994 - INFO - 🔄 [5/249] judy_alvarez.yaml

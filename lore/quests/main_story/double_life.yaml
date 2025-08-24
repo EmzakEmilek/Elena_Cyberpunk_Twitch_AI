@@ -1,0 +1,150 @@
+type: "quest"
+title: "Double Life"
+category: "main_story"
+
+summary: "V discovers Evelyn Parker's hidden agenda a double-crossing plan. Investigation into Evelyn's motivations a connections k Voodooboys."
+
+key_points:
+  - "Evelyn's double-cross revelation"
+  - "Voodooboys connection discovery"
+  - "Hidden agenda investigation"
+  - "Trust betrayal themes"
+  - "Corporate manipulation exposure"
+  - "Alternative plan consideration"
+
+story_context:
+  act: "Act 1"
+  position: "Plot twist revelation"
+  importance: "Reveals hidden motivations"
+
+characters:
+  - "V (protagonist)"
+  - "Evelyn Parker"
+  - "Judy Alvarez"
+  - "Voodooboys contacts"
+  - "Dex DeShawn (mentioned)"
+
+investigation_phases:
+  initial_discovery:
+    - "Evelyn's secret meetings"
+    - "Voodooboys involvement"
+    - "Alternative plans"
+    - "Hidden motivations"
+  
+  deeper_investigation:
+    - "Corporate connections"
+    - "Personal vendettas"
+    - "Financial incentives"
+    - "Risk assessments"
+
+evelyn_motivations:
+  personal_agenda:
+    - "Freedom from corpo control"
+    - "Financial independence"
+    - "Revenge against oppressors"
+    - "Self-determination"
+  
+  voodooboys_connection:
+    - "Netwatch opposition"
+    - "AI exploration interest"
+    - "Blackwall curiosity"
+    - "Corporate enemy sharing"
+
+choices:
+  loyalty_decision:
+    description: "Komu veriť v situation"
+    options:
+      - "Support Evelyn - join her plan"
+      - "Stay with Dex - original arrangement"
+      - "Play both sides - gather information"
+      - "Expose everyone - reveal all plans"
+    consequences: "Affects future quest outcomes"
+
+trust_themes:
+  betrayal_elements:
+    - "Hidden agendas"
+    - "Conflicting loyalties"
+    - "Personal vs professional"
+    - "Survival priorities"
+  
+  moral_complexity:
+    - "No clear heroes"
+    - "Everyone has secrets"
+    - "Survival justifies deception"
+    - "Trust is luxury"
+
+objectives:
+  - "Investigate Evelyn's plans"
+  - "Understand Voodooboys involvement"
+  - "Evaluate alternative options"
+  - "Make loyalty decision"
+  - "Prepare pre consequences"
+
+voodooboys_introduction:
+  faction_overview:
+    - "Haitian gang with tech focus"
+    - "Netwatch opposition"
+    - "AI research interest"
+    - "Blackwall exploration"
+  
+  capabilities:
+    - "Advanced netrunning"
+    - "Corporate infiltration"
+    - "AI communication attempts"
+    - "Information brokering"
+
+themes:
+  - "Loyalty vs self-interest"
+  - "Hidden agendas everywhere"
+  - "Trust in criminal world"
+  - "Information as power"
+
+emotional_impact:
+  v_perspective:
+    - "Betrayal feelings"
+    - "Trust reassessment"
+    - "Moral confusion"
+    - "Strategic thinking"
+  
+  relationship_effects:
+    - "Evelyn relationship complexity"
+    - "Dex loyalty questions"
+    - "Future partnership concerns"
+    - "Isolation feelings"
+
+investigation_methods:
+  information_gathering:
+    - "Digital surveillance"
+    - "Personal observation"
+    - "Network analysis"
+    - "Relationship mapping"
+  
+  verification_techniques:
+    - "Cross-referencing sources"
+    - "Fact checking"
+    - "Motivation analysis"
+    - "Risk evaluation"
+
+related:
+  - "evelyn_parker"
+  - "voodooboys_faction"
+  - "the_heist"
+  - "dex_deshawn"
+  - "corporate_manipulation"
+
+elena_notes:
+  talking_points:
+    - "Evelyn's complex motivations"
+    - "Voodooboys faction introduction"
+    - "Trust and betrayal themes"
+    - "Moral decision complexity"
+  spoiler_level: "medium"
+  conversation_context:
+    - "Plot twist revelation"
+    - "Character motivation depth"
+    - "Faction politics introduction"
+
+technical_metadata:
+  last_updated: "2025-08-24"
+  translation_status: "completed"
+  language: "slovak"
