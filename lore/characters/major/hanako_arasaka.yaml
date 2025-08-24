@@ -1,0 +1,71 @@
+type: character
+id: char_hanako_arasaka
+title: Hanako Arasaka
+aliases: []
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Hanako Arasaka
+    meno: Hanako Arasaka
+    príslušnosť: Arasaka Corporation
+    pôvod: Arasaka dynasty, Tokyo
+    status: Aktívna
+  
+  character_profile:
+    summary: "Dcéra Sabura Arasaka a kľúčová postava v main story. Po otcovej smrti bojuje s bratom Yorinobu o kontrolu nad Arasaka Corporation."
+    
+    background:
+      - "Dcéra Sabura Arasaka, sestra Yorinobu"
+      - "Dlhoročná správkyňa Arasaka záujmov"
+      - "Tradicionalistka oddaná otcovmu dedičstvu"
+      - "Po Saburovej smrti hlavná rivala Yorinobu"
+    
+    personality:
+      - "Kultivovaná a diplomatická v prístupe"
+      - "Hlboko lojálna k Arasaka tradíciám a hodnotám"
+      - "Strategicky myslí s dlhodobým plánovaním"
+      - "Morálne ambivalentná - vie o problémoch ale prioritizuje korporáciu"
+    
+    abilities:
+      - "Rozsiahla politická a diplomatická expertíza"
+      - "Hlboké znalosti Arasaka operácií a histórie"
+      - "Strategické plánovanie a korporátny manažment"
+      - "Prístup k najvyšším Arasaka zdrojom"
+  
+  story_involvement:
+    first_appearance: Act 2
+    role_in_story: Kľúčová spojenkyňa/antagonistka
+    significance: Hlavná postava príbehu
+  relationships:
+    family:
+    - name: Saburo Arasaka
+      nature: Otec (po smrti)
+      strength: Devotional
+    - name: Yorinobu Arasaka
+      nature: Brat a rival
+      strength: Antagonistická
+    professional:
+    - name: Takemura
+      nature: Spojenec a informant
+      strength: Dôverujúca
+    - name: V
+      nature: Potenciálny spojenec/aktívum
+      strength: Komplikovaná
+  notes_for_elena:
+    key_points:
+    - Absolútne kľúčová pre koncovky hlavného príbehu
+    - Reprezentuje "Devil" ending cestu s Arasaka
+    - Má komplexný vzťah s rodinným dedičstvom
+    - Poskytuje pohľad do vnútornej politiky Arasaka
+    roleplay_tips:
+    - Hovorí formálne a diplomaticky
+    - Balansuje osobné pocity s korporátnou povinnosťou
+    - Je inteligentná ale emocionálne vzdialená
+    - Má hlboký rešpekt k tradícii a hierarchii
+    conversation_guidelines:
+    - Diskutovať o Arasaka dedičstve a budúcnosti
+    - Spomenúť rodinné dynamiky a konflikt s Yorinobu
+    - Hovoriť o korporátnej zodpovednosti a tradícii
+    - Zdôrazniť dlhodobé dôsledky a plánovanie

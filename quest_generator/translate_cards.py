@@ -136,32 +136,53 @@ class OllamaTranslator:
     def _is_likely_slovak(self, text: str) -> bool:
         """Check if text is likely already in Slovak"""
         slovak_chars = set('áäčďéíĺľňóôŕšťúýž')
-        slovak_words = {'quest', 'je', 'sa', 'na', 'do', 'zo', 'pre', 'ako', 'kde', 'čo', 'kto'}
+        slovak_words = {
+            'je', 'sa', 'na', 'do', 'zo', 'pre', 'ako', 'kde', 'čo', 'kto', 
+            'má', 'môže', 'nie', 'aby', 'alebo', 'však', 'len', 'už', 'až',
+            'ochranárska', 'temperamentná', 'lojálna', 'nezávislá',
+            'vodcovstvo', 'bojové', 'technické', 'znalosti', 'schopnosti'
+        }
         
-        # Check for Slovak characters
-        if any(char in slovak_chars for char in text.lower()):
+        # Check for Slovak characters (must have at least 2)
+        slovak_char_count = sum(1 for char in text.lower() if char in slovak_chars)
+        if slovak_char_count >= 2:
             return True
         
-        # Check for Slovak words
+        # Check for Slovak words (must be majority)
         words = text.lower().split()
+        if len(words) == 0:
+            return False
+            
         slovak_word_count = sum(1 for word in words if word in slovak_words)
         
-        return slovak_word_count > len(words) * 0.3
+        # Only consider Slovak if more than 70% of words are Slovak
+        return slovak_word_count > len(words) * 0.7
     
     def _is_technical_term(self, text: str) -> bool:
         """Check if text is a technical term that shouldn't be translated"""
+        
+        # Skip very short texts
+        if len(text) < 2:
+            return True
+            
+        # Technical patterns - narrowed down
         technical_patterns = [
-            r'^[a-z_]+$',  # snake_case
-            r'^[A-Z_]+$',  # UPPER_CASE
-            r'^\w+_\w+',   # contains underscore
-            r'^\d+',       # starts with number
-            r'^[a-f0-9-]{8,}$',  # IDs/hashes
+            r'^[a-z_]+_[a-z_]+$',  # snake_case with underscore
+            r'^[A-Z_]{3,}$',       # UPPER_CASE 3+ chars
+            r'^\d+',               # starts with number
+            r'^[a-f0-9-]{8,}$',    # IDs/hashes
+            r'^char_|^loc_|^quest_|^faction_'  # our ID prefixes
         ]
         
-        if len(text) < 3:
+        # Don't translate obvious technical IDs
+        if any(re.match(pattern, text) for pattern in technical_patterns):
+            return True
+            
+        # Don't translate character names, location names
+        if text in ['V', 'Johnny Silverhand', 'Night City', 'Arasaka', 'Militech']:
             return True
         
-        return any(re.match(pattern, text) for pattern in technical_patterns)
+        return False
     
     def _build_translation_prompt(self, text: str, context: str) -> str:
         """Build translation prompt for LLM"""

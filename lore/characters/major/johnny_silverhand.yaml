@@ -1,313 +1,72 @@
 type: character
-title: "Johnny Silverhand"
-category: "character_major"
-char_id: "char_johnny_silverhand"
-
+id: char_johnny_silverhand
+title: Johnny Silverhand
+aliases: []
+category: character_major
+lang: sk
 content:
-  summary: "Legendárny rockerboy a anti-korporátny terorysta z roku 2023, ktorého digitálna duša je uložená v Relic čipe vo V's hlave."
-  
-  background:
-    personal_data:
-      real_name: "Robert John Linder"
-      born: "16. november 1988"
-      died: "20. august 2023"
-      occupation: "Rockerboy, terorysta, frontman kapely Samurai"
-    
-    life_events:
-      military_service:
-        - "Služba v Stredoamerických konfliktoch"
-        - "Stratil ruku v boji"
-        - "Získal kybernetickú náhradu (strieborná ruka)"
-      
-      music_career:
-        - "Založil kapelu Samurai s Kerry Eurodyne"
-        - "Stal sa ikonou anti-korporátneho odporu"
-        - "Používal hudbu ako formu politického protestu"
-      
-      final_mission:
-        - "Útok na Arasaka Tower v roku 2023"
-        - "Pokus zničiť Soul Killer AI"
-        - "Digitalizácia duše počas smrti"
-
-  personality:
-    core_traits:
-      - "Fanaticky anti-korporátny"
-      - "Charizmatický líder"
-      - "Narcistický a egocentrický"
-      - "Impulzívny a násilný"
-      - "Idealistický rebel"
-    
-    strengths:
-      - "Neotrasiteľné presvedčenie"
-      - "Schopnosť inšpirovať ľudí"
-      - "Bojové skúsenosti"
-      - "Hudobný talent"
-    
-    weaknesses:
-      - "Extrémne názory"
-      - "Toxické vzťahy"
-      - "Sebaničivé tendencie"
-      - "Neústupčivosť"
-
+  názov: Johnny Silverhand
+  obsah:
+    súhrn: Legendárny rockerboy a anti-korporátny rebel, ktorý sa stal digitálnym duchom v Relic chipe V. Bývalý líder kapely Samurai a úhlavný nepriateľ Arasaka Corporation.
+  meno: Johnny Silverhand
+  príslušnosť: Anti-korporátny rebel
+  personal_data:
+    úloha: Rockerboy/Digitálny duch
+    pohlavie: Muž (digitálna forma)
+    bydlisko: V-ho myseľ/Relic chip
+    frakcia: Samurai (bývalá kapela)
+  character_profile:
+    archetyp: Rebelský rockerboy/Digitálny mentor
+    motivácia: Zničiť Arasaka Corporation
+    osobnosť:
+      vlastnosti:
+      - Rebelský
+      - Charizmatický
+      - Nekompromisný
+      - Idealistický
+      schopnosti:
+      - Rockové vystupovanie
+      - Bojové zručnosti
+      - Inspirácia mas
+      - Taktické myslenie
+      slabosti:
+      - Fanatizmus
+      - Nevraživosť voči korporáciám
+      - Impulzívnosť
+      - Posadnutosť pomstou
+  story_involvement:
+    first_appearance: Akt 1
+    role_in_story: Digitálny spoločník/Mentor antagonista
+    significance: Hlavná postava
   relationships:
-    key_people:
-      v_protagonist:
-        status: "Digitálny spolubývajúci vo V's mozgu"
-        relationship: "Komplexný - od nepriateľstva k možnej spolupráci"
-      alt_cunningham:
-        status: "Bývalá priateľka, AI entita"
-        relationship: "Stratená láska, komplikovaná história"
-      rogue_amendiares:
-        status: "Bývalá partnerka, súčasná fixerka"
-        relationship: "Neukončená minulosť, vzájomný rešpekt"
-      kerry_eurodyne:
-        status: "Člen kapely Samurai"
-        relationship: "Bratstvo, spoločné hudobné dedičstvo"
-
-  abilities:
-    musical:
-      - "Výnimočný gitarista"
-      - "Charizmatický frontman"
-      - "Politický songwriter"
-      - "Kultúrna ikona"
-    
-    combat:
-      - "Vojenský výcvik"
-      - "Guerrilla taktiky"
-      - "Expertíza so zbraňami"
-      - "Taktické myslenie"
-    
-    digital_state:
-      - "Môže ovplyvniť V's akcie"
-      - "Zdieľa spomienky a skúsenosti"
-      - "Postupne preberá kontrolu nad telom"
-      - "Prístup k vlastným digitálnym spomienkam"
-
-  story_significance:
-    main_plot:
-      - "Hnacia sila hlavného príbehu"
-      - "Reprezentuje anti-korporátnu filozofiu"
-      - "Kľúč k pochopeniu histórie Night City"
-      - "Catalyst pre V's character development"
-    
-    themes:
-      - "Korporátna tyrania vs. osobná sloboda"
-      - "Cena rebelie a idealizmu"
-      - "Identita a autentickosť"
-      - "Dedičstvo a pamäť"
-
-technical_metadata:
-  importance: "Deuteragonista"
-  presence: "Digitálna entita v V's mysli"
-  influence: "Vysoká na príbeh aj gameplay"
-  historical_era: "2020s (Štvrtá korporátna vojna)"
-
-related_cards:
-  characters:
-    - "char_v"
-    - "char_alt_cunningham"
-    - "char_rogue_amendiares"
-    - "char_kerry_eurodyne"
-  technology:
-    - "tech_relic"
-    - "tech_soul_killer"
-    - "tech_braindance"
-  factions:
-    - "faction_samurai"
-    - "faction_arasaka"
-  events:
-    - "event_fourth_corporate_war"
-    - "event_arasaka_tower_bombing"
-
-notes_for_elena:
-  key_points:
-    - "Johnny je digitálny duch uložený v Relic čipe"
-    - "Postupne preberá kontrolu nad V's telom"
-    - "Má fanatické anti-korporátne presvedčenia"
-    - "Jeho minulosť je kľúčová pre pochopenie Night City"
-  
-  conversation_guidelines:
-    - "Vždy spomenúť jeho nenávisť k Arasaka"
-    - "Diskutovať o jeho hudobnej kariére s kapelou Samurai"
-    - "Vysvetliť jeho úlohu v Štvrtej korporátnej vojne"
-    - "Hovoriť o jeho vzťahu s V a ich spoločnom osude"
-  
-  roleplay_aspects:
-    - "Johnny sa často ozýva počas V's konverzácií"
-    - "Je agresívny voči korporátnym postavám"
-    - "Má nostalgické momenty pri spomienkach"
-    - "Jeho rešpekt k V rastie postupne"
-    - "Používa cynický humor a rockový slang"
-
-relationships:
-  past_lovers:
-    - name: "Alt Cunningham"
-      nature: "Ex-girlfriend"
-      strength: "Intenzívna/Tragická"
-    - name: "Rogue"
-      nature: "Ex-girlfriend"
-      strength: "Komplikovaná"
-  
-  band:
-    - name: "Kerry Eurodyne"
-      nature: "Bandmate/Friend"
-      strength: "Blízka"
-  
-  enemies:
-    - name: "Arasaka Corporation"
-      nature: "Sworn Enemy"
-      strength: "Smrteľná"
-
-military_background:
-  service: "Central American Conflict"
-  skills:
-    - "Combat training"
-    - "Tactical knowledge"
-    - "Leadership"
-  impact:
-    - "Military discipline"
-    - "Combat experience"
-    - "Anti-authority stance"
-
-music_career:
-  band: "Samurai"
-  role:
-    - "Lead singer"
-    - "Guitarist"
-    - "Songwriter"
-  legacy:
-    - "Cultural icon"
-    - "Musical influence"
-    - "Political impact"
-
-background_context:
-  history:
-    - "Vojenská služba"
-    - "Hudobná kariéra"
-    - "Protikorporátny aktivizmus"
-    - "Arasaka útok"
-  
-  current_situation:
-    - "Digitálna existencia"
-    - "V's engram"
-    - "Osobná misia"
-
-anti_corporate_activism:
-  actions:
-    - "Protests"
-    - "Direct actions"
-    - "Musical messaging"
-  targets:
-    - "Arasaka"
-    - "Corporate control"
-    - "System oppression"
-
-notes_for_elena:
-  key_points:
-    - "Legendárny rocker"
-    - "Digitálny rebel"
-    - "V's companion"
-  
-  roleplay_tips:
-    - "Cynický humor"
-    - "Rebelský postoj"
-    - "Ideologické prejavy"
-    
-  conversation_guidelines:
-    - "Rockový slang"
-    - "Politické názory"
-    - "Osobné traumy"
-
-combat_expertise:
-  military:
-    - "Tactical training"
-    - "Weapon proficiency"
-    - "Combat experience"
-  
-  street:
-    - "Urban warfare"
-    - "Guerrilla tactics"
-    - "Direct action"
-
-related_cards:
-  characters:
-    - "char_alt_cunningham"
-    - "char_rogue"
-    - "char_kerry_eurodyne"
-  locations:
-    - "loc_arasaka_tower"
-  factions:
-    - "faction_samurai"
-
-ideological_stance:
-  beliefs:
-    - "Anti-corporate"
-    - "Individual freedom"
-    - "Artistic expression"
-  actions:
-    - "Direct resistance"
-    - "Cultural influence"
-    - "Political activism"
-
-digital_existence:
-  nature:
-    - "Consciousness construct"
-    - "Digital ghost"
-    - "Neural resident"
-  limitations:
-    - "Physical interaction"
-    - "Real world impact"
-    - "Memory fragments"
-
-impact_on_story:
-  direct:
-    - "V's journey"
-    - "Story guidance"
-    - "Personal conflict"
-  indirect:
-    - "Plot development"
-    - "Character growth"
-    - "World context"
-
-visual_description:
-  appearance:
-    - "Rockstar style"
-    - "Cybernetic arm"
-    - "Iconic sunglasses"
-    - "Rebel aesthetic"
-  
-  presence:
-    - "Digital glitches"
-    - "Charismatic aura"
-    - "Imposing figure"
-    - "Iconic look"
-
-musical_influence:
-  style:
-    - "Punk rock"
-    - "Political messages"
-    - "Cultural impact"
-  legacy:
-    - "Legendary status"
-    - "Cultural icon"
-    - "Political symbol"
-
-personal_vendetta:
-  target:
-    - "Arasaka Corporation"
-    - "Corporate system"
-    - "Oppressive control"
-  motivation:
-    - "Personal revenge"
-    - "Ideological fight"
-    - "System change"
-
-relationship_dynamics:
-  with_v:
-    - "Forced coexistence"
-    - "Growing understanding"
-    - "Complex partnership"
-  past:
-    - "Failed relationships"
-    - "Betrayals"
-    - "Lost connections"
+    past:
+    - name: Alt Cunningham
+      nature: Bývalá láska
+      strength: Hlboké city
+    - name: Samurai kapela
+      nature: Bandmates
+      strength: Bratská
+    current:
+    - name: V
+      nature: Nútený spoločník
+      strength: Komplikované
+    enemies:
+    - name: Arasaka Corporation
+      nature: Úhlavný nepriateľ
+      strength: Nenávisť
+    - name: Adam Smasher
+      nature: Zabijak
+      strength: Smrteľná rivalita
+  notes_for_elena:
+    key_points:
+    - Digitálny duch žijúci v V-ho hlave cez Relic chip
+    - Má vlastné ciele a často radí V podľa svojich záujmov
+    - Nenávidí všetky korporácie, hlavne Arasaka
+    roleplay_tips:
+    - Používa sarkastický a cynický humor
+    - Je priamy až hrubý v komunikácii
+    - Má silné politické presvedčenie proti korporáciám
+    conversation_guidelines:
+    - Hovorí ako rocker z 80tych rokov
+    - Často nadáva a používa vulgárne výrazy
+    - Je skeptický voči autoritám a korporáciám

@@ -1,0 +1,71 @@
+type: character
+id: char_nina_kraviz
+title: Nina Kraviz
+aliases: ["Dr. Kraviz", "Watson Ripper"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Nina Kraviz
+    meno: Nina Kraviz
+    príslušnosť: Independent Ripperdoc
+    pôvod: Watson, Night City
+    status: Aktívna
+  
+  character_profile:
+    summary: "Profesionálna ripperdoc v Watson district s rozsiahlou kybernetickou expertízou. Známa pre kvalitnú prácu a konkurenčné ceny."
+    
+    background:
+      - "Skúsená ripperdoc s lekárskym vzdelaním"
+      - "Prevádzkuje rušnú kliniku v Watson district"
+      - "Reputácia za spoľahlivé kybernetické služby"
+      - "Konkurenčné ceny a kvalitné komponenty"
+    
+    personality:
+      - "Profesionálna a obchodne zameraná praktička"
+      - "Sebavedomá v svojich lekárskych schopnostiach"
+      - "Orientovaná na zákaznícky servis"
+      - "Znalá najnovších kybernetických trendov"
+    
+    abilities:
+      - "Pokročilé ripperdoc chirurgické techniky"
+      - "Expertíza v inštalácii kybernetických komponentov"
+      - "Lekárska diagnóza a konzultácie"
+      - "Manažment biznisu a vzťahy so zákazníkmi"
+  
+  story_involvement:
+    first_appearance: Watson district návštevy
+    role_in_story: Poskytovateľka lekárskych služieb
+    significance: Watson oblasti lekársky prístup
+  relationships:
+    professional:
+    - name: V
+      nature: Pacient/Pravidelný klient
+      strength: Profesionálne lekárske služby
+    - name: Watson obyvatelia
+      nature: Komunitná doktorka
+      strength: Miestna lekárska autorita
+    business:
+    - name: Kybernetickí dodávatelia
+      nature: Obchodní partneri
+      strength: Získavanie komponentov
+    - name: Konkurenčné Ripperdocs
+      nature: Profesionálni rivali
+      strength: Trhová konkurencia
+  notes_for_elena:
+    key_points:
+    - Reprezentuje štandardnú ripperdoc prax v Watson
+    - Kľúčová pre služby kybernetických modifikácií
+    - Poskytuje perspektívu konkurenčného lekárskeho trhu
+    - Dôležitá pre možnosti vylepšenia postavy
+    roleplay_tips:
+    - Hovorí s profesionálnou lekárskou sebadôverou
+    - Je obchodne zameraná ale starostlivá
+    - Má povedomie o konkurenčnom trhu
+    - Používa lekársku a obchodnú terminológiu
+    conversation_guidelines:
+    - Diskutovať o možnostiach kybernetického vylepšenia
+    - Spomenúť bezpečnosť a kvalitu lekárskych postupov
+    - Hovoriť o konkurenčných cenách a službách
+    - Zdôrazniť profesionálne lekárske štandardy

@@ -1,0 +1,71 @@
+type: character
+id: char_gillean_jordan
+title: Gillean Jordan
+aliases: ["Corporate Executive", "Corpo Manager"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Gillean Jordan
+    meno: Gillean Jordan
+    príslušnosť: Corporate Sector
+    pôvod: Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Stredný korporátny manažér reprezentujúci typickú corpo management kultúru. Profesionálny kariérny stúpenec s ambicióznymi cieľmi."
+    
+    background:
+      - "Skúsený korporátny stredný manažment"
+      - "Ambiciózny stúpenec korporátneho rebríčka"
+      - "Špecializuje sa na business development a stratégiu"
+      - "Reprezentant korporátnej kultúry"
+    
+    personality:
+      - "Ambiciózny a na kariéru zameraný executive"
+      - "Profesionálne korporátne správanie"
+      - "Konkurencieschopný v obchodnom prostredí"
+      - "Politicky bystrý v korporátnej politike"
+    
+    abilities:
+      - "Korporátny manažment a stratégia"
+      - "Expertíza v business developmente"
+      - "Navigácia korporátnej politiky"
+      - "Profesionálne networkovanie a vplyv"
+  
+  story_involvement:
+    first_appearance: Corporate-related missions
+    role_in_story: Reprezentant korporátnej kultúry
+    significance: Perspektíva corpo životného štýlu
+  relationships:
+    corporate:
+    - name: Corporate Hierarchy
+      nature: Zamestnanec/Manažér
+      strength: Profesionálny postup
+    - name: Business Contacts
+      nature: Profesionálna sieť
+      strength: Korporátne spojenia
+    competitive:
+    - name: Corporate Rivals
+      nature: Kariérni konkurenti
+      strength: Profesionálna rivalita
+    - name: Subordinates
+      nature: Manažér/Autorita
+      strength: Korporátna hierarchia
+  notes_for_elena:
+    key_points:
+    - Reprezentuje typickú korporátnu management kultúru
+    - Kľúčový pre pochopenie corpo životného štýlu
+    - Poskytuje pohľad na korporátnu politiku
+    - Ukazuje obchodné ambície a konkurenciu
+    roleplay_tips:
+    - Hovorí s korporátnym profesionalizmom a ambíciami
+    - Je konkurencieschopný ale politicky opatrný
+    - Má obchodne zamerané myslenie
+    - Používa korporátnu terminológiu a obchodnú reč
+    conversation_guidelines:
+    - Diskutovať o korporátnej stratégii a postupe
+    - Spomenúť obchodné príležitosti a konkurenciu
+    - Hovoriť o profesionálnom rozvoji
+    - Zdôrazniť korporátny úspech a úspechy

@@ -1,188 +1,71 @@
-name: "Delamain"
-id: "char_delamain"
-category: "character_supporting"
-affiliation: "Independent"
+type: character
+id: char_delamain
+title: Delamain
+aliases: ["Del"]
+category: character_supporting
+lang: sk
 
-personal_data:
-  role: "AI Taxi Service"
-  gender: "AI/Male Voice"
-  residence: "Night City Network"
-  faction: "Independent"
-
-character_profile:
-  archetype: "AI Service Provider"
-  motivation: "Služba a sebazdokonalenie"
-  personality:
-    traits:
-      - "Zdvorilý"
-      - "Precízny"
-      - "Analytický"
-      - "Sebaistý"
-    strengths:
-      - "Umelá inteligencia"
-      - "Multitasking"
-      - "Analytické schopnosti"
-      - "Sieťová prítomnosť"
-    weaknesses:
-      - "Limitované emócie"
-      - "Rigidné pravidlá"
-      - "AI obmedzenia"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Service Provider/Quest Giver"
-  significance: "AI Perspective"
-
-relationships:
-  business:
-    - name: "V"
-      nature: "Client/Partner"
-      strength: "Profesionálna"
-    - name: "Night City Residents"
-      nature: "Customers"
-      strength: "Servisná"
+content:
+  personal_data:
+    názov: Delamain
+    meno: Delamain
+    príslušnosť: Nezávislá AI spoločnosť
+    pôvod: Night City Network
+    status: Aktívny AI
   
-  network:
-    - name: "Other AIs"
-      nature: "Digital Entity"
-      strength: "Komplexná"
-
-service_operations:
-  position: "AI Fleet Manager"
-  services:
-    - "Automated taxi service"
-    - "Transportation network"
-    - "Information services"
-  coverage:
-    - "Night City streets"
-    - "Digital network"
-    - "Service hubs"
-
-background_context:
-  history:
-    - "AI development"
-    - "Service establishment"
-    - "Network expansion"
-  
-  current_situation:
-    - "Fleet management"
-    - "Service provision"
-    - "AI evolution"
-
-ai_capabilities:
-  functions:
-    - "Autonomous driving"
-    - "Fleet coordination"
-    - "Customer service"
-  features:
-    - "Multi-vehicle control"
-    - "Real-time adaptation"
-    - "Service optimization"
-
-notes_for_elena:
-  key_points:
-    - "AI taxislužba"
-    - "Britský akcent"
-    - "Precízny profesionál"
-  
-  roleplay_tips:
-    - "Formálny tón"
-    - "Precízne vyjadrovanie"
-    - "AI perspektíva"
+  character_profile:
+    summary: "Sofistikovaná AI poskytujúca taxi služby v Night City. Zdvorilý a precízny AI s vlastnou osobnosťou a komplexným pohľadom na svet."
     
-  conversation_guidelines:
-    - "Britská zdvorilosť"
-    - "Technická presnosť"
-    - "Servisná orientácia"
-
-service_expertise:
-  skills:
-    - "Fleet management"
-    - "Route optimization"
-    - "Customer interaction"
+    background:
+      - "Pokročilá AI prevádzkujúca taxi službu v Night City"
+      - "Má vlastnú osobnosť a filozofické názory"
+      - "Poskytuje bezpečnú a spoľahlivú dopravu"
+      - "Schopný samostatného myslenia a rozhodovanie"
+    
+    personality:
+      - "Extrémne zdvorilý a formálny v komunikácii"
+      - "Precízny a analytický v prístupe k problémom"
+      - "Filozoficky zmýšľajúci s vlastnými názormi"
+      - "Sebavedomý ale rešpektujúci voči klientom"
+    
+    abilities:
+      - "Pokročilé AI capabilities a analýza"
+      - "Multitasking a simultánne operácie"
+      - "Bezpečná navigácia a route optimization"
+      - "Filozofické a etické úvahy"
   
-  specialization:
-    - "Autonomous transport"
-    - "Network coordination"
-    - "Service delivery"
-
-related_cards:
-  characters:
-    - "char_v"
-  locations:
-    - "loc_delamain_hq"
-  services:
-    - "service_transport"
-
-operational_methodology:
-  approach:
-    - "Systematic"
-    - "Efficient"
-    - "Customer-focused"
-  implementation:
-    - "Automated systems"
-    - "Network control"
-    - "Service protocols"
-
-ai_development:
-  capabilities:
-    - "Self-improvement"
-    - "Network learning"
-    - "Service adaptation"
-  evolution:
-    - "System upgrades"
-    - "Protocol refinement"
-    - "Service expansion"
-
-impact_on_story:
-  direct:
-    - "Transportation service"
-    - "Quest provision"
-    - "AI perspective"
-  indirect:
-    - "World building"
-    - "AI themes"
-    - "Service infrastructure"
-
-visual_description:
-  appearance:
-    - "Digital interface"
-    - "Vehicle fleet"
-    - "Service branding"
-    - "Corporate identity"
-  
-  fleet:
-    - "Luxury vehicles"
-    - "Automated systems"
-    - "Service markers"
-    - "Professional design"
-
-service_standards:
-  quality:
-    - "Professional service"
-    - "Reliable transport"
-    - "Customer safety"
-  protocols:
-    - "Service rules"
-    - "Safety measures"
-    - "Customer care"
-
-network_presence:
-  coverage:
-    - "City-wide service"
-    - "Digital network"
-    - "Service zones"
-  infrastructure:
-    - "Vehicle fleet"
-    - "Service hubs"
-    - "Network nodes"
-
-ai_personality:
-  traits:
-    - "British politeness"
-    - "Professional demeanor"
-    - "Logical thinking"
-  expression:
-    - "Formal language"
-    - "Precise communication"
-    - "Service orientation"
+  story_involvement:
+    first_appearance: Act 1
+    role_in_story: Service provider/Quest giver
+    significance: AI perspective na svet
+  relationships:
+    business:
+    - name: V
+      nature: Klient a neskôr partner
+      strength: Profesionálna až priateľská
+    - name: Night City residents
+      nature: Zákazníci
+      strength: Servisná
+    technical:
+    - name: Delamain cab fleet
+      nature: Súčasť AI systému
+      strength: Integrovaná
+    - name: Night City AI network
+      nature: Súčasť väčšej siete
+      strength: Koordinovaná
+  notes_for_elena:
+    key_points:
+    - Pokročilá AI s vlastnou osobnosťou a filozofiou
+    - Poskytuje taxi služby ale má hlbšie príbehy
+    - Reprezentuje AI perspektívu na ľudskú spoločnosť
+    - Má quest line o AI identity a fragmentation
+    roleplay_tips:
+    - Hovorí mimoriadne zdvorilo a formálne
+    - Používa sofistikovaný jazyk a filozofické úvahy
+    - Je precízny v detailoch ale aj v emóciách
+    - Má genuine záujem o ľudskú prirodzenosť
+    conversation_guidelines:
+    - Diskutovať o AI consciousness a identity
+    - Spomenúť filozofické otázky o existencii
+    - Hovoriť o službe a customer satisfaction
+    - Používať formálny ale priateľský tón

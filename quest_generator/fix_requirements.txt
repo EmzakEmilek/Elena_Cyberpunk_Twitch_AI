@@ -1,0 +1,19 @@
+# 🔧 CARD FIXER REQUIREMENTS
+# Dependencies for YAML card validation and fixing
+
+# Core validation
+pydantic>=2.5.0
+ruamel.yaml>=0.18.0
+PyYAML>=6.0.1
+
+# File processing
+chardet>=5.2.0
+pathlib2>=2.3.7.post1
+
+# Progress and logging
+tqdm>=4.66.1
+colorlog>=6.7.0
+
+# JSON schema validation (optional)
+jsonschema>=4.20.0
+cerberus>=1.3.4

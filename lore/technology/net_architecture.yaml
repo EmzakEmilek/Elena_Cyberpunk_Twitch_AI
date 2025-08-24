@@ -1,78 +1,41 @@
-﻿type: "economy"
-title: "NET Architecture"
-category: ""
-economy_id: ""
-
-content:
-  summary: "Structure and systems of Night City's digital network infrastructure"
-  
-name: NET Architecture
 type: technology
-description: Structure and systems of Night City's digital network infrastructure
-details: |
-  The NET represents the fundamental digital infrastructure of Night City, including both verejnĂ˝ and private networks.
-
-  Core Systems:
-  - Network Layers
-    * Physical infrastructure
-    * Data protocols
-    * Security systems
-    * Access controls
-  - Virtual Architecture
-    * Digital spaces
-    * Data fortresses
-    * Virtual realms
-    * System nodes
-
-  Security Features:
-  - ICE Programs
-    * Black ICE
-    * White ICE
-    * Security protocols
-    * Neural barriers
-  - Access Control
-    * Authentication
-    * Permissions
-    * Monitoring
-    * Response systems
-
-  Network Types:
-  - verejnĂ˝ NET
-    * General access
-    * Basic services
-    * Commercial zones
-    * Entertainment
-  - Private Networks
-    * Corporate systems
-    * bezpeÄŤnĂ˝ data
-    * Military nets
-    * Banking systems
-
+title: 'NET Architecture '
+category: ''
+economy_id: ''
+content:
+  summary: Struktúra a systémy sieťového infraštruktúrneho systému nočnej mesta
+name: NET Architecture
+description: Struktúra a systémy infraštruktúry digitálneho siete Nočné mesta
+details: "The NET represents the fundamental digital infrastructure of Night City,\
+  \ including both verejnĂ˝ and private networks.\n\nCore Systems:\n- Network Layers\n\
+  \  * Physical infrastructure\n  * Data protocols\n  * Security systems\n  * Access\
+  \ controls\n- Virtual Architecture\n  * Digital spaces\n  * Data fortresses\n  *\
+  \ Virtual realms\n  * System nodes\n\nSecurity Features:\n- ICE Programs\n  * Black\
+  \ ICE\n  * White ICE\n  * Security protocols\n  * Neural barriers\n- Access Control\n\
+  \  * Authentication\n  * Permissions\n  * Monitoring\n  * Response systems\n\nNetwork\
+  \ Types:\n- verejnĂ˝ NET\n  * General access\n  * Basic services\n  * Commercial\
+  \ zones\n  * Entertainment\n- Private Networks\n  * Corporate systems\n  * bezpeÄŤnĂ˝\
+  \ data\n  * Military nets\n  * Banking systems\n"
 importance: Critical digital infrastructure
 common_locations:
-  - Data centers
-  - Corporate networks
-  - verejnĂ˝ access points
-  - Network hubs
+- Data centers
+- Corporate networks
+- verejnĂ˝ access points
+- Network hubs
 relationships:
-  - Cyberdeck Systems
-  - Security Systems
-  - Information Economy
-  - Data Management
-
-
+- Cyberdeck Systems
+- Security Systems
+- Information Economy
+- Data Management
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

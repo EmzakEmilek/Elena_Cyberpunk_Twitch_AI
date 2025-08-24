@@ -1,74 +1,42 @@
-﻿type: "economy"
-title: "Melee Weapons overview"
-category: ""
-economy_id: ""
-
-content:
-  summary: "Close combat weapons ranging from traditional blades to high-tech variants"
-  
-name: Melee Weapons overview
 type: weapon_system
-description: Close combat weapons ranging from traditional blades to high-tech variants
-details: |
-  Melee weapons remain a crucial part of Night City's combat ecosystem, ranging from simple steel blades to pokroÄŤilĂ˝ cybernetic implements.
-
-  Categories:
-  - Traditional Blades
-    * Knives
-    * Katanas
-    * Machetes
-  - Blunt Weapons
-    * Batons
-    * Hammers
-    * Clubs
-  - High-Tech Melee
-    * Thermal Katanas
-    * Mantis Blades
-    * Monowire
-
-  Key Features:
-  - Silent operation
-  - No ammunition requirement
-  - Various damage types
-  - Close quarter effectiveness
-
-  Advantages:
-  - Always operational
-  - No reload needed
-  - Often concealable
-  - Cost-effective
-
-  Disadvantages:
-  - Range limitation
-  - Requires close approach
-  - Vulnerable to ranged attacks
-  - Physical stamina dependent
-
+title: 'Melee Weapons overview '
+category: ''
+economy_id: ''
+content:
+  summary: Zbrane pripravene na boje v príbliženskom boji, od tradicionalných nožov
+    až po vysokotechnologické varianty.
+name: Melee Weapons overview
+description: Zbrane za boja v príbliženskom boji, od tradicionalných ostróg až po
+  vysokotechnologické varianty
+details: "Melee weapons remain a crucial part of Night City's combat ecosystem, ranging\
+  \ from simple steel blades to pokroÄŤilĂ˝ cybernetic implements.\n\nCategories:\n\
+  - Traditional Blades\n  * Knives\n  * Katanas\n  * Machetes\n- Blunt Weapons\n \
+  \ * Batons\n  * Hammers\n  * Clubs\n- High-Tech Melee\n  * Thermal Katanas\n  *\
+  \ Mantis Blades\n  * Monowire\n\nKey Features:\n- Silent operation\n- No ammunition\
+  \ requirement\n- Various damage types\n- Close quarter effectiveness\n\nAdvantages:\n\
+  - Always operational\n- No reload needed\n- Often concealable\n- Cost-effective\n\
+  \nDisadvantages:\n- Range limitation\n- Requires close approach\n- Vulnerable to\
+  \ ranged attacks\n- Physical stamina dependent\n"
 importance: Essential for close combat and stealth operations
 common_locations:
-  - Street vendors
-  - Martial arts dojos
-  - Underground markets
-  - Personal defense shops
+- Street vendors
+- Martial arts dojos
+- Underground markets
+- Personal defense shops
 relationships:
-  - Thermal Katana
-  - Mantis Blades
-  - Monowire Technology
-  - Combat Implants
-
-
+- Thermal Katana
+- Mantis Blades
+- Monowire Technology
+- Combat Implants
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

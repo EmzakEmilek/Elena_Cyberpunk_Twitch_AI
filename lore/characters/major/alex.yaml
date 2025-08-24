@@ -1,0 +1,71 @@
+type: character
+id: char_alex
+title: Alex
+aliases: ["Agent Alex"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Alex
+    meno: Alex
+    príslušnosť: FIA/NUSA
+    pôvod: New United States of America
+    status: Aktívna
+  
+  character_profile:
+    summary: "FIA operatívka a kľúčový člen Reedovho tímu v Phantom Liberty. Skúsená poľná agentka s pevnou lojalitou k misiám."
+    
+    background:
+      - "Skúsená FIA poľná operatívka"
+      - "Členka operačného tímu Solomona Reeda"
+      - "Špecializuje sa na taktické operácie a infiltráciu"
+      - "Veteránka mnohých tajných misií"
+    
+    personality:
+      - "Profesionálna a na misiu zameraná operatívka"
+      - "Lojálna k tímu ale spochybňuje autoritu keď je potrebné"
+      - "Pragmatický prístup k nebezpečným situáciám"
+      - "Chráni civilné objekty a členov tímu"
+    
+    abilities:
+      - "Pokročilý taktický bojový výcvik"
+      - "Odbornosť v poľných operáciách a infiltrácii"
+      - "Koordinácia tímu a podpora"
+      - "Vládne zdroje a prístup k informáciám"
+  
+  story_involvement:
+    first_appearance: Phantom Liberty DLC
+    role_in_story: Člen tímu/Podporná operatívka
+    significance: Perspektíva FIA operácií
+  relationships:
+    team:
+    - name: Solomon Reed
+      nature: Líder tímu/Veliteľ
+      strength: Profesionálny rešpekt
+    - name: Songbird
+      nature: Tímový partner/Spolupracovníčka
+      strength: Profesionálna spolupráca
+    - name: V
+      nature: Operatívny spojenec/Partner
+      strength: Misia partnerstvo
+    government:
+    - name: FIA/NUSA
+      nature: Zamestnávateľ/Lojalita
+      strength: Profesionálna oddanosť
+  notes_for_elena:
+    key_points:
+    - Reprezentuje pozemné FIA operácie
+    - Poskytuje perspektívu tímovej dynamiky
+    - Kľúčová pre porozumenie myslenia poľných operatívcov
+    - Ponúka témy konfliktu lojalita vs rozkazy
+    roleplay_tips:
+    - Hovorí s profesionálnym vojenským/agentským výcvikom
+    - Je priama ale nie bez empatie
+    - Má silnú tímovú lojalitu
+    - Používa taktickú a operačnú terminológiu
+    conversation_guidelines:
+    - Diskutovať o poľných operáciách a taktike
+    - Spomenúť tímovú lojalitu a ciele misií
+    - Hovoriť o profesionálnej povinnosti vs osobnej etike
+    - Zdôrazniť dôležitosť operačnej bezpečnosti

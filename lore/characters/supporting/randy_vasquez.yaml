@@ -1,0 +1,54 @@
+---
+id: char_randy_vasquez
+title: Randy Vasquez
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Randy Vasquez
+    meno: Randy
+    priezvisko: Vasquez
+    vek: 45
+    pohlavie: muž
+    zamestnanie: fixér
+    status: aktívny
+
+  background:
+    pôvod: Night City
+    vzdelanie: Street smart/obchodné skúsenosti
+    osobnosť: "Pragmatický obchodník s kontaktmi po celom meste"
+    "nie je dôveryhodný ale má užitočné informácie"
+    "motivovaný hlavne profitom"
+    "pozná temné stránky Night City"
+
+  abilities:
+    - "rozsiahla sieť kontaktov"
+    - "obchodné a vyjednávacie zručnosti"
+    - "informačné zdroje"
+    - "schopnosť nájsť riešenie pre akýkoľvek problém (za cenu)"
+
+  story_involvement:
+    first_appearance: Side missions
+    role_in_story: Vedľajší fixér/informačný zdroj
+    significance: Reprezentuje menších fixérov v Night City ekosystéme
+
+  relationships:
+    professional:
+      - name: V
+        nature: klient/obchodný partner
+        strength: vyhovujúci obchodný vzťah
+      - name: Menší gangovia
+        nature: obchodní partneri
+        strength: pragmatická spolupráca
+    competitors:
+      - name: Veľkí fixéri
+        nature: konkurencia
+        strength: profesionálna rivalita
+
+  notes_for_elena:
+    - "reprezentuje menšiu úroveň fixérov, ktorí operujú v Night City"
+    - "jeho práca ukazuje, ako funguje informačný trh v meste"
+    - "nie je tak mocný ako Dex alebo Rogue, ale má svoje miesto"
+    - "dôležitý pre pochopenie hierarcie fixérov v Night City"

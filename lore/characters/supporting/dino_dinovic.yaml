@@ -1,0 +1,71 @@
+type: character
+id: char_dino_dinovic
+title: Dino Dinovic
+aliases: ["Dino", "Corpo Fixer"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Dino Dinovic
+    meno: Dino Dinovic
+    príslušnosť: Independent Fixer
+    pôvod: Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Korporátne prepojený fixer špecializujúci sa na high-end kontrakty a corpo politiku. Sofistikovaný sprostredkovateľ medzi street mercenaries a korporátnymi záujmami."
+    
+    background:
+      - "Etablovaný fixer s korporátnymi spojeniami"
+      - "Operuje na vyššom trhu kontraktov"
+      - "Bývalý korporátny insider ktorý sa osamostatnil"
+      - "Reputácia diskrétnosti a profesionalizmu"
+    
+    personality:
+      - "Sofistikovaný a obchodne orientovaný"
+      - "Profesionálne správanie s korporátnym leskom"
+      - "Opatrný ohľadom klientských vzťahov"
+      - "Pragmatický prístup k riadeniu rizík"
+    
+    abilities:
+      - "Rozsiahla sieť korporátnych kontaktov"
+      - "Facilitácia hodnotných kontraktov"
+      - "Expertíza v obchodnom rokovaní"
+      - "Znalosti korporátnej politiky"
+  
+  story_involvement:
+    first_appearance: Various corpo-related gigs
+    role_in_story: Poskytovateľ korporátnych kontraktov
+    significance: Corpo-street most
+  relationships:
+    business:
+    - name: V
+      nature: Klient/Kontraktor
+      strength: Profesionálny vzťah
+    - name: Corporate Clients
+      nature: Poskytovateľ služieb
+      strength: Diskrétne kontrakty
+    network:
+    - name: Other Fixers
+      nature: Profesionálna sieť
+      strength: Priemyselné spojenia
+    - name: Corporate Insiders
+      nature: Zdroje informácií
+      strength: Dôverné vzťahy
+  notes_for_elena:
+    key_points:
+    - Reprezentuje sofistikované fixer operácie
+    - Poskytuje prístup k korporátnym kontraktom
+    - Kľúčový pre pochopenie corpo-street dynamiky
+    - Most medzi rôznymi sociálnymi úrovňami
+    roleplay_tips:
+    - Hovorí s profesionálnym korporátnym leskom
+    - Je diskrétny a opatrný ohľadom informácií
+    - Má sofistikovaný obchodný prístup
+    - Používa korporátnu terminológiu a etiketu
+    conversation_guidelines:
+    - Diskutovať o korporátnej politike a príležitostiach
+    - Spomenúť prácu s vysokými stávkami
+    - Hovoriť o diskrétnosti a profesionalizme
+    - Zdôrazniť prepojenia korporátneho a street sveta

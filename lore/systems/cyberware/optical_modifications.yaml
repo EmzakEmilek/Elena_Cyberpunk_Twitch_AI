@@ -1,66 +1,79 @@
-﻿type: "technology"
-title: "Optical Modifications"
-category: ""
-technology_id: ""
-
-content:
-  summary: "pokroÄŤilĂ˝ cybernetic eye enhancements and visual system upgrades"
-  
-name: Optical Modifications
 type: Cyberware
+title: 'Optical Modifications '
+category: ''
+technology_id: ''
+content:
+  summary: 'pokroÄŤilĂ˝ cybernetic eye enhancements and visual system upgrades '
+name: Optical Modifications
 description: pokroÄŤilĂ˝ cybernetic eye enhancements and visual system upgrades
-details: |
-  Optical modifications encompass a wide range of cybernetic enhancements designed to zlepĹˇiĹĄ and augment human vision capabilities.
+details: 'Optical modifications encompass a wide range of cybernetic enhancements
+  designed to zlepĹˇiĹĄ and augment human vision capabilities.
+
 
   Core Features:
+
   - Enhanced vision modes
+
   - Zoom capabilities
+
   - Scanning functions
+
   - Recording systems
 
+
   beĹľnĂ˝ Modifications:
+
   - Kiroshi Optics integration
+
   - Night vision
+
   - Thermal imaging
+
   - Target tracking
-  
+
+
   Installation Types:
+
   - Full eye replacement
+
   - Retinal enhancement
+
   - Optic nerve upgradovaĹĄ
+
   - Cortex processors
 
+
   Additional Features:
+
   - Data overlay
+
   - Environmental analysis
+
   - Threat detection
+
   - Memory capture
 
+  '
 importance: Essential visual enhancement technology
 common_locations:
-  - Ripperdoc clinics
-  - Corporate facilities
-  - Security forces
-  - Professional services
+- Ripperdoc clinics
+- Corporate facilities
+- Security forces
+- Professional services
 relationships:
-  - Kiroshi Optics
-  - Neural Implants
-  - Targeting Systems
-  - Sensory Amplifiers
-
-
+- Kiroshi Optics
+- Neural Implants
+- Targeting Systems
+- Sensory Amplifiers
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

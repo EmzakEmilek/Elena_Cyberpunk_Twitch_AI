@@ -1,66 +1,79 @@
-﻿type: "economy"
-title: "Power Pistol Mechanics"
-category: ""
-economy_id: ""
-
-content:
-  summary: "Fundamentals and mechanics of power pistol operation and technology"
-  
-name: Power Pistol Mechanics
 type: weapon_system
-description: Fundamentals and mechanics of power pistol operation and technology
-details: |
-  Power Pistols utilize electromagnetic technology to deliver high-impact rounds with devastating effect.
+title: 'Power Pistol Mechanics '
+category: ''
+economy_id: ''
+content:
+  summary: Základy inštrumentov a mechanizmov delovanja pištoli a tehnologija
+name: Power Pistol Mechanics
+description: Základy a mechanizmus delovanja in tehnologija moštne pištole
+details: 'Power Pistols utilize electromagnetic technology to deliver high-impact
+  rounds with devastating effect.
+
 
   Operating Principles:
+
   - Electromagnetic propulsion
+
   - Kinetic energy focus
+
   - Recoil management
+
   - Power regulation
 
+
   Technical Components:
+
   - Power cell
+
   - EM coils
+
   - Barrel system
+
   - Control circuit
 
+
   Performance Factors:
+
   - Muzzle velocity
+
   - Impact force
+
   - Accuracy rating
+
   - Power efficiency
 
+
   beĹľnĂ˝ Variants:
+
   - Standard power
+
   - High capacity
+
   - Compact design
+
   - Heavy duty
 
+  '
 importance: Basic power weapon technology
 common_locations:
-  - Civilian market
-  - Law enforcement
-  - Security forces
-  - Personal defense
+- Civilian market
+- Law enforcement
+- Security forces
+- Personal defense
 relationships:
-  - Power Weapons Technology
-  - Street Weapons beĹľnĂ˝ Types
-  - Ammunition Types
-  - Weapon Maintenance
-
-
+- Power Weapons Technology
+- Street Weapons beĹľnĂ˝ Types
+- Ammunition Types
+- Weapon Maintenance
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

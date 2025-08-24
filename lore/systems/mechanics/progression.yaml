@@ -1,202 +1,152 @@
-﻿type: "character"
-title: "Progression System"
-category: "system_mechanics"
-character_id: "system_mechanics_progression"
-
+type: character
+title: Progression System
+category: system_mechanics
+character_id: system_mechanics_progression
 content:
-  summary: ""
-  
-name: "Progression System"
-id: "system_mechanics_progression"
-category: "system_mechanics"
-
+  summary: ''
+name: Progression System
+id: system_mechanics_progression
 system_overview:
-  description: "Systém pre levelovanie postavy a celkový progres v hre"
+  description: Systém pre levelovanie postavy a celkový progres v hre
   core_aspects:
-    - "Level system"
-    - "XP gain"
-    - "Skill growth"
-    - "Perk unlock"
-
+  - Level system
+  - XP gain
+  - Skill growth
+  - Perk unlock
 core_features:
   leveling:
-    - "XP track"
-    - "Level up"
-    - "Stat boost"
-    - "Perk points"
-  
+  - XP track
+  - Level up
+  - Stat boost
+  - Perk points
   progress:
-    - "Skill gain"
-    - "Quest done"
-    - "Area unlock"
-    - "Story advance"
-
+  - Skill gain
+  - Quest done
+  - Area unlock
+  - Story advance
 mechanics_details:
   level_system:
     max_level: 50
-    xp_curve: "Progressive"
+    xp_curve: Progressive
     stat_points: 1
     perk_points: 2
-    
   progression_types:
-    - "Character level"
-    - "Skill levels"
-    - "Street cred"
-    - "Reputation"
-
+  - Character level
+  - Skill levels
+  - Street cred
+  - Reputation
 functionality:
   basic_actions:
-    - "Gain XP"
-    - "Level up"
-    - "Add stats"
-    - "Use perks"
-  
+  - Gain XP
+  - Level up
+  - Add stats
+  - Use perks
   advanced_features:
-    - "Multi-track"
-    - "Skill focus"
-    - "Build path"
-    - "Reset option"
-
+  - Multi-track
+  - Skill focus
+  - Build path
+  - Reset option
 notes_for_elena:
   key_points:
-    - "Level importance"
-    - "XP sources"
-    - "Growth paths"
-  
-  roleplay_tips:
-    - "Level talk"
-    - "Skill growth"
-    - "Build advice"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Progress terms"
-    - "Level words"
-    - "Skill speech"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 interface_elements:
   displays:
-    - "XP bar"
-    - "Level number"
-    - "Skill trees"
-    - "Perk list"
-  
+  - XP bar
+  - Level number
+  - Skill trees
+  - Perk list
   controls:
-    - "Level up"
-    - "Add points"
-    - "Pick perks"
-    - "Reset build"
-
+  - Level up
+  - Add points
+  - Pick perks
+  - Reset build
 xp_system:
   sources:
-    - "Kill XP"
-    - "Quest XP"
-    - "Skill use"
-    - "Discovery"
-  
+  - Kill XP
+  - Quest XP
+  - Skill use
+  - Discovery
   bonuses:
-    - "Quest type"
-    - "Difficulty"
-    - "Style bonus"
-
+  - Quest type
+  - Difficulty
+  - Style bonus
 level_rewards:
   per_level:
-    - "Stat point"
-    - "Perk point"
-    - "Skill boost"
-    - "New access"
-  
+  - Stat point
+  - Perk point
+  - Skill boost
+  - New access
   milestones:
-    - "Spec unlock"
-    - "vzĂˇcny gear"
-    - "Story prog"
-
+  - Spec unlock
+  - vzĂˇcny gear
+  - Story prog
 skill_progression:
   methods:
-    - "Direct use"
-    - "Related acts"
-    - "Training"
-    - "Books"
-  
+  - Direct use
+  - Related acts
+  - Training
+  - Books
   benefits:
-    - "More power"
-    - "New moves"
-    - "Better odds"
-
+  - More power
+  - New moves
+  - Better odds
 related_systems:
   skills:
-    - "All skill systems"
+  - All skill systems
   mechanics:
-    - "system_mechanics_quest"
-    - "system_mechanics_reputation"
-
+  - system_mechanics_quest
+  - system_mechanics_reputation
 balance_considerations:
   xp_rates:
-    - "Kill value"
-    - "Quest reward"
-    - "Action XP"
-  
+  - Kill value
+  - Quest reward
+  - Action XP
   power_curve:
-    - "Level stats"
-    - "Skill power"
-    - "Perk effect"
-
+  - Level stats
+  - Skill power
+  - Perk effect
 build_diversity:
   paths:
-    - "Combat pro"
-    - "Tech expert"
-    - "Social ace"
-  
+  - Combat pro
+  - Tech expert
+  - Social ace
   customization:
-    - "Stat mix"
-    - "Skill focus"
-    - "Perk choice"
-
+  - Stat mix
+  - Skill focus
+  - Perk choice
 milestone_system:
   types:
-    - "Level based"
-    - "Skill reach"
-    - "Quest done"
-  
+  - Level based
+  - Skill reach
+  - Quest done
   rewards:
-    - "New content"
-    - "Cool gear"
-    - "Special perks"
-
+  - New content
+  - Cool gear
+  - Special perks
 reset_options:
   methods:
-    - "Full reset"
-    - "Skill reset"
-    - "Perk reset"
-  
+  - Full reset
+  - Skill reset
+  - Perk reset
   costs:
-    - "Money pay"
-    - "Item use"
-    - "Time wait"
-
+  - Money pay
+  - Item use
+  - Time wait
 progression_tracking:
   metrics:
-    - "Total XP"
-    - "Level rate"
-    - "Skill use"
-  
+  - Total XP
+  - Level rate
+  - Skill use
   analysis:
-    - "Play style"
-    - "Skill focus"
-    - "Build path"
-
-
+  - Play style
+  - Skill focus
+  - Build path
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

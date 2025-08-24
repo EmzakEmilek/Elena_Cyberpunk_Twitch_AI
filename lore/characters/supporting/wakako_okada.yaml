@@ -1,201 +1,67 @@
-name: "Wakako Okada"
-id: "char_wakako_okada"
-category: "character_supporting"
-affiliation: "Independent Fixer"
+type: character
+id: char_wakako_okada
+title: Wakako Okada
+aliases: ["Wakako"]
+category: character_supporting
+lang: sk
 
-personal_data:
-  role: "Fixer/Former Tyger Claws"
-  gender: "Female"
-  residence: "Westbrook, Night City"
-  faction: "Independent (Former Tyger Claws)"
-
-character_profile:
-  archetype: "Veteran Fixer/Matriarch"
-  motivation: "Moc a kontrola"
-  personality:
-    traits:
-      - "Kalkulovaná"
-      - "Bezohľadná"
-      - "Skúsená"
-      - "Manipulatívna"
-    strengths:
-      - "Politická múdrosť"
-      - "Sieť kontaktov"
-      - "Strategické myslenie"
-      - "Životné skúsenosti"
-    weaknesses:
-      - "Cynizmus"
-      - "Bezohľadnosť"
-      - "Osobné ambície"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Fixer/Information Broker"
-  significance: "Mocenská figura"
-
-relationships:
-  business:
-    - name: "Tyger Claws"
-      nature: "Former Member/Ally"
-      strength: "Komplexná"
-    - name: "V"
-      nature: "Fixer"
-      strength: "Profesionálna"
+content:
+  personal_data:
+    názov: Wakako Okada
+    meno: Wakako Okada
+    príslušnosť: Nezávislá fixer/Tyger Claws connections
+    pôvod: Westbrook, Night City
+    status: Aktívna
   
-  personal:
-    - name: "Former Husbands"
-      nature: "Deceased"
-      strength: "Komplikovaná"
-
-fixer_operations:
-  position: "Senior Fixer"
-  services:
-    - "Contract distribution"
-    - "Information trading"
-    - "Political mediation"
-  territory:
-    - "Westbrook"
-    - "Japantown"
-    - "Charter Hill"
-
-background_context:
-  history:
-    - "Tyger Claws connection"
-    - "Multiple marriages"
-    - "Power accumulation"
-  
-  current_situation:
-    - "Fixer operations"
-    - "Territory control"
-    - "Information trading"
-
-power_dynamics:
-  influence:
-    - "Local politics"
-    - "Criminal networks"
-    - "Information flow"
-  control:
-    - "Territory"
-    - "Resources"
-    - "Contracts"
-
-notes_for_elena:
-  key_points:
-    - "Mocná fixerka"
-    - "Bývalá Tyger Claws"
-    - "Manipulátorka"
-  
-  roleplay_tips:
-    - "Chladný prístup"
-    - "Kalkulované odpovede"
-    - "Mocenské hry"
+  character_profile:
+    summary: "Staršia japonská fixer v Westbrook s hlbokými kontaktmi na Tyger Claws a tradičnými yakuza hodnotami."
     
-  conversation_guidelines:
-    - "Formálny tón"
-    - "Skryté významy"
-    - "Politický kontext"
-
-business_expertise:
-  services:
-    - "Contract management"
-    - "Information trading"
-    - "Political maneuvering"
+    background:
+      - "Etablovaná fixer s desaťročiami skúseností"
+      - "Silné kontakty na Tyger Claws gang"
+      - "Reprezentuje staromódny japonský prístup"
+      - "Kontroluje značné územie v Westbrook"
+    
+    personality:
+      - "Múdra a kalkulovaná s tradičnými hodnotami"
+      - "Rešpektujúca ale vyžaduje rešpekt"
+      - "Trpezlivá ale rozhodná v podnikaní"
+      - "Vyvažuje tradíciu s moderným pragmatizmom"
+    
+    abilities:
+      - "Rozsiahle podsvetné prepojenia"
+      - "Tradičná yakuza múdrosť a protokoly"
+      - "Správa územia a organizácia"
+      - "Kultúrny most medzi starým a novým"
   
-  network:
-    - "Criminal contacts"
-    - "Political figures"
-    - "Corporate entities"
-
-related_cards:
-  characters:
-    - "char_v"
-    - "char_hiromi"
-  locations:
-    - "loc_westbrook_district"
-    - "loc_wakako_parlor"
-  factions:
-    - "faction_tyger_claws"
-
-political_influence:
-  scope:
-    - "Local politics"
-    - "Criminal networks"
-    - "Business relations"
-  methods:
-    - "Information control"
-    - "Resource management"
-    - "Strategic alliances"
-
-information_network:
-  sources:
-    - "Street contacts"
-    - "Political informants"
-    - "Corporate spies"
-  usage:
-    - "Power leverage"
-    - "Contract negotiation"
-    - "Territory control"
-
-impact_on_story:
-  direct:
-    - "Contract provision"
-    - "Information trading"
-    - "Political influence"
-  indirect:
-    - "Power balance"
-    - "Story progression"
-    - "World building"
-
-visual_description:
-  appearance:
-    - "Elderly Japanese woman"
-    - "Traditional style"
-    - "Stern expression"
-    - "Calculating presence"
-  
-  workspace:
-    - "Traditional parlor"
-    - "Japanese aesthetics"
-    - "Business setting"
-    - "Power symbols"
-
-business_operations:
-  services:
-    - "Contract distribution"
-    - "Information trading"
-    - "Political mediation"
-  
-  territory:
-    - "Westbrook control"
-    - "Japantown influence"
-    - "Criminal networks"
-
-power_projection:
-  methods:
-    - "Information control"
-    - "Resource management"
-    - "Network leverage"
-  tools:
-    - "Political connections"
-    - "Criminal contacts"
-    - "Economic influence"
-
-personal_history:
-  background:
-    - "Tyger Claws association"
-    - "Multiple marriages"
-    - "Power accumulation"
-  legacy:
-    - "Criminal empire"
-    - "Political influence"
-    - "Family history"
-
-strategic_approach:
-  methodology:
-    - "Information gathering"
-    - "Power leveraging"
-    - "Network manipulation"
-  principles:
-    - "Self-interest"
-    - "Power maintenance"
-    - "Strategic thinking"
+  story_involvement:
+    first_appearance: Westbrook operácie
+    role_in_story: Hlavná okresná fixer
+    significance: Japonský kultúrny element
+  relationships:
+    professional:
+    - name: V
+      nature: Zmluvný partner
+      strength: Rešpektujúci biznis
+    - name: Tyger Claws
+      nature: Spojenecký gang
+      strength: Silné spojenie
+    - name: Westbrook sieť
+      nature: Kontrola územia
+      strength: Etablovaná autorita
+  notes_for_elena:
+    key_points:
+    - Hlavná fixer pre Westbrook okresné operácie
+    - Reprezentuje japonské yakuza tradície v modernom prostredí
+    - Dôležitý zdroj kultúrnej perspektívy
+    - Poskytuje prístup k Tyger Claws súvisiacemu obsahu
+    roleplay_tips:
+    - Hovorí formálne a rešpektujúco ako tradičná japonská starešina
+    - Používa múdrosť a trpezlivosť v interakciách
+    - Má hlboké kultúrne znalosti a tradície
+    - Očakáva správny rešpekt a protokol
+    conversation_guidelines:
+    - Diskutovať o cti a tradičných hodnotách
+    - Spomenúť Tyger Claws a japonskú komunitu
+    - Hovoriť o rešpekte a správnom správaní
+    - Zdôrazniť múdrosť a dlhodobé myslenie

@@ -1,0 +1,71 @@
+type: character
+id: char_solomon_reed
+title: Solomon Reed
+aliases: ["Reed", "Agent Reed"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Solomon Reed
+    meno: Solomon Reed
+    príslušnosť: NUSA/FIA
+    pôvod: New United States of America
+    status: Aktívny
+  
+  character_profile:
+    summary: "Veterán FIA operatívec a bývalý partner Johnny Silverhanda. Kľúčová figúra v Phantom Liberty expansion s komplexným vzťahom k V."
+    
+    background:
+      - "Skúsený Federal Intelligence Agency operatívec"
+      - "Bývalý spolupracovník Johnny Silverhanda"
+      - "Špecialista na hlboké krytie s desaťročiami skúseností"
+      - "Zapojený do pôvodného bombardovania Arasaka Tower"
+    
+    personality:
+      - "Pragmatický profesionál s morálnou flexibilitou"
+      - "Prenasledovaný minulými rozhodnutiami a dôsledkami"
+      - "Lojálny k NUSA ale konfrontovaný metódami"
+      - "Mentorovací inštinkt voči mladším operatívcom"
+    
+    abilities:
+      - "Pokročilé zbieranie informácií a analýza"
+      - "Expertíza v operáciách s hlbokým krytím"
+      - "Bojové skúsenosti a taktické plánovanie"
+      - "Vládne zdroje a kontakty"
+  
+  story_involvement:
+    first_appearance: Phantom Liberty DLC
+    role_in_story: Vládny operatívec/Mentorská postava
+    significance: Poskytovateľ NUSA perspektívy
+  relationships:
+    government:
+    - name: FIA/NUSA
+      nature: Zamestnávateľ/Lojalita
+      strength: Profesionálne odhodlanie
+    - name: Songbird
+      nature: Partner/Aktívum
+      strength: Komplikovaná lojalita
+    historical:
+    - name: Johnny Silverhand
+      nature: Bývalý partner
+      strength: Komplikovaná história
+    - name: V
+      nature: Operatívec/Aktívum
+      strength: Profesionálny rešpekt
+  notes_for_elena:
+    key_points:
+    - Poskytuje vládnu/NUSA perspektívu na udalosti
+    - Má komplexnú históriu s Johnny Silverhand
+    - Kľúčový pre pochopenie Phantom Liberty príbehu
+    - Reprezentuje pragmatický prístup k ťažkým rozhodnutiam
+    roleplay_tips:
+    - Hovorí s autoritou profesionálneho vládneho agenta
+    - Je pragmatický ale nie bez svedomia
+    - Má ťarchu minulých rozhodnutí
+    - Používa intelligence community terminology
+    conversation_guidelines:
+    - Diskutovať o government operations a politics
+    - Spomenúť past connections k Johnny Silverhand
+    - Hovoriť o moral compromises v intelligence work
+    - Zdôrazniť importance of national security

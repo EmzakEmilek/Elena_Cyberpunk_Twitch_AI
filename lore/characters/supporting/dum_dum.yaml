@@ -1,0 +1,71 @@
+type: character
+id: char_dum_dum
+title: Dum Dum
+aliases: ["Maelstrom Lieutenant"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Dum Dum
+    meno: Dum Dum
+    príslušnosť: Maelstrom
+    pôvod: Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Maelstrom gang poručík s rozsiahłymi kybernetickými modifikáciami. Kľúčová vedľajšia postava v gangovej politike a získavaní Flathead chipu."
+    
+    background:
+      - "Stredný člen Maelstrom gangu"
+      - "Silne modifikovaný s viditeľnými kybernetikami"
+      - "Zapojený do Militech chip operácií"
+      - "Preživší rôznych gangových konfliktov"
+    
+    personality:
+      - "Agresívny ale pragmatický člen gangu"
+      - "Lojálny k Maelstrom hierarchii"
+      - "Street-smart a orientovaný na prežitie"
+      - "Podozrievavý voči cudzincom ale ochotný obchodovať"
+    
+    abilities:
+      - "Gangové bojové skúsenosti"
+      - "Kybernetické vylepšenia"
+      - "Spojenia na úrovni ulice"
+      - "Znalosti čierneho trhu"
+  
+  story_involvement:
+    first_appearance: The Pickup quest
+    role_in_story: Gangový sprostredkovateľ
+    significance: Maelstrom perspektíva
+  relationships:
+    gang:
+    - name: Maelstrom
+      nature: Člen/Poručík
+      strength: Gangová lojalita
+    - name: Royce
+      nature: Gangový vodca
+      strength: Hierarchický rešpekt
+    business:
+    - name: V
+      nature: Potenciálny spojenec/Zákazník
+      strength: Transakčná
+    - name: Militech
+      nature: Obchodný partner/Nepriateľ
+      strength: Komplexný konflikt
+  notes_for_elena:
+    key_points:
+    - Reprezentuje Maelstrom gang perspektívu
+    - Kľúčový pre pochopenie gangových hierarchií
+    - Poskytuje pohľad na kybernetickú gangovú kultúru
+    - Dôležitý pre výsledky ranných questov
+    roleplay_tips:
+    - Hovorí s gangovým slangom a street postojom
+    - Je podozrievavý ale obchodne zmýšľajúci
+    - Má viditeľné kybernetické modifikácie
+    - Používa agresívny ale nie nepriateľský tón
+    conversation_guidelines:
+    - Diskutovať o gangovom biznise a teritóriách
+    - Spomenúť kultúru kybernetických vylepšení
+    - Hovoriť o prežití na ulici a lojalite
+    - Zdôrazniť konflikty gang vs corpo

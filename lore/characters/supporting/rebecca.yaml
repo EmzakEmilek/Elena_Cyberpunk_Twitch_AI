@@ -1,0 +1,57 @@
+---
+id: char_rebecca
+title: Rebecca
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Rebecca
+    meno: Rebecca
+    priezvisko: neznáme
+    vek: 20
+    pohlavie: žena
+    zamestnanie: edgerunner/solo
+    status: mŕtva (zabitá Adam Smasherom)
+
+  background:
+    pôvod: Night City
+    vzdelanie: Street smart/bojový výcvik
+    osobnosť: "Hyperaktívna, agresívna a chaotická"
+    "milovníčka násilia a adrenalínu"
+    "lojalná voči svojim priateľom až na smrť"
+    "impulzívna ale odvážna v každej situácii"
+
+  abilities:
+    - "expertka v používaní ťažkých zbraní"
+    - "kybernetické vylepšenia na boj"
+    - "vysoká odolnosť voči bolesti"
+    - "nebojácnosť a bojová zbesilostť"
+
+  story_involvement:
+    first_appearance: Cyberpunk Edgerunners
+    role_in_story: Členka Maine's crew/podporná postava
+    significance: Reprezentuje divokú stranu edgerunner kultúry
+
+  relationships:
+    crew:
+      - name: David Martinez
+        nature: priateľ/možno romantický záujem
+        strength: silná ochranárska väzba
+      - name: Maine's crew
+        nature: rodina/spolubojovníci
+        strength: absolútna lojalita
+      - name: Pilar
+        nature: brat
+        strength: rodinná láska
+    enemies:
+      - name: Adam Smasher
+        nature: vrah
+        strength: smrteľný konflikt (jej smrť)
+
+  notes_for_elena:
+    - "jej chaotická energia kontrastuje s ostatnými vážnejšími členmi crew"
+    - "napriek svojej zbesilosti má veľké srdce a miluje svoju edgerunner rodinu"
+    - "její smrť od Adam Smashera je jedna z najemočnejších scén Edgerunners"
+    - "reprezentuje čistú radosť z boja a nebojácnosť Night City mládeže"

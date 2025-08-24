@@ -1,191 +1,168 @@
-name: "Food Services"
-id: "service_food"
-category: "service"
-
+name: Food Services
+id: service_food
+category: service
 service_type:
-  primary: "Food & Beverage"
-  subtype: "Various Vendors"
-  classification: "Essential Service"
-
+  primary: Food & Beverage
+  subtype: Various Vendors
+  classification: Essential Service
 service_description:
-  overview: "Stravovanie v Night City"
+  overview: Stravovanie v Night City
   key_features:
-    - "Street food"
-    - "Reštaurácie"
-    - "Bary"
-    - "Donáška jedla"
-
+  - Street food
+  - Reštaurácie
+  - Bary
+  - Donáška jedla
 providers:
   types:
-    - name: "Street Vendors"
-      location: "City-wide"
-      specialization: "Quick food"
-    - name: "Restaurants"
-      location: "Various"
-      specialization: "Sit-down meals"
-    - name: "Bars"
-      location: "Various"
-      specialization: "Drinks & snacks"
-
+  - name: Street Vendors
+    location: City-wide
+    specialization: Quick food
+  - name: Restaurants
+    location: Various
+    specialization: Sit-down meals
+  - name: Bars
+    location: Various
+    specialization: Drinks & snacks
 service_details:
   basic_services:
-    - "Street food"
-    - "Fast food"
-    - "Take-out"
-    - "Drinks"
-  
+  - Street food
+  - Fast food
+  - Take-out
+  - Drinks
   advanced_services:
-    - "Fine dining"
-    - "Custom orders"
-    - "Catering"
-    - "Special events"
-
+  - Fine dining
+  - Custom orders
+  - Catering
+  - Special events
 business_model:
   payment_methods:
-    - "Eurodolláre"
-    - "Electronic"
-    - "Credit"
+  - Eurodolláre
+  - Electronic
+  - Credit
   pricing_structure:
-    - "Menu based"
-    - "Quality tier"
-    - "Location based"
-
+  - Menu based
+  - Quality tier
+  - Location based
 notes_for_elena:
   key_points:
-    - "Rôzne typy stravovania"
-    - "Cenové kategórie"
-    - "Kultúrna rozmanitosť"
-  
+  - Rôzne typy stravovania
+  - Cenové kategórie
+  - Kultúrna rozmanitosť
   roleplay_tips:
-    - "Kulinárska terminológia"
-    - "Kultúrne špecifiká"
-    - "Služby zákazníkom"
-    
+  - Kulinárska terminológia
+  - Kultúrne špecifiká
+  - Služby zákazníkom
   conversation_guidelines:
-    - "Menu položky"
-    - "Cenové rozpätia"
-    - "Špeciálne ponuky"
-
+  - Menu položky
+  - Cenové rozpätia
+  - Špeciálne ponuky
 establishment_types:
   street:
-    - "Food stands"
-    - "Food trucks"
-    - "Market stalls"
+  - Food stands
+  - Food trucks
+  - Market stalls
   fixed:
-    - "Restaurants"
-    - "Cafes"
-    - "Bars"
-
+  - Restaurants
+  - Cafes
+  - Bars
 quality_tiers:
   basic:
-    description: "Street food"
-    quality: "Variable"
-    price: "Affordable"
-  
+    description: Ulična jedla
+    quality: Variable
+    price: Affordable
   standard:
-    description: "Regular establishments"
-    quality: "Good"
-    price: "Medium"
-    
+    description: Pravidelné zariadenia
+    quality: Good
+    price: Medium
   premium:
-    description: "Fine dining"
-    quality: "Excellent"
-    price: "High"
-
+    description: Finé jedlo
+    quality: Excellent
+    price: High
 legal_framework:
   licenses:
-    - "Food service permit"
-    - "Health certification"
-    - "Alcohol license"
+  - Food service permit
+  - Health certification
+  - Alcohol license
   regulations:
-    - "Health standards"
-    - "Safety codes"
-    - "Service rules"
-
+  - Health standards
+  - Safety codes
+  - Service rules
 related_cards:
   characters:
-    - "char_mama_welles"
+  - char_mama_welles
   locations:
-    - "loc_lizzies_bar"
+  - loc_lizzies_bar
   services:
-    - "service_entertainment"
-
+  - service_entertainment
 market_dynamics:
   demand:
-    - "Daily meals"
-    - "Social dining"
-    - "Special occasions"
+  - Daily meals
+  - Social dining
+  - Special occasions
   competition:
-    - "Price points"
-    - "Quality levels"
-    - "Specializations"
-
+  - Price points
+  - Quality levels
+  - Specializations
 food_safety:
   standards:
-    - "Hygiene rules"
-    - "Storage requirements"
-    - "Preparation guidelines"
+  - Hygiene rules
+  - Storage requirements
+  - Preparation guidelines
   inspections:
-    - "Regular checks"
-    - "Quality control"
-    - "Safety audits"
-
+  - Regular checks
+  - Quality control
+  - Safety audits
 client_relations:
   service_standards:
-    - "Quick service"
-    - "Quality food"
-    - "Clean environment"
+  - Quick service
+  - Quality food
+  - Clean environment
   client_types:
-    - "Locals"
-    - "Workers"
-    - "Tourists"
-
+  - Locals
+  - Workers
+  - Tourists
 menu_management:
   options:
-    - "Daily specials"
-    - "Regular menu"
-    - "Custom orders"
+  - Daily specials
+  - Regular menu
+  - Custom orders
   variety:
-    - "Local cuisine"
-    - "International"
-    - "Fusion"
-
+  - Local cuisine
+  - International
+  - Fusion
 quality_control:
   food:
-    - "Ingredient quality"
-    - "Preparation standards"
-    - "Presentation"
+  - Ingredient quality
+  - Preparation standards
+  - Presentation
   service:
-    - "Staff training"
-    - "Customer feedback"
-    - "Service speed"
-
+  - Staff training
+  - Customer feedback
+  - Service speed
 cultural_aspects:
   influences:
-    - "Local traditions"
-    - "International cuisine"
-    - "Modern trends"
+  - Local traditions
+  - International cuisine
+  - Modern trends
   adaptations:
-    - "Fusion dishes"
-    - "Special menus"
-    - "Seasonal items"
-
+  - Fusion dishes
+  - Special menus
+  - Seasonal items
 operational_hours:
   patterns:
-    - "24/7 vendors"
-    - "Regular hours"
-    - "Night service"
+  - 24/7 vendors
+  - Regular hours
+  - Night service
   peak_times:
-    - "Breakfast"
-    - "Lunch rush"
-    - "Dinner time"
-
+  - Breakfast
+  - Lunch rush
+  - Dinner time
 future_trends:
   food:
-    - "New cuisines"
-    - "Health focus"
-    - "Local sourcing"
+  - New cuisines
+  - Health focus
+  - Local sourcing
   service:
-    - "Digital ordering"
-    - "Delivery expansion"
-    - "Experience dining"
+  - Digital ordering
+  - Delivery expansion
+  - Experience dining

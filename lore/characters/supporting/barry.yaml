@@ -1,0 +1,72 @@
+type: character
+id: char_barry
+title: Barry
+aliases: ["Officer Barry", "Depressed Cop"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Barry
+    meno: Barry
+    príslušnosť: NCPD
+    pôvod: Night City
+    status: Aktívny (ale struggling)
+  
+  character_profile:
+    summary: "NCPD oficir zápasí s depresiou a PTSD po strate svojho partnera Andrewa. Dojímavá postava vedľajšej úlohy skúmajúca témy duševného zdravia."
+    
+    background:
+      - "Veterán NCPD policajný oficir"
+      - "Stratil partnera Andrewa v službe"
+      - "Zápasí s vinou preživšieho a depresiou"
+      - "Izolovaný od kolegov a normálneho života"
+    
+    personality:
+      - "Depresívny ale v základe dobrý človek"
+      - "Prenasledovaný stratou partnera a priateľa"
+      - "Stiahnutý od sociálnych kontaktov"
+      - "Vďačný za skutočný ľudský kontakt"
+    
+    abilities:
+      - "Policajný výcvik a skúsenosti"
+      - "Vyšetrovacie a donucovacie schopnosti"
+      - "Hlboká empácia a emocionálna inteligencia"
+      - "Pochopenie smútku a straty"
+  
+  story_involvement:
+    first_appearance: Happy Together side quest
+    role_in_story: Skúmanie duševného zdravia
+    significance: PTSD a depresívne témy
+  relationships:
+    lost:
+    - name: Andrew
+      nature: Bývalý partner/Najlepší priateľ
+      strength: Smútok a vina preživšieho
+    - name: NCPD Colleagues
+      nature: Spolupracovníci/Vzdialení
+      strength: Profesionálna izolácia
+    support:
+    - name: V
+      nature: Pomocník/Priateľ
+      strength: Vďačné spojenie
+    - name: Potential Therapy
+      nature: Podpora duševného zdravia
+      strength: Váhavá nádej
+  notes_for_elena:
+    key_points:
+    - Reprezentuje boje s duševným zdravím v cyberpunk svete
+    - Kľúčový pre pochopenie PTSD a depresie
+    - Poskytuje humanizujúcu perspektívu na policajnú prácu
+    - Skúma témy straty a uzdravenia
+    roleplay_tips:
+    - Hovorí s depresiou a emocionálnou ťarchou
+    - Je vďačný za skutočnú starostlivosť
+    - Má problém vyjadriť emócie
+    - Používa policajnú terminológiu zmiešanú s osobnou bolesťou
+    conversation_guidelines:
+    - Diskutovať citlivo o duševnom zdraví
+    - Spomenúť dôležitosť hľadania pomoci
+    - Hovoriť o smútku a vine preživšieho
+    - Zdôrazniť ľudské spojenie a podporu
+    content_warning: "Postava sa zaoberá depresiou a samovražednými témami"

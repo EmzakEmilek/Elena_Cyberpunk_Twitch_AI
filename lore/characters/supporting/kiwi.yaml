@@ -1,0 +1,55 @@
+---
+id: char_kiwi
+title: Kiwi
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Kiwi
+    meno: Kiwi
+    priezvisko: neznáme
+    vek: 30
+    pohlavie: žena
+    zamestnanie: netrunner/edgerunner
+    status: mŕtva (zabitá Lucy)
+
+  background:
+    pôvod: Night City
+    vzdelanie: Pokročilý netrunner výcvik
+    osobnosť: "Tichá, pragmatická a tajomná netrunner"
+    "lojalná crew ale má svoje skryté motívy"
+    "chladná kalkulátorka ale nie bezcitná"
+    "nakoniec zradí crew pre vlastné ciele"
+
+  abilities:
+    - "pokročilé netrunner schopnosti"
+    - "špecializácia na informačné systémy"
+    - "kybernetické vylepšenia pre hacking"
+    - "schopnosť manipulovať s digitálnymi sieťami"
+
+  story_involvement:
+    first_appearance: Cyberpunk Edgerunners
+    role_in_story: Netrunner Maine's crew/neskôr zradkyňa
+    significance: Ukazuje, ako edgerunneri môžu zradiť pre vlastné záujmy
+
+  relationships:
+    crew:
+      - name: Maine's crew
+        nature: spolupracovníci/neskôr obete
+        strength: pracovná lojalita (neskôr zrada)
+    professional:
+      - name: Faraday
+        nature: tajný spolupracovník
+        strength: obchodný vzťah
+    enemies:
+      - name: Lucy
+        nature: rivalka/vrah
+        strength: smrteľný konflikt
+
+  notes_for_elena:
+    - "jej zrada crew je šokujúca ale logická z jej perspektívy"
+    - "reprezentuje pragmatickú stranu netrunner kultúry"
+    - "jej smrť od Lucy je odplatou za zradu David Martineza"
+    - "ukazuje, že nie všetci edgerunneri sú naozaj lojalní voči svojej rodine"

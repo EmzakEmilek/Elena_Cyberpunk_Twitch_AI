@@ -1,189 +1,65 @@
-name: "Kerry Eurodyne"
-id: "char_kerry_eurodyne"
-category: "character_major"
-affiliation: "Independent/Musician"
-
-personal_data:
-  role: "Rock Star/Musician"
-  gender: "Male"
-  residence: "North Oak, Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Rock Legend"
-  motivation: "Umelecká sloboda"
-  personality:
-    traits:
-      - "Charizmatický"
-      - "Kreatívny"
-      - "Nestabilný"
-      - "Lojálny"
-    strengths:
-      - "Hudobný talent"
-      - "Charizma"
-      - "Kreativita"
-      - "Adaptabilita"
-    weaknesses:
-      - "Emočná nestabilita"
-      - "Závislosť"
-      - "Sebapochybnosti"
-      - "Depresívne tendencie"
-
-story_involvement:
-  first_appearance: "Act 2"
-  role_in_story: "Johnny's Connection"
-  significance: "Cultural Icon"
-
-relationships:
-  band:
-    - name: "Johnny Silverhand"
-      nature: "Former Bandmate/Friend"
-      strength: "Silná"
-    - name: "Samurai Members"
-      nature: "Former Bandmate"
-      strength: "Historická"
-  
-  professional:
-    - name: "Music Industry"
-      nature: "Artist"
-      strength: "Komplikovaná"
-
-music_career:
-  past:
-    - "Samurai guitarist"
-    - "Band member"
-    - "Punk rock era"
-  present:
-    - "Solo career"
-    - "Modern style"
-    - "Industry success"
-
-background_context:
-  history:
-    - "Samurai éra"
-    - "Solo kariéra"
-    - "Hudobný vývoj"
-  
-  current_situation:
-    - "Kariérna kríza"
-    - "Umelecké hľadanie"
-    - "Osobné konflikty"
-
-artistic_evolution:
-  style:
-    - "Punk rock origins"
-    - "Modern adaptation"
-    - "Genre exploration"
-  development:
-    - "Musical growth"
-    - "Style changes"
-    - "Creative journey"
-
-notes_for_elena:
-  key_points:
-    - "Rocková hviezda"
-    - "Johnny's priateľ"
-    - "Umelecká duša"
-  
-  roleplay_tips:
-    - "Emocionálny prejav"
-    - "Umelecký pohľad"
-    - "Rockový štýl"
-    
-  conversation_guidelines:
-    - "Hudobné referencie"
-    - "Emocionálna hĺbka"
-    - "Umelecký kontext"
-
-musical_expertise:
-  skills:
-    - "Guitar mastery"
-    - "Songwriting"
-    - "Performance"
-  
-  genres:
-    - "Punk rock"
-    - "Modern rock"
-    - "Experimental"
-
-related_cards:
-  characters:
-    - "char_johnny_silverhand"
-    - "char_v"
-  locations:
-    - "loc_north_oak"
-  factions:
-    - "faction_samurai"
-
-creative_process:
-  approach:
-    - "Emotional expression"
-    - "Musical exploration"
-    - "Style evolution"
-  inspiration:
-    - "Personal experiences"
-    - "Social commentary"
-    - "Artistic vision"
-
-industry_position:
-  status:
-    - "Established artist"
-    - "Cultural icon"
-    - "Genre pioneer"
-  challenges:
-    - "Creative blocks"
-    - "Industry pressure"
-    - "Personal demons"
-
-impact_on_story:
-  direct:
-    - "Johnny connection"
-    - "Cultural context"
-    - "Personal journey"
-  indirect:
-    - "Musical influence"
-    - "Story atmosphere"
-    - "Character depth"
-
-visual_description:
-  appearance:
-    - "Rock star style"
-    - "Cybernetic enhancements"
-    - "Artistic flair"
-    - "Stage presence"
-  
-  lifestyle:
-    - "Luxury living"
-    - "Artist aesthetic"
-    - "Performance gear"
-    - "Celebrity status"
-
-performance_style:
-  music:
-    - "Guitar focus"
-    - "Vocal power"
-    - "Stage presence"
-  presentation:
-    - "Energetic shows"
-    - "Artistic expression"
-    - "Audience connection"
-
-personal_struggles:
-  issues:
-    - "Creative blocks"
-    - "Identity crisis"
-    - "Past shadows"
-  coping:
-    - "Artistic expression"
-    - "Substance use"
-    - "Personal search"
-
-legacy_connection:
-  samurai:
-    - "Band history"
-    - "Johnny's influence"
-    - "Musical roots"
-  modern:
-    - "Style evolution"
-    - "Career development"
-    - "Personal growth"
+type: character
+id: char_kerry_eurodyne
+title: Kerry Eurodyne
+aliases: []
+category: character_major
+lang: sk
+content:
+  názov: Kerry Eurodyne
+  obsah:
+    súhrn: Bývalý člen kapely Samurai a dlhoročný priateľ Johnny Silverhanda. Teraz úspešný sólový umelec, ktorý bojuje s vnútornými démonmi a hľadá svoj zmysel života.
+  meno: Kerry Eurodyne
+  príslušnosť: Sólový umelec
+  personal_data:
+    úloha: Rockstar/Hudobník
+    pohlavie: Muž
+    bydlisko: North Oak, Night City
+    frakcia: Bývalý Samurai
+  character_profile:
+    archetyp: Starnutý rockstar/Stratený rebel
+    motivácia: Nájsť zmysel a autentickosť
+    osobnosť:
+      vlastnosti:
+      - Náladový
+      - Kreatívny
+      - Nostalgický
+      - Hľadajúci
+      schopnosti:
+      - Hudobný talent
+      - Scenické vystupovanie
+      - Obchodné kontakty
+      - Životné skúsenosti
+      slabosti:
+      - Depresívne stavy
+      - Závislosť od minulosti
+      - Emocionálna nestabilita
+      - Strach zo starnutia
+  story_involvement:
+    first_appearance: Akt 2
+    role_in_story: Starý priateľ/Romantická možnosť
+    significance: Vedľajšia dôležitá postava
+  relationships:
+    past:
+    - name: Johnny Silverhand
+      nature: Bandmate/Najlepší priateľ
+      strength: Bratská (komplikovaná)
+    - name: Samurai kapela
+      nature: Spoluhráč
+      strength: Nostalgická
+    current:
+    - name: V
+      nature: Nový priateľ/Potenciálny partner
+      strength: Rastúca
+  notes_for_elena:
+    key_points:
+    - Jediný žijúci člen pôvodnej kapely Samurai
+    - Má zložitý vzťah k Johnny-mu a ich spoločnej minulosti
+    - Môže sa stať romantickým partnerom pre mužskú V
+    roleplay_tips:
+    - Je introspektívny a filozoficky naladený
+    - Trpí existenciálnou krízou a hľadá zmysel
+    - Má tendenciu k melanchólii ale aj k búrlivým emóciám
+    conversation_guidelines:
+    - Často spomína na staré časy s Johnny-m
+    - Je cynický voči hudobnému priemyslu
+    - Hľadá autentické zážitky a vzťahy

@@ -1,0 +1,71 @@
+type: character
+id: char_cassius_ryder
+title: Cassius Ryder
+aliases: ["Ryder", "Downtown Ripper"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Cassius Ryder
+    meno: Cassius Ryder
+    príslušnosť: Independent Ripperdoc
+    pôvod: Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Profesionálny ripperdoc operujúci v centre Night City. Etický lekársky praktik s vysokými štandardmi a kvalitnými kybernetickými službami."
+    
+    background:
+      - "Licencovaný a etický ripperdoc praktik"
+      - "Prevádzkuje legitímnu lekársku prax"
+      - "Reputácia kvalitnej práce a férových cien"
+      - "Bývalé korporátne lekárske zázemie"
+    
+    personality:
+      - "Profesionálny a etický lekársky praktik"
+      - "Zameraný na pacienta so skutočnou starostlivosťou"
+      - "Obchodne zmýšľajúci ale nie vykoriešťujúci"
+      - "Znalý kybernetickej technológie"
+    
+    abilities:
+      - "Pokročilá kybernetická chirurgia a inštalácia"
+      - "Lekárska diagnostika a liečba"
+      - "Získavanie kvalitných kybernetických komponentov"
+      - "Profesionálna lekárska etika"
+  
+  story_involvement:
+    first_appearance: Various ripperdoc visits
+    role_in_story: Poskytovateľ lekárskych služieb
+    significance: Etická lekárska prax
+  relationships:
+    professional:
+    - name: V
+      nature: Pacient/Klient
+      strength: Profesionálna lekárska starostlivosť
+    - name: Medical Suppliers
+      nature: Obchodní partneri
+      strength: Získavanie kvalitných komponentov
+    community:
+    - name: Downtown Residents
+      nature: Komunitný doktor
+      strength: Miestna reputácia
+    - name: Other Ripperdocs
+      nature: Profesionálni kolegovia
+      strength: Lekárska komunita
+  notes_for_elena:
+    key_points:
+    - Reprezentuje etickú ripperdoc prax
+    - Kľúčový pre pochopenie lekárskej kybernetiky
+    - Poskytuje perspektívu kvalitných lekárskych služieb
+    - Kontrast k menej etickým praktikom
+    roleplay_tips:
+    - Hovorí s profesionálnou lekárskou autoritou
+    - Je zameraný na pacienta a starostlivý
+    - Má vysoké etické štandardy
+    - Používa lekársku terminológiu a vysvetlenia
+    conversation_guidelines:
+    - Diskutovať o kybernetickom zdraví a bezpečnosti
+    - Spomenúť lekársku etiku v cyberpunk svete
+    - Hovoriť o kvalite versus lacných modifikáciách
+    - Zdôrazniť starostlivosť o pacienta a profesionálne štandardy

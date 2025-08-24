@@ -1,74 +1,41 @@
-﻿type: "economy"
-title: "Projectile Modifications"
-category: ""
-economy_id: ""
-
-content:
-  summary: "Modifications and enhancements for weapon projectiles and ammunition"
-  
-name: Projectile Modifications
 type: weapon_system
-description: Modifications and enhancements for weapon projectiles and ammunition
-details: |
-  Projectile modifications encompass various technologies and techniques used to vylepĹˇiĹĄ ammunition performance and effectiveness.
-
-  Types of Modifications:
-  - Penetration Enhancers
-    * Armor-piercing cores
-    * High-velocity modifications
-    * Material composition changes
-  - Special Effects
-    * Explosive rounds
-    * Incendiary ammunition
-    * EMP charges
-  - Smart Systems
-    * Guidance chips
-    * Tracking modules
-    * Trajectory control
-
-  Implementation Methods:
-  - Factory modifications
-  - Aftermarket changes
-  - Custom loading
-  - Chemical treatment
-
-  Legal Status:
-  - Regulated modifications
-  - Restricted enhancements
-  - Banned variants
-  - Civilian-legal options
-
-  Performance Impact:
-  - Increased damage
-  - Better penetration
-  - Special effects
-  - Enhanced accuracy
-
+title: 'Projectile Modifications '
+category: ''
+economy_id: ''
+content:
+  summary: Predelitve in dopolnitve za orožne projektilje in strelivo
+name: Projectile Modifications
+description: Zmeny in izboljšave za orožje in bojni projektili
+details: "Projectile modifications encompass various technologies and techniques used\
+  \ to vylepĹˇiĹĄ ammunition performance and effectiveness.\n\nTypes of Modifications:\n\
+  - Penetration Enhancers\n  * Armor-piercing cores\n  * High-velocity modifications\n\
+  \  * Material composition changes\n- Special Effects\n  * Explosive rounds\n  *\
+  \ Incendiary ammunition\n  * EMP charges\n- Smart Systems\n  * Guidance chips\n\
+  \  * Tracking modules\n  * Trajectory control\n\nImplementation Methods:\n- Factory\
+  \ modifications\n- Aftermarket changes\n- Custom loading\n- Chemical treatment\n\
+  \nLegal Status:\n- Regulated modifications\n- Restricted enhancements\n- Banned\
+  \ variants\n- Civilian-legal options\n\nPerformance Impact:\n- Increased damage\n\
+  - Better penetration\n- Special effects\n- Enhanced accuracy\n"
 importance: Critical for weapon customization and effectiveness
 common_locations:
-  - Ammunition shops
-  - Weapon workshops
-  - Military suppliers
-  - Black market dealers
+- Ammunition shops
+- Weapon workshops
+- Military suppliers
+- Black market dealers
 relationships:
-  - Ammunition Types
-  - Weapon Customization
-  - Military-Grade Weapons
-  - Black Market Weapons
-
-
+- Ammunition Types
+- Weapon Customization
+- Military-Grade Weapons
+- Black Market Weapons
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

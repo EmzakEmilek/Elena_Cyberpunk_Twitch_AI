@@ -1,176 +1,153 @@
-name: "Ripperdoc Services"
-id: "service_ripperdoc"
-category: "service"
-
+name: Ripperdoc Services
+id: service_ripperdoc
+category: service
 service_type:
-  primary: "Medical"
-  subtype: "Cybernetic Enhancement"
-  classification: "Essential Service"
-
+  primary: Medical
+  subtype: Cybernetic Enhancement
+  classification: Essential Service
 service_description:
-  overview: "Medicínske služby špecializované na kybernetické vylepšenia"
+  overview: Medicínske služby špecializované na kybernetické vylepšenia
   key_features:
-    - "Inštalácia cyberware"
-    - "Údržba implantov"
-    - "Diagnostika"
-    - "Urgentná starostlivosť"
-
+  - Inštalácia cyberware
+  - Údržba implantov
+  - Diagnostika
+  - Urgentná starostlivosť
 providers:
   main:
-    - name: "Viktor Vector"
-      location: "Watson Clinic"
-      specialization: "General Ripperdoc"
-    - name: "Other Ripperdocs"
-      location: "Various Districts"
-      specialization: "Various"
-
+  - name: Viktor Vector
+    location: Watson Clinic
+    specialization: General Ripperdoc
+  - name: Other Ripperdocs
+    location: Various Districts
+    specialization: Various
 service_details:
   basic_services:
-    - "Diagnostika implantov"
-    - "Základné opravy"
-    - "Inštalácia cyberware"
-    - "Údržba"
-  
+  - Diagnostika implantov
+  - Základné opravy
+  - Inštalácia cyberware
+  - Údržba
   advanced_services:
-    - "Špecializované implanty"
-    - "Komplexné upgrady"
-    - "Customizácia"
-    - "Experimentálne tech"
-
+  - Špecializované implanty
+  - Komplexné upgrady
+  - Customizácia
+  - Experimentálne tech
 business_model:
   payment_methods:
-    - "Eurodolláre"
-    - "Barter (rare)"
+  - Eurodolláre
+  - Barter (rare)
   pricing_structure:
-    - "Basic services: Affordable"
-    - "Advanced mods: Premium"
-    - "Emergency: High cost"
-
+  - 'Basic services: Affordable'
+  - 'Advanced mods: Premium'
+  - 'Emergency: High cost'
 notes_for_elena:
   key_points:
-    - "Esenciálna služba v Night City"
-    - "Rôzne cenové kategórie"
-    - "Rôzne úrovne kvality"
-  
+  - Esenciálna služba v Night City
+  - Rôzne cenové kategórie
+  - Rôzne úrovne kvality
   roleplay_tips:
-    - "Medicínska terminológia"
-    - "Tech znalosti"
-    - "Profesionálny prístup"
-    
+  - Medicínska terminológia
+  - Tech znalosti
+  - Profesionálny prístup
   conversation_guidelines:
-    - "Medicínske termíny"
-    - "Technické detaily"
-    - "Cenové rozpätia"
-
+  - Medicínske termíny
+  - Technické detaily
+  - Cenové rozpätia
 medical_aspects:
   procedures:
-    - "Implant installation"
-    - "Maintenance checks"
-    - "Emergency repairs"
-    - "System diagnostics"
-  
+  - Implant installation
+  - Maintenance checks
+  - Emergency repairs
+  - System diagnostics
   requirements:
-    - "Sterilné prostredie"
-    - "Kvalifikovaný personál"
-    - "Špecializované nástroje"
-
+  - Sterilné prostredie
+  - Kvalifikovaný personál
+  - Špecializované nástroje
 quality_tiers:
   street:
-    description: "Základné služby"
-    risk_level: "High"
-    price: "Low"
-  
+    description: Základné služby
+    risk_level: High
+    price: Low
   professional:
-    description: "Štandardné služby"
-    risk_level: "Medium"
-    price: "Medium"
-    
+    description: Štandardné služby
+    risk_level: Medium
+    price: Medium
   premium:
-    description: "High-end služby"
-    risk_level: "Low"
-    price: "High"
-
+    description: Značajne služby
+    risk_level: Low
+    price: High
 legal_framework:
   licenses:
-    - "Medical license"
-    - "Cybernetic certification"
-    - "Surgery permits"
+  - Medical license
+  - Cybernetic certification
+  - Surgery permits
   regulations:
-    - "Health standards"
-    - "Safety protocols"
-    - "Quality controls"
-
+  - Health standards
+  - Safety protocols
+  - Quality controls
 related_cards:
   characters:
-    - "char_viktor_vector"
+  - char_viktor_vector
   locations:
-    - "loc_watson_district"
+  - loc_watson_district
   services:
-    - "service_medical"
-
+  - service_medical
 market_dynamics:
   demand:
-    - "Constant need"
-    - "Emergency services"
-    - "Upgrade desires"
+  - Constant need
+  - Emergency services
+  - Upgrade desires
   competition:
-    - "Various quality levels"
-    - "Price ranges"
-    - "Specializations"
-
+  - Various quality levels
+  - Price ranges
+  - Specializations
 security_measures:
   physical:
-    - "Secure facilities"
-    - "Access control"
-    - "Emergency protocols"
+  - Secure facilities
+  - Access control
+  - Emergency protocols
   digital:
-    - "Patient records"
-    - "Implant tracking"
-    - "Payment security"
-
+  - Patient records
+  - Implant tracking
+  - Payment security
 client_relations:
   service_standards:
-    - "Professional conduct"
-    - "Clear communication"
-    - "Aftercare support"
+  - Professional conduct
+  - Clear communication
+  - Aftercare support
   client_types:
-    - "Regular civilians"
-    - "Corporate workers"
-    - "Mercenaries"
-
+  - Regular civilians
+  - Corporate workers
+  - Mercenaries
 technological_aspects:
   equipment:
-    - "Surgical tools"
-    - "Diagnostic systems"
-    - "Monitoring devices"
+  - Surgical tools
+  - Diagnostic systems
+  - Monitoring devices
   software:
-    - "Implant configuration"
-    - "Diagnostic programs"
-    - "Patient records"
-
+  - Implant configuration
+  - Diagnostic programs
+  - Patient records
 emergency_services:
-  availability: "24/7 (select providers)"
+  availability: 24/7 (select providers)
   response_types:
-    - "Critical failures"
-    - "Combat damage"
-    - "Malfunction fixes"
-
+  - Critical failures
+  - Combat damage
+  - Malfunction fixes
 quality_control:
   standards:
-    - "Sterilization protocols"
-    - "Equipment maintenance"
-    - "Staff training"
+  - Sterilization protocols
+  - Equipment maintenance
+  - Staff training
   monitoring:
-    - "Success rates"
-    - "Complication tracking"
-    - "Client feedback"
-
+  - Success rates
+  - Complication tracking
+  - Client feedback
 future_trends:
   developments:
-    - "New implant types"
-    - "Advanced procedures"
-    - "Better safety"
+  - New implant types
+  - Advanced procedures
+  - Better safety
   challenges:
-    - "Cost increases"
-    - "Tech complexity"
-    - "Regulation changes"
+  - Cost increases
+  - Tech complexity
+  - Regulation changes

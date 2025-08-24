@@ -1,216 +1,165 @@
-﻿type: "character"
-title: "Transportation Services"
-category: "service"
-character_id: "service_transportation"
-
+type: character
+title: Transportation Services
+category: service
+character_id: service_transportation
 content:
-  summary: ""
-  
-name: "Transportation Services"
-id: "service_transportation"
-category: "service"
-
+  summary: ''
+name: Transportation Services
+id: service_transportation
 service_type:
-  primary: "Transport"
-  subtype: "Urban Mobility"
-  classification: "Essential Service"
-
+  primary: Transport
+  subtype: Urban Mobility
+  classification: Essential Service
 service_description:
-  overview: "Dopravné služby v Night City"
+  overview: Dopravné služby v Night City
   key_features:
-    - "Taxi služby"
-    - "Verejná doprava"
-    - "Prenájom vozidiel"
-    - "Kurierske služby"
-
+  - Taxi služby
+  - Verejná doprava
+  - Prenájom vozidiel
+  - Kurierske služby
 providers:
   major:
-    - name: "Delamain"
-      location: "City-wide"
-      specialization: "Premium taxi"
-    - name: "NCART"
-      location: "City-wide"
-      specialization: "verejnĂ˝ transit"
-    - name: "Various companies"
-      location: "Various"
-      specialization: "Various"
-
+  - name: Delamain
+    location: City-wide
+    specialization: Premium taxi
+  - name: NCART
+    location: City-wide
+    specialization: verejnĂ˝ transit
+  - name: Various companies
+    location: Various
+    specialization: Various
 service_details:
   basic_services:
-    - "Taxi doprava"
-    - "Metro systém"
-    - "Autobusy"
-    - "Zdieľané vozidlá"
-  
+  - Taxi doprava
+  - Metro systém
+  - Autobusy
+  - Zdieľané vozidlá
   advanced_services:
-    - "VIP transport"
-    - "bezpeÄŤnĂ˝ transit"
-    - "Custom routes"
-    - "Special vehicles"
-
+  - VIP transport
+  - bezpeÄŤnĂ˝ transit
+  - Custom routes
+  - Special vehicles
 business_model:
   payment_methods:
-    - "Eurodolláre"
-    - "Transit cards"
-    - "Corporate accounts"
+  - Eurodolláre
+  - Transit cards
+  - Corporate accounts
   pricing_structure:
-    - "Distance based"
-    - "Service level"
-    - "Time of day"
-
+  - Distance based
+  - Service level
+  - Time of day
 notes_for_elena:
   key_points:
-    - "Rôzne dopravné možnosti"
-    - "Cenové kategórie"
-    - "Bezpečnostné aspekty"
-  
-  roleplay_tips:
-    - "Dopravná terminológia"
-    - "Mestská znalosť"
-    - "Služby klientom"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Trasy a destinácie"
-    - "Cenové informácie"
-    - "Bezpečnostné pravidlá"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 service_types:
   verejnĂ˝:
-    - "Metro"
-    - "Buses"
-    - "Shared vehicles"
+  - Metro
+  - Buses
+  - Shared vehicles
   private:
-    - "Taxis"
-    - "Car rentals"
-    - "VIP services"
-
+  - Taxis
+  - Car rentals
+  - VIP services
 quality_tiers:
   basic:
-    description: "verejnĂ˝ transit"
-    comfort: "Standard"
-    price: "Affordable"
-  
+    description: verejné preprava
+    comfort: Standard
+    price: Affordable
   business:
-    description: "Professional services"
-    comfort: "Good"
-    price: "Premium"
-    
+    description: Zametkové storitve
+    comfort: Good
+    price: Premium
   luxury:
-    description: "VIP transport"
-    comfort: "Excellent"
-    price: "High-end"
-
+    description: VIP prevoz
+    comfort: Excellent
+    price: High-end
 legal_framework:
   licenses:
-    - "Transport licenses"
-    - "Vehicle permits"
-    - "Driver certifications"
+  - Transport licenses
+  - Vehicle permits
+  - Driver certifications
   regulations:
-    - "Safety standards"
-    - "Route permits"
-    - "Price controls"
-
-related_cards:
-  characters:
-    - "char_delamain"
-  locations:
-    - "loc_city_center"
-  services:
-    - "service_security"
-
+  - Safety standards
+  - Route permits
+  - Price controls
+related_cards: null
 market_dynamics:
   demand:
-    - "Daily commute"
-    - "Business travel"
-    - "Tourism"
+  - Daily commute
+  - Business travel
+  - Tourism
   competition:
-    - "Service providers"
-    - "Price ranges"
-    - "Quality levels"
-
+  - Service providers
+  - Price ranges
+  - Quality levels
 security_measures:
   vehicle:
-    - "Safety systems"
-    - "Tracking devices"
-    - "Emergency protocols"
+  - Safety systems
+  - Tracking devices
+  - Emergency protocols
   passenger:
-    - "ID verification"
-    - "Payment security"
-    - "Emergency support"
-
+  - ID verification
+  - Payment security
+  - Emergency support
 client_relations:
   service_standards:
-    - "Punctuality"
-    - "Professionalism"
-    - "Safety"
+  - Punctuality
+  - Professionalism
+  - Safety
   client_types:
-    - "Commuters"
-    - "Business users"
-    - "Tourists"
-
+  - Commuters
+  - Business users
+  - Tourists
 route_management:
   planning:
-    - "Regular routes"
-    - "Custom paths"
-    - "Alternative options"
+  - Regular routes
+  - Custom paths
+  - Alternative options
   optimization:
-    - "Traffic patterns"
-    - "Peak hours"
-    - "Special events"
-
+  - Traffic patterns
+  - Peak hours
+  - Special events
 vehicle_fleet:
   types:
-    - "Standard cars"
-    - "Luxury vehicles"
-    - "Special purpose"
+  - Standard cars
+  - Luxury vehicles
+  - Special purpose
   maintenance:
-    - "Regular service"
-    - "Safety checks"
-    - "Upgrades"
-
+  - Regular service
+  - Safety checks
+  - Upgrades
 safety_protocols:
   standard:
-    - "Driver screening"
-    - "Vehicle inspection"
-    - "Route monitoring"
+  - Driver screening
+  - Vehicle inspection
+  - Route monitoring
   emergency:
-    - "Quick response"
-    - "Medical support"
-    - "Backup systems"
-
+  - Quick response
+  - Medical support
+  - Backup systems
 quality_control:
   monitoring:
-    - "Service timing"
-    - "Vehicle condition"
-    - "Driver performance"
+  - Service timing
+  - Vehicle condition
+  - Driver performance
   improvement:
-    - "Customer feedback"
-    - "Service updates"
-    - "Staff training"
-
+  - Customer feedback
+  - Service updates
+  - Staff training
 future_developments:
   technology:
-    - "AI integration"
-    - "Smart routing"
-    - "Electric vehicles"
+  - AI integration
+  - Smart routing
+  - Electric vehicles
   services:
-    - "New routes"
-    - "Better coverage"
-    - "Enhanced comfort"
-
-
+  - New routes
+  - Better coverage
+  - Enhanced comfort
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak

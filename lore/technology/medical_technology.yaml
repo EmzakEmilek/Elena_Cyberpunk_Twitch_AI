@@ -1,78 +1,41 @@
-﻿type: "economy"
-title: "Medical Technology"
-category: ""
-economy_id: ""
-
-content:
-  summary: "pokroÄŤilĂ˝ medical and healthcare technology systems"
-  
-name: Medical Technology
 type: technology
+title: 'Medical Technology '
+category: ''
+economy_id: ''
+content:
+  summary: 'pokroÄŤilĂ˝ medical and healthcare technology systems '
+name: Medical Technology
 description: pokroÄŤilĂ˝ medical and healthcare technology systems
-details: |
-  Medical technology encompasses cutting-edge healthcare systems and treatment technologies.
-
-  Technology Areas:
-  - Diagnostic Systems
-    * Neural scanning
-    * Molecular analysis
-    * Real-time monitoring
-    * AI diagnostics
-  - Treatment Tech
-    * Automated surgery
-    * Nano-treatment
-    * Gene therapy
-    * Regeneration systems
-
-  Medical Systems:
-  - Emergency Care
-    * Trauma units
-    * Auto-docs
-    * Field treatment
-    * Crisis response
-  - Routine Care
-    * Health monitoring
-    * Preventive care
-    * Chronic management
-    * Recovery systems
-
-  pokroÄŤilĂ˝ Features:
-  - AI Integration
-    * Diagnosis support
-    * Treatment planning
-    * Patient monitoring
-    * Research analysis
-  - Remote Care
-    * Telemedicine
-    * Remote surgery
-    * Mobile treatment
-    * Emergency response
-
+details: "Medical technology encompasses cutting-edge healthcare systems and treatment\
+  \ technologies.\n\nTechnology Areas:\n- Diagnostic Systems\n  * Neural scanning\n\
+  \  * Molecular analysis\n  * Real-time monitoring\n  * AI diagnostics\n- Treatment\
+  \ Tech\n  * Automated surgery\n  * Nano-treatment\n  * Gene therapy\n  * Regeneration\
+  \ systems\n\nMedical Systems:\n- Emergency Care\n  * Trauma units\n  * Auto-docs\n\
+  \  * Field treatment\n  * Crisis response\n- Routine Care\n  * Health monitoring\n\
+  \  * Preventive care\n  * Chronic management\n  * Recovery systems\n\npokroÄŤilĂ˝\
+  \ Features:\n- AI Integration\n  * Diagnosis support\n  * Treatment planning\n \
+  \ * Patient monitoring\n  * Research analysis\n- Remote Care\n  * Telemedicine\n\
+  \  * Remote surgery\n  * Mobile treatment\n  * Emergency response\n"
 importance: Critical healthcare technology
 common_locations:
-  - Hospitals
-  - Medical centers
-  - Emergency facilities
-  - Research labs
+- Hospitals
+- Medical centers
+- Emergency facilities
+- Research labs
 relationships:
-  - Biotechnology Advances
-  - Healthcare Structure
-  - Medical Services Market
-  - Cyberware Systems
-
-
+- Biotechnology Advances
+- Healthcare Structure
+- Medical Services Market
+- Cyberware Systems
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

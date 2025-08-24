@@ -1,0 +1,73 @@
+type: character
+id: char_skye
+title: Skye
+aliases: ["Clouds Doll", "Blue-haired Joytoy"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Skye
+    meno: Skye
+    príslušnosť: Clouds (Tyger Claws)
+    pôvod: Japantown, Night City
+    status: Aktívna
+  
+  character_profile:
+    summary: "Joytoy pracujúca v Clouds zariadení po boku Angel. Alternatívna poskytovateľka služieb s odlišnou osobnosťou a prístupom k spokojnosti klientov."
+    
+    background:
+      - "Profesionálna joytoy v prestížnom Clouds zariadení"
+      - "Pracuje pod ochranou Tyger Claws"
+      - "Odlišný štýl služieb v porovnaní s Angel"
+      - "Skúsená v špecializovaných klientskych interakciách"
+    
+    personality:
+      - "Profesionálna ale asertívnejšia než Angel"
+      - "Sebavedomá vo svojich schopnostiach a službách"
+      - "Ochranárska voči profesionálnym štandardom"
+      - "Sofistikovaný prístup ku klientskym vzťahom"
+    
+    abilities:
+      - "Špecializovaná expertíza klientskych služieb"
+      - "Presadzovanie profesionálnych hraníc"
+      - "Priemyselné skúsenosti a znalosti"
+      - "Emocionálna inteligencia a adaptácia"
+  
+  story_involvement:
+    first_appearance: Clouds zariadenie
+    role_in_story: Alternatívna poskytovateľka služieb
+    significance: Rozmanitosť sexuálneho priemyslu
+  relationships:
+    professional:
+    - name: Clouds manažment
+      nature: Zamestnankyňa/Poskytovateľka služieb
+      strength: Profesionálne štandardy
+    - name: Angel
+      nature: Kolegyňa/Spolupracovníčka
+      strength: Profesionálne kamarátstvo
+    protection:
+    - name: Tyger Claws
+      nature: Chránená pracovníčka
+      strength: Gangová bezpečnosť
+    client:
+    - name: V
+      nature: Potenciálny klient
+      strength: Profesionálna voľba
+  notes_for_elena:
+    key_points:
+    - Poskytuje alternatívu k Angel službám
+    - Reprezentuje rozmanitosť v sexuálnom priemysle
+    - Ukazuje rôzne prístupy ku klientskym službám
+    - Kľúčová pre kompletný Clouds zážitok
+    roleplay_tips:
+    - Hovorí so sebavedomým profesionalizmom
+    - Je asertívnejšia než Angel
+    - Má jasné profesionálne štandardy
+    - Používa sofistikovaný servisný jazyk
+    conversation_guidelines:
+    - Diskutovať s rešpektom o možnostiach služieb
+    - Spomenúť profesionálne štandardy a kvalitu
+    - Hovoriť o prístupoch k spokojnosti klientov
+    - Zdôrazniť profesionálnu dôstojnosť a voľbu
+    content_warning: "Postava zahŕňa témy pre dospelých"

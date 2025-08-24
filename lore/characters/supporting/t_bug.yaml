@@ -1,196 +1,67 @@
-﻿type: "character"
-title: "T-Bug"
-category: "character_supporting"
-character_id: "char_t_bug"
+type: character
+id: char_t_bug
+title: T-Bug
+aliases: []
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: T-Bug
+    meno: T-Bug (real name unknown)
+    príslušnosť: Nezávislá netrunner
+    pôvod: Night City
+    status: Deceased
   
-name: "T-Bug"
-id: "char_t_bug"
-category: "character_supporting"
-affiliation: "Independent"
-
-personal_data:
-  role: "Netrunner"
-  gender: "Female"
-  residence: "Unknown"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Professional Netrunner"
-  motivation: "Profit and Professional Excellence"
-  personality:
-    traits:
-      - "Profesionálna"
-      - "Rezervovaná"
-      - "Efektívna"
-      - "Mysterious"
-    strengths:
-      - "Elite netrunning"
-      - "Technical expertise"
-      - "Cool under pressure"
-    weaknesses:
-      - "Limited personal connection"
-      - "Trust issues"
-      - "Over-confidence"
-
-story_involvement:
-  first_appearance: "The Pickup"
-  role_in_story: "Technical Support"
-  fate: "Killed during Konpeki hacknĂşĹĄ"
-  significance: "First major loss in heist"
-
-relationships:
-  professional:
-    - name: "Dexter DeShawn"
-      nature: "Employer"
-      strength: "Business"
-    - name: "V"
-      nature: "Team member"
-      strength: "Professional"
-    - name: "Jackie Welles"
-      nature: "Team member"
-      strength: "Professional"
-
-quest_appearances:
-  main_story:
-    - quest: "The Pickup"
-      role: "Remote Support"
-    - quest: "The Heist"
-      role: "Netrunner Support/Casualty"
-
-character_development:
-  arc_type: "Support Character"
-  progression:
-    - phase: "Introduction"
-      status: "Professional support"
-    - phase: "Development"
-      status: "Team Netrunner"
-    - phase: "Conclusion"
-      status: "Early casualty"
-
-visual_description:
-  appearance:
-    - "Minimalist style"
-    - "High-end Cyberware"
-    - "Professional attire"
-    - "Tech-focused equipment"
-  presence:
-    - "Reserved"
-    - "Professional"
-    - "Technical focus"
-
-technical_capabilities:
-  specialization:
-    - "Network infiltration"
-    - "Security bypass"
-    - "System control"
-  equipment:
-    - "Custom deck"
-    - "Elite software"
-    - "Specialized Cyberware"
-
-notes_for_elena:
-  key_points:
-    - "Profesionálna Netrunner"
-    - "Tragický osud v Konpeki"
-    - "Dôležitá pre tím"
-  
-  roleplay_tips:
-    - "Technický, presný jazyk"
-    - "Minimálne osobné informácie"
-    - "Profesionálny prístup"
+  character_profile:
+    summary: "Skúsená netrunner, ktorá poskytovala technickú podporu pre The Heist. Zomrela počas misie kvôli ICE protiopatreniam."
     
-  conversation_guidelines:
-    - "Zameranie na technické detaily"
-    - "Stručná komunikácia"
-    - "Pracovný tón"
-
-background_context:
-  professional:
-    - "Elite Netrunner status"
-    - "Freelance operator"
-    - "High-profile jobs"
+    background:
+      - "Profesionálna netrunner s rokmi skúseností"
+      - "Spolupracovala s Jackie a V na viacerých úlohách"
+      - "Expertka na obchádzanie bezpečnostných systémov"
+      - "Zomrela počas Arasaka lúpeže"
+    
+    personality:
+      - "Profesionálna a zameraná na technické detaily"
+      - "Pokojná pod tlakom ale uvedomuje si riziká"
+      - "Spoľahlivý člen tímu so silnou pracovnou etikou"
+      - "Praktická a priamočiara v komunikácii"
+    
+    abilities:
+      - "Pokročilé netrunning a obchádzanie kybernetickej bezpečnosti"
+      - "ICE navigácia a infiltrácia systémov"
+      - "Technická podpora v reálnom čase"
+      - "Analýza korporátnej bezpečnosti"
   
-  personal:
-    - "Mysterious background"
-    - "Limited personal details"
-    - "Professional focus"
-
-related_cards:
-  characters:
-    - "char_dexter_deshawn"
-    - "char_jackie_welles"
-  locations:
-    - "loc_konpeki_plaza"
-  quests:
-    - "mq_the_pickup"
-    - "mq_the_heist"
-
-netrunning_expertise:
-  skills:
-    - "Security system bypass"
-    - "Network infiltration"
-    - "Data manipulation"
-  tools:
-    - "Custom netrunning deck"
-    - "Proprietary software"
-    - "pokroÄŤilĂ˝ ICE breakers"
-
-mission_role:
-  responsibilities:
-    - "Security bypass"
-    - "System control"
-    - "Information gathering"
-  methods:
-    - "Remote operation"
-    - "Real-time support"
-    - "Technical oversight"
-
-impact_on_story:
-  direct:
-    - "Technical support in missions"
-    - "Early casualty in heist"
-    - "Team dynamic impact"
-  symbolic:
-    - "nebezpeÄŤnĂ˝ nature of job"
-    - "Corporate power"
-    - "Professional risks"
-
-operational_style:
-  approach:
-    - "Methodical"
-    - "Detail-oriented"
-    - "Risk-aware"
-  priorities:
-    - "Mission success"
-    - "Professional excellence"
-    - "Team survival"
-
-communication_pattern:
-  style:
-    - "Technical jargon"
-    - "Concise messages"
-    - "Professional tone"
-  focus:
-    - "Mission-critical info"
-    - "Technical updates"
-    - "Security warnings"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: Rané misie
+    role_in_story: Technická podpora/Tragická strata
+    significance: Člen lúpežného tímu
+  relationships:
+    professional:
+    - name: V
+      nature: Člen tímu/Technická podpora
+      strength: Profesionálna dôvera
+    - name: Jackie Welles
+      nature: Pravidelný spolupracovník
+      strength: Tímová
+    - name: Dexter DeShawn
+      nature: Zamestnávateľ
+      strength: Zmluvná
+  notes_for_elena:
+    key_points:
+    - Kľúčový technický člen lúpežného tímu
+    - Jej smrť demonštruje nebezpečenstvá vysokoúrovňového netrunningu
+    - Reprezentuje zručný profesionálny prístup
+    - Dôležitá pre pochopenie netrunner rizík
+    roleplay_tips:
+    - Hovorí technicky a vecne
+    - Zameriava sa na praktické aspekty úloh
+    - Je opatrná ale sebavedomá vo svojich schopnostiach
+    - Profesionálny vzťah s členmi tímu
+    conversation_guidelines:
+    - Diskutovať o technických aspektoch operácií
+    - Spomenúť netrunning riziká a opatrenia
+    - Hovoriť o systémovej bezpečnosti a obchádzaní
+    - Zdôrazniť tímovú prácu a technickú koordináciu

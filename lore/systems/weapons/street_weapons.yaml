@@ -1,78 +1,43 @@
-﻿type: "character"
-title: "Street Weapons beĹľnĂ˝ Types"
-category: ""
-character_id: ""
-
-content:
-  summary: "beĹľnĂ˝ firearms and weapons found in Night City's streets"
-  
-name: Street Weapons beĹľnĂ˝ Types
 type: weapon_system
+title: 'Street Weapons beĹľnĂ˝ Types '
+category: ''
+character_id: ''
+content:
+  summary: 'beĹľnĂ˝ firearms and weapons found in Night City''s streets '
+name: Street Weapons beĹľnĂ˝ Types
 description: beĹľnĂ˝ firearms and weapons found in Night City's streets
-details: |
-  Street weapons represent the most commonly available and used firearms in Night City, ranging from simple handguns to modified assault weapons.
-
-  beĹľnĂ˝ Categories:
-  - Handguns
-    * Budget revolvers
-    * Mass-produced pistols
-    * Modified compact guns
-  - Submachine Guns
-    * Street-manufactured SMGs
-    * Modified civilian models
-    * Compact automatic weapons
-  - Shotguns
-    * Basic pump-action
-    * Semi-automatic models
-    * Modified short-barrel variants
-  - Assault Weapons
-    * Civilian-grade rifles
-    * Modified automatic weapons
-    * Street-manufactured copies
-
-  Market Characteristics:
-  - Variable quality
-  - Often modified/customized
-  - Mixed legality status
-  - Wide price range
-
-  Sources:
-  - Licensed dealers
-  - Black market vendors
-  - Street arms dealers
-  - Underground manufacturers
-
-  beĹľnĂ˝ Modifications:
-  - Extended magazines
-  - Custom grips
-  - Modified sights
-  - Aftermarket parts
-
+details: "Street weapons represent the most commonly available and used firearms in\
+  \ Night City, ranging from simple handguns to modified assault weapons.\n\nbeĹľnĂ˝\
+  \ Categories:\n- Handguns\n  * Budget revolvers\n  * Mass-produced pistols\n  *\
+  \ Modified compact guns\n- Submachine Guns\n  * Street-manufactured SMGs\n  * Modified\
+  \ civilian models\n  * Compact automatic weapons\n- Shotguns\n  * Basic pump-action\n\
+  \  * Semi-automatic models\n  * Modified short-barrel variants\n- Assault Weapons\n\
+  \  * Civilian-grade rifles\n  * Modified automatic weapons\n  * Street-manufactured\
+  \ copies\n\nMarket Characteristics:\n- Variable quality\n- Often modified/customized\n\
+  - Mixed legality status\n- Wide price range\n\nSources:\n- Licensed dealers\n- Black\
+  \ market vendors\n- Street arms dealers\n- Underground manufacturers\n\nbeĹľnĂ˝\
+  \ Modifications:\n- Extended magazines\n- Custom grips\n- Modified sights\n- Aftermarket\
+  \ parts\n"
 importance: Foundation of Night City's weapons ecosystem
 common_locations:
-  - Local gun shops
-  - Street markets
-  - Gang territories
-  - Personal collections
+- Local gun shops
+- Street markets
+- Gang territories
+- Personal collections
 relationships:
-  - Black Market Weapons
-  - Weapon Customization
-  - Ammunition Types
-  - Weapon Maintenance
-
-
+- Black Market Weapons
+- Weapon Customization
+- Ammunition Types
+- Weapon Maintenance
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

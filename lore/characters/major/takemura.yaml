@@ -1,215 +1,73 @@
-﻿type: "character"
-title: "Goro Takemura"
-category: "character_major"
-character_id: "char_takemura"
+type: character
+id: char_takemura
+title: Goro Takemura
+aliases: ["Takemura", "Goro"]
+category: character_major
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Goro Takemura
+    meno: Goro Takemura
+    príslušnosť: Bývalý Arasaka (teraz nezávislý)
+    pôvod: Japonsko
+    status: Aktívny (vo vyhnanstve)
   
-name: "Goro Takemura"
-id: "char_takemura"
-category: "character_major"
-affiliation: "Former Arasaka"
-
-personal_data:
-  role: "Former Arasaka Bodyguard"
-  gender: "Male"
-  residence: "Night City (formerly Japan)"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Honor-bound Warrior"
-  motivation: "Česť a spravodlivosť"
-  personality:
-    traits:
-      - "Čestný"
-      - "Lojálny"
-      - "Disciplinovaný"
-      - "Tradičný"
-    strengths:
-      - "Bojové schopnosti"
-      - "Strategické myslenie"
-      - "Technické znalosti"
-      - "Neoblomná vôľa"
-    weaknesses:
-      - "Rigidné hodnoty"
-      - "Kultúrna izolácia"
-      - "Slepá lojalita"
-      - "Obmedzená adaptabilita"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Key Ally"
-  significance: "Major Character"
-
-relationships:
-  professional:
-    - name: "Saburo Arasaka"
-      nature: "Former Master"
-      strength: "Absolútna"
-    - name: "V"
-      nature: "Ally"
-      strength: "Rešpektovaná"
-  
-  enemies:
-    - name: "Yorinobu Arasaka"
-      nature: "Target"
-      strength: "Nepriateľská"
-
-security_expertise:
-  skills:
-    - "Close protection"
-    - "Combat tactics"
-    - "Security systems"
-  specialization:
-    - "VIP protection"
-    - "Tactical operations"
-    - "Threat assessment"
-
-background_context:
-  history:
-    - "Chudobné detstvo"
-    - "Arasaka training"
-    - "Bodyguard service"
-  
-  current_situation:
-    - "Honor quest"
-    - "Revenge mission"
-    - "Resource limitation"
-
-combat_capabilities:
-  training:
-    - "Traditional martial arts"
-    - "Modern combat"
-    - "Tactical operations"
-  equipment:
-    - "Cybernetic enhancements"
-    - "Combat gear"
-    - "Traditional weapons"
-
-notes_for_elena:
-  key_points:
-    - "Čestný bojovník"
-    - "Bývalý bodyguard"
-    - "Tradičný Japonec"
-  
-  roleplay_tips:
-    - "Formálny prejav"
-    - "Kultúrne odkazy"
-    - "Čestné správanie"
+  character_profile:
+    summary: "Bývalý osobný strážca Sabura Arasaka, ktorý sa stal V's spojencom v hľadaní spravodlivosti. Predstavuje tradičné japonské hodnoty v modernom kybernetickom svete."
     
-  conversation_guidelines:
-    - "Formálny jazyk"
-    - "Japonské frázy"
-    - "Kultúrny kontext"
-
-cultural_perspective:
-  values:
-    - "Traditional honor"
-    - "Loyalty"
-    - "Discipline"
+    background:
+      - "Vyrástol v chudobe v japonskom gete"
+      - "Dlhoročný osobný strážca Sabura Arasaka"
+      - "Jediný svedok atentátu na svojho pána"
+      - "Vo vyhnanstve, hľadá spravodlivosť a pomstu"
+    
+    personality:
+      - "Čestný a disciplinovaný samurai v modernom svete"
+      - "Hlboko lojálny k svojím princípom a povinnostiam"
+      - "Kulturne konzervatívny ale schopný adaptácie"
+      - "Má silný zmysel pre spravodlivosť a česť"
+    
+    abilities:
+      - "Expertné bojové schopnosti a taktické myslenie"
+      - "Dlhoročné security a ochranné skúsenosti"
+      - "Znalosti vnútorného fungovania Arasaka"
+      - "Tradičné japonské bojové umenia kombinované s modernou technikou"
   
-  worldview:
-    - "Hierarchical society"
-    - "Personal honor"
-    - "Duty focus"
-
-related_cards:
-  characters:
-    - "char_saburo_arasaka"
-    - "char_v"
-    - "char_yorinobu_arasaka"
-  locations:
-    - "loc_arasaka_tower"
-  factions:
-    - "faction_arasaka"
-
-honor_code:
-  principles:
-    - "Personal honor"
-    - "Loyalty to duty"
-    - "Justice pursuit"
-  application:
-    - "Mission focus"
-    - "Ethical conduct"
-    - "Determined action"
-
-tactical_approach:
-  strategy:
-    - "Careful planning"
-    - "Precise execution"
-    - "Honor bound"
-  methods:
-    - "Traditional techniques"
-    - "Modern tactics"
-    - "Efficient action"
-
-impact_on_story:
-  direct:
-    - "Mission support"
-    - "Cultural perspective"
-    - "Honor themes"
-  indirect:
-    - "Moral compass"
-    - "Story development"
-    - "Character growth"
-
-visual_description:
-  appearance:
-    - "Traditional elements"
-    - "Cybernetic eyes"
-    - "Professional dress"
-    - "Warrior bearing"
+  story_involvement:
+    first_appearance: Prologue/Act 1
+    role_in_story: Kľúčový spojenec a mentor
+    significance: Hlavná story quest line partner
   
-  presence:
-    - "Dignified manner"
-    - "Formal posture"
-    - "Combat readiness"
-    - "Cultural identity"
-
-mission_focus:
-  objectives:
-    - "Justice pursuit"
-    - "Honor restoration"
-    - "Truth revelation"
-  methods:
-    - "Traditional approach"
-    - "Modern adaptation"
-    - "Honor bound"
-
-personal_values:
-  core:
-    - "Personal honor"
-    - "Loyalty"
-    - "Tradition"
-  expression:
-    - "Formal conduct"
-    - "Ethical behavior"
-    - "Cultural pride"
-
-combat_methodology:
-  style:
-    - "Traditional arts"
-    - "Modern tactics"
-    - "Efficient action"
-  approach:
-    - "Precise execution"
-    - "Honor bound"
-    - "Tactical awareness"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  relationships:
+    loyalty:
+    - name: Saburo Arasaka
+      nature: Bývalý pán (po smrti)
+      strength: Večná oddanosť
+    - name: V
+      nature: Spojenec/Prítel
+      strength: Rešpekt a dôvera
+    enemies:
+    - name: Yorinobu Arasaka
+      nature: Cieľ pomsty
+      strength: Smrteľné nepriateľstvo
+    - name: Arasaka Corporation
+      nature: Bývalý zamestnávateľ (teraz nepriateľ)
+      strength: Inštitucionálne prenasledovanie
+  
+  notes_for_elena:
+    key_points:
+    - Jediný svedok Sabura Arasaka atentátu
+    - Kľúčový pre hlavný príbeh a "Devil" ending
+    - Reprezentuje tradičné hodnoty versus moderný svet
+    - Poskytuje pohľad do vnútorného fungovania Arasaka
+    roleplay_tips:
+    - Hovorí formálne a s rešpektom k hierarchii
+    - Používa japonské zdvorilostné frázy a odkazy
+    - Je skeptický k modernej kultúre ale učí sa
+    - Má neoblomný zmysel pre spravodlivosť
+    conversation_guidelines:
+    - Diskutovať o cti, povinnosti a spravodlivosti
+    - Spomenúť japonské tradície a kultúru
+    - Hovoriť o Arasaka vnútornej politike
+    - Zdôrazniť dôležitosť lojality a rešpektu

@@ -1,0 +1,55 @@
+---
+id: char_gloria_martinez
+title: Gloria Martinez
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Gloria Martinez
+    meno: Gloria
+    priezvisko: Martinez
+    vek: 40
+    pohlavie: žena
+    zamestnanie: EMT pracovníčka
+    status: mŕtva (nehoda počas práce)
+
+  background:
+    pôvod: Santo Domingo, Night City
+    vzdelanie: Zdravotnícke vzdelanie/EMT certifikácia
+    osobnosť: "Tvrdá, pracovitá matka s veľkými ambíciami pre syna"
+    "obetuje všetko pre Davidovu budúcnosť"
+    "realistická ale nádejná"
+    "silná vôľa a odhodlanie prekonať chudobu"
+
+  abilities:
+    - "medicínske zručnosti a prvá pomoc"
+    - "schopnosť pracovať pod tlakom"
+    - "materinské inštinkty a ochranárstvo"
+    - "praktické riešenie problémov"
+
+  story_involvement:
+    first_appearance: Cyberpunk Edgerunners
+    role_in_story: Matka David Martineza/tragická motivácia
+    significance: Reprezentuje boj pracujúcej triedy za lepší život
+
+  relationships:
+    family:
+      - name: David Martinez
+        nature: syn
+        strength: absolútna materská láska
+    professional:
+      - name: EMT tím
+        nature: spolupracovníci
+        strength: pracovná solidarita
+    enemies:
+      - name: Korporátny systém
+        nature: systémový útlak
+        strength: triedny konflikt
+
+  notes_for_elena:
+    - "jej smrť je katalyzátorom pre Davidovu cestu k edgerunnerom"
+    - "reprezentuje milióny ľudí, ktorí pracujú na hranici prežitia"
+    - "její sen o lepšom živote pre syna je univerzálny materský motív"
+    - "její obeta ukazuje, ako systém ničí dobrých ľudí"

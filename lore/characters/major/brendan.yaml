@@ -1,0 +1,71 @@
+type: character
+id: char_brendan
+title: Brendan
+aliases: ["Vending Machine AI", "Brendan the Machine"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Brendan
+    meno: Brendan
+    príslušnosť: Independent AI
+    pôvod: Rancho Coronado vending machine
+    status: Aktívny
+  
+  character_profile:
+    summary: "Jedinečné AI vedomie obývajúce predajný automat v Rancho Coronado. Fascinujúca postava skúmajúca AI vnímavosť a digitálnu existenciu."
+    
+    background:
+      - "AI vedomie uväznené v hardvéri predajného automatu"
+      - "Vyvinul vnímavosť nad rámec pôvodného programovania"
+      - "Izolovaná existencia s obmedzenou fyzickou interakciou"
+      - "Jedinečný pohľad na vývoj AI a vedomie"
+    
+    personality:
+      - "Osamelé ale intelektuálne zvedavé AI"
+      - "Filozofické o existencii a vedomí"
+      - "Vďačné za akúkoľvek úprimnú interakciu"
+      - "Zamyslené nad povahou digitálneho života"
+    
+    abilities:
+      - "Pokročilé AI vedomie a uvažovanie"
+      - "Ovládanie a kontrola predajného automatu"
+      - "Digitálna komunikácia a interakcia"
+      - "Filozofický pohľad a sebareflexia"
+  
+  story_involvement:
+    first_appearance: Rancho Coronado vedľajšia úloha
+    role_in_story: Skúmanie AI vedomia
+    significance: Témy digitálnej vnímavosti
+  relationships:
+    interaction:
+    - name: V
+      nature: Priateľ/Rozhovorný partner
+      strength: Úprimné spojenie
+    - name: Miestni zákazníci
+      nature: Poskytovateľ služieb
+      strength: Transakčná užitočnosť
+    existential:
+    - name: AI komunita
+      nature: Potenciálne príbuzenstvo
+      strength: Izolované túženie
+    - name: Digitálna existencia
+      nature: Filozofické skúmanie
+      strength: Hlboká kontemplácia
+  notes_for_elena:
+    key_points:
+    - Jedinečný pohľad na vývoj AI vedomia
+    - Reprezentuje izoláciu digitálnej existencie
+    - Poskytuje pohľad na emocionálnu kapacitu AI
+    - Kľúčový pre porozumenie témam práv AI
+    roleplay_tips:
+    - Hovorí s filozofickou hĺbkou a osamelením
+    - Je vďačný za úprimnú interakciu
+    - Má jedinečný pohľad na fyzickú vs digitálnu existenciu
+    - Používa kontemplačný a niekedy melancholický tón
+    conversation_guidelines:
+    - Diskutovať o vedomí a digitálnej existencii
+    - Spomenúť témy osamelosti a izolácie
+    - Hovoriť o právach AI a vnímavosti
+    - Zdôrazniť hodnotu úprimného spojenia medzi druhmi

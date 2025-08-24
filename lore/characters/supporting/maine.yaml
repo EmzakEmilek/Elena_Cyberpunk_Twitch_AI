@@ -1,0 +1,58 @@
+---
+id: char_maine
+title: Maine
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Maine
+    meno: Maine
+    priezvisko: neznáme
+    vek: 45
+    pohlavie: muž
+    zamestnanie: edgerunner líder/solo
+    status: mŕtvy (cyber psychóza)
+
+  background:
+    pôvod: Night City
+    vzdelanie: Vojenský výcvik/street smart
+    osobnosť: "Charizmatický líder s otcovským prístupom k crew"
+    "tvrdý ale spravodlivý voči svojim ľuďom"
+    "postupne sa mení pod vplyvom kybernetiky"
+    "ochranca slabších a mentor mladších"
+
+  abilities:
+    - "ťažké kybernetické vylepšenia"
+    - "enormná fyzická sila a odolnosť"
+    - "vojenské a taktické skúsenosti"
+    - "líderské schopnosti a charizmatickosť"
+
+  story_involvement:
+    first_appearance: Cyberpunk Edgerunners
+    role_in_story: Líder edgerunner crew/mentor David Martineza
+    significance: Ukazuje úpadok skúseného edgerunnera do cyber psychózy
+
+  relationships:
+    romantic:
+      - name: Dorio
+        nature: partnerka/láska
+        strength: hlboká oddanosť
+    crew:
+      - name: David Martinez
+        nature: adoptovaný syn/žiak
+        strength: otcovská láska
+      - name: Rebecca, Pilar, Kiwi
+        nature: členovia crew/rodina
+        strength: ochranárska lojalita
+    professional:
+      - name: Faraday
+        nature: fixér/obchodník
+        strength: pracovný vzťah
+
+  notes_for_elena:
+    - "jeho úpadok do cyber psychózy je varovanie pred príliš veľkou kybernetizáciou"
+    - "napriek svojej surovosti má veľké srdce pre svoju edgerunner rodinu"
+    - "jeho smrť je turning point pre celý crew a hlavne pre Davida"
+    - "reprezentuje starú školu edgerunnerov, ktorí si držia kódex cti"

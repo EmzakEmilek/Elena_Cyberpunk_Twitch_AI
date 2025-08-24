@@ -1,66 +1,33 @@
-﻿type: "economy"
-title: "Operating System Types"
-category: ""
-economy_id: ""
-
-content:
-  summary: "Various cybernetic operating systems for enhanced neural processing"
-  
-name: Operating System Types
 type: Cyberware
-description: Various cybernetic operating systems for enhanced neural processing
-details: |
-  Cybernetic operating systems provide the fundamental software framework for managing and integrating Cyberware functions.
-
-  System Types:
-  - Basic OS
-  - Military grade
-  - Corporate custom
-  - Black market variants
-
-  Core Functions:
-  - Cyberware integration
-  - Process management
-  - Resource allocation
-  - Security protocols
-
-  Features:
-  - Real-time processing
-  - Multi-tasking
-  - System optimization
-  - Error handling
-
-  Security Levels:
-  - Consumer grade
-  - Professional
-  - Military spec
-  - Custom security
-
+title: 'Operating System Types '
+category: ''
+economy_id: ''
+content:
+  summary: Rôzne kybernetické operačné systémy pre zvyšovanie procesov v mozgu
+name: Operating System Types
+description: Različne kybernetične operacijske systémy za zvišanje procesov nervovog
+  sistema
+details: '- Osnovni OS'
 importance: Fundamental Cyberware management system
 common_locations:
-  - Ripperdoc clinics
-  - Corporate facilities
-  - Military installations
-  - Tech centers
+- Ripperdoc clinics
+- Corporate facilities
+- Military installations
+- Tech centers
 relationships:
-  - Neural Implants
-  - Cyberdeck Systems
-  - Memory Implants
-  - Nervous System Upgrades
-
-
+- Neural Implants
+- Cyberdeck Systems
+- Memory Implants
+- Nervous System Upgrades
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

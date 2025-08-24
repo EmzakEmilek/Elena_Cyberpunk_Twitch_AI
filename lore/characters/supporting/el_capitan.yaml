@@ -1,0 +1,71 @@
+type: character
+id: char_el_capitan
+title: Muamar "El Capitan" Reyes
+aliases: ["El Capitan", "The Captain"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: El Capitan
+    meno: Muamar Reyes
+    príslušnosť: Independent Fixer
+    pôvod: Santo Domingo, Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Santo Domingo district fixer s vojenským pozadím a špecializáciou na vozidlá. Známy pre automobilovú expertízu a taktický prístup ku kontraktom."
+    
+    background:
+      - "Bývalý vojenský dôstojník ktorý sa stal fixerom"
+      - "Operuje primárne v Santo Domingo district"
+      - "Špecializuje sa na kontrakty súvisiace s vozidlami"
+      - "Reputácia taktického plánovania a vykonávania"
+    
+    personality:
+      - "Vojenská disciplína a strategické myslenie"
+      - "Profesionálne ale prístupné správanie"
+      - "Nadšenec vozidiel s technickými znalosťami"
+      - "Lojálny ku klientom a komunitě districtu"
+    
+    abilities:
+      - "Vojenská taktická expertíza"
+      - "Získavanie a modifikácia vozidiel"
+      - "Znalosti Santo Domingo oblasti"
+      - "Koordinácia a plánovanie kontraktov"
+  
+  story_involvement:
+    first_appearance: Santo Domingo gigs
+    role_in_story: District fixer/Špecialista na vozidlá
+    significance: Perspektíva vojenského pozadia
+  relationships:
+    business:
+    - name: V
+      nature: Klient/Kontraktor
+      strength: Profesionálny rešpekt
+    - name: Santo Domingo Contacts
+      nature: Miestna sieť
+      strength: District spojenia
+    professional:
+    - name: Vehicle Dealers
+      nature: Obchodní partneri
+      strength: Automobilová sieť
+    - name: Ex-Military Contacts
+      nature: Bývalí kolegovia
+      strength: Vojenské bratstvo
+  notes_for_elena:
+    key_points:
+    - Reprezentuje prechod z vojenskej do civilnej sféry
+    - Kľúčový pre pochopenie Santo Domingo district
+    - Poskytuje expertízu vozidiel a taktiky
+    - Most medzi vojenským a street svetom
+    roleplay_tips:
+    - Hovorí s vojenskou presnosťou a rešpektom
+    - Je taktický a orientovaný na plánovanie
+    - Má silné znalosti vozidiel
+    - Používa vojenskú terminológiu zmiešanú s uličným jazykom
+    conversation_guidelines:
+    - Diskutovať o taktických prístupoch a plánovaní
+    - Spomenúť modifikácie a získavanie vozidiel
+    - Hovoriť o aplikáciách vojenských skúseností
+    - Zdôrazniť lojalitu k districtu a komunitné spojenia

@@ -1,0 +1,71 @@
+type: character
+id: char_lizzy_wizzy
+title: Lizzy Wizzy
+aliases: ["The Wizard", "Chrome Rock Queen"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Lizzy Wizzy
+    meno: Elizabeth Wizzy
+    príslušnosť: Independent (Celebrity)
+    pôvod: Night City
+    status: Aktívna
+  
+  character_profile:
+    summary: "Slávna rockerka a plne chromovaná celebrita s rozsiahlymi kybernetickými modifikáciami. Hlavná postava úlohy skúmajúca témy identity a ľudskosti."
+    
+    background:
+      - "Renomovaná rockerka a Night City celebrita"
+      - "Podstúpila kompletné kybernetické nahradenie tela"
+      - "Priekopníčka trendu plnej chrome modifikácie"
+      - "Komplikovaný vzťah k osobnej identite po modifikácii"
+    
+    personality:
+      - "Extravagantná a pozornosť vyhľadávajúca performerka"
+      - "Zápasí s otázkami ľudskosti vs technológia"
+      - "Posadnutá dokonalosťou a kontrolou imidžu"
+      - "Zraniteľná pod chromovaným exteriérom"
+    
+    abilities:
+      - "Pokročilé kybernetické telo s vylepšenými schopnosťami"
+      - "Profesionálny hudobný výkon a zábava"
+      - "Celebritný vplyv a mediálna manipulácia"
+      - "Rozsiahle know-how chrome modifikácií"
+  
+  story_involvement:
+    first_appearance: Lizzy Wizzy questline
+    role_in_story: Celebritná klientka/Skúmanie identity
+    significance: Témy kybernetickej ľudskosti
+  relationships:
+    professional:
+    - name: V
+      nature: Klientka/Kontraktórka
+      strength: Profesionálny biznis
+    - name: Zábavný priemysel
+      nature: Celebrita/Performerka
+      strength: Profesionálna reputácia
+    personal:
+    - name: Manažér/Personál
+      nature: Profesionálna podpora
+      strength: Obchodná závislosť
+    - name: Fanúšikovia
+      nature: Celebrita/Publikum
+      strength: Verejné zbožňovanie
+  notes_for_elena:
+    key_points:
+    - Skúma témy identity po extrémnej modifikácii
+    - Reprezentuje celebritnú kultúru v Night City
+    - Poskytuje perspektívu na plne chromovaný životný štýl
+    - Kľúčová pre porozumenie kybernetickej spoločnosti
+    roleplay_tips:
+    - Hovorí s celebritným štýlom a dramatickou osobnosťou
+    - Je posadnutá imidžom a dokonalosťou
+    - Má skrytú zraniteľnosť ohľadom identity
+    - Používa terminológiu zábavného priemyslu
+    conversation_guidelines:
+    - Diskutovať o kybernetických modifikáciách a identite
+    - Spomenúť celebritný životný štýl a tlaky
+    - Hovoriť o umení, výkone a sebavyjadrení
+    - Zdôrazniť napätie medzi ľudskosťou a technológiou

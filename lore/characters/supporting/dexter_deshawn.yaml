@@ -1,195 +1,70 @@
-﻿type: "character"
-title: "Dexter DeShawn"
-category: "character_supporting"
-character_id: "char_dexter_deshawn"
+type: character
+id: char_dexter_deshawn
+title: Dexter DeShawn
+aliases: ["Dex"]
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Dexter DeShawn
+    meno: Dexter DeShawn
+    príslušnosť: Nezávislý fixer
+    pôvod: Night City
+    status: Deceased
   
-name: "Dexter DeShawn"
-id: "char_dexter_deshawn"
-category: "character_supporting"
-affiliation: "Independent"
-
-personal_data:
-  role: "Fixer"
-  gender: "Male"
-  residence: "Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Ambiciózny Fixer/Zradca"
-  motivation: "Návrat k sláve"
-  personality:
-    traits:
-      - "Manipulatívny"
-      - "Ambiciózny"
-      - "Zbabelý"
-      - "Charizmatický"
-    strengths:
-      - "Sociálna inteligencia"
-      - "Networking"
-      - "Plánovanie"
-    weaknesses:
-      - "Preceňovanie schopností"
-      - "Zbabelosť"
-      - "Zrada pod tlakom"
-
-story_involvement:
-  first_appearance: "The Pickup"
-  role_in_story: "Quest giver/Zradca"
-  arc_conclusion: "Zabitý Takemura"
-  significance: "Katalyzátor hlavnej zápletky"
-
-relationships:
-  business:
-    - name: "V"
-      nature: "Klient/Obeť"
-      strength: "Komplikovaná"
-    - name: "T-Bug"
-      nature: "Netrunner"
-      strength: "Profesionálna"
-  enemies:
-    - name: "Arasaka"
-      nature: "Strach"
-      strength: "Fatálna"
-
-quest_appearances:
-  main_story:
-    - quest: "The Pickup"
-      role: "Quest Giver"
-    - quest: "The Heist"
-      role: "Orchestrator/Zradca"
-    - quest: "Playing for Time"
-      role: "Antagonista"
-
-available_interactions:
-  dialogues:
-    - type: "Business"
-      topics:
-        - "Job details"
-        - "Payment terms"
-        - "Heist planning"
-    - type: "Personal"
-      topics:
-        - "Past glory"
-        - "Comeback ambitions"
-        - "Night City politics"
-
-character_development:
-  arc_type: "Tragic Villain"
-  progression:
-    - phase: "Introduction"
-      status: "Charizmatický fixer"
-    - phase: "Development"
-      status: "Ambiciózny plánovač"
-    - phase: "Conclusion"
-      status: "Zbabelý zradca"
-
-visual_description:
-  appearance:
-    - "Obézna postava"
-    - "Zlaté implantáty"
-    - "Luxusné oblečenie"
-    - "Charakteristické okuliare"
-  style:
-    - "Okázalý luxus"
-    - "Prehnané doplnky"
-    - "Crime boss estetika"
-
-business_operations:
-  specialization:
-    - "High-stakes heists"
-    - "Corporate jobs"
-    - "Tech theft"
-  network:
-    - "Street contacts"
-    - "Corporate insiders"
-    - "Hired specialists"
-
-notes_for_elena:
-  key_points:
-    - "Falošný mentor figure"
-    - "Symbol nebezpečenstva ambície"
-    - "Tragický koniec"
-  
-  roleplay_tips:
-    - "Preháňať charizmu"
-    - "Skrývať zbabelosť"
-    - "Naznačiť nespoľahlivosť"
+  character_profile:
+    summary: "Legendárny fixer, ktorý organizoval heist na Arasaka a neskôr zradil V a Jackie. Kľúčová postava v začiatku príbehu."
     
-  conversation_guidelines:
-    - "Používať sofistikovaný jazyk"
-    - "Zdôrazňovať profesionalitu"
-    - "Skryté náznaky zrady"
-
-background_context:
-  history:
-    - "Bývalý major league fixer"
-    - "Nútený odchod do úzadia"
-    - "Comeback attempt"
+    background:
+      - "Legendárny fixer s reputáciou v Night City"
+      - "Organizoval 'The Heist' na Arasaka Corporation"
+      - "Mal ambície stať sa kingpin underworld"
+      - "Zradil V a Jackie po neúspešnom heist"
+    
+    personality:
+      - "Charizmatický a sebavedomý v prezentácii"
+      - "Nenásytne ambiciózny a mocichtivý"
+      - "Pragmatický, obetuje ľudí pre vlastné ciele"
+      - "Manipulatívny s falošným charm"
+    
+    abilities:
+      - "Rozsiahle kontakty v Night City underworld"
+      - "Plánovanie komplexných operácií"
+      - "Manipulácia a negotiation skills"
+      - "Prístup k high-end equipment a information"
   
-  reputation:
-    - "Známy v podsvetí"
-    - "Kontroverzná minulosť"
-    - "Mixed track record"
-
-related_cards:
-  characters:
-    - "char_goro_takemura"
-    - "char_t_bug"
-  factions:
-    - "faction_arasaka"
-  locations:
-    - "loc_no_tell_motel"
-  quests:
-    - "mq_the_pickup"
-    - "mq_the_heist"
-    - "mq_playing_for_time"
-
-fate:
-  trigger: "The Heist failure"
-  outcome: "Zabitý Takemura"
-  significance:
-    - "Uzavretie zrady"
-    - "V's pomsta"
-    - "Očistenie reputácie"
-
-business_style:
-  approach:
-    - "Careful planning"
-    - "Risk management"
-    - "Delegate danger"
-  
-  preferences:
-    - "High-profile jobs"
-    - "Corporate targets"
-    - "Tech theft"
-
-impact_on_story:
-  direct:
-    - "Initiates main plot"
-    - "Sets up The Heist"
-    - "Betrays V"
-  
-  symbolic:
-    - "Danger of ambition"
-    - "Night City betrayal"
-    - "Price of fame"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: Act 1
+    role_in_story: Antagonistický quest giver
+    significance: Catalyst pre hlavný príbeh
+  relationships:
+    professional:
+    - name: V
+      nature: Bývalý klient (zradený)
+      strength: Nepriateľská
+    - name: Jackie Welles
+      nature: Bývalý klient (zradený)
+      strength: Nepriateľská
+    - name: Evelyn Parker
+      nature: Spolupracovníčka/Klientka
+      strength: Komplikovaná
+    - name: T-Bug
+      nature: Netrunner tím
+      strength: Profesionálna
+  notes_for_elena:
+    key_points:
+    - Organizoval The Heist, ktorý spustil celý príbeh
+    - Zradil V a Jackie po neúspešnej misii
+    - Reprezentuje nebezpečenstvo práce s fixers
+    - Jeho smrť je súčasť V's character development
+    roleplay_tips:
+    - Hovorí ako charizmatický businessman
+    - Používa smooth talk ale má cold calculation
+    - Prezentuje sa ako profesionál ale je opportunista
+    - Má grandiózne plány a ego
+    conversation_guidelines:
+    - Diskutovať o big leagues a major opportunities
+    - Spomenúť reputation a standing v Night City
+    - Hovoriť o business ako o high-stakes game
+    - Zdôrazniť importance of being "professional"

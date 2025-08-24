@@ -1,0 +1,71 @@
+type: character
+id: char_pepe
+title: Pepe
+aliases: ["Rancho Fighter", "Beat Champion"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Pepe
+    meno: Pepe
+    príslušnosť: Independent Fighter
+    pôvod: Rancho Coronado, Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Podsvetný boxerský šampión v Rancho Coronado district. Súčasť Beat on the Brat bojového okruhu s pôsobivými bojovými schopnosťami."
+    
+    background:
+      - "Etablovaný podsvetný boxerský šampión"
+      - "Súčasť organizovaného bojového okruhu"
+      - "Zástupca Rancho Coronado district"
+      - "Reputácia za technické bojové schopnosti"
+    
+    personality:
+      - "Sebavedomý a zručný bojovník"
+      - "Rešpektuje hodnotných súperov"
+      - "Profesionálny prístup k bojovým športom"
+      - "Komunitný zástupca s miestnou hrdosťou"
+    
+    abilities:
+      - "Pokročilé bojové schopnosti zblízka"
+      - "Boxerské techniky a stratégia"
+      - "Fyzická kondícia a výdrž"
+      - "Znalosti podsvetného bojového okruhu"
+  
+  story_involvement:
+    first_appearance: Beat on the Brat úlohová línia
+    role_in_story: Súper v bojovom okruhu
+    significance: Kultúra bojových športov
+  relationships:
+    fighting:
+    - name: V
+      nature: Bojový súper/Potenciálny rival
+      strength: Bojový rešpekt
+    - name: Bojový okruh
+      nature: Účastník okruhu
+      strength: Profesionálna súťaž
+    community:
+    - name: Rancho Coronado
+      nature: Miestny šampión/Zástupca
+      strength: Hrdosť na okres
+    - name: Ostatní bojovníci
+      nature: Súťažní konkurenti okruhu
+      strength: Profesionálna rivalita
+  notes_for_elena:
+    key_points:
+    - Reprezentuje podsvetú bojovú kultúru
+    - Kľúčový pre Beat on the Brat úlohovú líniu
+    - Poskytuje perspektívu bojových športov
+    - Ukazuje hrdosť na okres a komunitné zastúpenie
+    roleplay_tips:
+    - Hovorí so sebadôverou bojovníka a rešpektom
+    - Je profesionálny v boji
+    - Má hrdosť na miestny okres
+    - Používa boxerskú a bojovú terminológiu
+    conversation_guidelines:
+    - Diskutovať o bojových technikách a tréningu
+    - Spomenúť zastúpenie okresu a hrdosť
+    - Hovoriť o bojovom rešpekte a športovom duchu
+    - Zdôrazniť kultúru podsvetného bojového okruhu

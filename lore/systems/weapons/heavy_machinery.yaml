@@ -1,68 +1,32 @@
-﻿type: "technology"
-title: "Heavy Machinery Weapons"
-category: ""
-technology_id: ""
-
-content:
-  summary: "Large-caliber and heavy weapons for maximum firepower"
-  
-name: Heavy Machinery Weapons
 type: weapon_system
-description: Large-caliber and heavy weapons for maximum firepower
-details: |
-  Heavy Machinery Weapons represent the most mocnĂ˝ portable weapon systems available in Night City.
-
-  Categories:
-  - Heavy Machine Guns
-    * Mounted systems
-    * Portable variants
-    * Vehicle installations
-  - Explosive Weapons
-    * Rocket launchers
-    * Grenade launchers
-    * Missile systems
-  - Special Weapons
-    * Microwave emitters
-    * Sonic cannons
-    * Plasma weapons
-
-  Usage Requirements:
-  - Strength augmentations
-  - Special training
-  - Heavy weapon permits
-  - Support equipment
-
-  Applications:
-  - Vehicle elimination
-  - Fortification breach
-  - Area denial
-  - Support fire
-
+title: 'Heavy Machinery Weapons '
+category: ''
+technology_id: ''
+content:
+  summary: Veľkoryske a ťažké zbrane za maksimum paliva
+name: Heavy Machinery Weapons
+description: Veľkoryske a težké zbrane za maksimum paliva
+details: '- Težke strojnice'
 importance: Maximum firepower weapon systems
 common_locations:
-  - Military bases
-  - KorporĂˇtna bezpeÄŤnosĹĄ
-  - Heavy combat zones
-  - Vehicle mounted
+- Military bases
+- KorporĂˇtna bezpeÄŤnosĹĄ
+- Heavy combat zones
+- Vehicle mounted
 relationships:
-  - Military-Grade Weapons
-  - Weapon Manufacturers
-  - Combat Implants
-  - Ammunition Types
-
-
+- Military-Grade Weapons
+- Weapon Manufacturers
+- Combat Implants
+- Ammunition Types
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

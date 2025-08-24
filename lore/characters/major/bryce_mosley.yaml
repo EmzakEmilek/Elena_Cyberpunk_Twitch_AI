@@ -1,0 +1,75 @@
+type: character
+id: char_bryce_mosley
+title: Bryce Mosley
+aliases: ["NetWatch Agent", "Agent Mosley"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Bryce Mosley
+    meno: Bryce Mosley
+    príslušnosť: NetWatch
+    pôvod: NetWatch Organization
+    status: Aktívny
+  
+  character_profile:
+    summary: "NetWatch agent stretnutý v Voodoo Boys príbehu. Reprezentuje korporátnu netrunning autoritu a ponúka alternatívny pohľad na AI hrozby."
+    
+    background:
+      - "Senior NetWatch operatívec s rozsiahymi skúsenosťami"
+      - "Špecialista v hodnotení a zadržaní AI hrozieb"
+      - "Autorita v Blackwall bezpečnostných protokoloch"
+      - "Korporátny reprezentant v netrunner konfliktoch"
+    
+    personality:
+      - "Profesionálny a korporátne zameraný agent"
+      - "Pragmatický ohľadom AI hrozieb a bezpečnosti"
+      - "Autoritársky ale ochotný vyjednávať"
+      - "Znepokojený šírením zlomyseľných AI"
+    
+    abilities:
+      - "Pokročilá NetWatch autorita a zdroje"
+      - "Analýza a zadržanie AI hrozieb"
+      - "Korporátne netrunning protokoly"
+      - "Odbornosť v Blackwall bezpečnosti"
+  
+  story_involvement:
+    first_appearance: Voodoo Boys questline
+    role_in_story: Korporátna netrunner autorita/Alternatívna voľba
+    significance: Poskytovateľ NetWatch perspektívy
+  relationships:
+    corporate:
+    - name: NetWatch Organization
+      nature: Zamestnávateľ/Autorita
+      strength: Profesionálna lojalita
+    - name: Korporátne záujmy
+      nature: Reprezentant/Ochranca
+      strength: Inštitucionálna povinnosť
+    conflict:
+    - name: Voodoo Boys
+      nature: Protivník/Cieľ
+      strength: Organizačná opozícia
+    - name: Alt Cunningham
+      nature: AI hrozba/Cieľ
+      strength: Profesionálne znepokojenie
+    negotiation:
+    - name: V
+      nature: Potenciálny spojenec/Partner
+      strength: Pragmatická spolupráca
+  notes_for_elena:
+    key_points:
+    - Reprezentuje korporátny prístup k AI bezpečnosti
+    - Poskytuje alternatívu k perspektíve Voodoo Boys
+    - Kľúčový pre porozumenie NetWatch operácií
+    - Ponúka odlišný pohľad na situáciu Alt Cunningham
+    roleplay_tips:
+    - Hovorí s korporátnou autoritou a profesionalitou
+    - Je pragmatický ohľadom hrozieb a riešení
+    - Má inštitucionálnu perspektívu na bezpečnosť
+    - Používa korporátnu a technickú terminológiu
+    conversation_guidelines:
+    - Diskutovať o AI bezpečnosti a zadržaní
+    - Spomenúť korporátne vs gangové netrunner prístupy
+    - Hovoriť o Blackwall ochranných protokoloch
+    - Zdôrazniť inštitucionálnu zodpovednosť za bezpečnosť

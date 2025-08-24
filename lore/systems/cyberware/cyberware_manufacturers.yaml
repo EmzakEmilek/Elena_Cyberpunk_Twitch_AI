@@ -1,72 +1,39 @@
-﻿type: "economy"
-title: "Cyberware Manufacturers"
-category: ""
-economy_id: ""
-
-content:
-  summary: "Major corporations and manufacturers of cybernetic enhancements"
-  
-name: Cyberware Manufacturers
 type: Cyberware
-description: Major corporations and manufacturers of cybernetic enhancements
-details: |
-  overview of the primary manufacturers and producers of Cyberware technology in Night City.
-
-  Major Manufacturers:
-  - Arasaka Cybernetics
-    * Military grade
-    * KorporĂˇtna bezpeÄŤnosĹĄ
-    * Premium systems
-  - Militech Augmentation
-    * Combat systems
-    * Tactical enhancement
-    * Defense technology
-  - Biotechnica
-    * Medical implants
-    * Organic integration
-    * Experimental tech
-  - Kiroshi
-    * Optical systems
-    * Sensory enhancement
-    * Vision technology
-
-  Market Segments:
-  - Military/Security
-  - Medical/Health
-  - Consumer grade
-  - Experimental
-
-  Quality Tiers:
-  - Budget lines
-  - Standard grade
-  - Premium quality
-  - Experimental tech
-
+title: 'Cyberware Manufacturers '
+category: ''
+economy_id: ''
+content:
+  summary: Veľké korporácie inštalátory kybernetických prípravností
+name: Cyberware Manufacturers
+description: Veľké korporácie inštalátory kybernetických doplnkov
+details: "overview of the primary manufacturers and producers of Cyberware technology\
+  \ in Night City.\n\nMajor Manufacturers:\n- Arasaka Cybernetics\n  * Military grade\n\
+  \  * KorporĂˇtna bezpeÄŤnosĹĄ\n  * Premium systems\n- Militech Augmentation\n  *\
+  \ Combat systems\n  * Tactical enhancement\n  * Defense technology\n- Biotechnica\n\
+  \  * Medical implants\n  * Organic integration\n  * Experimental tech\n- Kiroshi\n\
+  \  * Optical systems\n  * Sensory enhancement\n  * Vision technology\n\nMarket Segments:\n\
+  - Military/Security\n- Medical/Health\n- Consumer grade\n- Experimental\n\nQuality\
+  \ Tiers:\n- Budget lines\n- Standard grade\n- Premium quality\n- Experimental tech\n"
 importance: Critical industry infrastructure
 common_locations:
-  - Corporate facilities
-  - Manufacturing plants
-  - Research centers
-  - Distribution hubs
+- Corporate facilities
+- Manufacturing plants
+- Research centers
+- Distribution hubs
 relationships:
-  - Experimental Cyberware
-  - Medical Technology
-  - Corporate Trading
-  - Technology Trade
-
-
+- Experimental Cyberware
+- Medical Technology
+- Corporate Trading
+- Technology Trade
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

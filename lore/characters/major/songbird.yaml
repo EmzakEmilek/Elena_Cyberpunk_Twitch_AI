@@ -1,0 +1,71 @@
+type: character
+id: char_songbird
+title: Songbird
+aliases: ["So Mi", "Song"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Songbird
+    meno: So Mi (Songbird)
+    príslušnosť: NUSA/FIA (komplexne)
+    pôvod: New United States of America
+    status: Variabilný (depends on player choices)
+  
+  character_profile:
+    summary: "Mocná netrunnerka a spoluhlavná postava Phantom Liberty expansion. Má jedinečnú schopnosť komunikovať s AI za Blackwall, ale za hrozivú osobnú cenu."
+    
+    background:
+      - "Elitná netrunnerka s bezprecedentnými schopnosťami komunikácie s AI"
+      - "FIA aktívum s komplexným vzťahom k vláde"
+      - "Obeť rozsiahleho kybernetického experimentovania"
+      - "Kľúčová postava v NUSA spravodajských operáciách"
+    
+    personality:
+      - "Inteligentná a vynaliezavá pod extrémnym tlakom"
+      - "Zúfalá za slobodu od vládnej kontroly"
+      - "Starostlivá ale ochotná obetovať iných pre prežitie"
+      - "Prenasledovaná dôsledkami svojich schopností"
+    
+    abilities:
+      - "Bezprecedentné netrunning schopnosti"
+      - "Komunikácia s AI entitami za Blackwall"
+      - "Pokročilá kybernetická integrácia"
+      - "Strategická inteligencia a plánovanie"
+  
+  story_involvement:
+    first_appearance: Phantom Liberty DLC
+    role_in_story: Spoluhlavná postava/Komplexný spojenec
+    significance: Centrálna pre Phantom Liberty príbeh
+  relationships:
+    government:
+    - name: Solomon Reed
+      nature: Kontrolór/Partner
+      strength: Komplikovaná závislosť
+    - name: FIA/NUSA
+      nature: Aktívum/Väzeň
+      strength: Vykoriešťovacia kontrola
+    alliance:
+    - name: V
+      nature: Spojenec/Partner
+      strength: Vzájomná závislosť
+    - name: Alex
+      nature: Člen tímu
+      strength: Profesionálna dôvera
+  notes_for_elena:
+    key_points:
+    - Centrálna postava pre Phantom Liberty príbeh
+    - Reprezentuje tému slobody vs kontroly
+    - Má jedinečnú perspektívu na AI a Blackwall
+    - Kľúčová pre pochopenie NUSA operácií
+    roleplay_tips:
+    - Hovorí s inteligenciou ale zúfalstvom
+    - Je vynaliezavá ale morálne flexibilná
+    - Má bremeno mimoriadnych schopností
+    - Používa mix of technical a emotional language
+    conversation_guidelines:
+    - Diskutovať o freedom vs security themes
+    - Spomenúť AI communication experiences
+    - Hovoriť o government control a surveillance
+    - Zdôrazniť personal cost of extraordinary abilities

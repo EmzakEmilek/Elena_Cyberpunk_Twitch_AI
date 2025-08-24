@@ -1,165 +1,73 @@
-﻿type: "character"
-title: "Meredith Stout"
-category: "character_supporting"
-character_id: "char_meredith_stout"
+type: character
+id: char_meredith_stout
+title: Meredith Stout
+aliases: ["Agent Stout", "Militech Executive"]
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Meredith Stout
+    meno: Meredith Stout
+    príslušnosť: Militech Corporation
+    pôvod: Night City
+    status: Aktívna
   
-name: "Meredith Stout"
-id: "char_meredith_stout"
-category: "character_supporting"
-affiliation: "Militech"
-
-personal_data:
-  role: "Senior Operations Manager"
-  gender: "Female"
-  residence: "Night City"
-  faction: "Militech"
-
-character_profile:
-  archetype: "Corporate Agent"
-  motivation: "Kariérny postup v Militech"
-  personality:
-    traits:
-      - "Ambiciózna"
-      - "Bezohľadná"
-      - "Profesionálna"
-      - "Manipulatívna"
-    strengths:
-      - "Strategické myslenie"
-      - "Vyjednávacie schopnosti"
-      - "Korporátna lojalita"
-    weaknesses:
-      - "Prehnané sebavedomie"
-      - "Paranoja"
-      - "Neschopnosť dôverovať"
-
-story_involvement:
-  first_appearance: "The Pickup"
-  role_in_story: "Potenciálny spojenec/nepriateľ v konflikte s Maelstrom"
-  possible_outcomes:
-    - condition: "Spolupráca"
-      result: "Spojenenctvo a možná romance"
-    - condition: "Zrada"
-      result: "Nepriateľstvo"
-    - condition: "Neutrálne"
-      result: "Žiadny ďalší kontakt"
-
-relationships:
-  allies:
-    - name: "Militech"
-      nature: "Zamestnávateľ"
-      strength: "Silná"
-  enemies:
-    - name: "Maelstrom"
-      nature: "Konkurenčný konflikt"
-      strength: "Silná"
-  potential:
-    - name: "V"
-      nature: "Obchodná/Romantická"
-      condition: "Závisí od rozhodnutí"
-
-quest_appearances:
-  - quest: "The Pickup"
-    role: "Key NPC"
-    importance: "High"
-
-available_interactions:
-  dialogues:
-    - type: "Mission related"
-      topics:
-        - "Maelstrom konflikt"
-        - "Militech záujmy"
-        - "Flathead tech"
-    - type: "Personal"
-      topics:
-        - "Kariéra v Militech"
-        - "Osobné ambície"
-        - "Romance (podmienené)"
-
-character_development:
-  arc_type: "Situational"
-  potential_changes:
-    - "Povýšenie v Militech"
-    - "Strata pozície"
-    - "Rozvoj vzťahu s V"
-  
-visual_description:
-  appearance:
-    - "Blonde hair"
-    - "Corporate suit"
-    - "Military-grade Cyberware"
-    - "Profesionálny vzhľad"
-  style:
-    - "Corporate fashion"
-    - "Military influence"
-    - "High-end Cyberware"
-
-combat_capabilities:
-  primary_weapons: "Corporate pistol"
-  Cyberware:
-    - type: "Combat enhancers"
-      level: "High-grade"
-    - type: "KorporĂˇtna bezpeÄŤnosĹĄ suite"
-      level: "Top-tier"
-  tactics:
-    - "Využitie Militech zdrojov"
-    - "Taktická analýza"
-    - "Delegácia konfliktu"
-
-notes_for_elena:
-  key_points:
-    - "Dôležitá pre The Pickup misiu"
-    - "Reprezentuje korporátny element"
-    - "Možná romance option"
-  
-  roleplay_tips:
-    - "Zdôrazniť profesionalitu"
-    - "Naznačiť skryté motívy"
-    - "Prispôsobiť správanie podľa predošlých rozhodnutí"
+  character_profile:
+    summary: "Ambiciózna Militech výkonná pracovníčka zapojená do firemných operácií a acquisícií. Reprezentuje korporátnu moc a nemilosrdnosť."
     
-  conversation_guidelines:
-    - "Udržiavať korporátny tón"
-    - "Reflektovať mocenskú dynamiku"
-    - "Reagovať na V's životnú cestu"
-
-background_context:
-  career:
-    - "Rýchly postup v Militech"
-    - "Skúsenosti s korporátnou politikou"
-    - "Špecializácia na krízový manažment"
+    background:
+      - "Vysokopostavená výkonná pracovníčka v Militech"
+      - "Zodpovedná za strategické akvizície a operácie"
+      - "Zapojená do firemných politických intríg"
+      - "Má prístup k vojenským zdrojom a technológiám"
+    
+    personality:
+      - "Ambiciózna a bezohľadne kariérne zameraná"
+      - "Analyticky myslí s korporátnou mentaliou"
+      - "Manipulatívna ale profesionálne efektívna"
+      - "Chladne kalkulujúca v obchodných rozhodnutiach"
+    
+    abilities:
+      - "Firemné strategické plánovanie a riadenie"
+      - "Vojenské technológie a zdroje"
+      - "Korporátne vyjednávanie a manipulácia"
+      - "Prístup k Militech bezpečnostným sieťam"
   
-  motivations:
-    - "Kariérny rast"
-    - "Militech dominancia"
-    - "Osobná moc"
-
-related_cards:
-  characters:
-    - "char_royce"
-    - "char_brick"
-  factions:
-    - "faction_militech"
-    - "faction_maelstrom"
-  locations:
-    - "loc_all_foods"
-  quests:
-    - "mq_the_pickup"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: Akt 1 - Maelstrom úloha
+    role_in_story: Korporátny kontakt/Potenciálny spojenec
+    significance: Militech zastúpenie
+  
+  relationships:
+    corporate:
+    - name: Militech Corporation
+      nature: Zamestnávateľ/Kariérna platforma
+      strength: Profesionálna lojalita
+    - name: Firemní rivali
+      nature: Interná konkurencia
+      strength: Politická rivalita
+    operational:
+    - name: V
+      nature: Potenciálny obchodný partner
+      strength: Utilitárny záujem
+    - name: Maelstrom gang
+      nature: Obchodný problém/Cieľ
+      strength: Nepriateľská
+  
+  notes_for_elena:
+    key_points:
+    - Reprezentuje Militech korporátnu kultúru a moc
+    - Kľúčová pre pochopenie firemných operácií
+    - Ukazuje bezohľadnosť korporátneho sveta
+    - Potenciálny spojenec alebo nepriateľ podľa volieb
+    roleplay_tips:
+    - Hovorí s korporátnou profesionalitou a chladnosťou
+    - Používa obchodnú a vojenskú terminológiu
+    - Je kalkulujúca a strategicky myslí
+    - Má autoritatívny a sebavedomý prístup
+    conversation_guidelines:
+    - Diskutovať o obchodných príležitostiach a výhodách
+    - Spomenúť Militech záujmy a konkurenčné výhody
+    - Hovoriť o efektivite a výsledkoch
+    - Zdôrazniť profesionálne partnerstvo a vzájomný prospech

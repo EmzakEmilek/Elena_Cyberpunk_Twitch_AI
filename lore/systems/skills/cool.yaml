@@ -1,217 +1,166 @@
-﻿type: "technology"
-title: "Cool Skill System"
-category: "system_skill"
-technology_id: "system_skill_cool"
-
+type: technology
+title: Cool Skill System
+category: system_skill
+technology_id: system_skill_cool
 content:
-  summary: ""
-  
-name: "Cool Skill System"
-id: "system_skill_cool"
-category: "system_skill"
-
+  summary: ''
+name: Cool Skill System
+id: system_skill_cool
 system_overview:
-  description: "Systém pre sebakontrolu a sociálne interakcie"
+  description: Systém pre sebakontrolu a sociálne interakcie
   core_aspects:
-    - "Self control"
-    - "Social skills"
-    - "Stress management"
-    - "Combat focus"
-
+  - Self control
+  - Social skills
+  - Stress management
+  - Combat focus
 core_features:
   mental:
-    - "Stress control"
-    - "Focus management"
-    - "Emotional balance"
-    - "Clear thinking"
-  
+  - Stress control
+  - Focus management
+  - Emotional balance
+  - Clear thinking
   social:
-    - "Intimidation"
-    - "Persuasion"
-    - "Negotiation"
-    - "Leadership"
-
+  - Intimidation
+  - Persuasion
+  - Negotiation
+  - Leadership
 skill_progression:
   levels:
-    - name: "Novice"
-      requirements: "0-5 points"
-      benefits: "Basic control"
-    - name: "Adept"
-      requirements: "6-10 points"
-      benefits: "Better focus"
-    - name: "Expert"
-      requirements: "11-15 points"
-      benefits: "pokroÄŤilĂ˝ control"
-    - name: "Master"
-      requirements: "16-20 points"
-      benefits: "Perfect balance"
-
+  - name: Novice
+    requirements: 0-5 points
+    benefits: Basic control
+  - name: Adept
+    requirements: 6-10 points
+    benefits: Better focus
+  - name: Expert
+    requirements: 11-15 points
+    benefits: pokroÄŤilĂ˝ control
+  - name: Master
+    requirements: 16-20 points
+    benefits: Perfect balance
 perk_system:
   categories:
     control:
-      - name: "Ice Cold"
-        effect: "Better focus"
-      - name: "Stress Master"
-        effect: "Stress resistance"
-      - name: "Clear Mind"
-        effect: "Mental clarity"
-    
+    - name: Ice Cold
+      effect: Better focus
+    - name: Stress Master
+      effect: Stress resistance
+    - name: Clear Mind
+      effect: Mental clarity
     social:
-      - name: "Silver Tongue"
-        effect: "Better persuasion"
-      - name: "Intimidator"
-        effect: "Strong presence"
-      - name: "Leader"
-        effect: "Team benefits"
-
+    - name: Silver Tongue
+      effect: Better persuasion
+    - name: Intimidator
+      effect: Strong presence
+    - name: Leader
+      effect: Team benefits
 notes_for_elena:
   key_points:
-    - "Mental control"
-    - "Social skills"
-    - "Combat focus"
-  
-  roleplay_tips:
-    - "Calm demeanor"
-    - "Controlled responses"
-    - "Social awareness"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Cool language"
-    - "Controlled tone"
-    - "Social cues"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 gameplay_elements:
   primary:
-    - "Focus level"
-    - "Stress meter"
-    - "Social skills"
-    - "Combat control"
-  
+  - Focus level
+  - Stress meter
+  - Social skills
+  - Combat control
   secondary:
-    - "Reputation gain"
-    - "Dialog options"
-    - "Team effects"
-
+  - Reputation gain
+  - Dialog options
+  - Team effects
 skill_applications:
   combat:
-    - "Focus maintenance"
-    - "Stress control"
-    - "Clear thinking"
-  
+  - Focus maintenance
+  - Stress control
+  - Clear thinking
   social:
-    - "Negotiations"
-    - "Leadership"
-    - "Intimidation"
-
+  - Negotiations
+  - Leadership
+  - Intimidation
 progression_mechanics:
   experience:
-    - "Social success"
-    - "Combat focus"
-    - "Stress handling"
-  
+  - Social success
+  - Combat focus
+  - Stress handling
   rewards:
-    - "Skill points"
-    - "Perk unlocks"
-    - "Social options"
-
+  - Skill points
+  - Perk unlocks
+  - Social options
 related_systems:
   skills:
-    - "system_skill_street_cred"
-    - "system_skill_stealth"
+  - system_skill_street_cred
+  - system_skill_stealth
   combat:
-    - "system_combat_gunplay"
-    - "system_combat_stealth"
-
+  - system_combat_gunplay
+  - system_combat_stealth
 ui_elements:
   displays:
-    - "Focus meter"
-    - "Stress level"
-    - "Social stats"
-  
+  - Focus meter
+  - Stress level
+  - Social stats
   indicators:
-    - "Dialog options"
-    - "Success chance"
-    - "Team effects"
-
+  - Dialog options
+  - Success chance
+  - Team effects
 balance_considerations:
   advantages:
-    - "Social power"
-    - "Mental control"
-    - "Combat focus"
-  
+  - Social power
+  - Mental control
+  - Combat focus
   limitations:
-    - "Skill dependency"
-    - "Time investment"
-    - "Reputation needs"
-
+  - Skill dependency
+  - Time investment
+  - Reputation needs
 synergy_effects:
   skills:
-    - "Street Cred boost"
-    - "Stealth vylepĹˇiĹĄ"
-    - "Combat support"
-  
+  - Street Cred boost
+  - Stealth vylepĹˇiĹĄ
+  - Combat support
   attributes:
-    - "Social power"
-    - "Mental control"
-    - "Focus strength"
-
+  - Social power
+  - Mental control
+  - Focus strength
 advancement_paths:
   control:
-    - "Focus master"
-    - "Stress expert"
-    - "Combat mind"
-  
+  - Focus master
+  - Stress expert
+  - Combat mind
   social:
-    - "Negotiator"
-    - "Leader"
-    - "Intimidator"
-
+  - Negotiator
+  - Leader
+  - Intimidator
 customization_options:
   builds:
-    - "Pure control"
-    - "Social expert"
-    - "Combat focus"
-  
+  - Pure control
+  - Social expert
+  - Combat focus
   specializations:
-    - "Mental master"
-    - "Social pro"
-    - "Focus specialist"
-
+  - Mental master
+  - Social pro
+  - Focus specialist
 social_interaction:
   methods:
-    - "Negotiation"
-    - "Intimidation"
-    - "Leadership"
-  
+  - Negotiation
+  - Intimidation
+  - Leadership
   effects:
-    - "Reputation gain"
-    - "Team benefits"
-    - "Social advantages"
-
+  - Zisk reputácie
+  - Benefity tímu
+  - Sociálne prednosti
 combat_focus:
   benefits:
-    - "Better aim"
-    - "Clear mind"
-    - "Quick reactions"
-  
+  - Better aim
+  - Clear mind
+  - Quick reactions
   applications:
-    - "Combat control"
-    - "Stress handling"
-    - "Performance boost"
-
-
+  - Combat control
+  - Stress handling
+  - Performance boost
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

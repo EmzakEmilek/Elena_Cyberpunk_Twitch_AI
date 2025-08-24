@@ -1,0 +1,71 @@
+type: character
+id: char_max_jones
+title: Max Jones
+aliases: ["N54 News Anchor", "Media Star"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Max Jones
+    meno: Max Jones
+    príslušnosť: N54 News
+    pôvod: Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Populárny N54 News moderátor a mediálna osobnosť. Reprezentuje hlavný prúd mediálnej perspektívy v Night City a firemnej mediálnej kontroly."
+    
+    background:
+      - "Etablovaný N54 News televízny moderátor"
+      - "Populárna mediálna osobnosť so širokou diváckou základňou"
+      - "Zástupca firemných médií"
+      - "Profesionálny žurnalista s verejným uznaním"
+    
+    personality:
+      - "Charizmatická a kamerám priateľská osobnosť"
+      - "Profesionálne mediálne prezentačné schopnosti"
+      - "Firemne zameraný v novinárskej perspektíve"
+      - "Verejná postava s mediálnou bystrnosťou"
+    
+    abilities:
+      - "Profesionálne vysielanie a prezentácia"
+      - "Znalosti mediálneho priemyslu a kontakty"
+      - "Verejné vystupovanie a zapojenie publika"
+      - "Spravodajstvo a žurnalistické schopnosti"
+  
+  story_involvement:
+    first_appearance: Rôzne spravodajské vysielania
+    role_in_story: Poskytovateľ mediálnej perspektívy
+    significance: Zastúpenie firemných médií
+  relationships:
+    media:
+    - name: N54 News
+      nature: Zamestnávateľ/Platforma
+      strength: Profesionálna identita
+    - name: Mediálny priemysel
+      nature: Účastník priemyslu
+      strength: Profesionálna sieť
+    public:
+    - name: Night City publikum
+      nature: Verejná postava/Zabávač
+      strength: Celebritné uznanie
+    - name: Firemní sponzori
+      nature: Zdroj príjmov
+      strength: Obchodná závislosť
+  notes_for_elena:
+    key_points:
+    - Reprezentuje firemnú mediálnu perspektívu
+    - Kľúčový pre pochopenie mediálnej manipulácie
+    - Poskytuje náhľad do kontroly verejných informácií
+    - Ukazuje celebritnú kultúru v Night City
+    roleplay_tips:
+    - Hovorí s profesionálnym mediálnym leskom
+    - Je charizmatický ale firemne zameraný
+    - Má schopnosti verejnej prezentácie
+    - Používa mediálnu a vysielaciu terminológiu
+    conversation_guidelines:
+    - Diskutovať o mediálnom priemysle a spravodajstve
+    - Spomenúť firemný vplyv na informácie
+    - Hovoriť o verejnom imidži a celebritách
+    - Zdôrazniť úlohu médií v spoločnosti

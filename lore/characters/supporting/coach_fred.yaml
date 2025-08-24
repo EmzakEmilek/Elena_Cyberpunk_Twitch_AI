@@ -1,224 +1,67 @@
-﻿type: "character"
-title: "Coach Fred"
-category: "character_supporting"
-character_id: "char_coach_fred"
+type: character
+id: char_coach_fred
+title: Coach Fred
+aliases: ["Fred"]
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Coach Fred
+    meno: Fred
+    príslušnosť: Nezávislý tréner
+    pôvod: Watson, Night City
+    status: Aktívny
   
-name: "Coach Fred"
-id: "char_coach_fred"
-category: "character_supporting"
-affiliation: "Independent"
-
-personal_data:
-  role: "Boxing Coach/Trainer"
-  gender: "Male"
-  residence: "Watson, Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Veteran Trainer"
-  motivation: "Tréning a mentoring"
-  personality:
-    traits:
-      - "Disciplinovaný"
-      - "Motivujúci"
-      - "Skúsený"
-      - "Priamy"
-    strengths:
-      - "Boxerské znalosti"
-      - "Tréningové skúsenosti"
-      - "Mentorský prístup"
-      - "Praktická múdrosť"
-    weaknesses:
-      - "Staromódny prístup"
-      - "Tvrdohlavosť"
-      - "Limitované ambície"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Boxing Trainer"
-  significance: "Skill Development"
-
-relationships:
-  professional:
-    - name: "V"
-      nature: "Trainer"
-      strength: "Mentorovská"
-    - name: "Local Fighters"
-      nature: "Coach"
-      strength: "Profesionálna"
-  
-  community:
-    - name: "Watson Residents"
-      nature: "Local Figure"
-      strength: "Rešpektovaná"
-
-gym_operations:
-  position: "Head Coach"
-  services:
-    - "Boxing training"
-    - "Physical conditioning"
-    - "Fight preparation"
-  expertise:
-    - "Boxing techniques"
-    - "Training methods"
-    - "Fighter development"
-
-background_context:
-  history:
-    - "Boxing kariéra"
-    - "Trénerské skúsenosti"
-    - "Gym establishment"
-  
-  current_situation:
-    - "Gym operation"
-    - "Fighter training"
-    - "Community involvement"
-
-training_role:
-  responsibilities:
-    - "Technical instruction"
-    - "Physical training"
-    - "Mental preparation"
-  environment:
-    - "Traditional gym"
-    - "Disciplined atmosphere"
-    - "Learning focused"
-
-notes_for_elena:
-  key_points:
-    - "Skúsený tréner"
-    - "Boxerský veterán"
-    - "Komunitný mentor"
-  
-  roleplay_tips:
-    - "Priamy prístup"
-    - "Motivačný tón"
-    - "Praktické rady"
+  character_profile:
+    summary: "Skúsený boxerský tréner v Watson, ktorý poskytuje boxing training a je známy pre svoj disciplinovaný prístup k športu."
     
-  conversation_guidelines:
-    - "Boxerský slang"
-    - "Motivačné frázy"
-    - "Priama komunikácia"
-
-boxing_expertise:
-  skills:
-    - "Technical knowledge"
-    - "Training methods"
-    - "Fight strategy"
+    background:
+      - "Dlhoročný boxerský tréner v Watson district"
+      - "Veterán boxing scene s rozsiahlymi skúsenosťami"
+      - "Poskytuje tréning a mentoring pre mladých boxerov"
+      - "Udržiava staré tradície boxu v modernom svete"
+    
+    personality:
+      - "Disciplinovaný a priamy v komunikácii"
+      - "Motivujúci tréner s mentorským prístupom"
+      - "Skúsený profesionál s praktickou múdrosťou"
+      - "Staromódny ale efektívny vo svojich metódach"
+    
+    abilities:
+      - "Rozsiahle boxerské znalosti a techniky"
+      - "Skúsenosti s tréningom rôznych typov boxerov"
+      - "Mentoring a character development"
+      - "Praktické rady pre combat a life skills"
   
-  specialization:
-    - "Boxing fundamentals"
-    - "Physical conditioning"
-    - "Mental preparation"
-
-related_cards:
-  characters:
-    - "char_v"
-  locations:
-    - "loc_fred_gym"
-    - "loc_watson_district"
-  services:
-    - "service_training"
-
-training_methodology:
-  approach:
-    - "Traditional methods"
-    - "Practical application"
-    - "Progressive development"
-  focus:
-    - "Technical skills"
-    - "Physical condition"
-    - "Mental toughness"
-
-community_impact:
-  role:
-    - "Youth mentor"
-    - "Fitness leader"
-    - "Local figure"
-  contribution:
-    - "Skills development"
-    - "Positive influence"
-    - "Community support"
-
-impact_on_story:
-  direct:
-    - "Skill development"
-    - "Training scenes"
-    - "Character growth"
-  indirect:
-    - "Combat preparation"
-    - "Personal development"
-    - "Local atmosphere"
-
-visual_description:
-  appearance:
-    - "Athletic build"
-    - "Experienced look"
-    - "Training gear"
-    - "Professional presence"
-  
-  workspace:
-    - "Traditional gym"
-    - "Boxing equipment"
-    - "Training area"
-    - "Local atmosphere"
-
-coaching_style:
-  methods:
-    - "Hands-on instruction"
-    - "Practical demonstration"
-    - "Verbal motivation"
-  principles:
-    - "Discipline"
-    - "Hard work"
-    - "Dedication"
-
-training_programs:
-  structure:
-    - "Technical drills"
-    - "Physical conditioning"
-    - "Sparring sessions"
-  progression:
-    - "Basics mastery"
-    - "Skill development"
-    - "pokroÄŤilĂ˝ techniques"
-
-mentoring_approach:
-  focus:
-    - "Character building"
-    - "Skill development"
-    - "Mental toughness"
-  methods:
-    - "Personal attention"
-    - "Practical guidance"
-    - "Life lessons"
-
-gym_atmosphere:
-  environment:
-    - "Traditional setting"
-    - "Working class"
-    - "Community focused"
-  values:
-    - "Hard work"
-    - "Discipline"
-    - "Respect"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: Watson area
+    role_in_story: Minor trainer
+    significance: Local boxing culture
+  relationships:
+    professional:
+    - name: Local boxers
+      nature: Študenti/Trainee
+      strength: Mentorská
+    - name: V
+      nature: Potenciálny student
+      strength: Profesionálna
+    - name: Watson community
+      nature: Miestny tréner
+      strength: Rešpektovaná
+  notes_for_elena:
+    key_points:
+    - Reprezentuje boxing kultúru v Night City
+    - Poskytuje V training a combat tips
+    - Staromódny prístup v modernom kybernetickom svete
+    - Udržiava tradície čestného boja
+    roleplay_tips:
+    - Hovorí ako klasický boxing coach - priamo a motivačne
+    - Používa boxing terminológiu a metafory
+    - Zdôrazňuje disciplínu a hard work
+    - Má rešpekt pre tradičné bojové umenia
+    conversation_guidelines:
+    - Diskutovať o boxing techniques a training
+    - Spomenúť disciplínu a character building
+    - Hovoriť o tradíciách boxing v Night City
+    - Poskytnúť praktické rady pre combat situations

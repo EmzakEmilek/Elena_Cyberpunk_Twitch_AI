@@ -1,191 +1,74 @@
-﻿type: "character"
-title: "Evelyn Parker"
-category: "character_supporting"
-character_id: "char_evelyn_parker"
+type: character
+id: char_evelyn_parker
+title: Evelyn Parker
+aliases: ["Ev"]
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Evelyn Parker
+    meno: Evelyn Parker
+    príslušnosť: Moxes (spojenie)
+    pôvod: Night City
+    status: Deceased
   
-name: "Evelyn Parker"
-id: "char_evelyn_parker"
-category: "character_supporting"
-affiliation: "Independent/Clouds"
-
-personal_data:
-  role: "Doll/Fixer"
-  gender: "Female"
-  residence: "Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Mysterious Femme Fatale"
-  motivation: "Únik z korporátnej kontroly"
-  personality:
-    traits:
-      - "Ambiciózna"
-      - "Manipulatívna"
-      - "Inteligentná"
-      - "Zraniteľná"
-    strengths:
-      - "Sociálna inteligencia"
-      - "Adaptabilita"
-      - "Strategické myslenie"
-    weaknesses:
-      - "Preceňovanie vlastných schopností"
-      - "Nedostatok lojality"
-      - "Skryté traumy"
-
-story_involvement:
-  first_appearance: "The Information"
-  role_in_story: "Kľúčový kontakt pre Heist"
-  story_arc: "Od ambicióznej fixerky k tragickej postave"
-  arc_resolution: "Tragický osud"
-
-relationships:
-  allies:
-    - name: "Judy Alvarez"
-      nature: "Priateľstvo"
-      strength: "Silná"
-    - name: "Yorinobu Arasaka"
-      nature: "Bývalý klient"
-      strength: "Komplikovaná"
-  enemies:
-    - name: "Voodoo Boys"
-      nature: "Manipulátori"
-      strength: "Silná"
-  associates:
-    - name: "Clouds"
-      nature: "Zamestnávateľ"
-      strength: "Profesionálna"
-
-quest_appearances:
-  - quest: "The Information"
-    role: "Client"
-    importance: "High"
-  - quest: "The Heist"
-    role: "Coordinator"
-    importance: "High"
-  - quest: "Automatic Love"
-    role: "Target"
-    importance: "High"
-
-available_interactions:
-  dialogues:
-    - type: "Mission related"
-      topics:
-        - "Heist plán"
-        - "Arasaka informácie"
-        - "Osobné ambície"
-    - type: "Personal"
-      topics:
-        - "Minulosť v Clouds"
-        - "Vzťah s Judy"
-        - "Túžba po slobode"
-
-character_development:
-  arc_type: "Tragic"
-  key_moments:
-    - "Predstavenie ako sebavedomej fixerky"
-    - "Odhalenie pravých motívov"
-    - "Postupný pád"
-    - "Tragický koniec"
-
-visual_description:
-  appearance:
-    - "Blue hair"
-    - "drahĂ˝ fashion"
-    - "High-end Cyberware"
-    - "Elegant styling"
-  style:
-    - "Night City high fashion"
-    - "Doll aesthetic"
-    - "Corporate influence"
-
-combat_capabilities:
-  primary_weapons: "None"
-  Cyberware:
-    - type: "Doll implants"
-      level: "High-grade"
-    - type: "Social enhancers"
-      level: "Professional"
-  special_abilities:
-    - "Social manipulation"
-    - "Information gathering"
-    - "Adaptability"
-
-notes_for_elena:
-  key_points:
-    - "Komplexná postava s tragickým osudom"
-    - "Dôležitá pre hlavnú zápletku"
-    - "Spojenie s viacerými frakciami"
-  
-  roleplay_tips:
-    - "Zdôrazniť sebavedomie v úvode"
-    - "Naznačiť skryté motívy"
-    - "Udržať tajomnosť"
+  character_profile:
+    summary: "Enigmatická žena, ktorá najala V a Jackie pre Arasaka heist. Má tajné motívy a komplikované väzby na Voodoo Boys."
     
-  conversation_guidelines:
-    - "Balansovať medzi profesionalitou a zvodnosťou"
-    - "Postupne odhaľovať vrstvy osobnosti"
-    - "Reflektovať meniaci sa stav postavy"
-
-background_context:
-  history:
-    - "Kariéra v Clouds"
-    - "Kontakty s vysokopostavenými klientmi"
-    - "Ambície presahujúce jej pozíciu"
+    background:
+      - "Pracovala ako high-end doll v Clouds"
+      - "Mala prístup k dôverným Arasaka informáciám"
+      - "Spolupracovala s Voodoo Boys na vlastnej agende"
+      - "Iniciovala reťazec udalostí vedúcich k The Heist"
+    
+    personality:
+      - "Ambiciózna a odhodlaná dosiahnuť svoje ciele"
+      - "Manipulatívna ale s vlastným kódom morálky"
+      - "Nezávislá, nechce byť kontrolovaná ostatnými"
+      - "Komplexná osobnosť balansujúca prežitie a princípy"
+    
+    abilities:
+      - "Manipulácia a sociálne inžinierstvo"
+      - "Prístup k vysokoúrovňovým Night City kontaktom"
+      - "Informačné networkkovanie a zbieranie informácií"
+      - "Braindance technológia a virtuálne zážitky"
   
-  motivations:
-    - "Únik z korporátneho sveta"
-    - "Finančná nezávislosť"
-    - "Osobná sloboda"
-
-related_cards:
-  characters:
-    - "char_judy_alvarez"
-    - "char_yorinobu_arasaka"
-  factions:
-    - "faction_voodoo_boys"
-    - "faction_clouds"
-  locations:
-    - "loc_clouds"
-    - "loc_lizzies_bar"
-  quests:
-    - "mq_the_information"
-    - "mq_the_heist"
-    - "sq_automatic_love"
-
-personality_details:
-  public_face:
-    - "Sebavedomá"
-    - "Profesionálna"
-    - "Zvodná"
-  private_reality:
-    - "Zraniteľná"
-    - "Vystrašená"
-    - "Zúfalá"
-
-impact_on_story:
-  direct:
-    - "Iniciátor heist misie"
-    - "Spojenie s Arasaka konfliktom"
-  indirect:
-    - "Vplyv na Judy príbeh"
-    - "Prepojenie s VDB zápletkou"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: Act 1
+    role_in_story: Katalyzátor questov/Tragická postava
+    significance: Iniciuje hlavný príbeh
+  relationships:
+    professional:
+    - name: V
+      nature: Zamestnávateľka/Klientka
+      strength: Komplikovaná
+    - name: Dexter DeShawn
+      nature: Obchodný partner
+      strength: Utilitárna
+    - name: Voodoo Boys
+      nature: Tajní spojenci
+      strength: Tajná spolupráca
+    personal:
+    - name: Judy Alvarez
+      nature: Blízka priateľka/milenka
+      strength: Intímna
+    - name: Clouds dolls
+      nature: Kolegyne
+      strength: Profesionálna
+  notes_for_elena:
+    key_points:
+    - Iniciovala The Heist ale mala vlastné motívy
+    - Jej tragický osud ovplyvňuje Judy a celý príbeh
+    - Reprezentuje tému autonómie a kontroly v Night City
+    - Dôležitá pre pochopenie Voodoo Boys plánov
+    roleplay_tips:
+    - Hovorí kultivovane ale so skrytým napätím
+    - Má skrytú agendu za každou interakciou
+    - Je sofistikovaná ale zúfalá
+    - Balansuje zraniteľnosť s odhodlaním
+    conversation_guidelines:
+    - Diskutovať o nezávislosti a slobode
+    - Spomenúť sofistikované plány a dlhodobé myslenie
+    - Hovoriť o Night City ako o nebezpečnom mieste
+    - Zdôrazniť dôležitosť osobnej autonómie

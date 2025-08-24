@@ -1,0 +1,72 @@
+type: character
+id: char_fingers
+title: Fingers
+aliases: ["Finn Gerstatt", "Dirty Doc"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Fingers
+    meno: Finn Gerstatt
+    príslušnosť: Independent (Ripperdoc)
+    pôvod: Jig-Jig Street, Japantown
+    status: Aktívny
+  
+  character_profile:
+    summary: "Kontroverzný ripperdoc s pochybnou etikou a spojeniami k sex dolls priemyslu. Hlavná postava pre skúmanie morálnych hraníc v cyberpunk spoločnosti."
+    
+    background:
+      - "Zaakomný ripperdoc s pochybnou povesťou"
+      - "Prevádzkuje kliniku v Jig-Jig Street red light district"
+      - "Známy neetickými praktikami a vykorisťovaním"
+      - "Napojený na sex doll modifikačný priemysel"
+    
+    personality:
+      - "Nechutný a morálne kompromitovaný jednotlivec"
+      - "Vykorisťuje zraniteľných klientov"
+      - "Zbabelý keď čelí dôsledkom"
+      - "Čisto ziskovo motivovaný vo všetkých interakciách"
+    
+    abilities:
+      - "Kybernetické modifikácie a implantátové know-how"
+      - "Podzemné lekárske znalosti"
+      - "Čierny trh kontakty a zdroje"
+      - "Špecializácia na kontroverzné modifikácie"
+  
+  story_involvement:
+    first_appearance: Evelyn Parker questline
+    role_in_story: Morálne pochybný zdroj informácií
+    significance: Postava pre skúmanie etiky
+  relationships:
+    professional:
+    - name: Evelyn Parker
+      nature: Bývalá klientka/Pacientka
+      strength: Vykorisťovateľské lekárske
+    - name: Sex Industry
+      nature: Poskytovateľ služieb
+      strength: Podzemný biznis
+    investigative:
+    - name: V
+      nature: Zdroj informácií
+      strength: Neochotná spolupráca
+    - name: Judy Alvarez
+      nature: Nepriateľská vyšetrovateľka
+      strength: Antagonistické
+  notes_for_elena:
+    key_points:
+    - Reprezentuje temnú stránku ripperdoc priemyslu
+    - Kľúčový pre Evelyn Parker príbeh
+    - Poskytuje pohľad na podzemné lekárske praktiky
+    - Skúma témy vykorisťovania a súhlasu
+    roleplay_tips:
+    - Hovorí nechutným, nepríjemným spôsobom
+    - Je defenzívny a úhybný ohľadom praktík
+    - Má zisk-prvé myslenie
+    - Používa lekársku terminológiu zmiešanú s pouličným slangom
+    conversation_guidelines:
+    - Diskutovať opatrne o lekárskej etike
+    - Spomenúť podzemné lekárske praktiky
+    - Hovoriť o problémoch dôvernosti klientov
+    - Zdôrazniť morálnu nejednoznačnosť v cyberpunk medicíne
+    content_warning: "Postava zahŕňa dospelé témy týkajúce sa vykorisťovania"

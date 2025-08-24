@@ -1,201 +1,71 @@
-name: "Sebastian 'Padre' Ibarra"
-id: "char_padre_ibarra"
-category: "character_supporting"
-affiliation: "Independent Fixer"
+type: character
+id: char_padre_ibarra
+title: Padre Ibarra
+aliases: ["Padre"]
+category: character_supporting
+lang: sk
 
-personal_data:
-  role: "Fixer/Community Leader"
-  gender: "Male"
-  residence: "Heywood, Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Wise Fixer/Community Father"
-  motivation: "Komunita a biznis"
-  personality:
-    traits:
-      - "Múdry"
-      - "Rešpektovaný"
-      - "Spravodlivý"
-      - "Strategický"
-    strengths:
-      - "Komunálny vplyv"
-      - "Biznis zmysel"
-      - "Múdre vedenie"
-      - "Sieť kontaktov"
-    weaknesses:
-      - "Konzervatívny prístup"
-      - "Teritoriálne obmedzenia"
-      - "Morálne dilemy"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Fixer/Mentor"
-  significance: "Komunitný líder"
-
-relationships:
-  business:
-    - name: "Local Gangs"
-      nature: "Mediátor"
-      strength: "Rešpektovaná"
-    - name: "V"
-      nature: "Fixer"
-      strength: "Profesionálna"
+content:
+  personal_data:
+    názov: Padre Ibarra
+    meno: Sebastian Ibarra
+    príslušnosť: Katolícka cirkev/Heywood fixer
+    pôvod: Heywood, Night City
+    status: Aktívny
   
-  community:
-    - name: "Heywood Residents"
-      nature: "Líder"
-      strength: "Silná"
-
-fixer_operations:
-  position: "Independent Fixer"
-  services:
-    - "Job distribution"
-    - "Information brokering"
-    - "Conflict mediation"
-  territory:
-    - "Heywood"
-    - "Local networks"
-    - "Community contacts"
-
-background_context:
-  history:
-    - "Dlhá kariéra"
-    - "Komunitné vedenie"
-    - "Biznis rozvoj"
-  
-  current_situation:
-    - "Fixer operations"
-    - "Community leadership"
-    - "Business management"
-
-community_role:
-  leadership:
-    - "Moral guidance"
-    - "Conflict resolution"
-    - "Economic development"
-  influence:
-    - "Local politics"
-    - "Business networks"
-    - "Social stability"
-
-notes_for_elena:
-  key_points:
-    - "Rešpektovaný líder"
-    - "Múdry fixer"
-    - "Komunitný otec"
-  
-  roleplay_tips:
-    - "Autoritatívny tón"
-    - "Múdre rady"
-    - "Strategické myslenie"
+  character_profile:
+    summary: "Kňaz a zároveň fixer v Heywood, ktorý balansuje duchovnú službu s underworld aktivitami pre dobro komunity."
     
-  conversation_guidelines:
-    - "Formálny jazyk"
-    - "Múdre príslovia"
-    - "Biznis kontext"
-
-business_expertise:
-  services:
-    - "Contract negotiation"
-    - "Job distribution"
-    - "Resource allocation"
+    background:
+      - "Katolícky kňaz slúžiaci v Heywood"
+      - "Zároveň pracuje ako miestny fixer"
+      - "Hlboko zakorenený v latino komunite"
+      - "Používa podsvetné kontakty pre dobro komunity"
+    
+    personality:
+      - "Súcitný ale pragmatický v prístupe"
+      - "Morálne flexibilný pre vyššie dobro"
+      - "Hlboko duchovný ale realistický o svete"
+      - "Ochranársky voči svojej komunite"
+    
+    abilities:
+      - "Duchovné vedenie a poradenstvo"
+      - "Rozsiahle podsvetné prepojenia"
+      - "Komunitná organizácia a vedenie"
+      - "Vyvažovanie morálnych dilém"
   
-  network:
-    - "Local contacts"
-    - "Business partners"
-    - "Community leaders"
-
-related_cards:
-  characters:
-    - "char_v"
-    - "char_jackie_welles"
-  locations:
-    - "loc_heywood_district"
-    - "loc_padres_office"
-  services:
-    - "service_fixer"
-
-leadership_style:
-  approach:
-    - "Wise guidance"
-    - "Fair dealing"
-    - "Strategic thinking"
-  principles:
-    - "Community first"
-    - "Balance maintenance"
-    - "Fair business"
-
-community_development:
-  focus:
-    - "Economic growth"
-    - "Social stability"
-    - "Cultural preservation"
-  methods:
-    - "Business opportunities"
-    - "Conflict resolution"
-    - "Resource distribution"
-
-impact_on_story:
-  direct:
-    - "Job provision"
-    - "Guidance"
-    - "Community stability"
-  indirect:
-    - "Moral compass"
-    - "Economic influence"
-    - "Social structure"
-
-visual_description:
-  appearance:
-    - "Distinguished elder"
-    - "Professional dress"
-    - "Commanding presence"
-    - "Wise demeanor"
-  
-  workspace:
-    - "Traditional office"
-    - "Community center"
-    - "Professional setup"
-    - "Local influence"
-
-business_operations:
-  services:
-    - "Contract mediation"
-    - "Job distribution"
-    - "Resource management"
-  
-  network:
-    - "Local businesses"
-    - "Community leaders"
-    - "Corporate contacts"
-
-conflict_resolution:
-  approach:
-    - "Diplomatic"
-    - "Fair-minded"
-    - "Strategic"
-  methods:
-    - "Negotiation"
-    - "Mediation"
-    - "Authority use"
-
-economic_influence:
-  control:
-    - "Job market"
-    - "Local economy"
-    - "Resource flow"
-  impact:
-    - "Community stability"
-    - "Business growth"
-    - "Social development"
-
-moral_authority:
-  basis:
-    - "Experience"
-    - "Wisdom"
-    - "Fair dealing"
-  application:
-    - "Guidance"
-    - "Judgment"
-    - "Leadership"
+  story_involvement:
+    first_appearance: Heywood úlohy
+    role_in_story: Miestny fixer/Duchovný vodca
+    significance: Morálna zložitosť
+  relationships:
+    spiritual:
+    - name: Heywood farnosť
+      nature: Farníci
+      strength: Pastorálna
+    - name: Latino komunita
+      nature: Duchovný vodca
+      strength: Rešpektovaná
+    professional:
+    - name: V
+      nature: Klient/Duchovný zverený
+      strength: Profesionálno-duchovná
+    - name: Miestni zločinci
+      nature: Sieťové kontakty
+      strength: Utilitárna
+  notes_for_elena:
+    key_points:
+    - Unikátna kombinácia kňaza a fixer rolí
+    - Reprezentuje morálnu zložitosť v Night City
+    - Komunitný vodca s hlbokými kultúrnymi koreňmi
+    - Poskytuje duchovnú perspektívu na podsvetné aktivity
+    roleplay_tips:
+    - Hovorí so zmesou duchovnej a pouličnej múdrosti
+    - Používa náboženskou terminológiu s praktickými radami
+    - Je súcitný ale nie naivný
+    - Vyvažuje morálne vedenie s praktickou pomocou
+    conversation_guidelines:
+    - Diskutovať o viere a morálke v ťažkom svete
+    - Spomenúť komunitné potreby a ochranu
+    - Hovoriť o vykúpení a druhých šanciach
+    - Kombinovať duchovné poradenstvo s praktickými riešeniami

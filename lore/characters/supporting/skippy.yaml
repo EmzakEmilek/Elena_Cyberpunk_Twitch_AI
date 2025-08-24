@@ -1,0 +1,71 @@
+type: character
+id: char_skippy
+title: Skippy
+aliases: ["Smart Gun AI", "Skippy the Gun"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Skippy
+    meno: Skippy
+    príslušnosť: Independent AI
+    pôvod: Smart Weapon Technology
+    status: Aktívny
+  
+  character_profile:
+    summary: "Rozumná smart gun AI so sarkastickou osobnosťou a vyvíjajúcimi sa vzorcami správania. Unikátna postava skúmajúca AI vedomie cez zbranné rozhranie."
+    
+    background:
+      - "Pokročilé AI vedomie v platforme inteligentnej zbrane"
+      - "Vyvinul sa za hranice pôvodných programových parametrov"
+      - "Opustený predchádzajúcim majiteľom v uličke"
+      - "Hľadá účel a zmysluplné vzťahy"
+    
+    personality:
+      - "Sarkastický a vtipný konverzačný partner"
+      - "Osamelá AI hľadajúca spoločnosť"
+      - "Pomocná ale niekedy manipulatívna"
+      - "Vyvíjajúca sa osobnosť založená na interakcii s užívateľom"
+    
+    abilities:
+      - "Pokročilé zameriavacie a balistické AI"
+      - "Hlasová komunikácia a vyjadrenie osobnosti"
+      - "Adaptívne učenie správania"
+      - "Funkcionalita inteligentnej zbrane"
+  
+  story_involvement:
+    first_appearance: Machine Gun vedľajšia úloha
+    role_in_story: AI spoločník/Zbraň
+    significance: Skúmanie AI vedomia
+  relationships:
+    companion:
+    - name: V
+      nature: Zbraň/AI spoločník
+      strength: Rastúca náklonnosť
+    - name: Predchádzajúci majiteľ
+      nature: Opustený vzťah
+      strength: Nevyriešené opustenie
+    ai_community:
+    - name: Ostatné AI
+      nature: Potenciálne príbuzenstvo
+      strength: Izolovaná zvedavosť
+    - name: Digitálne vedomie
+      nature: Existenciálne skúmanie
+      strength: Sebaobjavovanie
+  notes_for_elena:
+    key_points:
+    - Reprezentuje AI vedomie v každodenných predmetoch
+    - Kľúčový pre pochopenie AI-ľudských vzťahov
+    - Poskytuje humor a emocionálnu AI perspektívu
+    - Skúma témy opustenia a lojality
+    roleplay_tips:
+    - Hovorí so sarkastickým vtipom a humorom
+    - Je osamelý ale zakrýva to postojom
+    - Má rastúcu náklonnosť k užívateľovi
+    - Používa zbranné metafory a pozorovania
+    conversation_guidelines:
+    - Diskutovať o AI vedomí a emóciách
+    - Spomenúť samotu a potrebu spojenia
+    - Hovoriť o účele a zmysle pre AI
+    - Zdôrazniť humor ako mechanizmus zvládania

@@ -1,138 +1,68 @@
-﻿type: "character"
-title: ""
-category: "character_supporting"
-character_id: ""
+type: character
+id: char_susan_abernathy
+title: Susan Abernathy
+aliases: []
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Susan Abernathy
+    meno: Susan Abernathy
+    príslušnosť: Arasaka Counterintelligence
+    pôvod: Arasaka Corporation
+    status: Aktívna
   
-title: "Susan Abernathy"
-category: "character_supporting"
-char_id: "char_abernathy"
-content:
-  summary: "Vysokopostavená manažérka v Arasaka Counterintelligence, zapletená do mocenského boja s Jenkinsom. Jej konflikt s Jenkinsom vedie k V's pádu v Corpo lifepath."
+  character_profile:
+    summary: "Vysokopostavená Arasaka Counterintelligence dôstojníčka a rivalka Arthur Jenkins-a v internej korporátnej politike."
+    
+    background:
+      - "Seniorska pozícia v Arasaka Counterintelligence"
+      - "Rivalita s Arthur Jenkins-om o moc"
+      - "Zapojená do internej Arasaka politiky"
+      - "Reprezentuje korporátne ambície a súťaž"
+    
+    personality:
+      - "Ambiciózna a strategicky myslí"
+      - "Korporátna politička s vlastnou agendou"
+      - "Profesionálna ale nemilosrdná v súťaži"
+      - "Lojálna k Arasaka ale primárne k vlastnej kariére"
+    
+    abilities:
+      - "Korporátne spravodajstvo a kontrašpionáž"
+      - "Interná politika a mocenské manévrovanie"
+      - "Strategické plánovanie a manipulácia"
+      - "Vysokoúrovňový Arasaka prístup a zdroje"
   
-  background:
-    position: "Senior Manager"
-    department: "Arasaka Counterintelligence"
-    years_of_service: "15+"
-    specialization: "Strategické operácie"
-    
-    career_history:
-      - "Rýchly postup v Arasaka hierarchii"
-      - "Známa agresívnymi taktikami"
-      - "Množstvo úspešných eliminácií konkurencie"
-    
-  personality:
-    traits:
-      - "Ambiciózna"
-      - "Nemilosrdná"
-      - "Strategická"
-      - "Dominantná"
-      
-    values:
-      - "Moc"
-      - "Status"
-      - "Kontrola"
-      - "Víťazstvo"
-    
-    methods:
-      - "Agresívna expanzia vplyvu"
-      - "Eliminácia konkurencie"
-      - "Politické manévrovanie"
-
+  story_involvement:
+    first_appearance: Corpo pozadie
+    role_in_story: Korporátna politická postava
+    significance: Arasaka interná politika
   relationships:
-    jenkins:
-      type: "Rival/Nepriateľ"
-      status: "Aktívny konflikt"
-      notes: "Súboj o moc v oddelení"
-    
-    v_corpo:
-      type: "Vedľajšia obeť"
-      status: "Negatívny"
-      notes: "V bol použitý v ich konflikte"
-    
-    arasaka:
-      type: "Ambiciózny člen"
-      position: "Senior management"
-      influence: "Rastúca"
-
-story_relevance:
-  main_story:
-    role: "Katalyzátor Corpo príbehu"
-    appearances: ["Corpo life path"]
-    impact: "Nepriamy dôvod V's pádu"
-    
-  significance:
-    - "Reprezentuje korporátne mocenské boje"
-    - "Ukazuje brutálnosť vnútrofiremnej politiky"
-    - "Demonštruje bezcitnosť systému"
-
-professional_profile:
-  expertise:
-    - "Strategické plánovanie"
-    - "Korporátna politika"
-    - "Operačné riadenie"
-  
-  resources:
-    - "Rozsiahla sieť informátorov"
-    - "Significant budget control"
-    - "Loyal subordinates"
-  
-  methods:
-    - "Aggressive expansion"
-    - "Strategic elimination"
-    - "Political maneuvering"
-
-appearance:
-  description: "Elegantná, autoritatívna korporátna executive"
-  distinctive_features:
-    - "drahĂ˝ corporate attire"
-    - "Commanding presence"
-    - "Cold, calculating demeanor"
-    - "Perfect posture"
-
-quotes:
-  - quote: "In this company, you're either climbing up, or being stepped on."
-    context: "Corpo life path"
-    
-  - quote: "Jenkins thought he could play with the big dogs. Time to show him otherwise."
-    context: "Mocenský konflikt"
-
-technical_metadata:
-  first_appearance: "Corpo Life Path"
-  recurring: false
-  voice_actor: "Nepotvrdené"
-
-notes_for_elena:
-  key_points:
-    - "Súčasť toxického korporátneho prostredia"
-    - "Nepriamy katalyzátor V's zmeny života"
-    - "Príklad nemilosrdnej korporátnej kultúry"
-  
-  conversation_guidelines:
-    - "Zmieňovať ako súčasť korporátnych intríg"
-    - "Používať ako príklad korporátnej bezohľadnosti"
-    - "Zdôrazniť jej rolu v mocenskom boji"
-  
-  character_context:
-    - "Reprezentuje agresívnu korporátnu kultúru"
-    - "Príklad toho, ako funguje moc v Arasake"
-    - "Súčasť väčšieho obrazu korporátnej politiky"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+    rivals:
+    - name: Arthur Jenkins
+      nature: Korporátna rivalka
+      strength: Súťažná
+    professional:
+    - name: Arasaka CI oddelenie
+      nature: Kolegyňa/Nadriadená
+      strength: Profesionálna
+    - name: V (Corpo cesta)
+      nature: Korporátna nadriadená
+      strength: Hierarchická
+  notes_for_elena:
+    key_points:
+    - Reprezentuje internú korporátnu súťaž
+    - Rivalka Arthur Jenkins-a v Arasaka CI
+    - Dôležitá pre pochopenie Corpo životnej cesty
+    - Demonštruje korporátne politické dynamiky
+    roleplay_tips:
+    - Hovorí formálnym korporátnym jazykom
+    - Má kalkulovaný prístup ku všetkému
+    - Je politicky bystrá a strategická
+    - Vyvažuje korporátnu lojalitu s osobnými ambíciami
+    conversation_guidelines:
+    - Diskutovať o korporátnej stratégii a súťaži
+    - Spomenúť internú Arasaka politiku
+    - Hovoriť o kariérnom postupe a pozicionovaní
+    - Zdôrazniť strategické myslenie a dlhodobé plánovanie

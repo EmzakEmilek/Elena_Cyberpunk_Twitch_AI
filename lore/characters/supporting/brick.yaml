@@ -1,183 +1,69 @@
-﻿type: "character"
-title: "Brick"
-category: "character_supporting"
-character_id: "char_brick"
+type: character
+id: char_brick
+title: Brick
+aliases: []
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Brick
+    meno: Brick
+    príslušnosť: Bývalý Maelstrom
+    pôvod: Watson gang territory
+    status: Uväznený/Voliteľne oslobodený
   
-name: "Brick"
-id: "char_brick"
-category: "character_supporting"
-affiliation: "Former Maelstrom"
-
-personal_data:
-  role: "Former Maelstrom Leader"
-  gender: "Male"
-  residence: "Watson (imprisoned)"
-  faction: "Maelstrom (former)"
-
-character_profile:
-  archetype: "Deposed Gang Leader"
-  motivation: "Prežitie a pomsta"
-  personality:
-    traits:
-      - "Pragmatický"
-      - "Opatrný"
-      - "Tvrdý"
-      - "Lojálny k svojim"
-    strengths:
-      - "Vodcovské schopnosti"
-      - "Bojové skúsenosti"
-      - "Gang politika"
-    weaknesses:
-      - "Uväznený"
-      - "Strata moci"
-      - "Obmedzené spojenia"
-
-story_involvement:
-  first_appearance: "The Pickup"
-  role_in_story: "Voliteľný spojenec"
-  possible_outcomes:
-    - condition: "Oslobodený"
-      result: "Potenciálny spojenec"
-    - condition: "Ponechaný"
-      result: "Žiadna interakcia"
-    - condition: "Mŕtvy"
-      result: "Zmena gang dynamiky"
-
-relationships:
-  former_allies:
-    - name: "Maelstrom members"
-      nature: "Bývalí podriadení"
-      strength: "Varied"
-  enemies:
-    - name: "Royce"
-      nature: "Uzurpátor"
-      strength: "Silná"
-  potential:
-    - name: "V"
-      nature: "Osloboditeľ/Spojenec"
-      condition: "Ak oslobodený"
-
-quest_appearances:
-  - quest: "The Pickup"
-    role: "Optional rescue target"
-    importance: "Medium"
-
-available_interactions:
-  dialogues:
-    - type: "Rescue"
-      topics:
-        - "Oslobodenie"
-        - "Gang informácie"
-        - "Royce konflikt"
-    - type: "Alliance"
-      topics:
-        - "Budúca spolupráca"
-        - "Maelstrom politika"
-        - "Osobná vďačnosť"
-
-character_development:
-  arc_type: "Potential Ally"
-  possible_paths:
-    - path: "Oslobodenie"
-      outcomes:
-        - "Vďačný spojenec"
-        - "Informačný zdroj"
-    - path: "Ponechanie"
-      outcomes:
-        - "Žiadny vplyv"
-        - "Stratená príležitosť"
-
-visual_description:
-  appearance:
-    - "Cybernetic enhancements"
-    - "Gang tattoos"
-    - "Battle scars"
-    - "Maelstrom style"
-  condition:
-    - "Imprisoned"
-    - "Beaten but unbroken"
-    - "Combat-ready"
-
-combat_capabilities:
-  primary_weapons: "None (imprisoned)"
-  Cyberware:
-    - type: "Combat mods"
-      level: "High-grade"
-    - type: "Body enhancements"
-      level: "Significant"
-  potential:
-    - "Experienced fighter"
-    - "Gang warfare expert"
-    - "Strategic mind"
-
-notes_for_elena:
-  key_points:
-    - "Voliteľná záchranna misia"
-    - "Dôležitý pre Maelstrom politiku"
-    - "Potenciálny zdroj informácií"
-  
-  roleplay_tips:
-    - "Zdôrazniť ťažkú situáciu"
-    - "Naznačiť bývalú autoritu"
-    - "Ukázať vďačnosť pri záchrane"
+  character_profile:
+    summary: "Bývalý vodca Maelstrom gangu, ktorý bol zvrhnutý Royce-om a uväznený. V môže sa rozhodnúť ho oslobodiť počas 'The Pickup' misie."
     
-  conversation_guidelines:
-    - "Opatrný pri prvom kontakte"
-    - "Vďačný po záchrane"
-    - "Informatívny o Maelstrom"
-
-background_context:
-  leadership:
-    - "Bývalý vodca Maelstrom"
-    - "Zvrhnutý Roycom"
-    - "Rešpektovaný veterán"
+    background:
+      - "Bývalý rešpektovaný vodca Maelstrom gangu"
+      - "Zvrhnutý v mocenskom prevrate vedenom Royce-om"
+      - "Uväznený v All Foods továrni a čaká na popravu"
+      - "Veterán gang warfare s rozsiahlymi Maelstrom kontaktmi"
+    
+    personality:
+      - "Pragmatický a opatrný po strate moci"
+      - "Tvrdý ale spravodlivý vodca, lojálny k svojim ľuďom"
+      - "Rešpektuje silu ale preferuje rozumnú diplomaciu"
+      - "Vďačný tým, čo mu pomôžu, ale neprestane byť opatrný"
+    
+    abilities:
+      - "Skúsený gang warfare taktik a stratégia"
+      - "Hlboké znalosti Maelstrom organizácie a politiky"
+      - "High-grade cyberware combat modifications"
+      - "Vodcovské schopnosti a rešpekt veteránov"
   
-  current_situation:
-    - "Uväznený v All Foods"
-    - "Čaká na popravu"
-    - "Možnosť záchrany"
-
-related_cards:
-  characters:
-    - "char_royce"
-  factions:
-    - "faction_maelstrom"
-  locations:
-    - "loc_all_foods"
-  quests:
-    - "mq_the_pickup"
-
-rescue_mission:
-  requirements:
-    - "Nájsť informácie o lokácii"
-    - "Získať prístupový kód"
-    - "Dostať sa k cele"
-  
-  consequences:
-    positive:
-      - "Nový spojenec"
-      - "Maelstrom informácie"
-      - "Budúce príležitosti"
-    negative:
-      - "Možná pozornosť Royce"
-      - "Komplikácie v misii"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: The Pickup
+    role_in_story: Voliteľný spojenec
+    significance: Optional rescue/ally
+  relationships:
+    enemies:
+    - name: Royce
+      nature: Uzurpátor moci
+      strength: Silná
+    professional:
+    - name: Bývalí Maelstrom members
+      nature: Bývalí podriadení
+      strength: Rôzna
+    potential:
+    - name: V
+      nature: Možný osloboditeľ
+      strength: Vďačná (ak oslobodený)
+  notes_for_elena:
+    key_points:
+    - Voliteľná postava - môže byť oslobodená alebo ignorovaná
+    - Bývalý vodca Maelstrom pred Royce-ovým pučom
+    - Ak oslobodený, môže poskytovať informácie o gang politike
+    - Reprezentuje starý štýl Maelstrom leadership
+    roleplay_tips:
+    - Hovorí ako gang veterán, rešpektuje silu
+    - Opatrný ale vďačný ak mu niekto pomôže
+    - Má nostalgiu za starými časmi Maelstrom
+    - Pragmatický, neidealistický prístup k svetu
+    conversation_guidelines:
+    - Diskutovať o zmene v Maelstrom pod Royce
+    - Spomenúť gang warfare a territories
+    - Hovoriť o cyberware a combat modifications
+    - Zdôrazniť vďačnosť ak bol oslobodený

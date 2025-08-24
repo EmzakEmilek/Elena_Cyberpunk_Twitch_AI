@@ -1,192 +1,71 @@
-name: "Guadalupe Alejandra Welles"
-id: "char_mama_welles"
-category: "character_supporting"
-affiliation: "Welles Family"
+type: character
+id: char_mama_welles
+title: Mama Welles
+aliases: ["Señora Welles"]
+category: character_supporting
+lang: sk
 
-personal_data:
-  role: "Bar Owner/Family Matriarch"
-  gender: "Female"
-  residence: "Heywood, Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Maternal Figure/Community Leader"
-  motivation: "Rodina a komunita"
-  personality:
-    traits:
-      - "Silná"
-      - "Ochranárska"
-      - "Pracovitá"
-      - "Starostlivá"
-    strengths:
-      - "Rodinná oddanosť"
-      - "Podnikateľský duch"
-      - "Komunálne vedenie"
-      - "Emocionálna sila"
-    weaknesses:
-      - "Príliš ochranárska"
-      - "Ťažkosti s pustením"
-      - "Workoholizmus"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Podporná postava/Matriarch"
-  significance: "Rodinné zázemie"
-
-relationships:
-  family:
-    - name: "Jackie Welles"
-      nature: "Syn"
-      strength: "Silná/Materinská"
+content:
+  personal_data:
+    názov: Mama Welles
+    meno: Guadalupe Welles
+    príslušnosť: Heywood komunita
+    pôvod: Heywood, Night City
+    status: Aktívna
   
-  friends:
-    - name: "V"
-      nature: "Náhradná matka"
-      strength: "Podporná"
-    - name: "Local Community"
-      nature: "Komunitný leader"
-      strength: "Rešpektovaná"
-
-business_operations:
-  establishment: "El Coyote Cojo"
-  role:
-    - "Owner"
-    - "Manager"
-    - "Community hub"
-  services:
-    - "Bar"
-    - "Food"
-    - "Community gathering"
-
-background_context:
-  history:
-    - "Imigrácia do Night City"
-    - "Založenie baru"
-    - "Výchova Jackie"
-  
-  current_situation:
-    - "Bar management"
-    - "Community leadership"
-    - "Family support"
-
-bar_management:
-  location: "Heywood"
-  offerings:
-    - "Tradičné jedlá"
-    - "Nápoje"
-    - "Komunitný priestor"
-  atmosphere:
-    - "Rodinná"
-    - "Prívetivá"
-    - "Bezpečná"
-
-notes_for_elena:
-  key_points:
-    - "Silná matriarchálna figúra"
-    - "Komunitná vodkyňa"
-    - "Podnikateľka"
-  
-  roleplay_tips:
-    - "Materinský prístup"
-    - "Silný charakter"
-    - "Ochranárske tendencie"
+  character_profile:
+    summary: "Jackie-ho matka a matriarch Welles rodiny. Silná žena s hlbokými koreňmi v latino komunite Heywood."
     
-  conversation_guidelines:
-    - "Rodinné hodnoty"
-    - "Praktická múdrosť"
-    - "Komunitný fokus"
-
-community_role:
-  leadership:
-    - "Bar ownership"
-    - "Support network"
-    - "Cultural preservation"
+    background:
+      - "Matka Jackie Welles a pilier latino komunity"
+      - "Dlhé roky žije v Heywood district"
+      - "Udržiava tradičné hodnoty v modernom svete"
+      - "Známa pre svoju pohostinnosť a multiple jobs"
+    
+    personality:
+      - "Materinská a starostlivá k všetkým okolo seba"
+      - "Silná a nezávislá žena s jasným moral compass"
+      - "Hrdá na svoju kultúru a tradície"
+      - "Praktická ale s veľkým srdcom"
+    
+    abilities:
+      - "Organizácia komunity a social networking"
+      - "Tradičné cooking a household management"
+      - "Emocionálna podpora a counseling"
+      - "Knowledge of Heywood history a culture"
   
-  influence:
-    - "Local businesses"
-    - "Family values"
-    - "Cultural identity"
-
-family_dynamics:
-  parenting:
-    - "Single mother"
-    - "Strong guidance"
-    - "Protective nature"
-  
-  legacy:
-    - "Family business"
-    - "Cultural heritage"
-    - "Community impact"
-
-related_cards:
-  characters:
-    - "char_jackie_welles"
-    - "char_v"
-  locations:
-    - "loc_el_coyote_cojo"
-    - "loc_heywood_district"
-  factions:
-    - "faction_local_community"
-
-business_expertise:
-  management:
-    - "Bar operations"
-    - "Staff supervision"
-    - "Community relations"
-  skills:
-    - "Leadership"
-    - "Customer service"
-    - "Financial management"
-
-cultural_impact:
-  preservation:
-    - "Mexican traditions"
-    - "Family values"
-    - "Community bonds"
-  activities:
-    - "Cultural events"
-    - "Family gatherings"
-    - "Community support"
-
-impact_on_story:
-  direct:
-    - "Family support"
-    - "Emotional anchor"
-    - "Jackie connection"
-  indirect:
-    - "Community stability"
-    - "Cultural context"
-    - "Family values"
-
-visual_description:
-  appearance:
-    - "Matriarchal presence"
-    - "Traditional style"
-    - "Strong demeanor"
-    - "Warm expression"
-  
-  bar:
-    - "Family atmosphere"
-    - "Mexican decor"
-    - "Community space"
-    - "Welcoming environment"
-
-response_to_tragedy:
-  jackie:
-    - "Deep maternal grief"
-    - "Continued strength"
-    - "Community support"
-  resilience:
-    - "Business continuation"
-    - "Family preservation"
-    - "Community leadership"
-
-business_challenges:
-  operations:
-    - "Daily management"
-    - "Staff coordination"
-    - "Community balance"
-  solutions:
-    - "Strong leadership"
-    - "Family support"
-    - "Community involvement"
+  story_involvement:
+    first_appearance: Jackie-related quests
+    role_in_story: Maternal figure
+    significance: Cultural anchor
+  relationships:
+    family:
+    - name: Jackie Welles
+      nature: Syn (deceased)
+      strength: Materinská láska
+    - name: V
+      nature: Jackie-ho priateľ
+      strength: Adoptívna starostlivosť
+    community:
+    - name: Heywood residents
+      nature: Suseda/Komunitná vodkyňa
+      strength: Rešpektovaná
+    - name: Latino community
+      nature: Kultúrna reprezentantka
+      strength: Silná
+  notes_for_elena:
+    key_points:
+    - Materská postava pre V po Jackie-ho smrti
+    - Reprezentuje latino kultúru a tradície v Night City
+    - Pilier komunity s hlbokými Heywood koreňmi
+    - Poskytuje emocionálnu kotvu v chaotickém svete
+    roleplay_tips:
+    - Hovorí s materinskou starostlivosťou
+    - Používa španielske slová a frázy
+    - Má tradičné hodnoty ale chápe moderný svet
+    - Je pohostinná ale ochranárska
+    conversation_guidelines:
+    - Diskutovať o Jackie a spomienkach
+    - Spomenúť latino kultúru a tradície
+    - Hovoriť o komunite a rodinných hodnotách
+    - Používať teplý, materinský tón

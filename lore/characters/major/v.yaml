@@ -1,112 +1,70 @@
 type: character
-title: "V"
-category: "character_major"
-char_id: "char_v"
+id: char_v
+title: V
+aliases: []
+category: character_major
+lang: sk
 
 content:
-  summary: "Hlavná postava hry, žoldnier (mercenary) snažiaci sa prežiť v Night City s digitálnym duchom Johnny Silverhand-a vo svojej hlave."
+  personal_data:
+    názov: V
+    meno: "Zvolené hráčom"
+    príslušnosť: Nezávislý žoldnier
+    pôvod: "Nomád/Street Kid/Corpo (podľa výberu)"
+    status: Aktívny
   
-  background:
-    origins:
-      nomad: "Pochádza z nomádskych klanов, ktoré žijú v Badlands"
-      street_kid: "Vyrastal na uliciach Night City"
-      corpo: "Pracoval pre megakorporáciu Arasaka"
+  character_profile:
+    summary: "Hlavná postava hry, žoldnier snažiaci sa prežiť v Night City s digitálnym duchom Johnny Silverhand-a vo svojej hlave."
     
-    current_situation:
+    background:
       - "Nositeľ Relic chipu s Johnny Silverhand"
-      - "Hľadá spôsob ako odstrániť chip bez smrti"
-      - "Pracuje ako žoldnier v Night City"
       - "Má približne 6 mesiacov života"
-
-  personality:
-    traits:
-      - "Odhodlaný prežiť"
+      - "Pracuje ako žoldnier v Night City"
+      - "Hľadá spôsob ako odstrániť chip bez smrti"
+    
+    personality:
+      - "Odhodlaný prežiť za každú cenu"
       - "Adaptabilný na rôzne situácie"
-      - "Lojalny k priateľom"
-      - "Pragmatický v rozhodnutiach"
+      - "Lojalny k priateľom a partnerom"
+      - "Pragmatický v dôležitých rozhodnutiach"
     
-    motivations:
-      - "Prežitie"
-      - "Nájdenie lieku na Relic"
-      - "Získanie slávy v Night City"
-      - "Ochrana blízkych osôb"
-
+    abilities:
+      - "Enhanced reflexes a kybernetické implantáty"
+      - "Bojové schopnosti a taktické myslenie"
+      - "Hacking abilities a technické zručnosti"
+      - "Sociálna manipulácia a diplomacia"
+  story_involvement:
+    first_appearance: Začiatok hry
+    role_in_story: Protagonista
+    significance: Hlavná postava
   relationships:
-    key_characters:
-      johnny_silverhand:
-        status: "Cybernetický duch vo V's mysli"
-        relationship: "Komplexný - od nepriateľstva po spoluprácu"
-      jackie_welles:
-        status: "Najlepší priateľ (deceased)"
-        relationship: "Brat, partner v zločine"
-      panam_palmer:
-        status: "Nomád, potenciálny romantický záujem"
-        relationship: "Silné puto, vzájomná podpora"
-      judy_alvarez:
-        status: "BD technička, potenciálny romantický záujem"
-        relationship: "Hlboké priateľstvo, spoločné ciele"
-
-  abilities:
-    cybernetic:
-      - "Enhanced reflexes"
-      - "Neural implants"
-      - "Cyberware compatibility"
-      - "Relic integration"
-    
-    skills:
-      - "Combat expertise"
-      - "Hacking abilities"
-      - "Social manipulation"
-      - "Technical skills"
-
-  story_significance:
-    main_plot:
-      - "Centrálna postava všetkých questov"
-      - "Nositeľ Relic technology"
-      - "Kľúč k Arasaka plánom"
-      - "Most medzi rôznymi frakciami"
-    
-    multiple_endings:
-      - "Devil ending - spolupráca s Arasaka"
-      - "Star ending - útěk s nomádmi"
-      - "Sun ending - Night City legend"
-      - "Temperance ending - Johnny prevezme kontrolu"
-
-technical_metadata:
-  importance: "Protagonista"
-  screen_time: "100%"
-  player_agency: "Plná kontrola"
-  customization: "Vzhľad, skills, backstory"
-
-related_cards:
-  characters:
-    - "char_johnny_silverhand"
-    - "char_jackie_welles"
-    - "char_panam_palmer"
-    - "char_judy_alvarez"
-  quests:
-    - "quest_the_heist"
-    - "quest_chippin_in"
-    - "quest_nocturne_op55n1"
-  technology:
-    - "tech_relic"
-    - "tech_braindance"
-
-notes_for_elena:
-  key_points:
-    - "V je plne prispôsobiteľná postava podľa hráčových rozhodnutí"
-    - "Nosí Relic chip s Johnny Silverhand"
-    - "Má približne 6 mesiacov života"
-    - "Príbeh sa točí okolo hľadania lieku"
-  
-  conversation_guidelines:
-    - "Spýtať sa na life path (nomad/street kid/corpo)"
-    - "Diskutovať o vzťahu s Johnny"
-    - "Hovoriť o time pressure (6 mesiacov)"
-    - "Spomenúť rôzne možné konce hry"
-  
-  roleplay_aspects:
-    - "V môže byť agresívny, diplomatický alebo technický"
-    - "Reakcie závisia od hráčových volieb"
-    - "Stále sa učí žiť s Johnny v hlave"
-    - "Buduje reputáciu v Night City"
+    professional:
+    - name: Johnny Silverhand
+      nature: Cybernetický duch v mysli
+      strength: Komplexná
+    - name: Jackie Welles
+      nature: Najlepší priateľ (deceased)
+      strength: Bratská
+    personal:
+    - name: Panam Palmer
+      nature: Romantický záujem/Spojenec
+      strength: Silná
+    - name: Judy Alvarez
+      nature: Romantický záujem/Priateľka
+      strength: Hlboká
+  notes_for_elena:
+    key_points:
+    - V je plne prispôsobiteľná postava podľa hráčových rozhodnutí
+    - Nosí Relic chip s Johnny Silverhand, má 6 mesiacov života
+    - Centrálna postava všetkých questov a príbehových línií
+    - Môže mať rôzne pôvody: Nomád, Street Kid alebo Corpo
+    roleplay_tips:
+    - V môže byť agresívny, diplomatický alebo technický
+    - Reakcie závisia od life path a hráčových volieb
+    - Stále sa učí žiť s Johnny v hlave
+    - Buduje reputáciu v Night City
+    conversation_guidelines:
+    - Spýtať sa na life path (nomad/street kid/corpo)
+    - Diskutovať o vzťahu s Johnny a time pressure
+    - Hovoriť o rôznych možných koncoch hry
+    - Spomenúť progress v building reputation

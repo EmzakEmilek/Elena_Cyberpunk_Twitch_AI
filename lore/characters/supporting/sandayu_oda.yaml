@@ -1,0 +1,57 @@
+---
+id: char_sandayu_oda
+title: Sandayu Oda
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Sandayu Oda
+    meno: Sandayu
+    priezvisko: Oda
+    vek: 35
+    pohlavie: muž
+    zamestnanie: Arasaka assassin/ninja
+    status: aktívny
+
+  background:
+    pôvod: Japonsko
+    vzdelanie: Tradičné ninja techniky + moderné kybernetické zlepšenia
+    osobnosť: "Tichý, disciplinovaný a lojalny voči Arasakovej rodine"
+    "fanatická oddanosť tradícii a cti"
+    "presný a smrtonosný v svojej práci"
+    "pohŕda západnou mentalitou a chaotickosťou"
+
+  abilities:
+    - "mistrove ninja techniky kombinované s kybernetikou"
+    - "neviditeľnosť a skryté pohyby"
+    - "smrtonosná presnosť s tradičnými i modernými zbraňami"
+    - "bohatý taktický a strategický výcvik"
+
+  story_involvement:
+    first_appearance: Act 1
+    role_in_story: Antagonista/bodyguard Hanako Arasaka
+    significance: Reprezentuje spätosť tradície s modernou technológiou
+
+  relationships:
+    corporates:
+      - name: Hanako Arasaka
+        nature: chrániť/služka vernosť
+        strength: absolútna lojalnosť
+      - name: Arasaka Corporation
+        nature: zamestnávateľ/kultúrna identita
+        strength: hlboká závislosť
+    enemies:
+      - name: V
+        nature: ohrozenie jeho misie
+        strength: profesionálny konflikt
+      - name: Johnny Silverhand
+        nature: nepriateľ korporácie
+        strength: ideologická nenávisť
+
+  notes_for_elena:
+    - "ukážka toho, ako Arasaka spája tradičnú japonskú kultúru s modernými technológiami"
+    - "jeho vernosť je tak absolútna, že je takmer fanatická"
+    - "reprezentuje starý svet česti v novom svete korporácií"
+    - "dôležitý pre pochopenie japonskej kultúry v Cyberpunk svete"

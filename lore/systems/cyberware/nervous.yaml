@@ -1,223 +1,168 @@
-﻿type: "technology"
-title: "Nervous System"
-category: "system_cyberware"
-technology_id: "system_cyberware_nervous"
-
+type: technology
+title: Nervous System
+category: system_cyberware
+technology_id: system_cyberware_nervous
 content:
-  summary: ""
-  
-name: "Nervous System"
-id: "system_cyberware_nervous"
-category: "system_cyberware"
-
+  summary: ''
+name: Nervous System
+id: system_cyberware_nervous
 system_overview:
-  description: "Kybernetické vylepšenia pre nervový systém"
+  description: Kybernetické vylepšenia pre nervový systém
   core_functions:
-    - "Reflex enhancement"
-    - "Neural speed"
-    - "Sensory boost"
-    - "Response time"
-
+  - Reflex enhancement
+  - Neural speed
+  - Sensory boost
+  - Response time
 core_features:
   neural:
-    - "Signal speed"
-    - "Response time"
-    - "Sensory processing"
-    - "Motor control"
-  
+  - Signal speed
+  - Response time
+  - Sensory processing
+  - Motor control
   enhancement:
-    - "Reflex boost"
-    - "Reaction time"
-    - "Coordination"
-    - "Precision"
-
+  - Reflex boost
+  - Reaction time
+  - Coordination
+  - Precision
 enhancement_capabilities:
   primary:
-    - "Faster reactions"
-    - "Better coordination"
-    - "Enhanced senses"
-    - "Precise control"
-  
+  - Faster reactions
+  - Better coordination
+  - Enhanced senses
+  - Precise control
   secondary:
-    - "Pain management"
-    - "Stress handling"
-    - "Focus control"
-    - "Mental clarity"
-
+  - Pain management
+  - Stress handling
+  - Focus control
+  - Mental clarity
 hardware_components:
   neural:
-    - "Signal boosters"
-    - "Neural processors"
-    - "Sensory enhancers"
-  
+  - Signal boosters
+  - Neural processors
+  - Sensory enhancers
   interface:
-    - "Neural links"
-    - "Control units"
-    - "Processing cores"
-
+  - Neural links
+  - Control units
+  - Processing cores
 notes_for_elena:
   key_points:
-    - "Neural enhancement"
-    - "Reflex boost"
-    - "Sensory improvement"
-  
-  roleplay_tips:
-    - "Quick responses"
-    - "Enhanced awareness"
-    - "Precise control"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Neural terms"
-    - "Technical aspects"
-    - "Performance details"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 performance_levels:
   basic:
-    description: "Standard boost"
-    capabilities: "Basic enhancement"
-    limitations: "Moderate improvement"
-  
+    description: Standartni poviševac
+    capabilities: Basic enhancement
+    limitations: Moderate improvement
   pokroÄŤilĂ˝:
-    description: "Enhanced systems"
-    capabilities: "Significant boost"
-    limitations: "Higher demands"
-  
+    description: Zvyšené systémy
+    capabilities: Significant boost
+    limitations: Higher demands
   premium:
-    description: "Maximum capability"
-    capabilities: "Peak performance"
-    limitations: "High maintenance"
-
+    description: maximálna zmogljivost
+    capabilities: Peak performance
+    limitations: High maintenance
 integration_aspects:
   biological:
-    - "Neural connection"
-    - "Synaptic interface"
-    - "Nerve enhancement"
-  
+  - Neural connection
+  - Synaptic interface
+  - Nerve enhancement
   technical:
-    - "Signal processing"
-    - "Response timing"
-    - "Data handling"
-
+  - Signal processing
+  - Response timing
+  - Data handling
 skill_benefits:
   reflexes:
-    - "Faster reaction"
-    - "Better timing"
-    - "Precise control"
-  
+  - Faster reaction
+  - Better timing
+  - Precise control
   senses:
-    - "Enhanced perception"
-    - "Better awareness"
-    - "Quick processing"
-
+  - Enhanced perception
+  - Better awareness
+  - Quick processing
 gameplay_impact:
   advantages:
-    - "Combat speed"
-    - "Reaction time"
-    - "Precision control"
-  
+  - Combat speed
+  - Reaction time
+  - Precision control
   limitations:
-    - "System strain"
-    - "Power needs"
-    - "Recovery time"
-
+  - System strain
+  - Power needs
+  - Recovery time
 ui_elements:
   status:
-    - "Neural load"
-    - "Response time"
-    - "System state"
-  
+  - Neural load
+  - Response time
+  - System state
   control:
-    - "Enhancement level"
-    - "Mode selection"
-    - "Focus control"
-
+  - Enhancement level
+  - Mode selection
+  - Focus control
 related_systems:
   Cyberware:
-    - "system_cyberware_operating_system"
-    - "system_cyberware_frontal_cortex"
+  - system_cyberware_operating_system
+  - system_cyberware_frontal_cortex
   combat:
-    - "system_combat_gunplay"
-    - "system_combat_melee"
-
+  - system_combat_gunplay
+  - system_combat_melee
 maintenance_requirements:
   routine:
-    - "Signal check"
-    - "Response test"
-    - "System calibration"
-  
+  - Signal check
+  - Response test
+  - System calibration
   emergency:
-    - "Overload handling"
-    - "Signal reset"
-    - "System recovery"
-
+  - Overload handling
+  - Signal reset
+  - System recovery
 enhancement_modes:
   combat:
-    - "Quick reactions"
-    - "Combat focus"
-    - "Precise control"
-  
+  - Quick reactions
+  - Combat focus
+  - Precise control
   utility:
-    - "Enhanced awareness"
-    - "Fine control"
-    - "Sensory boost"
-
+  - Enhanced awareness
+  - Fine control
+  - Sensory boost
 sensory_features:
   processing:
-    - "Quick perception"
-    - "Detail enhancement"
-    - "Pattern recognition"
-  
+  - Quick perception
+  - Detail enhancement
+  - Pattern recognition
   control:
-    - "Sensory filtering"
-    - "Focus management"
-    - "Input control"
-
+  - Sensory filtering
+  - Focus management
+  - Input control
 safety_features:
   protection:
-    - "Overload prevention"
-    - "Signal limitation"
-    - "Emergency cutoff"
-  
+  - Overload prevention
+  - Signal limitation
+  - Emergency cutoff
   recovery:
-    - "System reset"
-    - "Neural protection"
-    - "Backup modes"
-
+  - System reset
+  - Neural protection
+  - Backup modes
 upgrade_options:
   hardware:
-    - "Signal boosters"
-    - "Neural enhancers"
-    - "Processing units"
-  
+  - Signal boosters
+  - Neural enhancers
+  - Processing units
   software:
-    - "Response tuning"
-    - "Efficiency updates"
-    - "New features"
-
+  - Response tuning
+  - Efficiency updates
+  - New features
 performance_optimization:
   methods:
-    - "Signal routing"
-    - "Response timing"
-    - "Load balancing"
-  
+  - Signal routing
+  - Response timing
+  - Load balancing
   factors:
-    - "System load"
-    - "Energy levels"
-    - "Recovery state"
-
-
+  - System load
+  - Energy levels
+  - Recovery state
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

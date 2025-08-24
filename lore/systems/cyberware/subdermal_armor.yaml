@@ -1,66 +1,79 @@
-﻿type: "technology"
-title: "Subdermal Armor"
-category: ""
-technology_id: ""
-
-content:
-  summary: "Implanted armor system providing enhanced physical protection"
-  
-name: Subdermal Armor
 type: Cyberware
-description: Implanted armor system providing enhanced physical protection
-details: |
-  Subdermal armor provides pokroÄŤilĂ˝ protection through layers of synthetic armor implanted beneath the skin.
+title: 'Subdermal Armor '
+category: ''
+technology_id: ''
+content:
+  summary: Sistem implantatne oblečnice, ki zagotavlja povečano fizično zaščito
+name: Subdermal Armor
+description: Sistem implantovaných okov, ki daje povečšano fizično zaščito
+details: 'Subdermal armor provides pokroÄŤilĂ˝ protection through layers of synthetic
+  armor implanted beneath the skin.
+
 
   Protection Types:
+
   - Ballistic protection
+
   - Impact absorption
+
   - Slash resistance
+
   - Temperature insulation
 
+
   Implementation Levels:
+
   - Basic protection
+
   - pokroÄŤilĂ˝ layering
+
   - Military grade
+
   - Experimental systems
 
+
   Features:
+
   - Flexible protection
+
   - Self-maintaining
+
   - Neural feedback
+
   - Damage distribution
 
+
   Installation Process:
+
   - Layer integration
+
   - Neural linking
+
   - Skin grafting
+
   - System calibration
 
+  '
 importance: Essential personal defense system
 common_locations:
-  - KorporĂˇtna bezpeÄŤnosĹĄ
-  - Military personnel
-  - Combat zones
-  - Security forces
+- KorporĂˇtna bezpeÄŤnosĹĄ
+- Military personnel
+- Combat zones
+- Security forces
 relationships:
-  - Dermal Plating
-  - Skeletal Reinforcement
-  - Combat Implants
-  - Cyberware Manufacturers
-
-
+- Dermal Plating
+- Skeletal Reinforcement
+- Combat Implants
+- Cyberware Manufacturers
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

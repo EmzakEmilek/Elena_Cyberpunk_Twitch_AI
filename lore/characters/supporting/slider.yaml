@@ -1,0 +1,71 @@
+type: character
+id: char_slider
+title: Slider
+aliases: ["Dogtown Operative", "Tech Specialist"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Slider
+    meno: Slider
+    príslušnosť: Dogtown/Independent
+    pôvod: Dogtown, Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Technický špecialista a operatívec v Dogtown počas Phantom Liberty udalostí. Zručný netrunner a technická podpora pre rôzne operácie."
+    
+    background:
+      - "Skúsený technický špecialista v Dogtown"
+      - "Netrunning a technická podpora expert"
+      - "Operuje v nebezpečnom Dogtown prostredí"
+      - "Zapojený do Phantom Liberty operácií"
+    
+    personality:
+      - "Technicky zameraný a detailne orientovaný operatívec"
+      - "Prispôsobivý nebezpečným situáciám"
+      - "Profesionálny prístup k technickej práci"
+      - "Preživší v drsnom Dogtown prostredí"
+    
+    abilities:
+      - "Pokročilé netrunning a hackerské schopnosti"
+      - "Expertíza technických systémov"
+      - "Prežitie a navigácia v Dogtown"
+      - "Operačná podpora a koordinácia"
+  
+  story_involvement:
+    first_appearance: Phantom Liberty DLC
+    role_in_story: Špecialista technickej podpory
+    significance: Perspektíva Dogtown operácií
+  relationships:
+    operations:
+    - name: Phantom Liberty tím
+      nature: Technická podpora
+      strength: Profesionálna spolupráca
+    - name: V
+      nature: Operačný spojenec
+      strength: Misiové partnerstvo
+    territory:
+    - name: Dogtown komunita
+      nature: Obyvateľ/Preživší
+      strength: Miestne znalosti
+    - name: Kurt Hansen sily
+      nature: Zložitý vzťah
+      strength: Teritoriálna navigácia
+  notes_for_elena:
+    key_points:
+    - Reprezentuje technickú podporu v nebezpečných operáciách
+    - Kľúčový pre technické aspekty Phantom Liberty
+    - Poskytuje perspektívu prežitia v Dogtown
+    - Ukazuje úlohu netrunnera v terénnych operáciách
+    roleplay_tips:
+    - Hovorí s technickou presnosťou a expertízou
+    - Je prispôsobivý a zameraný na prežitie
+    - Má detailné znalosti systémov
+    - Používa technickú a netrunning terminológiu
+    conversation_guidelines:
+    - Diskutovať o technických operáciách a hackovaní
+    - Spomenúť výzvy prežitia v Dogtown
+    - Hovoriť o netrunningu v nebezpečných prostrediach
+    - Zdôrazniť dôležitosť technickej podpory

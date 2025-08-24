@@ -1,348 +1,77 @@
 type: character
-title: Adam Smasher
-category: character_major
-character_id: char_adam_smasher
-content:
-  summary: ''
-name: Adam Smasher
 id: char_adam_smasher
-affiliation: Arasaka Corporation
-personal_data:
-  role: Arasaka Enforcer
-  gender: Male (Cyborg)
-  residence: Night City
-  faction: Arasaka
-character_profile:
-  archetype: Cyborg Enforcer
-  motivation: Násilie a moc
-  personality:
-    traits:
-    - Brutálny
-    - Bezcitný
-    - Lojálny
-    - Mocný
-    strengths:
-    - Plná kybernetizácia
-    - Bojová sila
-    - Nezastaviteľnosť
-    - Brutálna efektivita
-    weaknesses:
-    - Strata humanity
-    - Technologická závislosť
-    - Obmedzená adaptabilita
-    - Predvídateľnosť
-story_involvement:
-  first_appearance: Act 1
-  role_in_story: Major Antagonist
-  significance: Primary Threat
-relationships:
-  professional:
-  - name: Arasaka Family
-    nature: Enforcer
-    strength: Lojálna
-  - name: Johnny Silverhand
-    nature: Sworn Enemy
-    strength: Smrteľná
-  enemies:
-  - name: All Organics
-    nature: Contempt
-    strength: Pohŕdavá
-combat_capabilities:
-  systems:
-  - Full body conversion
-  - Military-grade weapons
-  - pokroÄŤilĂ˝ combat systems
-  specialization:
-  - Heavy combat
-  - Destruction
-  - Intimidation
-background_context:
-  history:
-  - 'PRAVIDLÁ:
+title: Adam Smasher
+aliases: ["Smasher", "The Monster"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Adam Smasher
+    meno: Adam Smasher
+    príslušnosť: Arasaka Corporation
+    pôvod: Neznámy (pravdepodobne NUSA)
+    status: Aktívny (Plne kybernetizovaný)
+  
+  character_profile:
+    summary: "Brutálny plne kybernetizovaný solo a elitný operatívec Arasaka Corporation. Jeden z najnebezpečnejších antagonistov v Night City, známy svojou bezohľadnosťou a absolútnou lojalitou ku korporácii."
+    
+    background:
+      - "Bývalý vojak ktorý podstúpil úplnú kybernetickú konverziu"
+      - "Dlhoročný Arasaka operatívec a osobný strážca rodiny"
+      - "Veterán korporátnych vojen s desaťročiami skúseností"
+      - "Zodpovedný za smrť Johnny Silverhanda v roku 2023"
+    
+    personality:
+      - "Absolútne bezohľadný a bez empatie"
+      - "Fanaticky lojálny k Arasaka Corporation"
+      - "Potešenie z násilia a dominancie"
+      - "Pohŕda organickými bytosťami ako slabými"
+    
+    abilities:
+      - "Plná kybernetická konverzia s vojenskými implantátmi"
+      - "Integrované ťažké zbrane a obrnenie"
+      - "Nadľudská sila a odolnosť"
+      - "Bojová efektívnosť na úrovni tanku"
+  
+  story_involvement:
+    first_appearance: Prologue/Act 1
+    role_in_story: Hlavný antagonista/Finálny boss
+    significance: Reprezentuje vrchol korporátnej moci a kybernetického teroru
+  
+  relationships:
+    corporate:
+    - name: Arasaka Corporation
+      nature: Zamestnávateľ/Nástroj
+      strength: Absolútna lojalita
+    - name: Saburo Arasaka
+      nature: Najvyšší veliteľ
+      strength: Fanatická oddanosť
+    - name: Yorinobu Arasaka
+      nature: Aktuálny veliteľ
+      strength: Profesionálna služba
+    enemies:
+    - name: Johnny Silverhand
+      nature: Zabitý nepriateľ
+      strength: Historická rivalita
+    - name: V
+      nature: Aktuálny cieľ
+      strength: Smrteľné ohrozenie
+  
+  notes_for_elena:
+    key_points:
+    - Predstavuje vrchol kybernetizácie a straty ľudskosti
+    - Hlavný antagonista s osobnou históriou s Johnny Silverhand
+    - Symbol korporátnej moci a technologického teroru
+    - Finálna výzva reprezentujúca všetko čo V odmieta
+    roleplay_tips:
+    - Hovorí mechanicky a bez emócií
+    - Pohŕda organickými bytosťami
+    - Absolutne lojálny k Arasaka
+    - Vníma násilie ako nástroj a potešenie
+    conversation_guidelines:
+    - Diskutovať o sile versus slabosti
+    - Spomenúť lojalitu k Arasaka Corporation
+    - Pohŕdať organickou podstatou postáv
+    - Zdôrazniť nadradnosť kybernetických úprav
 
-    - Zachovávať herný štýl a atmosféru Cyberpunk 2077
-
-    - Neprekladávať technické názvy, mená postáv, názvy lokácií
-
-    - Používať správnu SLOVENSKÚ REČI s diakritikou (á, ä, č, ď, é, í, ĺ, ľ, ň, ó,
-    ô, ŕ, š, ť, ú, ý, ž)
-
-    - SLOVENSKY: "Ahoj", "môže", "nemôže", "riešenie", "potrebujem", "používam"
-
-    - NIE SRBSKY/CHORVÁTSKY: "zdravo", "može", "rešenje"
-
-    - Zachovávať pôvodný formát a štruktúru
-
-    - Odpovedať iba preložený text, nič iné
-
-
-    PRÍKLADY SPRÁVNEJ SLOVENČINY:
-
-    - "Hello world" → "Ahoj svet" (NIE "Zdravo svet")
-
-    - "I can help you" → "Môžem ti pomôcť" (NIE "Mogu ti pomoći")
-
-    - "This is a quest" → "Toto je quest" (zachovávať technické termíny)
-
-
-    KONTEXT: adam_smasher
-
-
-    TEXT NA PREKLAD: Military service
-
-
-    SLOVENSKÝ PREKLAD (správna slovenčina):'
-  - 'PRAVIDLÁ:
-
-    - Udržiň herný štýl a atmosféru Cyberpunk 2077
-
-    - Neprekladaj technické názvy, mená postáv, názvy lokácií
-
-    - Použij správnu SLOVENSKÚ REČI s diakritikou (á, ä, č, ď, é, í, ĺ, ľ, ň, ó, ô,
-    ŕ, š, ť, ú, ý, ž)
-
-    - SLOVENSKY: "Ahoj", "môže", "nemôže", "riešenie", "potrebujem", "používam"
-
-    - NIE SRBSKY/CHORVÁTSKY: "zdravo", "može", "rešenje"
-
-    - Udržiň pôvodný formát a štruktúru
-
-    - Odpoveď iba preložený text, nič iné
-
-
-    PRÍKLADY SPRÁVNEJ SLOVENČINY:
-
-    - "Hello world" → "Ahoj svet" (NIE "Zdravo svet")
-
-    - "I can help you" → "Môžem ti pomôcť" (NIE "Mogu ti pomoći")
-
-    - "This is a quest" → "Toto je quest" (zachovaj technické termíny)
-
-
-    KONTEXT: adam_smasher
-
-
-    TEXT NA PREKLAD: Cybernetic conversion'
-  - 'PRAVIDLÁ:
-
-    - Udržujte herný štýl a atmosféru Cyberpunk 2077
-
-    - Neprekladajte technické názvy, mená postáv, názvy lokácií
-
-    - Používajte správnu SLOVENSKÚ REČI s diakritikou (á, ä, č, ď, é, í, ĺ, ľ, ň,
-    ó, ô, ŕ, š, ť, ú, ý, ž)
-
-    - SLOVENSKY: "Ahoj", "môže", "nemôže", "riešenie", "potrebujem", "používam"
-
-    - NIE SRBSKY/CHORVÁTSKY: "zdravo", "može", "rešenje"
-
-    - Udržujte pôvodný formát a štruktúru
-
-    - Odpovedzte iba preložený text, nič iné
-
-
-    PRÍKLADY SPRÁVNEJ SLOVENČINY:
-
-    - "Hello world" → "Ahoj svet" (NIE "Zdravo svet")
-
-    - "I can help you" → "Môžem ti pomôcť" (NIE "Mogu ti pomoći")
-
-    - "This is a quest" → "Toto je quest" (zachovajte technické termíny)
-
-
-    KONTEXT: adam_smasher
-
-
-    PREKLADANÝ TEXT: Arasaka service'
-  current_situation:
-  - Arasaka enforcer
-  - Elite operative
-  - Terror weapon
-operational_role:
-  duties:
-  - Corporate enforcement
-  - Elite operations
-  - Terror projection
-  methods:
-  - Overwhelming force
-  - Total destruction
-  - Maximum violence
-notes_for_elena:
-  key_points:
-  - Automaticky preloĹľenĂ© - skontroluj presnosĹĄ
-  conversation_guidelines:
-  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN
-  roleplay_aspects:
-  - ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu
-combat_expertise:
-  abilities:
-  - Heavy weapons
-  - Cybernetic combat
-  - Destruction systems
-  tactics:
-  - Overwhelming force
-  - Direct assault
-  - Terror tactics
-related_cards: null
-cybernetic_systems:
-  modifications:
-  - Full body conversion
-  - Combat systems
-  - Weapon integration
-  capabilities:
-  - Superhuman strength
-  - Integrated weapons
-  - Combat optimization
-terror_tactics:
-  approach:
-  - Maximum force
-  - Total destruction
-  - Psychological impact
-  effects:
-  - 'PRÍPRAVKY:
-
-    - Udržiň herný štýl a atmosféru Cyberpunk 2077
-
-    - Neprekladaj technické názvy, mená postáv, názvy lokácií
-
-    - Použij správnu SLOVENSKÚ REČI s diakritikou (á, ä, č, ď, é, í, ĺ, ľ, ň, ó, ô,
-    ŕ, š, ť, ú, ý, ž)
-
-    - SLOVENSKY: "Ahoj", "môže", "nemôže", "riešenie", "potrebujem", "používam"
-
-    - NIE SRBSKY/CHORVÁTSKY: "zdravo", "može", "rešenje"
-
-    - Udržiň pôvodný formát a štruktúru
-
-    - Odpoveď iba preložený text, nič iné
-
-
-    PRÍKLADY SPRÁVNEJ SLOVENČINY:
-
-    - "Hello world" → "Ahoj svet" (NIE "Zdravo svet")
-
-    - "I can help you" → "Môžem ti pomôcť" (NIE "Mogu ti pomoći")
-
-    - "This is a quest" → "Toto je quest" (zachovaj technické termíny)
-
-
-    KONTEXT: adam_smasher
-
-
-    PREKLAD: Fear projection'
-  - 'PRAVIDLÁ:
-
-    - Udržuj herný štýl a atmosféru Cyberpunk 2077
-
-    - Neprekladaj technické názvy, mená postáv, názvy lokácií
-
-    - Použij správnu SLOVENSKÚ REČI s diakritikou (á, ä, č, ď, é, í, ĺ, ľ, ň, ó, ô,
-    ŕ, š, ť, ú, ý, ž)
-
-    - SLOVENSKY: "Ahoj", "môže", "nemôže", "riešenie", "potrebujem", "používam"
-
-    - NIE SRBSKY/CHORVÁTSKY: "zdravo", "može", "rešenje"
-
-    - Udržuj pôvodný formát a štruktúru
-
-    - Odpoveď iba preložený text, nič iné
-
-
-    PRÍKLADY SPRÁVNEJ SLOVENČINY:
-
-    - "Hello world" → "Ahoj svet" (NIE "Zdravo svet")
-
-    - "I can help you" → "Môžem ti pomôcť" (NIE "Mogu ti pomoći")
-
-    - "This is a quest" → "Toto je quest" (zachovaj technické termíny)
-
-
-    KONTEXT: adam_smasher
-
-
-    TEXT NA PREKLAD: Morale destruction
-
-
-    SLOVENSKÝ PREKLAD (správna slovenčina):'
-  - 'PRAVIDLÁ:
-
-    - Udržuj herný štýl a atmosféru Cyberpunk 2077
-
-    - Neprekladaj technické názvy, mená postáv, názvy lokácií
-
-    - Použij správnu SLOVENSKÚ REČI s diakritikou (á, ä, č, ď, é, í, ĺ, ľ, ň, ó, ô,
-    ŕ, š, ť, ú, ý, ž)
-
-    - SLOVENSKY: "Ahoj", "môže", "nemôže", "riešenie", "potrebujem", "používam"
-
-    - NIE SRBSKY/CHORVÁTSKY: "zdravo", "može", "rešenje"
-
-    - Udržuj pôvodný formát a štruktúru
-
-    - Odpoveď iba preložený text, nič iné
-
-
-    PRÍKLADY SPRÁVNEJ SLOVENČINY:
-
-    - "Hello world" → "Ahoj svet" (NIE "Zdravo svet")
-
-    - "I can help you" → "Môžem ti pomôcť" (NIE "Mogu ti pomoći")
-
-    - "This is a quest" → "Toto je quest" (zachovaj technické termíny)
-
-
-    KONTEXT: adam_smasher
-
-
-    PREKLAD: Absolute dominance'
-impact_on_story:
-  direct:
-  - Major threat
-  - Story antagonist
-  - Final challenge
-  indirect:
-  - Fear factor
-  - Power display
-  - Corporate might
-visual_description:
-  appearance:
-  - Massive cyborg
-  - Military hardware
-  - Weapon systems
-  - Terror presence
-  combat_form:
-  - Intimidating size
-  - Visible weapons
-  - Combat readiness
-  - Destruction incarnate
-combat_methodology:
-  approach:
-  - Direct assault
-  - Maximum force
-  - Total domination
-  style:
-  - Overwhelming power
-  - Brutal efficiency
-  - Unstoppable force
-loyalty_programming:
-  focus:
-  - Arasaka service
-  - Mission completion
-  - Order maintenance
-  execution:
-  - Absolute loyalty
-  - Unquestioning service
-  - Total commitment
-psychological_profile:
-  mentality:
-  - Machine thinking
-  - Combat focus
-  - Contempt for weakness
-  drives:
-  - Violence
-  - Destruction
-  - Dominance
-technical_metadata:
-  last_updated: '2025-08-24'
-  translation_status: automated_bulk_process
-  language: slovak

@@ -1,223 +1,168 @@
-﻿type: "technology"
-title: "Integumentary System"
-category: "system_cyberware"
-technology_id: "system_cyberware_integumentary"
-
+type: technology
+title: Integumentary System
+category: system_cyberware
+technology_id: system_cyberware_integumentary
 content:
-  summary: ""
-  
-name: "Integumentary System"
-id: "system_cyberware_integumentary"
-category: "system_cyberware"
-
+  summary: ''
+name: Integumentary System
+id: system_cyberware_integumentary
 system_overview:
-  description: "Kybernetické vylepšenia pre kožný systém"
+  description: Kybernetické vylepšenia pre kožný systém
   core_functions:
-    - "Skin enhancement"
-    - "Protection boost"
-    - "Healing acceleration"
-    - "Sensory interface"
-
+  - Skin enhancement
+  - Protection boost
+  - Healing acceleration
+  - Sensory interface
 core_features:
   protection:
-    - "Damage resistance"
-    - "Environmental shield"
-    - "Impact absorption"
-    - "Temperature control"
-  
+  - Damage resistance
+  - Environmental shield
+  - Impact absorption
+  - Temperature control
   enhancement:
-    - "Healing boost"
-    - "Sensory upgradovaĹĄ"
-    - "Interface capability"
-    - "Aesthetic options"
-
+  - Healing boost
+  - Sensory upgradovaĹĄ
+  - Interface capability
+  - Aesthetic options
 enhancement_capabilities:
   primary:
-    - "Damage protection"
-    - "Quick healing"
-    - "Environmental resistance"
-    - "Sensory enhancement"
-  
+  - Damage protection
+  - Quick healing
+  - Environmental resistance
+  - Sensory enhancement
   secondary:
-    - "Temperature control"
-    - "Interface options"
-    - "Aesthetic features"
-    - "Status display"
-
+  - Temperature control
+  - Interface options
+  - Aesthetic features
+  - Status display
 hardware_components:
   structural:
-    - "Subdermal armor"
-    - "Sensory mesh"
-    - "Healing matrix"
-  
+  - Subdermal armor
+  - Sensory mesh
+  - Healing matrix
   systems:
-    - "Control unit"
-    - "Power supply"
-    - "Interface grid"
-
+  - Control unit
+  - Power supply
+  - Interface grid
 notes_for_elena:
   key_points:
-    - "Protection systems"
-    - "Healing features"
-    - "Interface options"
-  
-  roleplay_tips:
-    - "Enhanced durability"
-    - "Quick recovery"
-    - "System awareness"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Medical terms"
-    - "Technical aspects"
-    - "Enhancement details"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 performance_levels:
   basic:
-    description: "Standard protection"
-    capabilities: "Basic features"
-    limitations: "Limited enhancement"
-  
+    description: Stanardna zaščita
+    capabilities: Basic features
+    limitations: Limited enhancement
   pokroÄŤilĂ˝:
-    description: "Enhanced systems"
-    capabilities: "Better protection"
-    limitations: "Higher demands"
-  
+    description: Zvyšené systémy
+    capabilities: Better protection
+    limitations: Higher demands
   premium:
-    description: "Maximum capability"
-    capabilities: "Full features"
-    limitations: "High maintenance"
-
+    description: maximálna zmogljivost
+    capabilities: Full features
+    limitations: High maintenance
 integration_aspects:
   biological:
-    - "Skin interface"
-    - "Nerve connection"
-    - "Tissue integration"
-  
+  - Skin interface
+  - Nerve connection
+  - Tissue integration
   technical:
-    - "System control"
-    - "Power management"
-    - "Interface handling"
-
+  - System control
+  - Power management
+  - Interface handling
 skill_benefits:
   protection:
-    - "Damage resistance"
-    - "Impact absorption"
-    - "Environmental shield"
-  
+  - Damage resistance
+  - Impact absorption
+  - Environmental shield
   recovery:
-    - "Quick healing"
-    - "Damage repair"
-    - "System restoration"
-
+  - Quick healing
+  - Damage repair
+  - System restoration
 gameplay_impact:
   advantages:
-    - "Better protection"
-    - "Fast recovery"
-    - "Environmental resistance"
-  
+  - Better protection
+  - Fast recovery
+  - Environmental resistance
   limitations:
-    - "Power needs"
-    - "Maintenance"
-    - "System complexity"
-
+  - Power needs
+  - Maintenance
+  - System complexity
 ui_elements:
   status:
-    - "Protection level"
-    - "System health"
-    - "Environmental data"
-  
+  - Protection level
+  - System health
+  - Environmental data
   control:
-    - "Mode selection"
-    - "Power settings"
-    - "Interface options"
-
+  - Mode selection
+  - Power settings
+  - Interface options
 related_systems:
   Cyberware:
-    - "system_cyberware_operating_system"
-    - "system_cyberware_circulatory"
+  - system_cyberware_operating_system
+  - system_cyberware_circulatory
   combat:
-    - "system_combat_melee"
-    - "system_combat_gunplay"
-
+  - system_combat_melee
+  - system_combat_gunplay
 maintenance_requirements:
   routine:
-    - "System check"
-    - "Protection test"
-    - "Interface calibration"
-  
+  - System check
+  - Protection test
+  - Interface calibration
   emergency:
-    - "Damage repair"
-    - "System reset"
-    - "Quick recovery"
-
+  - Damage repair
+  - System reset
+  - Quick recovery
 protection_features:
   physical:
-    - "Impact resistance"
-    - "Puncture protection"
-    - "Abrasion defense"
-  
+  - Impact resistance
+  - Puncture protection
+  - Abrasion defense
   environmental:
-    - "Temperature control"
-    - "Chemical resistance"
-    - "Radiation shield"
-
+  - Temperature control
+  - Chemical resistance
+  - Radiation shield
 healing_capabilities:
   regeneration:
-    - "Wound closure"
-    - "Tissue repair"
-    - "System recovery"
-  
+  - Wound closure
+  - Tissue repair
+  - System recovery
   enhancement:
-    - "Healing speed"
-    - "Damage control"
-    - "Recovery boost"
-
+  - Healing speed
+  - Damage control
+  - Recovery boost
 safety_features:
   protection:
-    - "Overload prevention"
-    - "Damage distribution"
-    - "Emergency modes"
-  
+  - Overload prevention
+  - Damage distribution
+  - Emergency modes
   recovery:
-    - "Backup systems"
-    - "Quick repair"
-    - "Emergency protection"
-
+  - Backup systems
+  - Quick repair
+  - Emergency protection
 upgrade_options:
   hardware:
-    - "Protection boost"
-    - "Healing vylepĹˇiĹĄ"
-    - "Sensor upgradovaĹĄ"
-  
+  - Protection boost
+  - Healing vylepĹˇiĹĄ
+  - Sensor upgradovaĹĄ
   software:
-    - "Control updates"
-    - "Efficiency patches"
-    - "New features"
-
+  - Control updates
+  - Efficiency patches
+  - New features
 aesthetic_options:
   appearance:
-    - "Skin texture"
-    - "Color options"
-    - "Pattern display"
-  
+  - Skin texture
+  - Color options
+  - Pattern display
   function:
-    - "Status indicators"
-    - "Interface displays"
-    - "Custom features"
-
-
+  - Status indicators
+  - Interface displays
+  - Custom features
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

@@ -1,173 +1,131 @@
-﻿type: "technology"
-title: "Nightlife Services"
-category: "service_type"
-technology_id: "service_nightlife"
-
+type: technology
+title: Nightlife Services
+category: service_type
+technology_id: service_nightlife
 content:
-  summary: ""
-  
-name: "Nightlife Services"
-id: "service_nightlife"
-category: "service_type"
-
+  summary: ''
+name: Nightlife Services
+id: service_nightlife
 service_overview:
-  description: "Nočný život a zábava v Night City"
-  legality: "Legal to Grey"
-  availability: "Evening to Early Morning"
-  price_range: "Low to Premium"
-
+  description: Nočný život a zábava v Night City
+  legality: Legal to Grey
+  availability: Evening to Early Morning
+  price_range: Low to Premium
 core_services:
   entertainment:
-    - "Clubs"
-    - "Bars"
-    - "Live music"
-    - "Dance venues"
-  
+  - Klubi
+  - Bare
+  - Živá hudba
+  - Miestnosti, ktoré sa používajú na tancovanie.
   special:
-    - "VIP lounges"
-    - "Private parties"
-    - "Special events"
-    - "Underground scenes"
-
+  - VIP lounges
+  - Private parties
+  - Special events
+  - Underground scenes
 venue_types:
   mainstream:
-    - "Dance clubs"
-    - "Sports bars"
-    - "Music venues"
-    - "Cocktail lounges"
-  
+  - Dance clubs
+  - Sports bars
+  - Music venues
+  - Cocktail lounges
   exclusive:
-    - "VIP clubs"
-    - "Private lounges"
-    - "Members only"
-    - "Rooftop bars"
-
+  - VIP clubs
+  - Private lounges
+  - Members only
+  - Rooftop bars
 entertainment_options:
   music:
-    - "Live bands"
-    - "DJs"
-    - "Dance floors"
-    - "Concert venues"
-  
+  - Live bands
+  - DJs
+  - Dance floors
+  - Concert venues
   activities:
-    - "Dancing"
-    - "Gaming"
-    - "Social mixing"
-    - "Special shows"
-
+  - Dancing
+  - Gaming
+  - Social mixing
+  - Special shows
 pricing_structure:
   entry:
-    - "Cover charges"
-    - "Membership fees"
-    - "VIP access"
-  
+  - Cover charges
+  - Membership fees
+  - VIP access
   consumption:
-    - "Drink prices"
-    - "Food options"
-    - "Special services"
-
+  - Drink prices
+  - Food options
+  - Special services
 location_distribution:
   districts:
-    - "City Center"
-    - "Watson"
-    - "Westbrook"
-    - "Heywood"
-  
+  - City Center
+  - Watson
+  - Westbrook
+  - Heywood
   areas:
-    - "Entertainment zones"
-    - "Red light districts"
-    - "Corporate sectors"
-
+  - Entertainment zones
+  - Red light districts
+  - Corporate sectors
 security_measures:
   entry:
-    - "ID checks"
-    - "Weapons scan"
-    - "Dress code"
-  
+  - ID checks
+  - Weapons scan
+  - Dress code
   internal:
-    - "Security staff"
-    - "Cameras"
-    - "Emergency protocols"
-
+  - Security staff
+  - Cameras
+  - Emergency protocols
 client_services:
   standard:
-    - "Bar service"
-    - "Dance floor"
-    - "Basic amenities"
-  
+  - Bar service
+  - Dance floor
+  - Basic amenities
   premium:
-    - "VIP areas"
-    - "Bottle service"
-    - "Private rooms"
-
+  - VIP areas
+  - Bottle service
+  - Private rooms
 atmosphere_types:
   settings:
-    - "High energy"
-    - "Relaxed lounge"
-    - "Underground vibe"
-  
+  - High energy
+  - Relaxed lounge
+  - Underground vibe
   themes:
-    - "Cyberpunk"
-    - "Corporate"
-    - "Street style"
-
+  - Cyberpunk
+  - Corporate
+  - Street style
 special_features:
   technology:
-    - "Light shows"
-    - "Sound systems"
-    - "VR experiences"
-  
+  - Light shows
+  - Sound systems
+  - VR experiences
   amenities:
-    - "VIP sections"
-    - "Smoking areas"
-    - "Private booths"
-
+  - VIP sections
+  - Smoking areas
+  - Private booths
 operation_hours:
   standard:
-    - "Evening start"
-    - "Late night"
-    - "Early morning"
-  
+  - Evening start
+  - Late night
+  - Early morning
   special:
-    - "All night events"
-    - "Special occasions"
-    - "Private bookings"
-
+  - All night events
+  - Special occasions
+  - Private bookings
 staff_roles:
   front:
-    - "Bouncers"
-    - "Bartenders"
-    - "Servers"
-  
+  - Bouncers
+  - Bartenders
+  - Servers
   management:
-    - "Managers"
-    - "VIP hosts"
-    - "Security chiefs"
-
+  - Managers
+  - VIP hosts
+  - Security chiefs
 notes_for_elena:
   key_points:
-    - "Venue variety"
-    - "Price levels"
-    - "Security importance"
-  
-  interaction_tips:
-    - "Check atmosphere"
-    - "Know clientele"
-    - "Mind security"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
+technical_metadata:
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

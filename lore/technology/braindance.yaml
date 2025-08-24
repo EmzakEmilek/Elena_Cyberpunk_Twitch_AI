@@ -1,90 +1,79 @@
 type: technology
-title: "Braindance Technology"
-category: "technology"
-tech_id: "tech_braindance"
-
+title: Braindance Technology
+category: technology
+tech_id: tech_braindance
 content:
-  summary: "Pokročilá neurálna technológia umožňujúca užívateľom zažiť nahrané spomienky a pocity priamo cez neurálne rozhranie."
-  
+  summary: Pokročilá neurálna technológia umožňujúca užívateľom zažiť nahrané spomienky
+    a pocity priamo cez neurálne rozhranie.
   key_features:
     core_components:
       neural_interface:
-        - "Senzorické nahrávanie"
-        - "Prehrávanie zážitkov"
-        - "Zachytávanie emócií"
-        - "Mapovanie pamäte"
+      - Senzorické nahrávanie
+      - Prehrávanie zážitkov
+      - Zachytávanie emócií
+      - Mapovanie pamäte
       processing_systems:
-        - "Konverzia dát"
-        - "Neurálna synchronizácia"
-        - "Spracovanie zmyslov"
-        - "Editácia zážitkov"
-    
+      - Konverzia dát
+      - Neurálna synchronizácia
+      - Spracovanie zmyslov
+      - Editácia zážitkov
     applications:
       entertainment:
-        - "Virtuálne zážitky"
-        - "Nahrané spomienky"
-        - "Syntetické scenáre"
-        - "Interaktívne príbehy"
+      - Virtuálne zážitky
+      - Nahrávané spomienky
+      - Syntetické scenáre
+      - Interaktívne príbehy
       training:
-        - "Rozvoj zručností"
-        - "Prenos skúseností"
-        - "Precvičovanie scenárov"
-        - "Vzdelávanie"
-    
+      - Rozvoj zručností
+      - Prenos skúseností
+      - Precvičovanie scenárov
+      - Vzdelávanie
     safety_features:
-      - "Neurálne obmedzovače"
-      - "Filtre zážitkov"
-      - "Bezpečnostné protokoly"
-      - "Núdzové vypnutie"
-
+    - Neurálne obmedzovače
+    - Filtre zážitkov
+    - Bezpečnostné protokoly
+    - Núdzové vypnutie
   availability:
     common_locations:
-      - "Zábavné centrá"
-      - "Tréningové zariadenia"
-      - "Súkromné kluby"
-      - "Korporátne objekty"
-    
+    - Zábavné centrá
+    - Tréningové zariadenia
+    - Súkromné kluby
+    - Korporátne objekty
     access_levels:
-      - "Komerčné BD jednotky"
-      - "Profesionálne zariadenia"
-      - "Čierny trh obsahy"
-      - "Experimentálne BD"
-
+    - Komerčné BD jednotky
+    - Profesionálne zariadenia
+    - Čierny trh obsahy
+    - Experimentálne BD
   risks:
-    - "Závislosť na BD"
-    - "Psychické poškodenie"
-    - "Nelegálne obsahy"
-    - "Neurálne prepätie"
-
+  - Závislosť na BD
+  - Psychické poškodenie
+  - Nelegálne obsahy
+  - Neurálne prepätie
 technical_metadata:
-  importance: "Kľúčová zábavná a vzdelávacia technológia"
-  complexity: "Vysoká"
-  availability: "Rozšírená"
-  cost: "Stredná až vysoká"
-
+  importance: Kľúčová zábavná a vzdelávacia technológia
+  complexity: Vysoká
+  availability: Rozšírená
+  cost: Stredná až vysoká
 related_cards:
   technology:
-    - "tech_neural_implants"
-    - "tech_entertainment_tech"
-    - "tech_virtual_reality"
+  - tech_neural_implants
+  - tech_entertainment_tech
+  - tech_virtual_reality
   economy:
-    - "econ_entertainment_industry"
-    - "econ_black_market"
+  - econ_entertainment_industry
+  - econ_black_market
   society:
-    - "soc_social_classes"
-
+  - soc_social_classes
 notes_for_elena:
   key_points:
-    - "BD je základom zábavného priemyslu v Night City"
-    - "Umožňuje zdieľanie zážitkov a spomienok"
-    - "Môže byť nebezpečná pri nesprávnom použití"
-  
+  - BD je základom zábavného priemyslu v Night City
+  - Umožňuje zdieľanie zážitkov a spomienok
+  - Môže byť nebezpečná pri nesprávnom použití
   conversation_guidelines:
-    - "Vysvetliť rozdiel medzi komerčnými a nelegálnymi BD"
-    - "Spomenúť rizíká závislosti"
-    - "Popísať rôzne typy BD obsahov"
-  
+  - Vysvetliť rozdiel medzi komerčnými a nelegálnymi BD
+  - Spomenúť rizíká závislosti
+  - Popísať rôzne typy BD obsahov
   roleplay_aspects:
-    - "BD kluby ako miesta stretnutí"
-    - "Nelegálne BD ako čierny trh"
-    - "Tréningové BD pre skill development"
+  - BD kluby ako miesta stretnutí
+  - Nelegálne BD ako čierny trh
+  - Tréningové BD pre skill development

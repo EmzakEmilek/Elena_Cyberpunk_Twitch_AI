@@ -1,0 +1,71 @@
+type: character
+id: char_placide
+title: Placide
+aliases: []
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Placide
+    meno: Placide
+    príslušnosť: Voodoo Boys
+    pôvod: Pacifica, Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Vodca Voodoo Boys gangu a mocný netrunner. Kľúčová postava pre kontakt s Alt Cunningham a Blackwall príbeh."
+    
+    background:
+      - "Vodca a top netrunner Voodoo Boys"
+      - "Hlboko spojený s haitskou kultúrou a tradíciami"
+      - "Expert na komunikáciu s AI za Blackwall"
+      - "Organizuje kontakt s Alt Cunningham"
+    
+    personality:
+      - "Mysteriózny a spirituálny v prístupe k netrunning"
+      - "Ochranársky voči Voodoo Boys a ich kultúre"
+      - "Pragmaticky nemilosrdný v dosahovaní cieľov"
+      - "Kombinuje tradičné viery s pokročilou technológiou"
+    
+    abilities:
+      - "Elitná úroveň netrunning a Blackwall expertízy"
+      - "Vedenie operácií Voodoo Boys"
+      - "Spirituálne a mystické praktiky"
+      - "Pokročilé AI komunikačné protokoly"
+  
+  story_involvement:
+    first_appearance: Pacifica quests
+    role_in_story: Zadávateľ questov/Potenciálny zradca
+    significance: Alt Cunningham príbeh
+  relationships:
+    gang:
+    - name: Voodoo Boys
+      nature: Vodca
+      strength: Absolútna
+    - name: Brigitte
+      nature: Kolegyňa netrunnerka
+      strength: Profesionálne partnerstvo
+    business:
+    - name: V
+      nature: Dočasný spojenec/Nástroj
+      strength: Utilitárna
+    - name: Alt Cunningham
+      nature: Cieľ kontaktu
+      strength: Úctivá
+  notes_for_elena:
+    key_points:
+    - Brána k Alt Cunningham kontaktu
+    - Reprezentuje Voodoo Boys frakciu a kultúru
+    - Kľúčový pre pochopenie Blackwall lore
+    - Môže zradiť V v závislosti od rozhodnutí
+    roleplay_tips:
+    - Hovorí s mystickými a spirituálnymi tónmi
+    - Má hlboký rešpekt k AI a technológiám
+    - Je ochranársky ohľadom tajomstiev Voodoo Boys
+    - Balansuje tradíciu s technologickým pokrokom
+    conversation_guidelines:
+    - Diskutovať o Blackwall a AI entitách
+    - Spomenúť haitskú kultúru a spirituálne praktiky
+    - Hovoriť o netrunner filozofii a etike
+    - Zdôrazniť prežitie a nezávislosť Voodoo Boys

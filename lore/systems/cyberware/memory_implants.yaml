@@ -1,66 +1,32 @@
-﻿type: "technology"
-title: "Memory Implants"
-category: ""
-technology_id: ""
-
-content:
-  summary: "Cybernetic memory enhancement and storage systems"
-  
-name: Memory Implants
 type: Cyberware
-description: Cybernetic memory enhancement and storage systems
-details: |
-  Memory implants provide enhanced cognitive capabilities and data storage through neural integration.
-
-  Core Features:
-  - Memory enhancement
-  - Data storage
-  - Quick access
-  - Information processing
-
-  Storage Types:
-  - Short-term buffer
-  - Long-term storage
-  - Protected archives
-  - Cloud connectivity
-
-  Capabilities:
-  - Perfect recall
-  - Data compression
-  - Memory editing
-  - Information sharing
-
-  Security Features:
-  - Encryption
-  - Access control
-  - Backup systems
-  - Memory protection
-
+title: 'Memory Implants '
+category: ''
+technology_id: ''
+content:
+  summary: Cybernetickej pamätej zlepšovanie a úložné systémy.
+name: Memory Implants
+description: Sistemi za povečanje in shranjevanje pameti v obdobju kibernetike
+details: '- Zlepšovanie pamäti'
 importance: Critical cognitive enhancement technology
 common_locations:
-  - Corporate executives
-  - Intelligence agents
-  - Knowledge workers
-  - Educational institutions
+- Corporate executives
+- Intelligence agents
+- Knowledge workers
+- Educational institutions
 relationships:
-  - Neural Implants
-  - Operating System Types
-  - Cyberdeck Systems
-  - Experimental Cyberware
-
-
+- Neural Implants
+- Operating System Types
+- Cyberdeck Systems
+- Experimental Cyberware
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

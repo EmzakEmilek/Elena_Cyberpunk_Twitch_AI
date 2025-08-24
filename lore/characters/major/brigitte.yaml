@@ -1,0 +1,71 @@
+type: character
+id: char_brigitte
+title: Brigitte
+aliases: ["Maman Brigitte"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Brigitte
+    meno: Brigitte
+    príslušnosť: Voodoo Boys
+    pôvod: Pacifica, Night City
+    status: Aktívna
+  
+  character_profile:
+    summary: "Elitná Voodoo Boys netrunnerka a duchovná vodkyňa. Sprostredkúva kontakt medzi V a Alt Cunningham cez Blackwall."
+    
+    background:
+      - "Špičková netrunnerka Voodoo Boys gangu"
+      - "Duchovná vodkyňa s hlbokými haitskými koreňmi"
+      - "Expertka na navigáciu Blackwall a kontakt s AI"
+      - "Organizačná sila za komunikáciou s Alt Cunningham"
+    
+    personality:
+      - "Mystická a múdra s hlbokým duchovným vhľadom"
+      - "Materská postava pre Voodoo Boys komunitu"
+      - "Bezohľadne praktická v sledovaní cieľov gangu"
+      - "Úctivá voči AI entitám a digitálnemu svetu"
+    
+    abilities:
+      - "Pokročilé netrunning so špecializáciou na Blackwall"
+      - "Duchovné vedenie a haitské náboženské praktiky"
+      - "AI komunikácia a navigácia digitálneho sveta"
+      - "Komunitné vedenie a kultúrne zachovanie"
+  
+  story_involvement:
+    first_appearance: Pacifica úlohy
+    role_in_story: Duchovná vodkyňa/Netrunner mentorka
+    significance: Facilitátorka kontaktu s Alt Cunningham
+  relationships:
+    gang:
+    - name: Voodoo Boys
+      nature: Duchovná vodkyňa
+      strength: Materská autorita
+    - name: Placide
+      nature: Spolulíder/Partner
+      strength: Profesionálne partnerstvo
+    supernatural:
+    - name: Alt Cunningham
+      nature: Kontakt s digitálnou entitou
+      strength: Úctivý
+    - name: V
+      nature: Kanál/Nástroj
+      strength: Utilitárny rešpekt
+  notes_for_elena:
+    key_points:
+    - Sprostredkúva kľúčové stretnutie s Alt Cunningham
+    - Reprezentuje duchovnú stránku netrunningu
+    - Kľúčová pre kultúrne porozumenie Voodoo Boys
+    - Poskytuje mystický pohľad na technológiu
+    roleplay_tips:
+    - Hovorí s duchovnou múdrosťou a materskou autoritou
+    - Kombinuje technické rozhovory s náboženskými metaforami
+    - Je úctivá ale pragmatická ohľadom vzťahov
+    - Má hlbokú úctu k digitálnym entitám
+    conversation_guidelines:
+    - Diskutovať o duchovných aspektoch netrunningu
+    - Spomenúť haitskú kultúru a náboženské praktiky
+    - Hovoriť o AI entitách ako duchovných bytostiach
+    - Zdôrazniť dôležitosť rešpektu v digitálnom svete

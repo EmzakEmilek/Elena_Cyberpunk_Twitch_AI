@@ -1,215 +1,165 @@
-﻿type: "economy"
-title: "Crafting System"
-category: "system_mechanics"
-economy_id: "system_mechanics_crafting"
-
+type: economy
+title: Crafting System
+category: system_mechanics
+economy_id: system_mechanics_crafting
 content:
-  summary: ""
-  
-name: "Crafting System"
-id: "system_mechanics_crafting"
-category: "system_mechanics"
-
+  summary: ''
+name: Crafting System
+id: system_mechanics_crafting
 system_overview:
-  description: "Systém pre výrobu a vylepšovanie predmetov"
+  description: Systém pre výrobu a vylepšovanie predmetov
   core_aspects:
-    - "Item creation"
-    - "upgradovaĹĄ system"
-    - "Resource management"
-    - "Recipe discovery"
-
+  - Item creation
+  - upgradovaĹĄ system
+  - Resource management
+  - Recipe discovery
 core_features:
   crafting:
-    - "Item making"
-    - "Resource use"
-    - "Quality levels"
-    - "Time costs"
-  
+  - Item making
+  - Resource use
+  - Quality levels
+  - Time costs
   upgrading:
-    - "Item zlepĹˇiĹĄ"
-    - "Stat boost"
-    - "Mod slots"
-    - "Quality up"
-
+  - Item zlepĹˇiĹĄ
+  - Stat boost
+  - Mod slots
+  - Quality up
 mechanics_details:
   creation:
     base_items:
-      - "Weapons"
-      - "Armor"
-      - "Consumables"
-      - "Cyberware"
+    - Weapons
+    - Armor
+    - Consumables
+    - Cyberware
     quality_levels:
-      - "beĹľnĂ˝"
-      - "Uncommon"
-      - "vzĂˇcny"
-      - "Epic"
-      - "Legendary"
-
+    - beĹľnĂ˝
+    - Uncommon
+    - vzĂˇcny
+    - Epic
+    - Legendary
 functionality:
   basic_actions:
-    - "Create item"
-    - "upgradovaĹĄ item"
-    - "Salvage item"
-    - "Learn recipe"
-  
+  - Create item
+  - upgradovaĹĄ item
+  - Salvage item
+  - Learn recipe
   advanced_features:
-    - "Quality boost"
-    - "Mass craft"
-    - "Auto salvage"
-    - "Recipe share"
-
+  - Quality boost
+  - Mass craft
+  - Auto salvage
+  - Recipe share
 notes_for_elena:
   key_points:
-    - "Crafting importance"
-    - "Resource value"
-    - "Quality levels"
-  
-  roleplay_tips:
-    - "Craft focus"
-    - "Resource check"
-    - "Quality talk"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Craft terms"
-    - "Resource words"
-    - "Quality names"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 interface_elements:
   displays:
-    - "Recipe list"
-    - "Resource count"
-    - "Quality bar"
-    - "Time meter"
-  
+  - Recipe list
+  - Resource count
+  - Quality bar
+  - Time meter
   controls:
-    - "Craft button"
-    - "upgradovaĹĄ option"
-    - "Salvage tool"
-    - "Recipe filter"
-
+  - Craft button
+  - upgradovaĹĄ option
+  - Salvage tool
+  - Recipe filter
 resource_management:
   types:
-    - "beĹľnĂ˝ parts"
-    - "vzĂˇcny materials"
-    - "Epic components"
-    - "Legendary elements"
-  
+  - beĹľnĂ˝ parts
+  - vzĂˇcny materials
+  - Epic components
+  - Legendary elements
   sources:
-    - "Loot drops"
-    - "Shop buys"
-    - "Salvage items"
-
+  - Loot drops
+  - Shop buys
+  - Salvage items
 quality_system:
   levels:
-    - name: "beĹľnĂ˝"
-      bonus: "No bonus"
-    - name: "Uncommon"
-      bonus: "+10% stats"
-    - name: "vzĂˇcny"
-      bonus: "+25% stats"
-    - name: "Epic"
-      bonus: "+50% stats"
-    - name: "Legendary"
-      bonus: "+100% stats"
-
+  - name: beĹľnĂ˝
+    bonus: No bonus
+  - name: Uncommon
+    bonus: +10% stats
+  - name: vzĂˇcny
+    bonus: +25% stats
+  - name: Epic
+    bonus: +50% stats
+  - name: Legendary
+    bonus: +100% stats
 recipe_system:
   discovery:
-    - "Find plans"
-    - "Buy recipes"
-    - "Learn skills"
-  
+  - Find plans
+  - Buy recipes
+  - Learn skills
   management:
-    - "Save favorite"
-    - "Sort options"
-    - "Filter view"
-
+  - Save favorite
+  - Sort options
+  - Filter view
 time_management:
   crafting:
-    - "Base time"
-    - "Skill bonus"
-    - "Tool boost"
-  
+  - Base time
+  - Skill bonus
+  - Tool boost
   upgrading:
-    - "Level time"
-    - "Quality time"
-    - "Mod time"
-
+  - Level time
+  - Quality time
+  - Mod time
 related_systems:
   skills:
-    - "system_skill_technical"
-    - "system_skill_intelligence"
+  - system_skill_technical
+  - system_skill_intelligence
   mechanics:
-    - "system_mechanics_inventory"
-    - "system_mechanics_economy"
-
+  - system_mechanics_inventory
+  - system_mechanics_economy
 balance_considerations:
   resources:
-    - "Cost balance"
-    - "Rarity rates"
-    - "Time values"
-  
+  - Cost balance
+  - Rarity rates
+  - Time values
   outputs:
-    - "Item power"
-    - "Value worth"
-    - "Time cost"
-
+  - Item power
+  - Value worth
+  - Time cost
 progression_system:
   skill_gain:
-    - "Craft xp"
-    - "Quality bonus"
-    - "Time reduce"
-  
+  - Craft xp
+  - Quality bonus
+  - Time reduce
   unlocks:
-    - "New recipes"
-    - "Better quality"
-    - "More options"
-
+  - New recipes
+  - Better quality
+  - More options
 specialization_options:
   weapon_craft:
-    - "Gun focus"
-    - "Melee skill"
-    - "Mod expert"
-  
+  - Gun focus
+  - Melee skill
+  - Mod expert
   armor_craft:
-    - "Defense pro"
-    - "Shield master"
-    - "Mod king"
-
+  - Defense pro
+  - Shield master
+  - Mod king
 resource_efficiency:
   management:
-    - "Less waste"
-    - "More output"
-    - "Better odds"
-  
+  - Less waste
+  - More output
+  - Better odds
   bonuses:
-    - "Resource save"
-    - "Quality chance"
-    - "Time cut"
-
+  - Resource save
+  - Quality chance
+  - Time cut
 quality_enhancement:
   methods:
-    - "Skill use"
-    - "Tool help"
-    - "Resource boost"
-  
+  - Skill use
+  - Tool help
+  - Resource boost
   benefits:
-    - "Better stats"
-    - "More value"
-    - "Good looks"
-
-
+  - Better stats
+  - More value
+  - Good looks
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

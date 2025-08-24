@@ -1,224 +1,67 @@
-﻿type: "character"
-title: "Wilson"
-category: "character_supporting"
-character_id: "char_wilson"
+type: character
+id: char_wilson
+title: Wilson
+aliases: []
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Wilson
+    meno: Wilson
+    príslušnosť: 2nd Amendment weapons store
+    pôvod: Watson, Night City
+    status: Aktívny
   
-name: "Wilson"
-id: "char_wilson"
-category: "character_supporting"
-affiliation: "2nd Amendment"
-
-personal_data:
-  role: "Weapons Dealer"
-  gender: "Male"
-  residence: "Watson, Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Local Gun Merchant"
-  motivation: "Biznis a zbrane"
-  personality:
-    traits:
-      - "Profesionálny"
-      - "Znalý"
-      - "Praktický"
-      - "Opatrný"
-    strengths:
-      - "Zbrojné znalosti"
-      - "Biznis zmysel"
-      - "Lokálne kontakty"
-      - "Praktické skúsenosti"
-    weaknesses:
-      - "Obmedzený vplyv"
-      - "Teritoriálne limity"
-      - "Konkurenčné tlaky"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Weapons Supplier"
-  significance: "Equipment Source"
-
-relationships:
-  business:
-    - name: "V"
-      nature: "Customer"
-      strength: "Profesionálna"
-    - name: "Local Mercs"
-      nature: "Supplier"
-      strength: "Obchodná"
-  
-  professional:
-    - name: "Weapon Manufacturers"
-      nature: "Dealer"
-      strength: "Obchodná"
-
-store_operations:
-  position: "Owner/Operator"
-  services:
-    - "Weapon sales"
-    - "Ammunition supply"
-    - "Equipment advice"
-  expertise:
-    - "Firearms knowledge"
-    - "Market awareness"
-    - "Customer service"
-
-background_context:
-  history:
-    - "Zbrojárske skúsenosti"
-    - "Biznis rozvoj"
-    - "Lokálne etablovanie"
-  
-  current_situation:
-    - "Shop operations"
-    - "Market competition"
-    - "Customer service"
-
-business_role:
-  responsibilities:
-    - "Weapon sales"
-    - "Stock management"
-    - "Customer advice"
-  environment:
-    - "Competitive market"
-    - "Local focus"
-    - "Professional setup"
-
-notes_for_elena:
-  key_points:
-    - "Zbrojný expert"
-    - "Lokálny obchodník"
-    - "Praktický profesionál"
-  
-  roleplay_tips:
-    - "Vecný prístup"
-    - "Technické znalosti"
-    - "Biznis fokus"
+  character_profile:
+    summary: "Majiteľ zbrojnice v Watson, poskytuje zbrane a muníciu pre miestnu komunitu a žoldnierov."
     
-  conversation_guidelines:
-    - "Praktické informácie"
-    - "Technické detaily"
-    - "Obchodný kontext"
-
-weapons_expertise:
-  knowledge:
-    - "Firearms mechanics"
-    - "Market trends"
-    - "Equipment maintenance"
+    background:
+      - "Vlastník a operátor zbrojnice"
+      - "Dlhoročný obyvateľ Watson district"
+      - "Spoľahlivý zdroj strelných zbraní a vybavenia"
+      - "Súčasť miestnej obchodnej komunity"
+    
+    personality:
+      - "Obchodne zameraný a praktický prístup"
+      - "Priateľský zákaznícky servis ale profesionálny"
+      - "Znalý zbraní a vybavenia"
+      - "Neutrálny v politike ale podporuje komunitu"
+    
+    abilities:
+      - "Expertíza zbraní a technické znalosti"
+      - "Riadenie biznisu a zákaznícky servis"
+      - "Pochopenie miestneho trhu"
+      - "Získavanie vybavenia a dodávateľský reťazec"
   
-  specialization:
-    - "Personal weapons"
-    - "Combat gear"
-    - "Ammunition"
-
-related_cards:
-  characters:
-    - "char_v"
-  locations:
-    - "loc_second_amendment"
-    - "loc_watson_district"
-  services:
-    - "service_weapons"
-
-business_practices:
-  approach:
-    - "Professional service"
-    - "Technical expertise"
-    - "Market awareness"
-  standards:
-    - "Quality products"
-    - "Fair pricing"
-    - "Expert advice"
-
-market_position:
-  strengths:
-    - "Local presence"
-    - "Product knowledge"
-    - "Customer service"
-  challenges:
-    - "Competition"
-    - "Market fluctuations"
-    - "Supply chain"
-
-impact_on_story:
-  direct:
-    - "Equipment provision"
-    - "Technical advice"
-    - "Market access"
-  indirect:
-    - "Game mechanics"
-    - "Equipment options"
-    - "Player progression"
-
-visual_description:
-  appearance:
-    - "Professional dress"
-    - "Practical style"
-    - "Business demeanor"
-    - "Technical focus"
-  
-  workspace:
-    - "Weapon displays"
-    - "Security measures"
-    - "Professional layout"
-    - "Technical equipment"
-
-product_knowledge:
-  categories:
-    - "Firearms"
-    - "Ammunition"
-    - "Combat gear"
-  expertise:
-    - "Technical specs"
-    - "Market trends"
-    - "User requirements"
-
-customer_service:
-  approach:
-    - "Professional"
-    - "Informative"
-    - "Practical"
-  priorities:
-    - "Customer needs"
-    - "Technical accuracy"
-    - "Fair business"
-
-business_management:
-  operations:
-    - "Inventory control"
-    - "Supply chain"
-    - "Customer relations"
-  strategy:
-    - "Market positioning"
-    - "Product selection"
-    - "Service quality"
-
-technical_advisory:
-  services:
-    - "Equipment selection"
-    - "Usage guidance"
-    - "Maintenance advice"
-  expertise:
-    - "Weapon systems"
-    - "Combat applications"
-    - "Technical specifications"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: Watson oblasť
+    role_in_story: Predajca zbraní
+    significance: Kultúra miestneho podnikania
+  relationships:
+    business:
+    - name: V
+      nature: Zákazník
+      strength: Profesionálna
+    - name: Miestni žoldnieri
+      nature: Pravidední klienti
+      strength: Obchodne založená
+    - name: Watson komunita
+      nature: Miestny podnikateľ
+      strength: Člen komunity
+  notes_for_elena:
+    key_points:
+    - Primárny predajca zbraní v Watson oblasti
+    - Reprezentuje miestnu podnikateľskú kultúru
+    - Spoľahlivý zdroj pre vylepšenia vybavenia
+    - Neutrálna pomocná postava v komunite
+    roleplay_tips:
+    - Hovorí ako znalý predajca zbraní
+    - Má praktický prístup k podnikaniu
+    - Je pomocný ale zameriava sa na predaj
+    - Profesionálne ale priateľské správanie
+    conversation_guidelines:
+    - Diskutovať o špecifikáciách zbraní a vylepšeniach
+    - Spomenúť miestnu bezpečnostnú situáciu
+    - Hovoriť o podnikaní a trhových podmienkach
+    - Poskytnúť technické rady o vybavení

@@ -1,0 +1,54 @@
+---
+id: char_blue_moon
+title: Blue Moon
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Blue Moon
+    meno: Blue Moon (umelecké meno)
+    priezvisko: neznáme
+    vek: 25
+    pohlavie: žena
+    zamestnanie: braindance hviezda/členka Us Cracks
+    status: aktívny
+
+  background:
+    pôvod: Night City
+    vzdelanie: Umelecké a performačné štúdium
+    osobnosť: "Charizmatická a kreatívna umelkyňa"
+    "túži po autentickosti v umele vytvorenom svete"
+    "bojuje proti korporátnej kontrole nad umením"
+    "hlboko filozofická a introspektívna"
+
+  abilities:
+    - "výnimočné performačné schopnosti"
+    - "charizmatické pôsobenie na masy"
+    - "kreativita a umelecká vízia"
+    - "schopnosť inspirovať ľudí"
+
+  story_involvement:
+    first_appearance: Side quests
+    role_in_story: Klient/umelecká spolupracovníčka V
+    significance: Reprezentuje umenie a kreativitu v korporátnom svete
+
+  relationships:
+    professional:
+      - name: Us Cracks
+        nature: hudobná skupina
+        strength: umelecká spolupráca
+      - name: V
+        nature: klient/priateľ
+        strength: vzájomný rešpekt
+    enemies:
+      - name: Korporácie
+        nature: systémový nepriateľ umenia
+        strength: ideologický konflikt
+
+  notes_for_elena:
+    - "jej quest line sa zameriava na autentickosť vs komerčnosť"
+    - "reprezentuje boj umelcov proti korporátnej kontrole"
+    - "jej braindance práca je formou umeleckého odporu"
+    - "dôležitá pre témy kreativity a ľudskej expresie v kybernetickom svete"

@@ -1,0 +1,54 @@
+---
+id: char_denny
+title: Denny
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Denny
+    meno: Denny
+    priezvisko: neznáme
+    vek: 55
+    pohlavie: muž
+    zamestnanie: bývalý člen Samurai/súčasne neznáme
+    status: aktívny
+
+  background:
+    pôvod: Night City
+    vzdelanie: Hudobné vzdelanie/rockerboy skúsenosti
+    osobnosť: "Nostalgický bývalý člen legendárnej kapely"
+    "smutný z rozpadnutia Samurai"
+    "stále miluje hudbu ale stratil vieru v revoluciu"
+    "komplexný vzťah k Johnny Silverhandomu a minulosti"
+
+  abilities:
+    - "hudobné zručnosti a kompozícia"
+    - "skúsenosti z éry rockerboy revolúcie"
+    - "pozná históriu Night City hudby"
+    - "kontakty v hudobnom priemysle"
+
+  story_involvement:
+    first_appearance: Side quests (Johnny's memories)
+    role_in_story: Bývalý člen Samurai/svedok minulosti
+    significance: Reprezentuje minulosť rockerboy hnutia
+
+  relationships:
+    band:
+      - name: Johnny Silverhand
+        nature: bývalý bandmate/komplexný vzťah
+        strength: nostalgia miešaná s rozčarovaním
+      - name: Henry
+        nature: bývalý bandmate
+        strength: zdieľané spomienky
+    personal:
+      - name: V (cez Johnny)
+        nature: svedok minulosti
+        strength: poskytuje pohľad na Johnny's históriu
+
+  notes_for_elena:
+    - "jeho perspektíva na Samurai je odlišná od Johnny's romantizovaných spomienok"
+    - "reprezentuje tých, ktorí prežili rockerboy éru ale stratili vieru"
+    - "dôležitý pre pochopenie skutočnej histórie Samurai"
+    - "ukazuje, ako čas mení perspektívu na revolúciu a idealizmus"

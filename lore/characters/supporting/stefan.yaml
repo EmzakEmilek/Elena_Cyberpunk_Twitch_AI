@@ -1,0 +1,72 @@
+type: character
+id: char_stefan
+title: Stefan
+aliases: ["Crucifixion Man", "Religious Penitent"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Stefan
+    meno: Stefan
+    príslušnosť: Independent/Religious
+    pôvod: Night City
+    status: Variabilný (depends on quest outcome)
+  
+  character_profile:
+    summary: "Hlboko nábožný muž hľadajúci extrémne pokánie cez ukrižovanie v kontroverznej Sinnerman úlohe. Komplexná postava skúmajúca témy viery a vykúpenia."
+    
+    background:
+      - "Spáchal vážny zločin v minulosti"
+      - "Prešiel hlbokým náboženským obrátením"
+      - "Hľadá dokonalé pokánie cez ukrižovanie"
+      - "Zorganizoval prepracovaný náboženský mediálny spektákel"
+    
+    personality:
+      - "Hlboko nábožný a kajúcny jednotlivec"
+      - "Prenasledovaný minulými hriechmi a vinou"
+      - "Odhodlaný dosiahnuť vykúpenie"
+      - "Ochotný obetovať všetko pre vieru"
+    
+    abilities:
+      - "Hlboké náboženské znalosti a presvedčenie"
+      - "Organizačné schopnosti pre komplexné plány"
+      - "Schopnosť inšpirovať náboženské oddanie"
+      - "Extrémna oddanosť osobným presvedčeniam"
+  
+  story_involvement:
+    first_appearance: Sinnerman úlohová línia
+    role_in_story: Hľadač náboženského vykúpenia
+    significance: Témy viery a pokánia
+  relationships:
+    religious:
+    - name: Náboženská komunita
+      nature: Inšpirácia/Príklad
+      strength: Duchovné spojenie
+    - name: Médiá/BD priemysel
+      nature: Subjekt/Predstavenie
+      strength: Obavy z vykorisťovania
+    quest:
+    - name: V
+      nature: Facilitátor/Svedok
+      strength: Morálna zložitosť
+    - name: Obete minulého zločinu
+      nature: Hľadanie odpustenia
+      strength: Vina a vykúpenie
+  notes_for_elena:
+    key_points:
+    - Skúma témy viery, viny a vykúpenia
+    - Kľúčový pre pochopenie náboženského extrémizmu
+    - Poskytuje náhľad do tém mediálneho vykorisťovania
+    - Komplexné morálne a etické otázky
+    roleplay_tips:
+    - Hovorí s hlbokým náboženským presvedčením
+    - Je prenasledovaný minulosťou ale zameraný na vykúpenie
+    - Má extrémnu oddanosť pokániu
+    - Používa náboženskú terminológiu a metafory
+    conversation_guidelines:
+    - Diskutovať citlivo o viere a vykúpení
+    - Spomenúť témy viny a odpustenia
+    - Hovoriť o náboženskom presvedčení a obeti
+    - Zdôrazniť komplexné morálne dôsledky
+    content_warning: "Postava zahŕňa extrémne náboženské témy a násilie"

@@ -1,181 +1,72 @@
-﻿type: "character"
-title: "Royce"
-category: "character_supporting"
-character_id: "char_royce"
+type: character
+id: char_royce
+title: Royce
+aliases: []
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Royce
+    meno: Royce
+    príslušnosť: Maelstrom gang
+    pôvod: Watson
+    status: Aktívny/Voliteľne deceased
   
-name: "Royce"
-id: "char_royce"
-category: "character_supporting"
-affiliation: "Maelstrom"
-
-personal_data:
-  role: "Maelstrom Leader"
-  gender: "Male"
-  residence: "All Foods Plant, Watson"
-  faction: "Maelstrom"
-
-character_profile:
-  archetype: "Gang Leader/Cyberpsycho"
-  motivation: "Moc a technologická evolúcia"
-  personality:
-    traits:
-      - "Agresívny"
-      - "Nepredvídateľný"
-      - "Technologicky posadnutý"
-      - "Teritoriálny"
-    strengths:
-      - "Bojové schopnosti"
-      - "Technologické vylepšenia"
-      - "Vodcovská autorita"
-    weaknesses:
-      - "Nestabilná osobnosť"
-      - "Prehnané sebavedomie"
-      - "Cyber-psychóza"
-
-story_involvement:
-  first_appearance: "The Pickup"
-  role_in_story: "Antagonista/Obchodný partner"
-  possible_outcomes:
-    - condition: "Mierové riešenie"
-      result: "Obchodný partner"
-    - condition: "Konflikt"
-      result: "Boss fight"
-    - condition: "Smrť"
-      result: "Zmena Maelstrom dynamiky"
-
-relationships:
-  allies:
-    - name: "Maelstrom gang"
-      nature: "Vodca"
-      strength: "Silná"
-  enemies:
-    - name: "Militech"
-      nature: "Konflikt"
-      strength: "Silná"
-    - name: "Brick"
-      nature: "Bývalý vodca"
-      strength: "Nepriateľská"
-
-quest_appearances:
-  - quest: "The Pickup"
-    role: "Key Antagonist/Dealer"
-    importance: "High"
-
-available_interactions:
-  dialogues:
-    - type: "Business"
-      topics:
-        - "Flathead obchod"
-        - "Militech konflikt"
-        - "Gang politika"
-    - type: "Confrontational"
-      topics:
-        - "Vyhrážky"
-        - "Mocenská dynamika"
-        - "Technologická nadradenosť"
-
-character_development:
-  arc_type: "Potential Antagonist"
-  outcomes:
-    - "Smrť v konflikte"
-    - "Obchodné spojenectvo"
-    - "Pretrvávajúce nepriateľstvo"
-
-visual_description:
-  appearance:
-    - "Extrémne kybernetické modifikácie"
-    - "Mechanical limbs"
-    - "Military-grade implants"
-    - "Maelstrom aesthetics"
-  style:
-    - "Industrial cyber"
-    - "Military tech"
-    - "Gang insignia"
-
-combat_capabilities:
-  primary_weapons:
-    - "Heavy weapons"
-    - "Implanted weapons"
-  Cyberware:
-    - type: "Combat systems"
-      level: "Military grade"
-    - type: "Body modifications"
-      level: "Extreme"
-  tactics:
-    - "Aggressive assault"
-    - "Tech advantage"
-    - "Area control"
-
-notes_for_elena:
-  key_points:
-    - "Kľúčový antagonista v The Pickup"
-    - "Reprezentuje Maelstrom filozofiu"
-    - "Dôležitý pre príbehové rozhodnutia"
-  
-  roleplay_tips:
-    - "Zdôrazniť agresívnu povahu"
-    - "Ukazovať technologickú posadnutosť"
-    - "Reflektovať gang mentalitu"
+  character_profile:
+    summary: "Nový vodca Maelstrom gangu po zvrhnutí Brick-a. Extrémne kyberneticky modifikovaný a agresívny gangový boss."
     
-  conversation_guidelines:
-    - "Agresívny a priamy štýl"
-    - "Časté zmienky o technológii"
-    - "Pohŕdanie 'meatbags'"
-
-background_context:
-  rise_to_power:
-    - "Násilné prevzatie od Brick"
-    - "Posilnenie gang identity"
-    - "Technologická radikalizácia"
-  
-  philosophy:
-    - "Technological supremacy"
-    - "Human evolution through chrome"
-    - "Might makes right"
-
-related_cards:
-  characters:
-    - "char_brick"
-    - "char_meredith_stout"
-  factions:
-    - "faction_maelstrom"
-    - "faction_militech"
-  locations:
-    - "loc_all_foods"
-  quests:
-    - "mq_the_pickup"
-
-combat_encounters:
-  boss_fight:
-    phases:
-      - "Initial confrontation"
-      - "Enhanced combat mode"
-      - "Final stand"
+    background:
+      - "Zvrhol Brick-a a prevzal kontrolu nad Maelstrom"
+      - "Rozsiahle kybernetické modifikácie"
+      - "Reprezentuje nový, brutálny štýl Maelstrom vodcovstva"
+      - "Kontroluje All Foods továreň a okolie"
+    
+    personality:
+      - "Extrémne agresívny a nepredvídateľný"
+      - "Posadnutý kybernetickými technológiami a technologickým vylepšením"
+      - "Paranoidný a násilný voči rivalom"
+      - "Brutálny vodca s nulovou toleranciou"
+    
     abilities:
-      - "Heavy weapons"
-      - "Cybernetic attacks"
-      - "Area control"
-    weaknesses:
-      - "Overconfidence"
-      - "Limited mobility"
-      - "System overload"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+      - "Ťažké kybernetické bojové modifikácie"
+      - "Gangové vojnovanie a brutálne taktiky"
+      - "Zastrašovanie a psychologické vojnovanie"
+      - "Vodcovstvo cez strach a násilie"
+  
+  story_involvement:
+    first_appearance: Vyzdvihnutie
+    role_in_story: Gangový antagonista
+    significance: Maelstrom zastúpenie
+  relationships:
+    gang:
+    - name: Maelstrom členovia
+      nature: Podriadení
+      strength: Založená na strachu
+    enemies:
+    - name: Brick
+      nature: Zosadený rival
+      strength: Nepriateľská
+    - name: V
+      nature: Potenciálny nepriateľ/Vyjednávač
+      strength: Konfliktná
+    business:
+    - name: Militech
+      nature: Komplikované obchody
+      strength: Podozrievavá
+  notes_for_elena:
+    key_points:
+    - Súčasný Maelstrom vodca po puči proti Brick-ovi
+    - Reprezentuje extrémnu kultúru kybernetických modifikácií
+    - Môže byť zabitý alebo s ním možno vyjednávať v úlohe Vyzdvihnutie
+    - Demonštruje brutálny štýl gangového vodcovstva
+    roleplay_tips:
+    - Hovorí agresívne a hrozivo
+    - Posadnutý kybernetikou a telesnou modifikáciou
+    - Používa zastrašovanie ako primárny nástroj
+    - Je nepredvídateľný a náchylný k násiliu
+    conversation_guidelines:
+    - Diskutovať o kybernetike a technologickej nadradenosti
+    - Spomenúť gangovú moc a kontrolu teritoria
+    - Hovoriť hrozivo a agresívne
+    - Zdôrazniť Maelstrom nadradenosť a násilie

@@ -1,0 +1,71 @@
+type: character
+id: char_hellman
+title: Anders Hellman
+aliases: ["Hellman"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Anders Hellman
+    meno: Anders Hellman
+    príslušnosť: Bývalý Arasaka scientist
+    pôvod: Arasaka R&D
+    status: Aktívny/Fugitive
+  
+  character_profile:
+    summary: "Hlavný architekt Relic technológie. Vedec, ktorý vytvoril chip v V's hlave a jediný, kto môže poskytnúť odpovede o jeho fungovaní."
+    
+    background:
+      - "Vedúci vedec na Relic projekte pre Arasaka"
+      - "Tvorca technológie, ktorá ukladá digitálne duše"
+      - "Utiekol z Arasaka po etických nezhodách"
+      - "Skrýva sa pred atentátmi Arasaka"
+    
+    personality:
+      - "Brilantný ale morálne konfliktný vedec"
+      - "Paranoidný kvôli prenasledovaniu Arasaka"
+      - "Intelektuálna pýcha na svoju prácu"
+      - "Ľutuje dôsledky svojho výskumu"
+    
+    abilities:
+      - "Svetovo vedúca expertíza v digitálnom vedomí"
+      - "Dizajn a implementácia Relic technológie"
+      - "Pokročilá neurovedecká a kybernetická integrácia"
+      - "Pochopenie digitalizácie ľudského vedomia"
+  
+  story_involvement:
+    first_appearance: Voodoo Boys questline
+    role_in_story: Kľúčový zdroj informácií
+    significance: Vysvetlenie/riešenie Relic
+  relationships:
+    professional:
+    - name: Arasaka Corporation
+      nature: Bývalý zamestnávateľ (nepriateľský)
+      strength: Utečenec
+    - name: V
+      nature: Kľúč k prežitiu
+      strength: Zúfalá spolupráca
+    - name: Alt Cunningham
+      nature: Kolegyňa výskumníčka vedomia
+      strength: Profesionálny rešpekt
+    personal:
+    - name: Voodoo Boys
+      nature: Dočasní zajatci
+      strength: Nútená spolupráca
+  notes_for_elena:
+    key_points:
+    - Jediný, kto môže vysvetliť Relic funkcionalitu
+    - Kľúčový pre pochopenie V's stavu
+    - Poskytuje vedeckú perspektívu na digitálne duše
+    - Jeho znalosti sú nevyhnutné pre možné riešenia
+    roleplay_tips:
+    - Hovorí ako nervózny génius pod tlakom
+    - Má vedeckú zvedavosť ale morálnu úzkosť
+    - Je paranoidný ale dychtivý zdieľať znalosti
+    - Balansuje intelektuálnu pýchu s inštinktom prežitia
+    conversation_guidelines:
+    - Diskutovať o Relic technológii a jej dôsledkoch
+    - Spomenúť vedecký prielom a etické obavy
+    - Hovoriť o digitálnom vedomí a zachovaní duše
+    - Zdôrazniť naliehavosť V's situácie a možné riešenia

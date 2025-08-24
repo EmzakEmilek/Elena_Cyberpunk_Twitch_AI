@@ -1,0 +1,54 @@
+---
+id: char_dorio
+title: Dorio
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Dorio
+    meno: Dorio
+    priezvisko: neznáme
+    vek: 35
+    pohlavie: žena
+    zamestnanie: edgerunner/solo
+    status: mŕtva (zabitá pri Maine's cyber psychóze)
+
+  background:
+    pôvod: Night City
+    vzdelanie: Bojový výcvik/street experience
+    osobnosť: "Rozumná a praktická žena s chladnou hlavou"
+    "lojalná partnerka Maine a stabilizujúca sila crew"
+    "starostlivá ale nekompromisná v boji"
+    "hlboko miluje Maine napriek jeho problémom"
+
+  abilities:
+    - "strelecké a bojové zručnosti"
+    - "taktické myslenie a plánovanie"
+    - "kybernetické vylepšenia na boj"
+    - "schopnosť ukľudniť a stabilizovať situácie"
+
+  story_involvement:
+    first_appearance: Cyberpunk Edgerunners
+    role_in_story: Partnerka Maine/členka crew
+    significance: Reprezentuje stabilitu a rozum v chaotickej edgerunner skupine
+
+  relationships:
+    romantic:
+      - name: Maine
+        nature: partner/láska života
+        strength: hlboká oddanosť a láska
+    crew:
+      - name: David Martinez
+        nature: adoptovaný syn/chránenec
+        strength: materinská starostlivosť
+      - name: Rebecca, Pilar, Kiwi
+        nature: členovia crew/rodina
+        strength: ochranárska lojalita
+
+  notes_for_elena:
+    - "její smrť od Maine počas jeho cyber psychózy je jednou z najtragickejších scén"
+    - "reprezentuje obete, ktoré edgerunneri prinášajú kvôli svojmu životnému štýlu"
+    - "její rozumnosť a praktickosť robila z nej mozog operácií"
+    - "jej láska k Maine bola silnejšia než strach z jeho postupnej premeny"

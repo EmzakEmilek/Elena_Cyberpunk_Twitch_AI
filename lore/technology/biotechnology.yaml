@@ -1,78 +1,41 @@
-﻿type: "technology"
-title: "Biotechnology Advances"
-category: ""
-technology_id: ""
-
-content:
-  summary: "Cutting-edge biological and medical technology developments"
-  
-name: Biotechnology Advances
 type: technology
-description: Cutting-edge biological and medical technology developments
-details: |
-  Biotechnology represents the fusion of biological science and PokroÄŤilĂˇ technolĂłgia in Night City.
-
-  Research Areas:
-  - Medical Biotech
-    * Organ cultivation
-    * Genetic engineering
-    * Neural integration
-    * Cellular modification
-  - Enhancement Tech
-    * Performance boosting
-    * Biological optimization
-    * Genetic improvement
-    * Cellular regeneration
-
-  Applications:
-  - Medical Treatment
-    * Disease control
-    * Injury recovery
-    * Organ replacement
-    * Neural repair
-  - Human Enhancement
-    * Physical upgrades
-    * Mental improvement
-    * Sensory enhancement
-    * Longevity extension
-
-  Development Areas:
-  - Research Focus
-    * Gene therapy
-    * Nano-biology
-    * Synthetic organs
-    * Neural integration
-  - Ethics Controls
-    * Research limits
-    * Safety protocols
-    * Testing standards
-    * Usage regulations
-
+title: 'Biotechnology Advances '
+category: ''
+technology_id: ''
+content:
+  summary: Na vrhunski biologické inovacije in medicinske tehnologije
+name: Biotechnology Advances
+description: Príležitostne biologické inovacije a medicinske tehnologije
+details: "Biotechnology represents the fusion of biological science and PokroÄŤilĂˇ\
+  \ technolĂłgia in Night City.\n\nResearch Areas:\n- Medical Biotech\n  * Organ cultivation\n\
+  \  * Genetic engineering\n  * Neural integration\n  * Cellular modification\n- Enhancement\
+  \ Tech\n  * Performance boosting\n  * Biological optimization\n  * Genetic improvement\n\
+  \  * Cellular regeneration\n\nApplications:\n- Medical Treatment\n  * Disease control\n\
+  \  * Injury recovery\n  * Organ replacement\n  * Neural repair\n- Human Enhancement\n\
+  \  * Physical upgrades\n  * Mental improvement\n  * Sensory enhancement\n  * Longevity\
+  \ extension\n\nDevelopment Areas:\n- Research Focus\n  * Gene therapy\n  * Nano-biology\n\
+  \  * Synthetic organs\n  * Neural integration\n- Ethics Controls\n  * Research limits\n\
+  \  * Safety protocols\n  * Testing standards\n  * Usage regulations\n"
 importance: pokroÄŤilĂ˝ medical technology
 common_locations:
-  - Research facilities
-  - Medical centers
-  - Corporate labs
-  - Treatment clinics
+- Research facilities
+- Medical centers
+- Corporate labs
+- Treatment clinics
 relationships:
-  - Medical Technology
-  - Cyberware Systems
-  - Experimental Research
-  - Healthcare Structure
-
-
+- Medical Technology
+- Cyberware Systems
+- Experimental Research
+- Healthcare Structure
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

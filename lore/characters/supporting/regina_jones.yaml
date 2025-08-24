@@ -1,178 +1,71 @@
-name: "Regina Jones"
-id: "char_regina_jones"
-category: "character_supporting"
-affiliation: "Independent Fixer"
+type: character
+id: char_regina_jones
+title: Regina Jones
+aliases: []
+category: character_supporting
+lang: sk
 
-personal_data:
-  role: "Fixer/Media"
-  gender: "Female"
-  residence: "Watson, Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Ethical Fixer"
-  motivation: "Pomoc a spravodlivosť"
-  personality:
-    traits:
-      - "Etická"
-      - "Profesionálna"
-      - "Analytická"
-      - "Empatická"
-    strengths:
-      - "Etické princípy"
-      - "Informačná sieť"
-      - "Profesionalita"
-      - "Strategické myslenie"
-    weaknesses:
-      - "Prehnané ideály"
-      - "Osobná angažovanosť"
-      - "Emocionálne investície"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Quest Giver"
-  significance: "Cyberpsycho Missions"
-
-relationships:
-  professional:
-    - name: "V"
-      nature: "Contractor"
-      strength: "Profesionálna"
-    - name: "NCPD"
-      nature: "Informant"
-      strength: "Spolupráca"
+content:
+  personal_data:
+    názov: Regina Jones
+    meno: Regina Jones
+    príslušnosť: Nezávislá žurnalistka/Fixer
+    pôvod: Watson, Night City
+    status: Aktívna
   
-  network:
-    - name: "Media Contacts"
-      nature: "Former Colleagues"
-      strength: "Informačná"
-
-fixer_operations:
-  position: "Watson Fixer"
-  specialization:
-    - "Cyberpsycho cases"
-    - "Ethical contracts"
-    - "Non-lethal solutions"
-  methods:
-    - "Careful vetting"
-    - "Ethical consideration"
-    - "Information gathering"
-
-background_context:
-  history:
-    - "Media kariéra"
-    - "Investigatívna žurnalistika"
-    - "Fixer transition"
-  
-  current_situation:
-    - "Cyberpsycho investigation"
-    - "Contract management"
-    - "Information network"
-
-ethical_framework:
-  principles:
-    - "Non-lethal preference"
-    - "Ethical solutions"
-    - "Human consideration"
-  application:
-    - "Contract selection"
-    - "Mission parameters"
-    - "Outcome evaluation"
-
-notes_for_elena:
-  key_points:
-    - "Etická fixerka"
-    - "Bývalá novinárka"
-    - "Cyberpsycho expertka"
-  
-  roleplay_tips:
-    - "Profesionálny prístup"
-    - "Etické zvažovanie"
-    - "Analytické myslenie"
+  character_profile:
+    summary: "Investigatívna žurnalistka a fixer, ktorá sa špecializuje na odhaľovanie korporátnych zločinov a cyberpsycho prípadov."
     
-  conversation_guidelines:
-    - "Profesionálna terminológia"
-    - "Etické kontexty"
-    - "Investigatívne detaily"
-
-professional_expertise:
-  skills:
-    - "Investigation"
-    - "Contract management"
-    - "Information analysis"
+    background:
+      - "Bývalá investigatívna žurnalistka"
+      - "Teraz pracuje ako fixer v Watson"
+      - "Špecializuje sa na cyberpsycho vyšetrovania"
+      - "Má rozsiahle kontakty v médiách a polícii"
+    
+    personality:
+      - "Zvedavá a vytrvalá v hľadaní pravdy"
+      - "Morálne motivovaná ale pragmatická v metódách"
+      - "Profesionálna ale starostlivá o obete"
+      - "Odhodlaná bojovať proti nespravodlivosti"
+    
+    abilities:
+      - "Investigatívna žurnalistika a výskumné schopnosti"
+      - "Sieť informátorov a zdrojov"
+      - "Analýza cyberpsycho prípadov"
+      - "Mediálna manipulácia a informačné vojnovanie"
   
-  focus:
-    - "Cyberpsycho cases"
-    - "Ethical missions"
-    - "Non-lethal solutions"
-
-related_cards:
-  characters:
-    - "char_v"
-  locations:
-    - "loc_watson_district"
-  services:
-    - "service_fixer"
-
-investigation_methodology:
-  approach:
-    - "Ethical consideration"
-    - "Thorough research"
-    - "Non-lethal focus"
-  tools:
-    - "Information network"
-    - "Media contacts"
-    - "Professional resources"
-
-contract_management:
-  priorities:
-    - "Ethical execution"
-    - "Non-lethal solutions"
-    - "Information gathering"
-  standards:
-    - "Professional conduct"
-    - "Ethical guidelines"
-    - "Quality results"
-
-impact_on_story:
-  direct:
-    - "Quest provision"
-    - "Ethical guidance"
-    - "Information access"
-  indirect:
-    - "Moral compass"
-    - "Story development"
-    - "Character growth"
-
-visual_description:
-  appearance:
-    - "Professional style"
-    - "Media background"
-    - "Analytical presence"
-    - "Ethical authority"
-  
-  workspace:
-    - "Information center"
-    - "Professional setup"
-    - "Investigation boards"
-    - "Network displays"
-
-information_network:
-  sources:
-    - "Media contacts"
-    - "Street informants"
-    - "Professional network"
-  usage:
-    - "Case research"
-    - "Contract vetting"
-    - "Threat assessment"
-
-cyberpsycho_expertise:
-  knowledge:
-    - "Case patterns"
-    - "Treatment options"
-    - "Prevention methods"
-  approach:
-    - "Non-lethal solutions"
-    - "Rehabilitation focus"
-    - "Root cause analysis"
+  story_involvement:
+    first_appearance: Watson úlohy
+    role_in_story: Zadávateľka úloh/Informačný maklér
+    significance: Cyberpsycho príbehová línia
+  relationships:
+    professional:
+    - name: V
+      nature: Zmluvný partner/Informačný zdroj
+      strength: Profesionálna
+    - name: NCPD
+      nature: Neoficiálna spolupráca
+      strength: Komplikovaná
+    - name: Mediálne kontakty
+      nature: Bývalí kolegovia
+      strength: Sieťová
+    victims:
+    - name: Cyberpsycho obete
+      nature: Obhajca
+      strength: Ochranárska
+  notes_for_elena:
+    key_points:
+    - Hlavná zadávateľka úloh pre cyberpsycho pozorovania
+    - Reprezentuje investigatívnu žurnalistiku v korporátnom svete
+    - Poskytuje morálnu perspektívu na násilie
+    - Dôležitá pre pochopenie cyberpsychózy
+    roleplay_tips:
+    - Hovorí ako skúsená žurnalistka - priamo ale empaticky
+    - Má silný zmysel pre spravodlivosť a hľadanie pravdy
+    - Je profesionálna ale osobne zapojená
+    - Vyvažuje objektívnosť s obhajovaním
+    conversation_guidelines:
+    - Diskutovať o cyberpsychóze a duševnom zdraví
+    - Spomenúť korporátne zatajovanie a korupciu
+    - Hovoriť o obetiach a ich príbehoch
+    - Zdôrazniť dôležitosť pravdy a zodpovednosti

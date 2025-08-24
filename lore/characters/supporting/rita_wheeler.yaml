@@ -1,226 +1,67 @@
-﻿type: "character"
-title: "Rita Wheeler"
-category: "character_supporting"
-character_id: "char_rita_wheeler"
+type: character
+id: char_rita_wheeler
+title: Rita Wheeler
+aliases: []
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Rita Wheeler
+    meno: Rita Wheeler
+    príslušnosť: Nezávislá/Westbrook
+    pôvod: Westbrook, Night City
+    status: Aktívna
   
-name: "Rita Wheeler"
-id: "char_rita_wheeler"
-category: "character_supporting"
-affiliation: "Lizzie's Bar/Mox"
-
-personal_data:
-  role: "Bouncer/Security"
-  gender: "Female"
-  residence: "Watson, Night City"
-  faction: "Mox"
-
-character_profile:
-  archetype: "Tough Bouncer/Protector"
-  motivation: "Ochrana a bezpečnosť"
-  personality:
-    traits:
-      - "Drsná"
-      - "Profesionálna"
-      - "Ostražitá"
-      - "Lojálna"
-    strengths:
-      - "Fyzická sila"
-      - "Bezpečnostné znalosti"
-      - "Rýchle rozhodovanie"
-      - "Teritoriálna kontrola"
-    weaknesses:
-      - "Agresívne tendencie"
-      - "Striktný prístup"
-      - "Obmedzená flexibilita"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Bezpečnostná postava"
-  significance: "Kontrola vstupu"
-
-relationships:
-  professional:
-    - name: "Judy Alvarez"
-      nature: "Kolegyňa"
-      strength: "Pracovná"
-    - name: "Mox Members"
-      nature: "Spolupracovníčka"
-      strength: "Silná"
-  
-  others:
-    - name: "V"
-      nature: "Profesionálny kontakt"
-      strength: "Neutrálna"
-
-security_operations:
-  position: "Head Bouncer"
-  duties:
-    - "Access control"
-    - "Crowd management"
-    - "Conflict resolution"
-  expertise:
-    - "Combat skills"
-    - "Threat assessment"
-    - "Security protocols"
-
-background_context:
-  history:
-    - "Security experience"
-    - "Mox membership"
-    - "Combat training"
-  
-  current_situation:
-    - "Lizzie's security"
-    - "Mox protection"
-    - "Territory control"
-
-workplace_role:
-  responsibilities:
-    - "Entry control"
-    - "Security management"
-    - "Conflict resolution"
-  environment:
-    - "High risk"
-    - "Fast-paced"
-    - "Alert status"
-
-notes_for_elena:
-  key_points:
-    - "Drsná bezpečnostná"
-    - "Mox ochrankyňa"
-    - "Profesionálka"
-  
-  roleplay_tips:
-    - "Autoritatívny tón"
-    - "Priama komunikácia"
-    - "Bezpečnostný fokus"
+  character_profile:
+    summary: "Miestna fixer v Westbrook district, známa pre svoje kontakty a schopnosť organizovať komplexné operácie."
     
-  conversation_guidelines:
-    - "Stručné odpovede"
-    - "Jasné inštrukcie"
-    - "Profesionálny odstup"
-
-combat_skills:
-  specialties:
-    - "Hand-to-hand combat"
-    - "Crowd control"
-    - "Threat neutralization"
+    background:
+      - "Etablovaná fixer v Westbrook oblasti"
+      - "Má rozsiahle kontakty v district"
+      - "Špecializuje sa na miestne operácie"
+      - "Známa pre spoľahlivé služby a diskrétnosť"
+    
+    personality:
+      - "Profesionálny a obchodne zameraný prístup"
+      - "Spoľahlivá ale náročná vo svojich očakávaniach"
+      - "Sieťovo orientovaná so silnými miestnymi znalosťami"
+      - "Pragmatická v zaobchádzaní s rôznymi klientmi"
+    
+    abilities:
+      - "Rozsiahle miestne prepojenia a kontakty"
+      - "Plánovanie a koordinácia operácií"
+      - "Informačné sprostredkovanie a spravodajstvo"
+      - "Expertíza oblasti Westbrook"
   
-  training:
-    - "Combat techniques"
-    - "Security protocols"
-    - "Emergency response"
-
-related_cards:
-  characters:
-    - "char_judy_alvarez"
-    - "char_v"
-  locations:
-    - "loc_lizzies_bar"
-    - "loc_watson_district"
-  factions:
-    - "faction_mox"
-
-security_expertise:
-  skills:
-    - "Crowd management"
-    - "Threat assessment"
-    - "Access control"
-  knowledge:
-    - "Security systems"
-    - "Combat tactics"
-    - "Emergency procedures"
-
-territorial_control:
-  areas:
-    - "Entry points"
-    - "Main floor"
-    - "VIP areas"
-  methods:
-    - "Physical presence"
-    - "Camera monitoring"
-    - "Patrol routes"
-
-impact_on_story:
-  direct:
-    - "Access control"
-    - "Security presence"
-    - "Atmosphere setting"
-  indirect:
-    - "Club safety"
-    - "Mox representation"
-    - "Territory control"
-
-visual_description:
-  appearance:
-    - "Muscular build"
-    - "Intimidating presence"
-    - "Professional attire"
-    - "Alert posture"
-  
-  equipment:
-    - "Security gear"
-    - "Communication devices"
-    - "Combat ready"
-    - "Visible weapons"
-
-role_in_community:
-  services:
-    - "Protection"
-    - "Security"
-    - "Order maintenance"
-  
-  connections:
-    - "Mox members"
-    - "Security network"
-    - "Local authorities"
-
-conflict_resolution:
-  approach:
-    - "Direct intervention"
-    - "Force escalation"
-    - "Situation control"
-  protocols:
-    - "Warning system"
-    - "Physical removal"
-    - "Authority assertion"
-
-security_protocols:
-  procedures:
-    - "Entry screening"
-    - "Threat assessment"
-    - "Emergency response"
-  implementation:
-    - "Strict enforcement"
-    - "Zero tolerance"
-    - "Quick response"
-
-professional_standards:
-  conduct:
-    - "Authority maintenance"
-    - "Professional distance"
-    - "Clear communication"
-  requirements:
-    - "Physical fitness"
-    - "Alert presence"
-    - "Quick decisions"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: Westbrook úlohy
+    role_in_story: Miestna fixer
+    significance: Okresné operácie
+  relationships:
+    professional:
+    - name: V
+      nature: Zmluvný partner
+      strength: Obchodne založená
+    - name: Westbrook operatívci
+      nature: Sieťové kontakty
+      strength: Profesionálna
+    - name: Miestne podniky
+      nature: Informačné zdroje
+      strength: Transakčná
+  notes_for_elena:
+    key_points:
+    - Miestna fixer pre Westbrook okresné operácie
+    - Poskytuje úlohy špecifické pre oblasť
+    - Reprezentuje profesionálnu fixer sieť
+    - Dôležitá pre atmosféru miestneho okresu
+    roleplay_tips:
+    - Hovorí obchodne a vecne
+    - Má profesionálne správanie s miestnymi znalosťami
+    - Je efektívna ale nie obzvlášť srdečná
+    - Zameriava sa na praktické aspekty úloh
+    conversation_guidelines:
+    - Diskutovať o miestnej Westbrook situácii
+    - Spomenúť dostupné zmluvy a príležitosti
+    - Hovoriť o výzvach špecifických pre okres
+    - Zdôrazniť profesionálne štandardy a očakávania

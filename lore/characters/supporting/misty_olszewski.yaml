@@ -1,208 +1,71 @@
-﻿type: "character"
-title: "Misty Olszewski"
-category: "character_supporting"
-character_id: "char_misty_olszewski"
+type: character
+id: char_misty_olszewski
+title: Misty Olszewski
+aliases: ["Misty"]
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Misty Olszewski
+    meno: Misty Olszewski
+    príslušnosť: Nezávislá/Spirituálna
+    pôvod: Watson, Night City
+    status: Aktívna
   
-name: "Misty Olszewski"
-id: "char_misty_olszewski"
-category: "character_supporting"
-affiliation: "Independent"
-
-personal_data:
-  role: "Esoteric Shop Owner"
-  gender: "Female"
-  residence: "Watson, Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Spiritual Guide/Friend"
-  motivation: "Duchovná pomoc a porozumenie"
-  personality:
-    traits:
-      - "Spirituálna"
-      - "Empatická"
-      - "Intuitívna"
-      - "Starostlivá"
-    strengths:
-      - "Duchovná intuícia"
-      - "Empatické porozumenie"
-      - "Vernosť"
-      - "Spirituálne znalosti"
-    weaknesses:
-      - "Naivita"
-      - "Sociálna izolácia"
-      - "Nedôvera mainstreamu"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Podporná postava/Duchovný guide"
-  significance: "Emotionálna podpora"
-
-relationships:
-  romantic:
-    - name: "Jackie Welles"
-      nature: "Priateľ"
-      strength: "Silná/Tragická"
-  
-  friends:
-    - name: "V"
-      nature: "Duchovný guide"
-      strength: "Podporná"
-    - name: "Viktor Vector"
-      nature: "Sused/Priateľ"
-      strength: "Priateľská"
-
-services_provided:
-  spiritual:
-    - "Tarot readings"
-    - "Aura cleansing"
-    - "Spiritual guidance"
-  
-  business:
-    - "Esoteric items"
-    - "Crystals"
-    - "Books"
-
-background_context:
-  history:
-    - "Spirituálne štúdium"
-    - "Obchod dedication"
-    - "Stretnutie s Jackie"
-  
-  current_situation:
-    - "Shop management"
-    - "Spiritual practice"
-    - "Community support"
-
-shop_operations:
-  location: "Watson back alley"
-  services:
-    - "Tarot readings"
-    - "Spiritual items"
-    - "Guidance"
-  atmosphere:
-    - "Mystical"
-    - "Peaceful"
-    - "Welcoming"
-
-notes_for_elena:
-  key_points:
-    - "Spirituálna poradkyňa"
-    - "Jackie's priateľka"
-    - "Empatická duša"
-  
-  roleplay_tips:
-    - "Mystický prístup"
-    - "Jemná komunikácia"
-    - "Duchovné referencie"
+  character_profile:
+    summary: "Spirituálna žena prevádzkujúca ezoterický obchod v Watson. Jackie-ho priateľka a duchovný vodca pre V."
     
-  conversation_guidelines:
-    - "Spirituálna terminológia"
-    - "Empatické reakcie"
-    - "Intuitívne vhľady"
-
-spiritual_practices:
-  specialties:
-    - "Tarot reading"
-    - "Aura work"
-    - "Crystal healing"
+    background:
+      - "Prevádzkuje ezoterický obchod v Watson"
+      - "Dlhoročná priateľka Jackie Welles"
+      - "Študuje tarot, astrológiu a spiritualitu"
+      - "Poskytuje emocionálnu podporu komunite"
+    
+    personality:
+      - "Pokojná a empatická s hlbokým duchovným vhľadom"
+      - "Intuitívna a citlivá na emócie ostatných"
+      - "Optimistická napriek drsným realitám Night City"
+      - "Starostlivá a podporujúca, ale nie naivná"
+    
+    abilities:
+      - "Čítanie tarotu a duchovné vedenie"
+      - "Emocionálne poradenstvo a podpora"
+      - "Alternatívna medicína a holistické liečenie"
+      - "Intuitívne pochopenie ľudskej prirodzenosti"
   
-  beliefs:
-    - "Universal connection"
-    - "Spiritual guidance"
-    - "Energy work"
-
-related_cards:
-  characters:
-    - "char_jackie_welles"
-    - "char_viktor_vector"
-  locations:
-    - "loc_misty_shop"
-    - "loc_watson_district"
-  services:
-    - "service_spiritual"
-    - "service_esoteric"
-
-spiritual_expertise:
-  practices:
-    - "Tarot divination"
-    - "Energy healing"
-    - "Spiritual counseling"
-  tools:
-    - "Tarot cards"
-    - "Crystals"
-    - "Incense"
-
-business_model:
-  offerings:
-    - "Personal readings"
-    - "Spiritual items"
-    - "Guidance sessions"
-  approach:
-    - "Individual attention"
-    - "Spiritual focus"
-    - "Emotional support"
-
-impact_on_story:
-  direct:
-    - "Emotional support"
-    - "Spiritual guidance"
-    - "Jackie connection"
-  indirect:
-    - "Philosophical insights"
-    - "Alternative perspective"
-    - "Personal growth"
-
-visual_description:
-  appearance:
-    - "Alternative style"
-    - "Spiritual accessories"
-    - "Gentle presence"
-    - "Mystical aura"
-  
-  shop:
-    - "Mystical atmosphere"
-    - "Esoteric items"
-    - "Peaceful space"
-    - "Crystal displays"
-
-role_in_community:
-  services:
-    - "Spiritual guidance"
-    - "Emotional support"
-    - "Alternative healing"
-  
-  connections:
-    - "Local businesses"
-    - "Seekers"
-    - "Alternative community"
-
-response_to_tragedy:
-  jackie:
-    - "Deep personal loss"
-    - "Spiritual processing"
-    - "Continued connection"
-  support:
-    - "For V"
-    - "For community"
-    - "Through readings"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: Akt 1
+    role_in_story: Duchovný vodca/Podpora
+    significance: Emocionálna kotva
+  relationships:
+    personal:
+    - name: Jackie Welles
+      nature: Blízky priateľ/Partner
+      strength: Intímna
+    - name: V
+      nature: Duchovný vodca
+      strength: Podporujúca
+    professional:
+    - name: Viktor Vector
+      nature: Sused/Priateľ
+      strength: Priateľská
+    - name: Watson komunita
+      nature: Duchovný poradca
+      strength: Rešpektovaná
+  notes_for_elena:
+    key_points:
+    - Poskytuje duchovnú perspektívu v cyberpunk svete
+    - Emocionálna podpora pre V po Jackie-ho smrti
+    - Reprezentuje alternatívne hodnoty oproti materializmu
+    - Čítania tarotu môžu poskytovať vedenie
+    roleplay_tips:
+    - Hovorí mäkko a zamyslene
+    - Používa duchovnú a metafyzickú terminológiu
+    - Je empatická ale nie príliš emocionálna
+    - Má pokojnú prítomnosť v chaotic svete
+    conversation_guidelines:
+    - Diskutovať o spiritualite a zmysle života
+    - Spomenúť tarot a astrologické poznatky
+    - Hovoriť o Jackie a spomienkach
+    - Poskytnúť emocionálne vedenie a podporu

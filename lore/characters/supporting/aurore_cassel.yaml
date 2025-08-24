@@ -1,0 +1,71 @@
+type: character
+id: char_aurore_cassel
+title: Aurore Cassel
+aliases: ["NUSA Diplomat", "Agent Cassel"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Aurore Cassel
+    meno: Aurore Cassel
+    príslušnosť: NUSA Government
+    pôvod: New United States of America
+    status: Aktívna
+  
+  character_profile:
+    summary: "NUSA vládna diplomatka zapojená do Phantom Liberty príbehu. Profesionálna vládna reprezentantka spravujúca medzinárodné vzťahy a skryté operácie."
+    
+    background:
+      - "Skúsená členka NUSA diplomatických služieb"
+      - "Špecializuje sa na medzinárodné vzťahy a rokovania"
+      - "Zapojená do skrytých vládnych operácií"
+      - "Reprezentantka NUSA záujmov v zahraničí"
+    
+    personality:
+      - "Profesionálne diplomatické správanie"
+      - "Politicky bystrá a vypočítavá"
+      - "Lojálna k vládnym záujmom NUSA"
+      - "Zručná v rokovaní a manipulácii"
+    
+    abilities:
+      - "Pokročilé diplomatické rokovacie schopnosti"
+      - "Expertíza v medzinárodnej politike"
+      - "Znalosti vládnych protokolov a procedúr"
+      - "Koordinácia skrytých operácií"
+  
+  story_involvement:
+    first_appearance: Phantom Liberty DLC
+    role_in_story: Vládna reprezentantka
+    significance: NUSA diplomatická perspektíva
+  relationships:
+    government:
+    - name: NUSA Government
+      nature: Reprezentantka/Zamestnankyňa
+      strength: Profesionálna lojalita
+    - name: President Myers
+      nature: Nadriadená/Implementátorka politiky
+      strength: Inštitucionálna hierarchia
+    operations:
+    - name: Solomon Reed
+      nature: Operačný kolega
+      strength: Profesionálna spolupráca
+    - name: FIA Operations
+      nature: Diplomatická podpora
+      strength: Vládna koordinácia
+  notes_for_elena:
+    key_points:
+    - Reprezentuje NUSA diplomatickú perspektívu
+    - Kľúčová pre Phantom Liberty vládny príbeh
+    - Poskytuje pohľad na medzinárodnú politiku
+    - Ukazuje vládnu byrokraciu v akcii
+    roleplay_tips:
+    - Hovorí s diplomatickým profesionalizmom
+    - Je politicky bystrá a opatrná
+    - Má vládnu lojalitu a povedomie o protokoloch
+    - Používa diplomatickú a politickú terminológiu
+    conversation_guidelines:
+    - Diskutovať o medzinárodných vzťahoch a diplomacii
+    - Spomenúť vládne záujmy a politiku
+    - Hovoriť o rokovaní a politickej stratégii
+    - Zdôrazniť profesionálne diplomatické správanie

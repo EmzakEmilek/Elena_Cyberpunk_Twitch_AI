@@ -1,74 +1,32 @@
-﻿type: "economy"
-title: "Ammunition Types"
-category: ""
-economy_id: ""
-
-content:
-  summary: "Various types of ammunition available and their specific uses"
-  
-name: Ammunition Types
 type: weapon_system
-description: Various types of ammunition available and their specific uses
-details: |
-  Ammunition types vary widely in Night City, ranging from standard rounds to specialized high-tech variants.
-
-  Basic Categories:
-  - Standard Ammunition
-    * Full metal jacket
-    * Hollow point
-    * Subsonic rounds
-  - Smart Ammunition
-    * Guided rounds
-    * Tracking bullets
-    * Programmable projectiles
-  - Tech Ammunition
-    * Charged rounds
-    * Armor piercing
-    * High velocity
-
-  Special Types:
-  - Explosive rounds
-  - Incendiary ammunition
-  - EMP bullets
-  - Chemical payload
-  
-  Legality Tiers:
-  - Civilian legal
-  - Licensed use only
-  - Military/police
-  - Restricted/nelegĂˇlny
-
-  Selection Factors:
-  - Target type
-  - Range requirements
-  - Legal restrictions
-  - Cost considerations
-
+title: 'Ammunition Types '
+category: ''
+economy_id: ''
+content:
+  summary: Različne vrste municije, ki so na voljo in njihove posebne uporabe
+name: Ammunition Types
+description: Različne vrste streliva, ki so na voljo in njihove posebne uporabe
+details: '- Standardni nabáj'
 importance: Critical component of weapon systems
 common_locations:
-  - Ammunition shops
-  - Gun stores
-  - Military supplies
-  - Black market
+- Ammunition shops
+- Gun stores
+- Military supplies
+- Black market
 relationships:
-  - Weapon Manufacturers
-  - Black Market Weapons
-  - Weapon Customization
-  - Military-Grade Weapons
-
-
+- Weapon Manufacturers
+- Black Market Weapons
+- Weapon Customization
+- Military-Grade Weapons
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

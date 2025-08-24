@@ -1,207 +1,155 @@
-﻿type: "technology"
-title: "Combat Netrunning System"
-category: "system_combat"
-technology_id: "system_combat_netrunning"
-
+type: technology
+title: Combat Netrunning System
+category: system_combat
+technology_id: system_combat_netrunning
 content:
-  summary: ""
-  
-name: "Combat Netrunning System"
-id: "system_combat_netrunning"
-category: "system_combat"
-
+  summary: ''
+name: Combat Netrunning System
+id: system_combat_netrunning
 system_overview:
-  description: "Systém pre pokročilý hacking v bojových situáciách"
+  description: Systém pre pokročilý hacking v bojových situáciách
   core_mechanics:
-    - "Deep dive combat"
-    - "Neural combat"
-    - "System warfare"
-    - "Network battles"
-
+  - Deep dive combat
+  - Neural combat
+  - System warfare
+  - Network battles
 mechanics:
   netrunning:
-    - "Deep connections"
-    - "System navigation"
-    - "Combat programs"
-    - "Neural defense"
-  
+  - Deep connections
+  - System navigation
+  - Combat programs
+  - Neural defense
   warfare:
-    - "System attacks"
-    - "Defense breaching"
-    - "Counter-hacking"
-    - "Network control"
-
+  - System attacks
+  - Defense breaching
+  - Counter-hacking
+  - Network control
 combat_elements:
   offensive:
-    - "System destruction"
-    - "Neural damage"
-    - "Network takeover"
-    - "Data corruption"
-  
+  - System destruction
+  - Neural damage
+  - Network takeover
+  - Data corruption
   defensive:
-    - "System protection"
-    - "Neural shields"
-    - "Counter measures"
-    - "Backup systems"
-
+  - System protection
+  - Neural shields
+  - Counter measures
+  - Backup systems
 equipment:
   hardware:
-    - "Neural interface"
-    - "Combat deck"
-    - "System boosters"
-  
+  - Neural interface
+  - Combat deck
+  - System boosters
   software:
-    - "Combat programs"
-    - "Defense suites"
-    - "System tools"
-
+  - Combat programs
+  - Defense suites
+  - System tools
 notes_for_elena:
   key_points:
-    - "Neural combat"
-    - "System warfare"
-    - "Network battles"
-  
-  roleplay_tips:
-    - "Technical expertise"
-    - "Neural experience"
-    - "System knowledge"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Tech terminology"
-    - "Neural concepts"
-    - "Network terms"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 combat_layers:
   physical:
-    - "Body connection"
-    - "Hardware limits"
-    - "Neural stress"
-  
+  - Body connection
+  - Hardware limits
+  - Neural stress
   virtual:
-    - "System space"
-    - "Network realm"
-    - "Data combat"
-
+  - System space
+  - Network realm
+  - Data combat
 skill_integration:
   netrunning_skills:
-    - "Deep diving"
-    - "Combat hacking"
-    - "System control"
-  
+  - Deep diving
+  - Combat hacking
+  - System control
   related_skills:
-    - "Intelligence"
-    - "Cool"
-    - "Technical Ability"
-
+  - Intelligence
+  - Cool
+  - Technical Ability
 gameplay_elements:
   strategic:
-    - "System approach"
-    - "Resource management"
-    - "ĂştoÄŤiĹĄ timing"
-  
+  - System approach
+  - Resource management
+  - ĂştoÄŤiĹĄ timing
   tactical:
-    - "Program choice"
-    - "Defense setup"
-    - "Counter planning"
-
+  - Program choice
+  - Defense setup
+  - Counter planning
 progression_system:
   skills:
-    - "Neural power"
-    - "System control"
-    - "Defense strength"
-  
+  - Neural power
+  - System control
+  - Defense strength
   perks:
-    - "Deep dive speed"
-    - "Combat efficiency"
-    - "System mastery"
-
+  - Deep dive speed
+  - Combat efficiency
+  - System mastery
 combat_feedback:
   visual:
-    - "Neural effects"
-    - "System status"
-    - "Network activity"
-  
+  - Neural effects
+  - System status
+  - Network activity
   audio:
-    - "System sounds"
-    - "Neural feedback"
-    - "Network noise"
-
+  - System sounds
+  - Neural feedback
+  - Network noise
 ui_elements:
   displays:
-    - "System map"
-    - "Neural status"
-    - "Network info"
-  
+  - System map
+  - Neural status
+  - Network info
   feedback:
-    - "Combat status"
-    - "System alerts"
-    - "Neural warnings"
-
+  - Combat status
+  - System alerts
+  - Neural warnings
 related_systems:
   combat:
-    - "system_combat_hacking"
-    - "system_combat_quickhacking"
+  - system_combat_hacking
+  - system_combat_quickhacking
   Cyberware:
-    - "system_cyberware_operating_system"
-    - "system_cyberware_frontal_cortex"
-
+  - system_cyberware_operating_system
+  - system_cyberware_frontal_cortex
 balance_considerations:
   advantages:
-    - "Deep system access"
-    - "Network control"
-    - "Neural damage"
-  
+  - Deep system access
+  - Network control
+  - Neural damage
   limitations:
-    - "Connection time"
-    - "System risks"
-    - "Neural damage"
-
+  - Connection time
+  - System risks
+  - Neural damage
 technical_implementation:
   core_systems:
-    - "Neural simulation"
-    - "Network physics"
-    - "Combat calculation"
-  
+  - Neural simulation
+  - Network physics
+  - Combat calculation
   optimization:
-    - "System load"
-    - "Network traffic"
-    - "Neural processing"
-
+  - System load
+  - Network traffic
+  - Neural processing
 neural_dynamics:
   connection:
-    - "Deep dive setup"
-    - "Neural linking"
-    - "System access"
-  
+  - Deep dive setup
+  - Neural linking
+  - System access
   combat:
-    - "Neural strikes"
-    - "System attacks"
-    - "Network warfare"
-
+  - Neural strikes
+  - System attacks
+  - Network warfare
 system_architecture:
   structure:
-    - "Access points"
-    - "System layers"
-    - "Security zones"
-  
+  - Access points
+  - System layers
+  - Security zones
   interaction:
-    - "Combat spaces"
-    - "Neural paths"
-    - "Network nodes"
-
-
+  - Combat spaces
+  - Neural paths
+  - Network nodes
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

@@ -1,191 +1,140 @@
-﻿type: "character"
-title: "The Relic (bezpeÄŤnĂ˝ Your Soul)"
-category: "technology"
-character_id: "tech_relic"
-
+type: Experimental Biochip
+title: The Relic (bezpeÄŤnĂ˝ Your Soul)
+category: technology
+character_id: tech_relic
 content:
-  summary: ""
-  
-name: "The Relic (bezpeÄŤnĂ˝ Your Soul)"
-id: "tech_relic"
-category: "technology"
-type: "Experimental Biochip"
-
+  summary: ''
+name: The Relic (bezpeÄŤnĂ˝ Your Soul)
+id: tech_relic
 basic_info:
-  manufacturer: "Arasaka Corporation"
-  development_status: "Prototype"
-  security_level: "Maximum"
-  project_name: "bezpeÄŤnĂ˝ Your Soul"
-  version: "2.0"
-
+  manufacturer: Arasaka Corporation
+  development_status: Prototype
+  security_level: Maximum
+  project_name: bezpeÄŤnĂ˝ Your Soul
+  version: '2.0'
 technical_specifications:
   hardware:
-    - type: "Neural Interface Biochip"
-    - components:
-        - "Quantum processor"
-        - "Neural matrix"
-        - "Biological interface"
-        - "Consciousness container"
-    - size: "Standard biochip format"
-    - compatibility: "pokroÄŤilĂ˝ Cyberware ports"
-  
+  - type: Neural Interface Biochip
+  - components:
+    - Quantum processor
+    - Neural matrix
+    - Biological interface
+    - Consciousness container
+  - size: Standard biochip format
+  - compatibility: pokroÄŤilĂ˝ Cyberware ports
   functionality:
     primary:
-      - "Personality construct storage"
-      - "Neural pattern replication"
-      - "Consciousness transfer"
-      - "Host override capability"
+    - Personality construct storage
+    - Neural pattern replication
+    - Consciousness transfer
+    - Host override capability
     secondary:
-      - "Memory access"
-      - "Neural integration"
-      - "Personality overlay"
-
+    - Memory access
+    - Neural integration
+    - Personality overlay
 development_history:
   stages:
-    - phase: "Initial Research"
-      details: "Mikoshi foundation"
-    - phase: "Prototype 1.0"
-      details: "Basic storage"
-    - phase: "Version 2.0"
-      details: "Active construct"
-  
+  - phase: Initial Research
+    details: Mikoshi foundation
+  - phase: Prototype 1.0
+    details: Basic storage
+  - phase: Version 2.0
+    details: Active construct
   key_personnel:
-    - "Arasaka R&D"
-    - "Hellman (lead scientist)"
-    - "Alt Cunningham (original research)"
-
+  - Arasaka R&D
+  - Hellman (lead scientist)
+  - Alt Cunningham (original research)
 story_significance:
   main_plot:
-    - "Central MacGuffin"
-    - "V's condition source"
-    - "Johnny Silverhand vehicle"
-  
+  - Central MacGuffin
+  - V's condition source
+  - Johnny Silverhand vehicle
   consequences:
     immediate:
-      - "Host body deterioration"
-      - "Personality overlay"
-      - "Memory conflicts"
+    - Host body deterioration
+    - Personality overlay
+    - Memory conflicts
     long_term:
-      - "Identity crisis"
-      - "Physical degradation"
-      - "Time limit"
-
+    - Identity crisis
+    - Physical degradation
+    - Time limit
 security_measures:
   physical:
-    - "bezpeÄŤnĂ˝ storage"
-    - "Biometric locks"
-    - "Armed guards"
+  - bezpeÄŤnĂ˝ storage
+  - Biometric locks
+  - Armed guards
   digital:
-    - "Encryption"
-    - "Neural passwords"
-    - "Access protocols"
-
+  - Encryption
+  - Neural passwords
+  - Access protocols
 usage_risks:
   biological:
-    - "Neural degradation"
-    - "Physical rejection"
-    - "System conflicts"
+  - Neural degradation
+  - Physical rejection
+  - System conflicts
   psychological:
-    - "Personality overlap"
-    - "Memory confusion"
-    - "Identity loss"
+  - Personality overlap
+  - Memory confusion
+  - Identity loss
   technical:
-    - "Hardware conflicts"
-    - "System instability"
-    - "Integration errors"
-
+  - Hardware conflicts
+  - System instability
+  - Integration errors
 notes_for_elena:
   key_points:
-    - "Centrálna technológia príbehu"
-    - "Zdroj V's problémov"
-    - "Spojenie s Johnny"
-  
-  explanation_guidelines:
-    - "Technické detaily podľa kontextu"
-    - "Dôraz na následky"
-    - "Postupné odhaľovanie funkcií"
-  
-  story_elements:
-    - "Symbol korporátnej moci"
-    - "Osobná dráma"
-    - "Časová bomba"
-
-related_cards:
-  characters:
-    - "char_johnny_silverhand"
-    - "char_alt_cunningham"
-    - "char_anders_hellman"
-  factions:
-    - "faction_arasaka"
-  locations:
-    - "loc_mikoshi"
-  quests:
-    - "mq_the_heist"
-
+  - Automaticky preložené - skontroluj presnosĹĄ
+  conversation_guidelines:
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
+related_cards: null
 research_areas:
   primary:
-    - "Neural interface technology"
-    - "Consciousness digitization"
-    - "Personality construct storage"
+  - Neural interface technology
+  - Consciousness digitization
+  - Personality construct storage
   secondary:
-    - "Biological integration"
-    - "Memory manipulation"
-    - "Identity preservation"
-
+  - Biological integration
+  - Memory manipulation
+  - Identity preservation
 technological_impact:
   society:
-    - "Immortality potential"
-    - "Identity questions"
-    - "Corporate control"
+  - Immortality potential
+  - Identity questions
+  - Corporate control
   individual:
-    - "Personal identity"
-    - "Mortality"
-    - "Human nature"
-
+  - Personal identity
+  - Mortality
+  - Human nature
 security_classification:
-  level: "Maximum"
+  level: Maximum
   restrictions:
-    - "Need-to-know basis"
-    - "Executive clearance"
-    - "Compartmentalized access"
+  - Need-to-know basis
+  - Executive clearance
+  - Compartmentalized access
   protocols:
-    - "Armed escort"
-    - "bezpeÄŤnĂ˝ storage"
-    - "Limited access"
-
+  - Armed escort
+  - bezpeÄŤnĂ˝ storage
+  - Limited access
 development_goals:
   official:
-    - "Digital immortality"
-    - "Consciousness preservation"
-    - "Memory backup"
+  - Digital immortality
+  - Consciousness preservation
+  - Memory backup
   skrytĂ˝:
-    - "Personality override"
-    - "Mental control"
-    - "Corporate power"
-
+  - Personality override
+  - Mental control
+  - Corporate power
 technical_limitations:
   current:
-    - "Host rejection"
-    - "System instability"
-    - "Integration issues"
+  - Host rejection
+  - System instability
+  - Integration issues
   potential:
-    - "Personality conflicts"
-    - "Memory corruption"
-    - "Hardware limitations"
-
-
+  - Personality conflicts
+  - Memory corruption
+  - Hardware limitations
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak

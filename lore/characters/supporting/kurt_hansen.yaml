@@ -1,0 +1,71 @@
+type: character
+id: char_kurt_hansen
+title: Kurt Hansen
+aliases: ["Colonel Hansen", "Dogtown King"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Kurt Hansen
+    meno: Kurt Hansen
+    príslušnosť: Dogtown/Independent
+    pôvod: Former NUSA Military
+    status: Aktívny
+  
+  character_profile:
+    summary: "Bývalý NUSA plukovník ktorý sa stal Dogtown warlord v Phantom Liberty. Charizmatický ale nebezpečný vodca kontrolujúci izolovaný district s vojenskou presnosťou."
+    
+    background:
+      - "Bývalý NUSA vojenský plukovník"
+      - "Etabloval nezávislú kontrolu nad Dogtown"
+      - "Prežil NUSA opustenie a politický pád"
+      - "Vybudoval osobnú armádu z bývalých vojakov"
+    
+    personality:
+      - "Charizmatický vojenský vodca s autoritárskymi sklonmi"
+      - "Rozhorčený na NUSA zradu ale pragmatický"
+      - "Ochranársky voči svojmu územiu a ľuďom"
+      - "Nemilosrdný keď je vyzvaný ale férový k spojencom"
+    
+    abilities:
+      - "Vojenské taktické vedenie"
+      - "Kontrola a správa územia"
+      - "Bývalé vojenské zdroje a spojenia"
+      - "Charizmatický vplyv a budovanie lojality"
+  
+  story_involvement:
+    first_appearance: Phantom Liberty DLC
+    role_in_story: Dogtown autorita/Prekážka
+    significance: Téma vojenskej nezávislosti
+  relationships:
+    territory:
+    - name: Dogtown Residents
+      nature: Vodca/Ochranca
+      strength: Autoritárska starostlivosť
+    - name: Former Soldiers
+      nature: Veliteľ/Bratia
+      strength: Vojenská lojalita
+    conflict:
+    - name: NUSA Government
+      nature: Bývalý zamestnávateľ/Zradca
+      strength: Horký antagonizmus
+    - name: V/Phantom Liberty Team
+      nature: Prekážka/Potenciálny spojenec
+      strength: Teritoriálny konflikt
+  notes_for_elena:
+    key_points:
+    - Reprezentuje vojenskú nezávislosť a témy zrady
+    - Kľúčový pre Phantom Liberty Dogtown príbeh
+    - Poskytuje pohľad na vojensko-politické konflikty
+    - Príklad syndrómu opusteného vojaka
+    roleplay_tips:
+    - Hovorí s vojenskou autoritou a veliteľskou prítomnosťou
+    - Je rozhorčený na vládnu zradu
+    - Má ochranársky inštinkt voči svojim ľuďom
+    - Používa vojenskú terminológiu a taktické myslenie
+    conversation_guidelines:
+    - Diskutovať o vojenskej lojalite a zrade
+    - Spomenúť obranu územia a nezávislosť
+    - Hovoriť o vojenskom bratstve a povinnosti
+    - Zdôrazniť témy vládneho opustenia

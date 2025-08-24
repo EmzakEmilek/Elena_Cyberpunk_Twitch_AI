@@ -1,206 +1,157 @@
-﻿type: "technology"
-title: "Reflexes Skill System"
-category: "system_skill"
-technology_id: "system_skill_reflexes"
-
+type: technology
+title: Reflexes Skill System
+category: system_skill
+technology_id: system_skill_reflexes
 content:
-  summary: ""
-  
-name: "Reflexes Skill System"
-id: "system_skill_reflexes"
-category: "system_skill"
-
+  summary: ''
+name: Reflexes Skill System
+id: system_skill_reflexes
 system_overview:
-  description: "Systém pre rýchle reakcie a motorické schopnosti"
+  description: Systém pre rýchle reakcie a motorické schopnosti
   core_aspects:
-    - "Reaction time"
-    - "Movement speed"
-    - "Combat agility"
-    - "Weapon handling"
-
+  - Reaction time
+  - Movement speed
+  - Combat agility
+  - Weapon handling
 core_features:
   speed:
-    - "Quick actions"
-    - "Fast movement"
-    - "Rapid attacks"
-    - "Swift dodging"
-  
+  - Quick actions
+  - Fast movement
+  - Rapid attacks
+  - Swift dodging
   combat:
-    - "Gun handling"
-    - "Melee speed"
-    - "Dodge ability"
-    - "Counter attacks"
-
+  - Gun handling
+  - Melee speed
+  - Dodge ability
+  - Counter attacks
 skill_progression:
   levels:
-    - name: "Novice"
-      requirements: "0-5 points"
-      benefits: "Basic speed"
-    - name: "Adept"
-      requirements: "6-10 points"
-      benefits: "Enhanced reactions"
-    - name: "Expert"
-      requirements: "11-15 points"
-      benefits: "Superior agility"
-    - name: "Master"
-      requirements: "16-20 points"
-      benefits: "Lightning reflexes"
-
+  - name: Novice
+    requirements: 0-5 points
+    benefits: Basic speed
+  - name: Adept
+    requirements: 6-10 points
+    benefits: Enhanced reactions
+  - name: Expert
+    requirements: 11-15 points
+    benefits: Superior agility
+  - name: Master
+    requirements: 16-20 points
+    benefits: Lightning reflexes
 perk_system:
   categories:
     combat:
-      - name: "Quick Draw"
-        effect: "Faster weapon switching"
-      - name: "Bullet Time"
-        effect: "Slowed time perception"
-      - name: "Counter Strike"
-        effect: "Quick counter attacks"
-    
+    - name: Quick Draw
+      effect: Faster weapon switching
+    - name: Bullet Time
+      effect: Slowed time perception
+    - name: Counter Strike
+      effect: Quick counter attacks
     movement:
-      - name: "Swift Step"
-        effect: "Increased movement speed"
-      - name: "Acrobat"
-        effect: "Better dodging"
-      - name: "Rapid Recovery"
-        effect: "Quick action reset"
-
+    - name: Swift Step
+      effect: Increased movement speed
+    - name: Acrobat
+      effect: Better dodging
+    - name: Rapid Recovery
+      effect: Quick action reset
 notes_for_elena:
   key_points:
-    - "Speed importance"
-    - "Reaction timing"
-    - "Combat agility"
-  
-  roleplay_tips:
-    - "Quick responses"
-    - "Fluid movement"
-    - "Combat grace"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Speed terms"
-    - "Reaction phrases"
-    - "Movement words"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 gameplay_elements:
   primary:
-    - "Action speed"
-    - "Movement rate"
-    - "Dodge chance"
-    - "ĂştoÄŤiĹĄ speed"
-  
+  - Action speed
+  - Movement rate
+  - Dodge chance
+  - ĂştoÄŤiĹĄ speed
   secondary:
-    - "Recovery time"
-    - "Counter window"
-    - "Combo speed"
-
+  - Recovery time
+  - Counter window
+  - Combo speed
 skill_applications:
   combat:
-    - "Gun fights"
-    - "Melee combat"
-    - "Evasion"
-  
+  - Gun fights
+  - Melee combat
+  - Evasion
   utility:
-    - "Quick actions"
-    - "Fast movement"
-    - "Reaction tasks"
-
+  - Quick actions
+  - Fast movement
+  - Reaction tasks
 progression_mechanics:
   experience:
-    - "Combat actions"
-    - "Movement tasks"
-    - "Reaction tests"
-  
+  - Combat actions
+  - Movement tasks
+  - Reaction tests
   rewards:
-    - "Skill points"
-    - "Perk unlocks"
-    - "Speed boosts"
-
+  - Skill points
+  - Perk unlocks
+  - Speed boosts
 related_systems:
   skills:
-    - "system_skill_athletics"
-    - "system_skill_stealth"
+  - system_skill_athletics
+  - system_skill_stealth
   combat:
-    - "system_combat_gunplay"
-    - "system_combat_melee"
-
+  - system_combat_gunplay
+  - system_combat_melee
 ui_elements:
   displays:
-    - "Speed stats"
-    - "Reaction time"
-    - "Dodge meter"
-  
+  - Speed stats
+  - Reaction time
+  - Dodge meter
   indicators:
-    - "Level progress"
-    - "Perk status"
-    - "Action timers"
-
+  - Level progress
+  - Perk status
+  - Action timers
 balance_considerations:
   advantages:
-    - "Quick actions"
-    - "Good evasion"
-    - "Fast attacks"
-  
+  - Quick actions
+  - Good evasion
+  - Fast attacks
   limitations:
-    - "Low power"
-    - "Light armor"
-    - "Recovery needs"
-
+  - Low power
+  - Light armor
+  - Recovery needs
 synergy_effects:
   skills:
-    - "Athletics boost"
-    - "Stealth vylepĹˇiĹĄ"
-    - "Combat speed"
-  
+  - Athletics boost
+  - Stealth vylepĹˇiĹĄ
+  - Combat speed
   attributes:
-    - "Speed stack"
-    - "Agility boost"
-    - "Reaction combine"
-
+  - Speed stack
+  - Agility boost
+  - Reaction combine
 advancement_paths:
   combat:
-    - "Gunslinger"
-    - "Blade dancer"
-    - "Dodge master"
-  
+  - Gunslinger
+  - Blade dancer
+  - Dodge master
   utility:
-    - "Speed demon"
-    - "Quick striker"
-    - "Reaction expert"
-
+  - Speed demon
+  - Quick striker
+  - Reaction expert
 customization_options:
   builds:
-    - "Pure speed"
-    - "Combat reflex"
-    - "Evasion focus"
-  
+  - Pure speed
+  - Combat reflex
+  - Evasion focus
   specializations:
-    - "Gun specialist"
-    - "Melee expert"
-    - "Dodge pro"
-
+  - Gun specialist
+  - Melee expert
+  - Dodge pro
 tactical_applications:
   combat:
-    - "Quick strikes"
-    - "Fast dodges"
-    - "Rapid shots"
-  
+  - Quick strikes
+  - Fast dodges
+  - Rapid shots
   movement:
-    - "Swift positioning"
-    - "Quick escapes"
-    - "Fast approaches"
-
-
+  - Swift positioning
+  - Quick escapes
+  - Fast approaches
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

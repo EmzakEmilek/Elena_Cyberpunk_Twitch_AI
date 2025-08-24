@@ -1,66 +1,32 @@
-﻿type: "technology"
-title: "Skeletal Reinforcement"
-category: ""
-technology_id: ""
-
-content:
-  summary: "pokroÄŤilĂ˝ bone and skeletal structure enhancement systems"
-  
-name: Skeletal Reinforcement
 type: Cyberware
+title: 'Skeletal Reinforcement '
+category: ''
+technology_id: ''
+content:
+  summary: 'pokroÄŤilĂ˝ bone and skeletal structure enhancement systems '
+name: Skeletal Reinforcement
 description: pokroÄŤilĂ˝ bone and skeletal structure enhancement systems
-details: |
-  Skeletal reinforcement provides enhanced structural support and durability through cybernetic bone modifications.
-
-  Enhancement Types:
-  - Titanium bone lacing
-  - Joint reinforcement
-  - Spine stabilization
-  - Structural support
-
-  Benefits:
-  - Increased durability
-  - Enhanced strength
-  - Impact resistance
-  - Weight capacity
-
-  Medical Aspects:
-  - Surgical integration
-  - Bone marrow preservation
-  - Neural connection
-  - Recovery process
-
-  Risk Factors:
-  - Installation trauma
-  - Adaptation period
-  - Weight distribution
-  - Movement adjustment
-
+details: '- Titanovej kosti vplétanie'
 importance: Fundamental physical enhancement
 common_locations:
-  - Medical centers
-  - Sports clinics
-  - Military facilities
-  - Combat enhancement centers
+- Medical centers
+- Sports clinics
+- Military facilities
+- Combat enhancement centers
 relationships:
-  - Dermal Plating
-  - Cyber-arm Modifications
-  - Cyber-leg Enhancements
-  - Combat Implants
-
-
+- Dermal Plating
+- Cyber-arm Modifications
+- Cyber-leg Enhancements
+- Combat Implants
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

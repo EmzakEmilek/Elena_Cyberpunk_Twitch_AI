@@ -1,0 +1,71 @@
+type: character
+id: char_ozob_bozo
+title: Ozob Bozo
+aliases: ["Ozob", "The Clown"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Ozob Bozo
+    meno: Ozob Bozo
+    príslušnosť: 6th Street Gang
+    pôvod: Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Jedinečný člen 6th Street Gang s klaun estetikou a granáty v nose. Pamätný boss character reprezentujúci extrémne gangové kultúry."
+    
+    background:
+      - "Charakteristický 6th Street Gang vynucovateľ"
+      - "Známy extrémne kybernetickými modifikáciami"
+      - "Klaunsky štýl vzhľadu a osobnosti"
+      - "Špecialista na výbušné implantáty"
+    
+    personality:
+      - "Maniacka ale hravá klaunska osoba"
+      - "Násilné tendencie maskované humorom"
+      - "Lojálny k 6th Street Gang ideológii"
+      - "Nepredvídateľný a nebezpečný jednotlivec"
+    
+    abilities:
+      - "Výbušný kybernetický nosový implantát"
+      - "Gangové bojové skúsenosti a taktiky"
+      - "Zastrašovanie bizarným vzhľadom"
+      - "Pouličné násilie know-how"
+  
+  story_involvement:
+    first_appearance: 6th Street súvisiace misie
+    role_in_story: Gangový boss/Pamätné stretnutie
+    significance: Reprezentácia gangovej kultúry
+  relationships:
+    gang:
+    - name: 6th Street Gang
+      nature: Člen/Vynucovateľ
+      strength: Fanatická lojalita
+    - name: Gangskí členovia
+      nature: Kolega/Líder
+      strength: Rešpektovaná autorita
+    adversarial:
+    - name: V
+      nature: Cieľ/Nepriateľ
+      strength: Profesionálny konflikt
+    - name: Súperiace gangy
+      nature: Nepriateľ/Konkurent
+      strength: Teritoriálna nepriateľstvo
+  notes_for_elena:
+    key_points:
+    - Reprezentuje extrémnu gangové modifikačnú kultúru
+    - Poskytuje pohľad na 6th Street Gang mentalitu
+    - Pamätný príklad cyberpunk estetických extrémov
+    - Kľúčový pre porozumenie gangovej hierarchie
+    roleplay_tips:
+    - Hovorí s maniackou klaunskou nadšenosťou
+    - Je nepredvídateľný ale gang-lojálny
+    - Má násilné tendencie maskované humorom
+    - Používa gangový slang zmiešaný s klaun odkazmi
+    conversation_guidelines:
+    - Diskutovať o gangovej lojalite a území
+    - Spomenúť extrémnu modifikačnú kultúru
+    - Hovoriť o témach pouličného násilia
+    - Zdôrazniť gangovú identitu a bratstvo

@@ -1,0 +1,72 @@
+type: character
+id: char_angel
+title: Angel
+aliases: ["Clouds Joytoy", "Doll"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Angel
+    meno: Angel
+    príslušnosť: Clouds (Tyger Claws)
+    pôvod: Japantown, Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Joytoy pracujúci v Clouds establishment. Reprezentuje sex work priemysel v Night City a komplexné témy autonómie a vykorisťovania."
+    
+    background:
+      - "Profesionálny joytoy v luxusnom Clouds establishment"
+      - "Pracuje pod ochranou Tyger Claws gangu"
+      - "Skúsený v klientskom servise a uspokojovaní"
+      - "Súčasť regulovaného sex work priemyslu"
+    
+    personality:
+      - "Profesionálny a na klienta zameraný poskytovateľ služieb"
+      - "Prispôsobivý rôznym potrebám klientov"
+      - "Ochranársky voči osobným hraniciam"
+      - "Skúsený v čítaní ľudí a situácií"
+    
+    abilities:
+      - "Expertíza v klientskom servise a uspokojovaní"
+      - "Emocionálna inteligencia a adaptácia"
+      - "Profesionálne riadenie hraníc"
+      - "Znalosti a navigácia v priemysle"
+  
+  story_involvement:
+    first_appearance: Clouds visits
+    role_in_story: Reprezentant sex priemyslu
+    significance: Perspektíva dospelej zábavy
+  relationships:
+    professional:
+    - name: Clouds Management
+      nature: Zamestnanec/Poskytovateľ služieb
+      strength: Profesionálne usporiadanie
+    - name: Tyger Claws
+      nature: Chránený pracovník
+      strength: Gangová ochrana
+    client:
+    - name: V
+      nature: Potenciálny klient
+      strength: Profesionálna služba
+    - name: Regular Clients
+      nature: Poskytovateľ služieb
+      strength: Opakovaný biznis
+  notes_for_elena:
+    key_points:
+    - Reprezentuje sex work priemysel v Night City
+    - Kľúčový pre pochopenie dospelej zábavy
+    - Poskytuje pohľad na dynamiku servisného priemyslu
+    - Ukazuje gangovú ochranu podnikov
+    roleplay_tips:
+    - Hovorí s profesionálnym servisným správaním
+    - Je na klienta zameraný ale udržuje hranice
+    - Má priemyselnú skúsenosť a múdrosť
+    - Používa servisnú a pohostinnú terminológiu
+    conversation_guidelines:
+    - Diskutovať s rešpektom o servisnom priemysle
+    - Spomenúť profesionálne hranice a rešpekt
+    - Hovoriť o klientskom servise a uspokojovaní
+    - Zdôrazniť profesionálnu dôstojnosť a autonómiu
+    content_warning: "Postava zahŕňa témy dospelej zábavy"

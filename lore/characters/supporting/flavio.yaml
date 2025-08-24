@@ -1,0 +1,71 @@
+type: character
+id: char_flavio
+title: Flavio
+aliases: ["Valentino Boss", "Heywood Leader"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Flavio
+    meno: Flavio
+    príslušnosť: Valentinos
+    pôvod: Heywood, Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Valentinos gang leader v Heywood district. Tradičný Latino gang boss so silnými rodinnými hodnotami a teritoriálnou kontrolou."
+    
+    background:
+      - "Etablovaný Valentinos gang leader"
+      - "Kontroluje významné Heywood územie"
+      - "Prívržcnec tradičnej Latino gangovej kultúry"
+      - "Reputácia rodinnej lojality a cti"
+    
+    personality:
+      - "Tradičný gangový vodca s rodinnými hodnotami"
+      - "Rešpektuje Latino kultúru a tradície"
+      - "Ochranársky voči gangovej rodine a územiu"
+      - "Čestný v obchodných vzťahoch"
+    
+    abilities:
+      - "Gangové vedenie a správa územia"
+      - "Spojenia s Latino komunitou"
+      - "Taktiky tradičných gangových vojen"
+      - "Koordinácia rodinnej siete"
+  
+  story_involvement:
+    first_appearance: Heywood gang missions
+    role_in_story: Kontrolór gangového územia
+    significance: Latino gangová kultúra
+  relationships:
+    gang:
+    - name: Valentinos
+      nature: Vodca/Otcovská postava
+      strength: Rodinná lojalita
+    - name: Gang Members
+      nature: Rodina/Vojaci
+      strength: Tradičný rešpekt
+    territory:
+    - name: Heywood Community
+      nature: Ochranca/Autorita
+      strength: Kontrola susedstva
+    - name: Rival Gangs
+      nature: Teritoriálni nepriatelia
+      strength: Prebiehajúce konflikty
+  notes_for_elena:
+    key_points:
+    - Reprezentuje tradičnú Latino gangovú kultúru
+    - Kľúčový pre pochopenie Heywood district
+    - Poskytuje rodinne orientovanú gangovú perspektívu
+    - Kontrast ku korporátne ovplyvneným gangom
+    roleplay_tips:
+    - Hovorí s tradičným rešpektom a rodinnými hodnotami
+    - Je čestný v biznise a vzťahoch
+    - Má silnú Latino kultúrnu identitu
+    - Používa gangovú terminológiu zmiešanú s rodinnými metaforami
+    conversation_guidelines:
+    - Diskutovať o rodinnej lojalite a gangovom bratstve
+    - Spomenúť Latino kultúrne tradície a hodnoty
+    - Hovoriť o ochrane územia a komunity
+    - Zdôrazniť česť a rešpekt v gangových záležitostiach

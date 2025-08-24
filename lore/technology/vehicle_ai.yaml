@@ -1,78 +1,32 @@
-﻿type: "technology"
-title: "Vehicle AI Systems"
-category: ""
-technology_id: ""
-
-content:
-  summary: "Artificial Intelligence systems for vehicle control and automation"
-  
-name: Vehicle AI Systems
 type: technology
-description: Artificial Intelligence systems for vehicle control and automation
-details: |
-  Vehicle AI systems provide automated control and assistance for various types of vehicles in Night City.
-
-  System Types:
-  - Navigation AI
-    * Route planning
-    * Traffic analysis
-    * Obstacle avoidance
-    * Emergency routing
-  - Control Systems
-    * Automated driving
-    * Vehicle management
-    * Performance optimization
-    * Safety protocols
-
-  Features:
-  - Smart Systems
-    * Environmental scanning
-    * Threat detection
-    * Passenger monitoring
-    * System diagnostics
-  - Integration
-    * Traffic networks
-    * Emergency services
-    * Security systems
-    * User interfaces
-
-  Applications:
-  - Personal Vehicles
-    * Smart cars
-    * Automated taxis
-    * Private transport
-    * Luxury vehicles
-  - Commercial Use
-    * Delivery systems
-    * verejnĂ˝ transport
-    * Corporate fleets
-    * Emergency vehicles
-
+title: 'Vehicle AI Systems '
+category: ''
+technology_id: ''
+content:
+  summary: Umelá inteligencia za vozidlový nadzor in automatizacijo
+name: Vehicle AI Systems
+description: Umieľňujúce inteligentné systémy pre riadenie a automatizáciu vozidla.
+details: '- Navigačná AI'
 importance: Essential urban transport technology
 common_locations:
-  - Transportation hubs
-  - Corporate fleets
-  - verejnĂ˝ transit
-  - Private vehicles
+- Transportation hubs
+- Corporate fleets
+- verejnĂ˝ transit
+- Private vehicles
 relationships:
-  - Transportation Tech
-  - Security Systems
-  - Communication Networks
-  - NET Architecture
-
-
+- Transportation Tech
+- Security Systems
+- Communication Networks
+- NET Architecture
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

@@ -1,192 +1,143 @@
-﻿type: "technology"
-title: "Hacking Combat System"
-category: "system_combat"
-technology_id: "system_combat_hacking"
-
+type: technology
+title: Hacking Combat System
+category: system_combat
+technology_id: system_combat_hacking
 content:
-  summary: ""
-  
-name: "Hacking Combat System"
-id: "system_combat_hacking"
-category: "system_combat"
-
+  summary: ''
+name: Hacking Combat System
+id: system_combat_hacking
 system_overview:
-  description: "Systém pre hackerské útoky počas boja"
+  description: Systém pre hackerské útoky počas boja
   core_mechanics:
-    - "Breach Protocol"
-    - "Quickhacks"
-    - "RAM management"
-    - "Daemon effects"
-
+  - Breach Protocol
+  - Quickhacks
+  - RAM management
+  - Daemon effects
 mechanics:
   hacking:
-    - "Target scanning"
-    - "hacknĂşĹĄ selection"
-    - "Execution time"
-    - "Effect duration"
-  
+  - Target scanning
+  - hacknĂşĹĄ selection
+  - Execution time
+  - Effect duration
   resources:
-    - "RAM consumption"
-    - "Buffer management"
-    - "Cooldowns"
-    - "Upload time"
-
+  - RAM consumption
+  - Buffer management
+  - Cooldowns
+  - Upload time
 combat_integration:
   offensive:
-    - "Damage hacks"
-    - "Control hacks"
-    - "System disruption"
-  
+  - Damage hacks
+  - Control hacks
+  - System disruption
   defensive:
-    - "Enemy debuffs"
-    - "System shutdown"
-    - "Network control"
-
+  - Enemy debuffs
+  - System shutdown
+  - Network control
 equipment:
   cyberdeck:
-    - "RAM capacity"
-    - "Buffer size"
-    - "Processing power"
-  
+  - RAM capacity
+  - Buffer size
+  - Processing power
   programs:
-    - "Combat quickhacks"
-    - "System daemons"
-    - "Defense suites"
-
+  - Combat quickhacks
+  - System daemons
+  - Defense suites
 notes_for_elena:
   key_points:
-    - "Combat hacking"
-    - "Resource management"
-    - "Tactical options"
-  
-  roleplay_tips:
-    - "Technical approach"
-    - "Strategic thinking"
-    - "System mastery"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Tech terminology"
-    - "Hacking jargon"
-    - "System specs"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 target_systems:
   types:
-    - name: "Personal"
-      description: "Individual Cyberware"
-    - name: "Environmental"
-      description: "Security systems"
-    - name: "Network"
-      description: "Connected devices"
-
+  - name: Personal
+    description: Individual Cyberware
+  - name: Environmental
+    description: Security systems
+  - name: Network
+    description: Connected devices
 hack_categories:
   offensive:
-    - "System damage"
-    - "Function disable"
-    - "Control override"
-  
+  - System damage
+  - Function disable
+  - Control override
   utility:
-    - "Information gather"
-    - "System access"
-    - "Network control"
-
+  - Information gather
+  - System access
+  - Network control
 skill_integration:
   hacking_skills:
-    - "RAM management"
-    - "hacknĂşĹĄ speed"
-    - "Effect duration"
-  
+  - RAM management
+  - hacknĂşĹĄ speed
+  - Effect duration
   related_skills:
-    - "Intelligence"
-    - "Quick hacking"
-    - "Breach protocol"
-
+  - Intelligence
+  - Quick hacking
+  - Breach protocol
 gameplay_elements:
   strategic:
-    - "Target priority"
-    - "Resource allocation"
-    - "System timing"
-  
+  - Target priority
+  - Resource allocation
+  - System timing
   tactical:
-    - "Combat timing"
-    - "System choice"
-    - "Effect chaining"
-
+  - Combat timing
+  - System choice
+  - Effect chaining
 progression_system:
   skills:
-    - "RAM capacity"
-    - "hacknĂşĹĄ damage"
-    - "Upload speed"
-  
+  - RAM capacity
+  - hacknĂşĹĄ damage
+  - Upload speed
   perks:
-    - "Resource efficiency"
-    - "Effect duration"
-    - "System control"
-
+  - Resource efficiency
+  - Effect duration
+  - System control
 combat_dynamics:
   initiation:
-    - "Scan phase"
-    - "Target selection"
-    - "hacknĂşĹĄ execution"
-  
+  - Scan phase
+  - Target selection
+  - hacknĂşĹĄ execution
   response:
-    - "System defense"
-    - "Counter measures"
-    - "Alert status"
-
+  - System defense
+  - Counter measures
+  - Alert status
 ui_elements:
   displays:
-    - "RAM meter"
-    - "Target info"
-    - "hacknĂşĹĄ options"
-  
+  - RAM meter
+  - Target info
+  - hacknĂşĹĄ options
   feedback:
-    - "Success indicators"
-    - "Effect duration"
-    - "System status"
-
+  - Success indicators
+  - Effect duration
+  - System status
 related_systems:
   combat:
-    - "system_combat_quickhacking"
-    - "system_combat_netrunning"
+  - system_combat_quickhacking
+  - system_combat_netrunning
   Cyberware:
-    - "system_cyberware_operating_system"
-    - "system_cyberware_frontal_cortex"
-
+  - system_cyberware_operating_system
+  - system_cyberware_frontal_cortex
 balance_considerations:
   advantages:
-    - "Range attacks"
-    - "System control"
-    - "Multiple targets"
-  
+  - Range attacks
+  - System control
+  - Multiple targets
   limitations:
-    - "RAM consumption"
-    - "Upload time"
-    - "System resistance"
-
+  - RAM consumption
+  - Upload time
+  - System resistance
 technical_aspects:
   core_systems:
-    - "Target acquisition"
-    - "Effect calculation"
-    - "Network simulation"
-  
+  - Target acquisition
+  - Effect calculation
+  - Network simulation
   optimization:
-    - "Processing load"
-    - "Network traffic"
-    - "Effect rendering"
-
-
+  - Processing load
+  - Network traffic
+  - Effect rendering
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

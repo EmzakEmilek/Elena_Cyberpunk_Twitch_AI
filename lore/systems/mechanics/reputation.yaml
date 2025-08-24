@@ -1,211 +1,162 @@
-﻿type: "faction"
-title: "Reputation System"
-category: "system_mechanics"
-faction_id: "system_mechanics_reputation"
-
+type: faction
+title: Reputation System
+category: system_mechanics
+faction_id: system_mechanics_reputation
 content:
-  summary: ""
-  
-name: "Reputation System"
-id: "system_mechanics_reputation"
-category: "system_mechanics"
-
+  summary: ''
+name: Reputation System
+id: system_mechanics_reputation
 system_overview:
-  description: "Systém pre správu reputácie s rôznymi frakciami v Night City"
+  description: Systém pre správu reputácie s rôznymi frakciami v Night City
   core_aspects:
-    - "Faction relations"
-    - "Reputation levels"
-    - "Action impact"
-    - "Reward system"
-
+  - Faction relations
+  - Reputation levels
+  - Action impact
+  - Reward system
 core_features:
   factions:
-    - "Corp standing"
-    - "Gang relation"
-    - "Street cred"
-    - "Police wanted"
-  
+  - Corp standing
+  - Gang relation
+  - Street cred
+  - Police wanted
   reputation:
-    - "Level track"
-    - "Action effect"
-    - "Time impact"
-    - "Quest bonus"
-
+  - Level track
+  - Action effect
+  - Time impact
+  - Quest bonus
 mechanics_details:
   reputation_levels:
-    - name: "Hostile"
-      value: "-100 to -51"
-      effect: "ĂştoÄŤiĹĄ on sight"
-    - name: "Unfriendly"
-      value: "-50 to -1"
-      effect: "No services"
-    - name: "Neutral"
-      value: "0 to 49"
-      effect: "Basic access"
-    - name: "Friendly"
-      value: "50 to 99"
-      effect: "Better prices"
-    - name: "Allied"
-      value: "100+"
-      effect: "Full access"
-
+  - name: Hostile
+    value: -100 to -51
+    effect: ĂştoÄŤiĹĄ on sight
+  - name: Unfriendly
+    value: -50 to -1
+    effect: No services
+  - name: Neutral
+    value: 0 to 49
+    effect: Basic access
+  - name: Friendly
+    value: 50 to 99
+    effect: Better prices
+  - name: Allied
+    value: 100+
+    effect: Full access
 functionality:
   basic_actions:
-    - "Help faction"
-    - "Harm faction"
-    - "Check status"
-    - "Get rewards"
-  
+  - Help faction
+  - Harm faction
+  - Check status
+  - Get rewards
   advanced_features:
-    - "Multi-faction"
-    - "Time decay"
-    - "Quest impact"
-    - "Trade bonus"
-
+  - Multi-faction
+  - Time decay
+  - Quest impact
+  - Trade bonus
 notes_for_elena:
   key_points:
-    - "Faction importance"
-    - "Rep effects"
-    - "Status changes"
-  
-  roleplay_tips:
-    - "Faction tone"
-    - "Status talk"
-    - "Rep advice"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Faction terms"
-    - "Status words"
-    - "Rep speech"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 interface_elements:
   displays:
-    - "Rep meter"
-    - "Faction list"
-    - "Status icon"
-    - "Reward track"
-  
+  - Rep meter
+  - Faction list
+  - Status icon
+  - Reward track
   controls:
-    - "Check status"
-    - "View rewards"
-    - "Track changes"
-    - "Sort factions"
-
+  - Check status
+  - View rewards
+  - Track changes
+  - Sort factions
 faction_system:
   major_factions:
-    - "Arasaka"
-    - "Militech"
-    - "Maelstrom"
-    - "Tyger Claws"
-  
+  - Arasaka
+  - Militech
+  - Maelstrom
+  - Tyger Claws
   minor_factions:
-    - "Street vendors"
-    - "Local gangs"
-    - "Police"
-    - "Fixers"
-
+  - Street vendors
+  - Local gangs
+  - Police
+  - Fixers
 reputation_changes:
   positive:
-    - "Help members"
-    - "Do quests"
-    - "Trade fair"
-    - "Share info"
-  
+  - Help members
+  - Do quests
+  - Trade fair
+  - Share info
   negative:
-    - "ĂştoÄŤiĹĄ members"
-    - "Fail quests"
-    - "Break deals"
-    - "Help enemies"
-
+  - ĂştoÄŤiĹĄ members
+  - Fail quests
+  - Break deals
+  - Help enemies
 reward_system:
   types:
-    - "Better prices"
-    - "Unique items"
-    - "Special quests"
-    - "Area access"
-  
+  - Better prices
+  - Unique items
+  - Special quests
+  - Area access
   unlocks:
-    - "New vendors"
-    - "vzĂˇcny items"
-    - "Safe zones"
-    - "Fast travel"
-
+  - New vendors
+  - vzĂˇcny items
+  - Safe zones
+  - Fast travel
 related_systems:
   skills:
-    - "system_skill_street_cred"
-    - "system_skill_cool"
+  - system_skill_street_cred
+  - system_skill_cool
   mechanics:
-    - "system_mechanics_dialogue"
-    - "system_mechanics_quest"
-
+  - system_mechanics_dialogue
+  - system_mechanics_quest
 balance_considerations:
   gain_rate:
-    - "Quest rewards"
-    - "Help bonus"
-    - "Time factor"
-  
+  - Quest rewards
+  - Help bonus
+  - Time factor
   loss_rate:
-    - "ĂştoÄŤiĹĄ penalty"
-    - "Fail impact"
-    - "Time decay"
-
+  - ĂştoÄŤiĹĄ penalty
+  - Fail impact
+  - Time decay
 faction_conflicts:
   types:
-    - "Corp wars"
-    - "Gang fights"
-    - "Territory clash"
-  
+  - Corp wars
+  - Gang fights
+  - Territory clash
   effects:
-    - "Rep changes"
-    - "Access loss"
-    - "Quest lock"
-
+  - Zmeny rep
+  - Stratana dostopa
+  - Zapórka
 time_effects:
   positive:
-    - "Slow gain"
-    - "Quest bonus"
-    - "Help reward"
-  
+  - Slow gain
+  - Quest bonus
+  - Help reward
   negative:
-    - "Slow decay"
-    - "Mission fail"
-    - "Enemy action"
-
+  - Slow decay
+  - Mission fail
+  - Enemy action
 status_tracking:
   methods:
-    - "Rep check"
-    - "Status view"
-    - "Change track"
-  
+  - Rep check
+  - Status view
+  - Change track
   updates:
-    - "Action log"
-    - "Time change"
-    - "Quest effect"
-
+  - Action log
+  - Time change
+  - Quest effect
 faction_interaction:
   positive:
-    - "Trade boost"
-    - "Info share"
-    - "Help offer"
-  
+  - Trade boost
+  - Info share
+  - Help offer
   negative:
-    - "Price hike"
-    - "Info block"
-    - "ĂştoÄŤiĹĄ risk"
-
-
+  - Price hike
+  - Info block
+  - ĂştoÄŤiĹĄ risk
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

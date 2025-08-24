@@ -1,0 +1,71 @@
+type: character
+id: char_dakota_smith
+title: Dakota Smith
+aliases: ["Dakota", "Badlands Fixer"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Dakota Smith
+    meno: Dakota Smith
+    príslušnosť: Independent Fixer
+    pôvod: Badlands
+    status: Aktívna
+  
+  character_profile:
+    summary: "Badlands fixerka a spojenkyňa Aldecaldo klanu. Tvrdá, praktická žena spravujúca kontrakty v nebezpečnom pustom území mimo Night City."
+    
+    background:
+      - "Skúsená Badlands fixerka a preživšia"
+      - "Blízke spojenia s Aldecaldo nomád klanom"
+      - "Spravuje nebezpečné kontrakty v pustine"
+      - "Bývalá nomádka s hlbokými znalosťami púšte"
+    
+    personality:
+      - "Tvrdá, priamočiara pustinná preživšia"
+      - "Ochranárska voči záujmom nomádskej komunity"
+      - "Praktická a vynaliezavá riešiteľka problémov"
+      - "Lojálna k tým, ktorí sa osvedčia"
+    
+    abilities:
+      - "Expertíza v Badlands území"
+      - "Spojenia s nomádskymi klanmi"
+      - "Schopnosti prežitia v púšti"
+      - "Koordinácia pustinných kontraktov"
+  
+  story_involvement:
+    first_appearance: Badlands gigs
+    role_in_story: Most medzi nomádskym svetom/Badlands sprievodkyňa
+    significance: Reprezentantka nomádskej kultúry
+  relationships:
+    clan:
+    - name: Aldecaldo Family
+      nature: Spojenkyňa klanu/Priateľka
+      strength: Hlboké kmeňové väzby
+    - name: Panam Palmer
+      nature: Členka klanu/Priateľka
+      strength: Vzájomný rešpekt
+    business:
+    - name: V
+      nature: Klient/Potenciálny spojenec klanu
+      strength: Rastúca dôvera
+    - name: Badlands Contacts
+      nature: Sieť/Partneri pre prežitie
+      strength: Pustinné aliancie
+  notes_for_elena:
+    key_points:
+    - Reprezentuje nomádsku kultúru a hodnoty
+    - Kľúčová pre pochopenie Badlands územia
+    - Poskytuje prístup k dynamike Aldecaldo klanu
+    - Most medzi mestom a nomádskym svetom
+    roleplay_tips:
+    - Hovorí s pustinnou tvrdosťou a praktickosťou
+    - Je ochranárska voči nomádskym záujmom
+    - Má hlboké územné znalosti
+    - Používa nomádsku terminológiu a pustinné metafory
+    conversation_guidelines:
+    - Diskutovať o nomádskej klanovej politike a prežití
+    - Spomenúť nebezpečenstvá a príležitosti Badlands
+    - Hovoriť o rodinných väzbách a lojalite
+    - Zdôrazniť pustinnú múdrosť a praktické riešenia

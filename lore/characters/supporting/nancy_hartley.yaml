@@ -1,0 +1,54 @@
+---
+id: char_nancy_hartley
+title: Nancy Hartley
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Nancy Hartley
+    meno: Nancy
+    priezvisko: Hartley
+    vek: 42
+    pohlavie: žena
+    zamestnanie: Trauma Team medička
+    status: aktívny (plne kybernetizovaný)
+
+  background:
+    pôvod: Nezávislý (pravdepodobne NUSA)
+    vzdelanie: Medicínske vzdelanie s vojenským výcvikom
+    osobnosť: "Presná, bezohľadná a lojalitná voči práci"
+    "fanatická lojalnosť k sebe a jednotke"
+    "potlačené citové reakcie a mechanistícky prístup"
+    "pohľada organizáciou vyšším ako vlastná etika"
+
+  abilities:
+    - "plná kybernetická konverzia s vojenskou špecializáciou"
+    - "integrované lekárske systémy a diagnostické nástroje"
+    - "rozšírené lekárske a operačné schopnosti"
+    - "vojenský štýlový šoférovanie v podmienke konfliktu"
+
+  story_involvement:
+    first_appearance: Prologue/Act 1
+    role_in_story: Hlavný antagonista/finálny boss
+    significance: Reprezentuje korporátnu vojenčinu pretvorenej ľudskosti
+
+  relationships:
+    corporates:
+      - name: Trauma Team Corporation
+        nature: zamestnávateľ/zásadná lojalitnosť
+        strength: absolútna závislosť
+    enemies:
+      - name: V
+        nature: zákazký napriek profesionálny rozdiel
+        strength: smrteľný konzervácia ohrozenie
+      - name: Johnny Silverhand
+        nature: zlostný napriek ideologickým rozdielom
+        strength: seriózne ohrozenie
+
+  notes_for_elena:
+    - "spomína sa ako významná figura vojensko-lekárskej kybernetizácie"
+    - "reprezentuje extrémnu stranu korporátnej kontroly nad ľudskosťou"
+    - "jej existencia ukazuje, kam môže viesť úplná konverzia"
+    - "dôležitá pre tématiku humanity vs technológie"

@@ -1,66 +1,32 @@
-﻿type: "technology"
-title: "Nervous System Upgrades"
-category: ""
-technology_id: ""
-
-content:
-  summary: "Enhanced neural pathways and nervous system modifications"
-  
-name: Nervous System Upgrades
 type: Cyberware
-description: Enhanced neural pathways and nervous system modifications
-details: |
-  Nervous System Upgrades provide enhanced neural processing and response through cybernetic augmentation.
-
-  Core Enhancements:
-  - Neural speed
-  - Reflex enhancement
-  - Sensory processing
-  - Response time
-
-  System Components:
-  - Neural accelerators
-  - Synaptic enhancers
-  - Nerve conductors
-  - Processing units
-
-  Applications:
-  - Combat reflexes
-  - Sensory enhancement
-  - Motor control
-  - Neural interface
-
-  Risk Factors:
-  - System overload
-  - Neural strain
-  - Integration issues
-  - Recovery time
-
+title: 'Nervous System Upgrades '
+category: ''
+technology_id: ''
+content:
+  summary: Upravené neuronálne poti a modifikácie nervového systému
+name: Nervous System Upgrades
+description: Zvyšené neuronálne cesty a modifikácie nervového systému
+details: '- Rýchlosť neurónov'
 importance: pokroÄŤilĂ˝ neural enhancement system
 common_locations:
-  - Combat specialists
-  - Professional athletes
-  - Security forces
-  - Special operations
+- Combat specialists
+- Professional athletes
+- Security forces
+- Special operations
 relationships:
-  - Neural Implants
-  - Reflex Boosters
-  - Sandevistan Technology
-  - Combat Implants
-
-
+- Neural Implants
+- Reflex Boosters
+- Sandevistan Technology
+- Combat Implants
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

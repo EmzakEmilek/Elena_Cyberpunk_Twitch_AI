@@ -1,190 +1,67 @@
-name: "Tom"
-id: "char_tom_bartender"
-category: "character_supporting"
-affiliation: "Lizzie's Bar"
+type: character
+id: char_tom_bartender
+title: Tom (Bartender)
+aliases: ["Tom"]
+category: character_supporting
+lang: sk
 
-personal_data:
-  role: "Bartender"
-  gender: "Male"
-  residence: "Watson, Night City"
-  faction: "Mox"
-
-character_profile:
-  archetype: "Friendly Bartender/Information Broker"
-  motivation: "Práca a informácie"
-  personality:
-    traits:
-      - "Priateľský"
-      - "Informovaný"
-      - "Diskrétny"
-      - "Profesionálny"
-    strengths:
-      - "Sociálne zručnosti"
-      - "Informačná sieť"
-      - "Diskrétnosť"
-      - "Profesionalita"
-    weaknesses:
-      - "Obmedzený vplyv"
-      - "Zraniteľná pozícia"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Informačný zdroj"
-  significance: "Podporná postava"
-
-relationships:
-  professional:
-    - name: "Judy Alvarez"
-      nature: "Kolega"
-      strength: "Pracovná"
-    - name: "Mox Members"
-      nature: "Kolega"
-      strength: "Pracovná"
+content:
+  personal_data:
+    názov: Tom
+    meno: Tom
+    príslušnosť: Nezávislý bartender
+    pôvod: Various Night City bars
+    status: Aktívny
   
-  customers:
-    - name: "V"
-      nature: "Informačný zdroj"
-      strength: "Profesionálna"
-
-bar_operations:
-  position: "Head Bartender"
-  duties:
-    - "Drink mixing"
-    - "Customer service"
-    - "Information gathering"
-  expertise:
-    - "Mixology"
-    - "Social intelligence"
-    - "Crowd management"
-
-background_context:
-  history:
-    - "Bartending experience"
-    - "Mox association"
-    - "Information network"
-  
-  current_situation:
-    - "Lizzie's Bar operation"
-    - "Information gathering"
-    - "Customer service"
-
-workplace_role:
-  responsibilities:
-    - "Bar management"
-    - "Drink service"
-    - "Customer relations"
-  environment:
-    - "High energy"
-    - "Alternative"
-    - "Protected"
-
-notes_for_elena:
-  key_points:
-    - "Informovaný barman"
-    - "Mox člen"
-    - "Profesionál"
-  
-  roleplay_tips:
-    - "Priateľský prístup"
-    - "Informačný broker"
-    - "Diskrétnosť"
+  character_profile:
+    summary: "Typický Night City barman, ktorý reprezentuje miestnu bárovu kultúru a poskytuje atmosférické rozhovory."
     
-  conversation_guidelines:
-    - "Barmanský štýl"
-    - "Informačné náznaky"
-    - "Profesionálny tón"
-
-professional_skills:
-  bartending:
-    - "Mixology"
-    - "Customer service"
-    - "Stock management"
+    background:
+      - "Skúsený barman v Night City scéne"
+      - "Pracuje v rôznych miestnych zariadeniach"
+      - "Súčasť bárovej kultúry a sociálnej atmosféry"
+      - "Svedok denného života v Night City"
+    
+    personality:
+      - "Priateľský ale profesionálny v zákazníckom servise"
+      - "Dobrý poslucháč s praktickou múdrosťou"
+      - "Neutrálny v konfliktoch ale uvedomuje si napätie"
+      - "Zástupca perspektívy robotníckej triedy"
+    
+    abilities:
+      - "Barmanské schopnosti a príprava nápojov"
+      - "Sociálna interakcia a zákaznícky servis"
+      - "Miestne znalosti a informácie na pouličnej úrovni"
+      - "Vytváranie pohodlnej atmosféry"
   
-  information:
-    - "Gathering"
-    - "Filtering"
-    - "Distribution"
-
-related_cards:
-  characters:
-    - "char_judy_alvarez"
-    - "char_v"
-  locations:
-    - "loc_lizzies_bar"
-    - "loc_watson_district"
-  factions:
-    - "faction_mox"
-
-bar_expertise:
-  skills:
-    - "Drink mixing"
-    - "Customer relations"
-    - "Information management"
-  knowledge:
-    - "Local gossip"
-    - "Customer preferences"
-    - "Security awareness"
-
-information_network:
-  sources:
-    - "Customers"
-    - "Staff"
-    - "Local contacts"
-  types:
-    - "Local news"
-    - "Customer intel"
-    - "Market trends"
-
-impact_on_story:
-  direct:
-    - "Information provision"
-    - "Scene setting"
-    - "Atmosphere creation"
-  indirect:
-    - "Background context"
-    - "World building"
-    - "Character connections"
-
-visual_description:
-  appearance:
-    - "Professional attire"
-    - "Friendly demeanor"
-    - "Alert presence"
-    - "Clean-cut look"
-  
-  workspace:
-    - "Well-organized bar"
-    - "Professional setup"
-    - "Efficient layout"
-    - "Clean environment"
-
-role_in_community:
-  services:
-    - "Drink service"
-    - "Information sharing"
-    - "Social connection"
-  
-  connections:
-    - "Regular customers"
-    - "Local community"
-    - "Mox members"
-
-security_awareness:
-  responsibilities:
-    - "Customer monitoring"
-    - "Situation assessment"
-    - "Problem prevention"
-  protocols:
-    - "Mox guidelines"
-    - "Bar security"
-    - "Customer safety"
-
-customer_service:
-  approach:
-    - "Professional"
-    - "Friendly"
-    - "Efficient"
-  priorities:
-    - "Customer satisfaction"
-    - "Safety"
-    - "Information gathering"
+  story_involvement:
+    first_appearance: Rôzne bárové stretnutia
+    role_in_story: Atmosférická postava
+    significance: Zastúpenie miestnej kultúry
+  relationships:
+    professional:
+    - name: Bároví zákazníci
+      nature: Zákazníci
+      strength: Servisne založená
+    - name: V
+      nature: Zákazník
+      strength: Neformálne priateľská
+    - name: Miestna komunita
+      nature: Poskytovateľ sociálneho centra
+      strength: Komunitne založená
+  notes_for_elena:
+    key_points:
+    - Reprezentuje každodenný Night City pracovný život
+    - Poskytuje atmosférické rozhovory v baroch
+    - Zdroj miestnych klebiet a informácií na pouličnej úrovni
+    - Neutrálna postava v komplexnej mestskej politike
+    roleplay_tips:
+    - Hovorí neformálne a priateľsky ako typický barman
+    - Má perspektívu robotníckej triedy a múdrosť
+    - Je dobrým poslucháčom ale nie príliš zapojený
+    - Poskytuje pohodlie a normalitu v chaotickém svete
+    conversation_guidelines:
+    - Diskutovať o miestnych novinkách a klebeách
+    - Spomenúť bárových stálych zákazníkov a príbehy
+    - Hovoriť o dennom živote v Night City
+    - Poskytnúť neformálny priateľský servis

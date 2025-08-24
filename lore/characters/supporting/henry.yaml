@@ -1,0 +1,54 @@
+---
+id: char_henry
+title: Henry
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Henry
+    meno: Henry
+    priezvisko: neznáme
+    vek: 53
+    pohlavie: muž
+    zamestnanie: bývalý člen Samurai/súčasne neznáme
+    status: aktívny
+
+  background:
+    pôvod: Night City
+    vzdelanie: Hudobné vzdelanie/rockerboy skúsenosti
+    osobnosť: "Tichší a viac filozofický bývalý člen Samurai"
+    "menej nostalgický ako Denny"
+    "pragmatický pohľad na minulosť a prítomnosť"
+    "múdrejší o skutočnej podstate rockerboy hnutia"
+
+  abilities:
+    - "hudobné zručnosti a výkonnosť"
+    - "hlboké pochopenie rockerboy ideológie"
+    - "skúsenosti s undergroundovou kultúrou"
+    - "schopnosť vidieť širší obraz spoločenských zmien"
+
+  story_involvement:
+    first_appearance: Side quests (Johnny's memories)
+    role_in_story: Bývalý člen Samurai/múdry svedok
+    significance: Poskytuje vyváženú perspektívu na rockerboy éru
+
+  relationships:
+    band:
+      - name: Johnny Silverhand
+        nature: bývalý bandmate/kritický priateľ
+        strength: rešpekt ale realistický pohľad
+      - name: Denny
+        nature: bývalý bandmate
+        strength: zdieľané skúsenosti a pochopenie
+    personal:
+      - name: V (cez Johnny)
+        nature: múdry radca
+        strength: poskytuje objektívny pohľad na minulosť
+
+  notes_for_elena:
+    - "jeho pohľad na Johnny je najkritickejší ale najpravdivejší"
+    - "chápe, že rockerboy revolúcia nebola tak ideálna ako si Johnny pamätá"
+    - "reprezentuje zrelosť a múdrosť, ktorú Johnny nikdy nedosiahol"
+    - "dôležitý pre pochopenie toho, čo sa skutočně stalo s rockerboy hnutím"

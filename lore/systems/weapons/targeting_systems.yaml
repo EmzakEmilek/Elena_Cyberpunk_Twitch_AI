@@ -1,72 +1,40 @@
-﻿type: "technology"
-title: "Targeting Systems"
-category: ""
-technology_id: ""
-
-content:
-  summary: "pokroÄŤilĂ˝ systems for improving weapon accuracy and target acquisition"
-  
-name: Targeting Systems
 type: weapon_system
+title: 'Targeting Systems '
+category: ''
+technology_id: ''
+content:
+  summary: 'pokroÄŤilĂ˝ systems for improving weapon accuracy and target acquisition '
+name: Targeting Systems
 description: pokroÄŤilĂ˝ systems for improving weapon accuracy and target acquisition
-details: |
-  Targeting systems represent the integration of PokroÄŤilĂˇ technolĂłgia with weapon systems for improved accuracy and effectiveness.
-
-  System Components:
-  - Hardware
-    * Optical sensors
-    * Processing units
-    * Neural interface
-    * Display systems
-  - Software
-    * Target tracking
-    * Trajectory calculation
-    * Threat assessment
-    * Environmental compensation
-
-  Features:
-  - Auto-targeting
-  - Multiple target tracking
-  - Environmental adjustment
-  - Threat prioritization
-
-  Integration Points:
-  - Weapon systems
-  - Cyberware
-  - HUD displays
-  - Neural networks
-
-  Enhancement Types:
-  - Basic assistance
-  - pokroÄŤilĂ˝ tracking
-  - Professional grade
-  - Military spec
-
+details: "Targeting systems represent the integration of PokroÄŤilĂˇ technolĂłgia\
+  \ with weapon systems for improved accuracy and effectiveness.\n\nSystem Components:\n\
+  - Hardware\n  * Optical sensors\n  * Processing units\n  * Neural interface\n  *\
+  \ Display systems\n- Software\n  * Target tracking\n  * Trajectory calculation\n\
+  \  * Threat assessment\n  * Environmental compensation\n\nFeatures:\n- Auto-targeting\n\
+  - Multiple target tracking\n- Environmental adjustment\n- Threat prioritization\n\
+  \nIntegration Points:\n- Weapon systems\n- Cyberware\n- HUD displays\n- Neural networks\n\
+  \nEnhancement Types:\n- Basic assistance\n- pokroÄŤilĂ˝ tracking\n- Professional\
+  \ grade\n- Military spec\n"
 importance: Critical for modern weapon systems
 common_locations:
-  - Military equipment
-  - KorporĂˇtna bezpeÄŤnosĹĄ
-  - Professional weapons
-  - High-end Cyberware
+- Military equipment
+- KorporĂˇtna bezpeÄŤnosĹĄ
+- Professional weapons
+- High-end Cyberware
 relationships:
-  - Smart Weapons overview
-  - Combat Implants
-  - Military-Grade Weapons
-  - Weapon Customization
-
-
+- Smart Weapons overview
+- Combat Implants
+- Military-Grade Weapons
+- Weapon Customization
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

@@ -1,74 +1,32 @@
-﻿type: "economy"
-title: "Non-lethal Weapons"
-category: ""
-economy_id: ""
-
-content:
-  summary: "Weapons designed for incapacitation without causing death"
-  
-name: Non-lethal Weapons
 type: weapon_system
-description: Weapons designed for incapacitation without causing death
-details: |
-  Non-lethal weapons provide options for subduing targets without causing permanent harm.
-
-  Categories:
-  - Impact Weapons
-    * Rubber bullets
-    * Bean bag rounds
-    * Shock rounds
-  - Electronic Weapons
-    * Tasers
-    * EMP devices
-    * Neural disruptors
-  - Chemical Weapons
-    * Tear gas
-    * Sleep agents
-    * Tranquilizers
-
-  Applications:
-  - Law enforcement
-  - Crowd control
-  - Private security
-  - Personal defense
-
-  Effectiveness Factors:
-  - Target size
-  - Protection level
-  - Environmental conditions
-  - Range to target
-
-  Legal Status:
-  - Civilian restrictions
-  - Professional licensing
-  - Usage regulations
-  - Carry permits
-
+title: 'Non-lethal Weapons '
+category: ''
+economy_id: ''
+content:
+  summary: Zbrane navrhnuté za znepríjemnenie bez smrti
+name: Non-lethal Weapons
+description: Zbrane navrhnuté za znehodnocenje bez smrti
+details: '- Impaktne zbrane'
 importance: Essential for controlled force application
 common_locations:
-  - Police forces
-  - Security companies
-  - Civilian market
-  - KorporĂˇtna bezpeÄŤnosĹĄ
+- Police forces
+- Security companies
+- Civilian market
+- KorporĂˇtna bezpeÄŤnosĹĄ
 relationships:
-  - Ammunition Types
-  - Street Weapons beĹľnĂ˝ Types
-  - Weapon Manufacturers
-  - Targeting Systems
-
-
+- Ammunition Types
+- Street Weapons beĹľnĂ˝ Types
+- Weapon Manufacturers
+- Targeting Systems
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

@@ -1,198 +1,71 @@
-name: "Mateo"
-id: "char_mateo"
-category: "character_supporting"
-affiliation: "El Coyote Cojo"
+type: character
+id: char_mateo
+title: Mateo
+aliases: []
+category: character_supporting
+lang: sk
 
-personal_data:
-  role: "Bartender"
-  gender: "Male"
-  residence: "Heywood, Night City"
-  faction: "Independent"
-
-character_profile:
-  archetype: "Local Bartender"
-  motivation: "Práca a komunita"
-  personality:
-    traits:
-      - "Priateľský"
-      - "Lojálny"
-      - "Pracovitý"
-      - "Spoľahlivý"
-    strengths:
-      - "Zákaznícky servis"
-      - "Komunálne vzťahy"
-      - "Pracovná etika"
-      - "Spoľahlivosť"
-    weaknesses:
-      - "Obmedzený vplyv"
-      - "Rutinná práca"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Lokálna postava"
-  significance: "Atmosféra"
-
-relationships:
-  professional:
-    - name: "Mama Welles"
-      nature: "Zamestnávateľka"
-      strength: "Lojálna"
-    - name: "Jackie Welles"
-      nature: "Pravidelný zákazník"
-      strength: "Priateľská"
+content:
+  personal_data:
+    názov: Mateo
+    meno: Mateo
+    príslušnosť: Valentinos
+    pôvod: Heywood
+    status: Aktívny
   
-  customers:
-    - name: "Local Community"
-      nature: "Barman"
-      strength: "Profesionálna"
-
-bar_operations:
-  position: "Bartender"
-  duties:
-    - "Drink service"
-    - "Customer care"
-    - "Bar maintenance"
-  expertise:
-    - "Mixology"
-    - "Customer service"
-    - "Stock management"
-
-background_context:
-  history:
-    - "Dlhodobý zamestnanec"
-    - "Komunitné väzby"
-    - "Bar experience"
-  
-  current_situation:
-    - "Bar operations"
-    - "Community service"
-    - "Regular duties"
-
-workplace_role:
-  responsibilities:
-    - "Drink preparation"
-    - "Customer service"
-    - "Bar cleanliness"
-  environment:
-    - "Family oriented"
-    - "Community focused"
-    - "Traditional"
-
-notes_for_elena:
-  key_points:
-    - "Lojálny barman"
-    - "Komunitný člen"
-    - "Spoľahlivý pracovník"
-  
-  roleplay_tips:
-    - "Priateľský prístup"
-    - "Pracovitý postoj"
-    - "Komunitný duch"
+  character_profile:
+    summary: "Člen Valentinos gangu v Heywood, reprezentuje latino gang kultúru a tradičné hodnoty komunity."
     
-  conversation_guidelines:
-    - "Lokálne témy"
-    - "Priateľský tón"
-    - "Pracovný kontext"
-
-professional_skills:
-  bartending:
-    - "Drink mixing"
-    - "Customer service"
-    - "Bar management"
+    background:
+      - "Aktívny člen Valentinos gangu"
+      - "Súčasť latino komunity v Heywood"
+      - "Reprezentuje tradičné gangové hodnoty"
+      - "Zapojený do teritoriálnych sporov"
+    
+    personality:
+      - "Lojálny k gangu a latino kultúre"
+      - "Rešpektuje tradície a rodinné hodnoty"
+      - "Ochranársky voči svojej komunite"
+      - "Ctihodný prístup ku konfliktu"
+    
+    abilities:
+      - "Gangové vojnovanie a pouličné boje"
+      - "Znalosť Heywood teritorií"
+      - "Latino komunitné spojenia"
+      - "Tradičný výcvik so zbraňami"
   
-  social:
-    - "Community relations"
-    - "Customer care"
-    - "Local knowledge"
-
-related_cards:
-  characters:
-    - "char_mama_welles"
-    - "char_jackie_welles"
-  locations:
-    - "loc_el_coyote_cojo"
-    - "loc_heywood_district"
-
-bar_expertise:
-  skills:
-    - "Drink preparation"
-    - "Stock management"
-    - "Customer relations"
-  knowledge:
-    - "Local preferences"
-    - "Regular customers"
-    - "Bar operations"
-
-community_connection:
-  role:
-    - "Service provider"
-    - "Local fixture"
-    - "Community member"
-  impact:
-    - "Daily service"
-    - "Social connection"
-    - "Community support"
-
-impact_on_story:
-  direct:
-    - "Local atmosphere"
-    - "Bar operations"
-    - "Community presence"
-  indirect:
-    - "Setting mood"
-    - "Background detail"
-    - "World building"
-
-visual_description:
-  appearance:
-    - "Professional attire"
-    - "Clean presentation"
-    - "Friendly face"
-    - "Working posture"
-  
-  workspace:
-    - "Traditional bar"
-    - "Clean environment"
-    - "Organized setup"
-    - "Family atmosphere"
-
-role_in_business:
-  services:
-    - "Drink service"
-    - "Customer care"
-    - "Bar maintenance"
-  
-  connections:
-    - "Regular customers"
-    - "Local community"
-    - "Bar staff"
-
-customer_service:
-  approach:
-    - "Friendly"
-    - "Professional"
-    - "Consistent"
-  standards:
-    - "Quality service"
-    - "Clean environment"
-    - "Customer satisfaction"
-
-work_routine:
-  tasks:
-    - "Drink preparation"
-    - "Stock management"
-    - "Bar cleaning"
-  schedule:
-    - "Regular shifts"
-    - "Peak hours"
-    - "Special events"
-
-local_knowledge:
-  community:
-    - "Regular customers"
-    - "Local events"
-    - "Neighborhood news"
-  expertise:
-    - "Drink preferences"
-    - "Customer habits"
-    - "Local traditions"
+  story_involvement:
+    first_appearance: Heywood úlohy
+    role_in_story: Zástupca gangu
+    significance: Latino kultúra
+  relationships:
+    gang:
+    - name: Valentinos členovia
+      nature: Gangoví bratia
+      strength: Bratská
+    - name: Heywood komunita
+      nature: Ochranca
+      strength: Ochranárska
+    rivals:
+    - name: 6th Street Gang
+      nature: Teritoriálni rivali
+      strength: Nepriateľská
+    - name: Ostatné gangy
+      nature: Konkurencia
+      strength: Teritoriálna
+  notes_for_elena:
+    key_points:
+    - Reprezentuje Valentinos gangov kultúru
+    - Súčasť latino identity v Night City
+    - Tradičné hodnoty v modernom gangovom kontexte
+    - Teritoriálna ochrana a komunitné služby
+    roleplay_tips:
+    - Hovorí s gangovou hrdosťou a kultúrnou identitou
+    - Používa španielske slová a gangovú terminológiu
+    - Má rodinu orientovanú mentalitu
+    - Rešpektuje tradície a starších
+    conversation_guidelines:
+    - Diskutovať o gangových teritoriách a rivaloch
+    - Spomenúť latino kultúru a rodinu
+    - Hovoriť o ochrane komunity
+    - Zdôrazniť česť a rešpekt

@@ -1,199 +1,167 @@
-name: "Dialogue System"
-id: "system_mechanics_dialogue"
-category: "system_mechanics"
-
+name: Dialogue System
+id: system_mechanics_dialogue
+category: system_mechanics
 system_overview:
-  description: "Systém pre interakciu s NPC postavami a dialógové voľby"
+  description: Systém pre interakciu s NPC postavami a dialógové voľby
   core_aspects:
-    - "Conversation flow"
-    - "Choice system"
-    - "Reputation impact"
-    - "Information gathering"
-
+  - Conversation flow
+  - Choice system
+  - Reputation impact
+  - Information gathering
 core_features:
   dialogue:
-    - "NPC talks"
-    - "Player choices"
-    - "Story impact"
-    - "Info gain"
-  
+  - NPC talks
+  - Player choices
+  - Story impact
+  - Info gain
   choices:
-    - "Multiple options"
-    - "Skill checks"
-    - "Time limits"
-    - "Consequences"
-
+  - Multiple options
+  - Skill checks
+  - Time limits
+  - Consequences
 mechanics_details:
   conversation:
     types:
-      - "Basic talk"
-      - "Quest dialogue"
-      - "Info search"
-      - "Trade talk"
+    - Basic talk
+    - Quest dialogue
+    - Info search
+    - Trade talk
     flow:
-      - "Greeting"
-      - "Main talk"
-      - "Choices"
-      - "End"
-
+    - Greeting
+    - Main talk
+    - Choices
+    - End
 functionality:
   basic_actions:
-    - "Start talk"
-    - "Pick choice"
-    - "End talk"
-    - "Skip line"
-  
+  - Start talk
+  - Pick choice
+  - End talk
+  - Skip line
   advanced_features:
-    - "Skill use"
-    - "Time pause"
-    - "Info check"
-    - "Mood track"
-
+  - Skill use
+  - Time pause
+  - Info check
+  - Mood track
 notes_for_elena:
   key_points:
-    - "Talk flow"
-    - "Choice impact"
-    - "NPC mood"
-  
+  - Talk flow
+  - Choice impact
+  - NPC mood
   roleplay_tips:
-    - "Character voice"
-    - "Mood match"
-    - "Story flow"
-    
+  - Character voice
+  - Mood match
+  - Story flow
   conversation_guidelines:
-    - "Talk style"
-    - "Choice tips"
-    - "Mood notes"
-
+  - Talk style
+  - Choice tips
+  - Mood notes
 interface_elements:
   displays:
-    - "Talk text"
-    - "Choice list"
-    - "Time bar"
-    - "Mood icon"
-  
+  - Talk text
+  - Choice list
+  - Time bar
+  - Mood icon
   controls:
-    - "Choice pick"
-    - "Skip button"
-    - "End option"
-    - "Info check"
-
+  - Choice pick
+  - Skip button
+  - End option
+  - Info check
 choice_system:
   types:
-    - "Basic reply"
-    - "Skill check"
-    - "Info use"
-    - "Time choice"
-  
+  - Basic reply
+  - Skill check
+  - Info use
+  - Time choice
   impacts:
-    - "Story change"
-    - "NPC mood"
-    - "Quest state"
-
+  - Story change
+  - NPC mood
+  - Quest state
 reputation_effects:
   positive:
-    - "Friend gain"
-    - "Trust up"
-    - "Help chance"
-  
+  - Friend gain
+  - Trust up
+  - Help chance
   negative:
-    - "Enemy make"
-    - "Trust loss"
-    - "Help block"
-
+  - Enemy make
+  - Trust loss
+  - Help block
 skill_integration:
   types:
-    - "Cool check"
-    - "Intel use"
-    - "Tech know"
-  
+  - Cool check
+  - Intel use
+  - Tech know
   effects:
-    - "New choice"
-    - "Better odds"
-    - "More info"
-
+  - Nova izbira
+  - Lepšie šance
+  - Više informacija
 time_management:
   limits:
-    - "Choice time"
-    - "Talk pause"
-    - "Skip speed"
-  
+  - Choice time
+  - Talk pause
+  - Skip speed
   effects:
-    - "Miss choice"
-    - "Mood change"
-    - "Quest fail"
-
+  - Zadanie kráľky
+  - Zmena nálad
+  - Zadanie selhalo
 related_systems:
   skills:
-    - "system_skill_cool"
-    - "system_skill_intelligence"
+  - system_skill_cool
+  - system_skill_intelligence
   mechanics:
-    - "system_mechanics_reputation"
-    - "system_mechanics_quest"
-
+  - system_mechanics_reputation
+  - system_mechanics_quest
 mood_system:
   states:
-    - "Happy"
-    - "Neutral"
-    - "Angry"
-    - "Scared"
-  
+  - Happy
+  - Neutral
+  - Angry
+  - Scared
   changes:
-    - "Choice effect"
-    - "Time impact"
-    - "Skill use"
-
+  - Choice effect
+  - Time impact
+  - Skill use
 information_handling:
   types:
-    - "Quest info"
-    - "Lore data"
-    - "Char facts"
-  
+  - Quest info
+  - Lore data
+  - Char facts
   storage:
-    - "Journal save"
-    - "Map mark"
-    - "Quest note"
-
+  - Journal save
+  - Map mark
+  - Quest note
 quest_integration:
   triggers:
-    - "Start quest"
-    - "Update task"
-    - "End quest"
-  
+  - Start quest
+  - Update task
+  - End quest
   tracking:
-    - "State check"
-    - "Progress note"
-    - "End mark"
-
+  - State check
+  - Progress note
+  - End mark
 character_memory:
   tracking:
-    - "Past talks"
-    - "Choices made"
-    - "Mood history"
-  
+  - Past talks
+  - Choices made
+  - Mood history
   effects:
-    - "New options"
-    - "Changed talk"
-    - "Mood shift"
-
+  - Nové možnosti
+  - Zmenjeni govor
+  - Zmena nálady
 dialogue_branching:
   paths:
-    - "Main line"
-    - "Side chat"
-    - "Info dig"
-  
+  - Main line
+  - Side chat
+  - Info dig
   results:
-    - "Story change"
-    - "New info"
-    - "Quest state"
-
+  - Story change
+  - New info
+  - Quest state
 voice_system:
   types:
-    - "Full voice"
-    - "Key lines"
-    - "Mood sounds"
-  
+  - Full voice
+  - Key lines
+  - Mood sounds
   features:
-    - "Lang pick"
-    - "Volume set"
-    - "Speed change"
+  - Lang pick
+  - Volume set
+  - Speed change

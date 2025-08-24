@@ -1,78 +1,32 @@
-﻿type: "technology"
-title: "Energy Systems"
-category: ""
-technology_id: ""
-
-content:
-  summary: "Power generation and distribution technology in Night City"
-  
-name: Energy Systems
 type: technology
-description: Power generation and distribution technology in Night City
-details: |
-  Energy systems comprise the power generation, storage, and distribution infrastructure of Night City.
-
-  Power Sources:
-  - Traditional
-    * Fossil fuel plants
-    * Nuclear facilities
-    * Hydroelectric systems
-    * Emergency generators
-  - Alternative
-    * Solar collection
-    * Wind generation
-    * Fusion reactors
-    * Waste conversion
-
-  Distribution Network:
-  - Power Grid
-    * Main distribution
-    * Smart networks
-    * Load balancing
-    * Emergency systems
-  - Storage Systems
-    * Battery banks
-    * Capacitor arrays
-    * Emergency reserves
-    * Grid stabilizers
-
-  Management Systems:
-  - Grid Control
-    * Load monitoring
-    * Usage optimization
-    * Failure prevention
-    * Emergency routing
-  - Smart Systems
-    * AI management
-    * Demand prediction
-    * Efficiency control
-    * Security protocols
-
+title: 'Energy Systems '
+category: ''
+technology_id: ''
+content:
+  summary: Technológia výroby a rozdelenia elektrickej energie v meste Nočná Mesto
+name: Energy Systems
+description: Technológia výroby a rozdelitve elektrickej energie v Noci mesta
+details: '- Tradicionalni'
 importance: Critical infrastructure technology
 common_locations:
-  - Power plants
-  - Distribution centers
-  - Industrial zones
-  - Corporate facilities
+- Power plants
+- Distribution centers
+- Industrial zones
+- Corporate facilities
 relationships:
-  - Environmental Systems
-  - Corporate Infrastructure
-  - Technology Trade
-  - Security Systems
-
-
+- Environmental Systems
+- Corporate Infrastructure
+- Technology Trade
+- Security Systems
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

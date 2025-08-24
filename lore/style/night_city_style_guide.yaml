@@ -1,200 +1,132 @@
-﻿type: "character"
-title: ""
-category: "style"
-character_id: ""
-
-content:
-  summary: ""
-  
 type: style
-title: "Night City Style Guide"
-category: "style"
-style_id: "style_night_city_guide"
-
+title: Night City Style Guide
+category: style
+character_id: ''
 content:
-  summary: "Komplexný sprievodca štýlmi a fashion trendmi v Night City, ktoré odrážajú sociálne triedy, kultúrne skupiny a osobné identity."
-  
+  summary: Komplexný sprievodca štýlmi a fashion trendmi v Night City, ktoré odrážajú
+    sociálne triedy, kultúrne skupiny a osobné identity.
   style_categories:
     by_social_class:
       corporate:
-        description: "Elegantný, minimalistický štýl prezentujúci moc a status"
+        description: Elegantný, minimalistický štýl prezentujúci moc a status
         characteristics:
-          - "Kvalitné materiály (pravá koža, silk, smart fabrics)"
-          - "Neutrálne farby (čierna, sivá, navy, biela)"
-          - "Tailored cuts a perfect fit"
-          - "Subtle tech integration"
-          - "drahĂ˝ accessories"
+        - Kvalitné materiály (pravá koža, silk, smart fabrics)
+        - Neutrálne farby (čierna, sivá, navy, biela)
+        - Prilagodene rezanie ideálne ušije
+        - Podmierne integrácie technológií
+        - dražné doplnky
         typical_items:
-          - "Business suits s tech lining"
-          - "Designer shoes s comfort tech"
-          - "Luxury watches a jewelry"
-          - "High-end Cyberware s aesthetic focus"
-      
+        - Business suits s tech lining
+        - Designer shoes s comfort tech
+        - Luxury watches a jewelry
+        - High-end Cyberware s aesthetic focus
       street:
-        description: "Funkčný štýl kombinujúci praktickosť s personal expression"
+        description: Funkčný štýl kombinujúci praktickosť s personal expression
         characteristics:
-          - "Durable materials (denim, leather, synthetic)"
-          - "Bold colors a patterns"
-          - "Layered clothing pre versatility"
-          - "Visible tech a Cyberware"
-          - "DIY modifications"
+        - Trvalejšie materialy (denim, koža, syntetika)
+        - Hrabré barvy in vzorci
+        - Pláštovanie v plátňach za zmenlivostnosť
+        - Zastranitev tehnologije in Cyberware
+        - Samodejne modifikacije
         typical_items:
-          - "Reinforced jackets"
-          - "Combat boots"
-          - "Tech-enhanced accessories"
-          - "Gang colors a symbols"
-      
+        - Reinforced jackets
+        - Combat boots
+        - Tech-enhanced accessories
+        - Gang colors a symbols
       NomĂˇd:
-        description: "Practical outdoor štýl optimalizovaný pre harsh conditions"
+        description: Practical outdoor štýl optimalizovaný pre harsh conditions
         characteristics:
-          - "Weather-resistant materials"
-          - "Earth tones a camouflage"
-          - "Multi-functional clothing"
-          - "Clan identifiers"
-          - "Vehicle-integrated gear"
+        - Zmesi odporné na vreme
+        - Zemeljske tone in maskiranje
+        - Veľkofunkčné oblečenie
+        - Identifikatorji članov
+        - Zásielka integriraneho zariadenia v vozidle
         typical_items:
-          - "Tactical vests"
-          - "All-weather boots"
-          - "Clan patches a insignia"
-          - "Survival gear integration"
-
+        - Tactical vests
+        - All-weather boots
+        - Clan patches a insignia
+        - Survival gear integration
     by_cultural_group:
       japanese_influence:
-        - "Clean minimalist lines"
-        - "Traditional patterns v modern context"
-        - "High-tech fabric integration"
-        - "Respect pre craftsmanship"
-      
+      - Clean minimalist lines
+      - Traditional patterns v modern context
+      - High-tech fabric integration
+      - Respect pre craftsmanship
       latino_heritage:
-        - "Vibrant colors a patterns"
-        - "Family a religious symbols"
-        - "Traditional crafts v modern form"
-        - "Community identity markers"
-      
+      - Vibrant colors a patterns
+      - Family a religious symbols
+      - Traditional crafts v modern form
+      - Community identity markers
       african_diaspora:
-        - "Bold geometric patterns"
-        - "Natural hair celebration"
-        - "Cultural symbolism"
-        - "Community pride expression"
-
+      - Bold geometric patterns
+      - Natural hair celebration
+      - Cultural symbolism
+      - Community pride expression
   technology_integration:
     wearable_tech:
       health_monitoring:
-        - "Biometric sensors v clothing"
-        - "Health status displays"
-        - "Environmental adaptation"
-        - "Performance optimization"
-      
+      - Biometric sensors v clothing
+      - Health status displays
+      - Environmental adaptation
+      - Performance optimization
       communication:
-        - "Integrated comm systems"
-        - "Gesture control interfaces"
-        - "Augmented reality displays"
-        - "Social media connectivity"
-      
+      - Integrated comm systems
+      - Gesture control interfaces
+      - Augmented reality displays
+      - Social media connectivity
       protection:
-        - "Bullet-resistant fabrics"
-        - "EMP shielding"
-        - "Temperature regulation"
-        - "Chemical resistance"
-
+      - Bullet-resistant fabrics
+      - EMP shielding
+      - Temperature regulation
+      - Chemical resistance
   accessory_trends:
     cyberware_fashion:
-      - "Chrome accents a highlights"
-      - "LED integration"
-      - "Holographic elements"
-      - "Custom modification aesthetics"
-    
+    - Chrome accents a highlights
+    - LED integration
+    - Holographic elements
+    - Custom modification aesthetics
     traditional_accessories:
-      - "Jewelry s tech enhancement"
-      - "Watches s multiple functions"
-      - "Bags s security features"
-      - "Footwear s performance tech"
-
+    - Jewelry s tech enhancement
+    - Watches s multiple functions
+    - Bags s security features
+    - Footwear s performance tech
   seasonal_trends:
     current_hot_trends:
-      - "Neon-accent minimalism"
-      - "Vintage-tech fusion"
-      - "Sustainable cyber fashion"
-      - "Gender-fluid styling"
-    
+    - Neon-accent minimalism
+    - Vintage-tech fusion
+    - Sustainable cyber fashion
+    - Gender-fluid styling
     emerging_styles:
-      - "Bio-responsive clothing"
-      - "Mood-reflecting materials"
-      - "AI-curated personal style"
-      - "Virtual-physical hybrid fashion"
-
+    - Bio-responsive clothing
+    - Mood-reflecting materials
+    - AI-curated personal style
+    - Virtual-physical hybrid fashion
   shopping_destinations:
     luxury:
-      - "Corporate shopping centers"
-      - "Designer flagship stores"
-      - "Exclusive fashion districts"
-      - "High-end department stores"
-    
+    - Corporate shopping centers
+    - Designer flagship stores
+    - Exclusive fashion districts
+    - High-end department stores
     mainstream:
-      - "Mall chains"
-      - "Brand outlets"
-      - "Online platforms"
-      - "Mid-tier boutiques"
-    
+    - Mall chains
+    - Brand outlets
+    - Online platforms
+    - Mid-tier boutiques
     alternative:
-      - "Thrift stores"
-      - "Street markets"
-      - "Underground designers"
-      - "Custom modification shops"
-
+    - Thrift stores
+    - Street markets
+    - Underground designers
+    - Custom modification shops
+style_id: style_night_city_guide
 technical_metadata:
-  complexity: "Multidimensional"
-  change_rate: "Rapid evolution"
-  cultural_significance: "Vysoká"
-  economic_impact: "Significant industry"
-
-related_cards:
-  culture:
-    - "cult_street_fashion"
-    - "cult_corporate_culture"
-    - "cult_nomad_traditions"
-  economy:
-    - "econ_luxury_markets"
-    - "econ_street_vendor"
-  society:
-    - "soc_social_classes"
-    - "soc_corporate_lifestyle"
-  technology:
-    - "tech_smart_fabrics"
-    - "tech_wearable_systems"
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Style je primary way ľudia express identity v Night City"
-    - "Technology integration je expected v všetkých style categories"
-    - "Social class strongly influences fashion choices"
-    - "Gang a cultural affiliations visible cez clothing"
-  
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Discuss appropriate style pre different situations"
-    - "Explain social implications of fashion choices"
-    - "Recommend styles based na character background"
-    - "Mention technology integration options"
-  
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "Style choices affect NPC reactions"
-    - "Appropriate dress pre different districts"
-    - "Fashion ako form of social communication"
-    - "Personal style evolution s character development"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

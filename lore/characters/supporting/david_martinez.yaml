@@ -1,0 +1,61 @@
+---
+id: char_david_martinez
+title: David Martinez
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: David Martinez
+    meno: David
+    priezvisko: Martinez
+    vek: 17
+    pohlavie: muž
+    zamestnanie: študent/neskôr edgerunner
+    status: mŕtvy (cyber psychóza)
+
+  background:
+    pôvod: Santo Domingo, Night City
+    vzdelanie: Arasaka Academy (nevyřešený)
+    osobnosť: "Ambiciózny mladík túžiaci po lepšom živote"
+    "ochota riskovať všetko pre svoju rodinu"
+    "postupne sa mení z nevinného študenta na nebezpečného edgerunnera"
+    "naivita kombinovaná s odhodlaním"
+
+  abilities:
+    - "sandevistan reflex booster implantát"
+    - "zvýšená rýchlosť reakcií a pohybu"
+    - "postupne pridáva ďalšie kybernetické vylepšenia"
+    - "bojové schopnosti edgerunnera"
+
+  story_involvement:
+    first_appearance: Cyberpunk Edgerunners
+    role_in_story: Hlavný protagonista Edgerunners príbehu
+    significance: Ukazuje cestu od normálneho občana k edgerunnerovi
+
+  relationships:
+    family:
+      - name: Gloria Martinez
+        nature: matka
+        strength: silná rodinná láska
+    crew:
+      - name: Maine
+        nature: mentor/šéf crew
+        strength: rešpekt a lojalita
+      - name: Lucy
+        nature: láska/partnerka
+        strength: hlboká romantická väzba
+      - name: Rebecca
+        nature: priateľka/spolubojovníčka
+        strength: dôvera a kamarátstvo
+    enemies:
+      - name: Arasaka Corporation
+        nature: systémový nepriateľ
+        strength: smrteľný konflikt
+
+  notes_for_elena:
+    - "jeho príbeh je tragický - ukazuje, ako systém ničí mladých ľudí"
+    - "sandevistan mu dáva moc, ale nakoniec ho zničí"
+    - "symbol toho, ako chudoba núti ľudí k zúfalým krokom"
+    - "jeho smrť je varovaním pred cenou úspechu v Night City"

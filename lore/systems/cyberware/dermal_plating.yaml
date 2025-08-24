@@ -1,66 +1,79 @@
-﻿type: "location"
-title: "Dermal Plating"
-category: ""
-location_id: ""
-
-content:
-  summary: "Subcutaneous armor plating for enhanced physical protection"
-  
-name: Dermal Plating
 type: Cyberware
-description: Subcutaneous armor plating for enhanced physical protection
-details: |
-  Dermal plating provides pokroÄŤilĂ˝ personal protection through cybernetic armor implanted beneath the skin.
+title: 'Dermal Plating '
+category: ''
+location_id: ''
+content:
+  summary: Podkožna oklepna ploščina za zvišeno fizično varovanje
+name: Dermal Plating
+description: Podkožna oklepnica za zvišeno fýzické ochranu
+details: 'Dermal plating provides pokroÄŤilĂ˝ personal protection through cybernetic
+  armor implanted beneath the skin.
+
 
   Types of Plating:
+
   - Titanium mesh
+
   - Subdermal armor
+
   - Ballistic weave
+
   - Impact absorption
 
+
   Protection Levels:
+
   - Basic protection
+
   - Military grade
+
   - KorporĂˇtna bezpeÄŤnosĹĄ
+
   - Custom reinforcement
 
+
   Installation Process:
+
   - Layer integration
+
   - Neural connection
+
   - Sensory maintenance
+
   - Flexibility preservation
 
+
   Benefits:
+
   - Ballistic protection
+
   - Impact resistance
+
   - Damage reduction
+
   - Enhanced durability
 
+  '
 importance: Essential personal defense enhancement
 common_locations:
-  - Security forces
-  - Combat zones
-  - KorporĂˇtna bezpeÄŤnosĹĄ
-  - Military personnel
+- Security forces
+- Combat zones
+- KorporĂˇtna bezpeÄŤnosĹĄ
+- Military personnel
 relationships:
-  - Skeletal Reinforcement
-  - Subdermal Armor
-  - Combat Implants
-  - Experimental Cyberware
-
-
+- Skeletal Reinforcement
+- Subdermal Armor
+- Combat Implants
+- Experimental Cyberware
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

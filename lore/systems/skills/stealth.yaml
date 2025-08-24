@@ -1,217 +1,166 @@
-﻿type: "technology"
-title: "Stealth Skill System"
-category: "system_skill"
-technology_id: "system_skill_stealth"
-
+type: technology
+title: Stealth Skill System
+category: system_skill
+technology_id: system_skill_stealth
 content:
-  summary: ""
-  
-name: "Stealth Skill System"
-id: "system_skill_stealth"
-category: "system_skill"
-
+  summary: ''
+name: Stealth Skill System
+id: system_skill_stealth
 system_overview:
-  description: "Systém pre skrývanie a tichý pohyb"
+  description: Systém pre skrývanie a tichý pohyb
   core_aspects:
-    - "Visibility level"
-    - "Sound control"
-    - "Movement speed"
-    - "Detection risk"
-
+  - Visibility level
+  - Sound control
+  - Movement speed
+  - Detection risk
 core_features:
   visibility:
-    - "Shadow use"
-    - "Cover system"
-    - "Light detection"
-    - "Visual noise"
-  
+  - Shadow use
+  - Cover system
+  - Light detection
+  - Visual noise
   sound:
-    - "Step noise"
-    - "Action sounds"
-    - "Environment noise"
-    - "Sound masking"
-
+  - Step noise
+  - Action sounds
+  - Environment noise
+  - Sound masking
 skill_progression:
   levels:
-    - name: "Novice"
-      requirements: "0-5 points"
-      benefits: "Basic stealth"
-    - name: "Skilled"
-      requirements: "6-10 points"
-      benefits: "Better hiding"
-    - name: "Expert"
-      requirements: "11-15 points"
-      benefits: "Ghost mode"
-    - name: "Master"
-      requirements: "16-20 points"
-      benefits: "Perfect stealth"
-
+  - name: Novice
+    requirements: 0-5 points
+    benefits: Basic stealth
+  - name: Skilled
+    requirements: 6-10 points
+    benefits: Better hiding
+  - name: Expert
+    requirements: 11-15 points
+    benefits: Ghost mode
+  - name: Master
+    requirements: 16-20 points
+    benefits: Perfect stealth
 perk_system:
   categories:
     visibility:
-      - name: "Shadow Walker"
-        effect: "Less visible"
-      - name: "Light Step"
-        effect: "Quiet move"
-      - name: "Ghost Form"
-        effect: "Hard to spot"
-    
+    - name: Shadow Walker
+      effect: Less visible
+    - name: Light Step
+      effect: Quiet move
+    - name: Ghost Form
+      effect: Hard to spot
     sound:
-      - name: "Silent Step"
-        effect: "No footsteps"
-      - name: "Quiet Action"
-        effect: "Silent tasks"
-      - name: "Sound Master"
-        effect: "Noise control"
-
+    - name: Silent Step
+      effect: No footsteps
+    - name: Quiet Action
+      effect: Silent tasks
+    - name: Sound Master
+      effect: Noise control
 notes_for_elena:
   key_points:
-    - "Stealth importance"
-    - "Detection risks"
-    - "Movement care"
-  
-  roleplay_tips:
-    - "Quiet focus"
-    - "Shadow use"
-    - "Careful moves"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Stealth terms"
-    - "Quiet talk"
-    - "Shadow words"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 gameplay_elements:
   primary:
-    - "Visibility meter"
-    - "Sound level"
-    - "Movement speed"
-    - "Detection risk"
-  
+  - Visibility meter
+  - Sound level
+  - Movement speed
+  - Detection risk
   secondary:
-    - "Cover use"
-    - "Light level"
-    - "Noise control"
-
+  - Cover use
+  - Light level
+  - Noise control
 skill_applications:
   stealth:
-    - "Sneaking"
-    - "Hiding"
-    - "Silent kills"
-  
+  - Sneaking
+  - Hiding
+  - Silent kills
   combat:
-    - "Surprise attacks"
-    - "Quick escapes"
-    - "Silent takedowns"
-
+  - Surprise attacks
+  - Quick escapes
+  - Silent takedowns
 progression_mechanics:
   experience:
-    - "Stealth moves"
-    - "skrytĂ˝ actions"
-    - "Quiet kills"
-  
+  - Stealth moves
+  - skrytĂ˝ actions
+  - Quiet kills
   rewards:
-    - "Better hiding"
-    - "Less noise"
-    - "Fast stealth"
-
+  - Better hiding
+  - Less noise
+  - Fast stealth
 related_systems:
   skills:
-    - "system_skill_cool"
-    - "system_skill_reflexes"
+  - system_skill_cool
+  - system_skill_reflexes
   combat:
-    - "system_combat_stealth"
-    - "system_combat_melee"
-
+  - system_combat_stealth
+  - system_combat_melee
 ui_elements:
   displays:
-    - "Stealth meter"
-    - "Noise level"
-    - "Detection risk"
-  
+  - Stealth meter
+  - Noise level
+  - Detection risk
   indicators:
-    - "Visibility state"
-    - "Sound alert"
-    - "Cover status"
-
+  - Visibility state
+  - Sound alert
+  - Cover status
 balance_considerations:
   advantages:
-    - "Surprise attacks"
-    - "Safe movement"
-    - "Escape options"
-  
+  - Surprise attacks
+  - Safe movement
+  - Escape options
   limitations:
-    - "Speed limits"
-    - "Light issues"
-    - "Sound risks"
-
+  - Speed limits
+  - Light issues
+  - Sound risks
 synergy_effects:
   skills:
-    - "Cool boost"
-    - "Reflex use"
-    - "Combat aid"
-  
+  - Cool boost
+  - Reflex use
+  - Combat aid
   attributes:
-    - "Move skill"
-    - "Sound control"
-    - "Vision power"
-
+  - Move skill
+  - Sound control
+  - Vision power
 advancement_paths:
   visibility:
-    - "Shadow pro"
-    - "Light master"
-    - "Cover expert"
-  
+  - Shadow pro
+  - Light master
+  - Cover expert
   sound:
-    - "Silent ace"
-    - "Quiet pro"
-    - "Sound ninja"
-
+  - Silent ace
+  - Quiet pro
+  - Sound ninja
 customization_options:
   builds:
-    - "Pure stealth"
-    - "Combat stealth"
-    - "Speed stealth"
-  
+  - Pure stealth
+  - Combat stealth
+  - Speed stealth
   specializations:
-    - "Shadow expert"
-    - "Sound master"
-    - "Move specialist"
-
+  - Shadow expert
+  - Sound master
+  - Move specialist
 detection_management:
   aspects:
-    - "Light control"
-    - "Sound level"
-    - "Movement speed"
-  
+  - Light control
+  - Sound level
+  - Movement speed
   benefits:
-    - "Low visibility"
-    - "Quiet moves"
-    - "Safe travel"
-
+  - Low visibility
+  - Quiet moves
+  - Safe travel
 environment_use:
   aspects:
-    - "Shadow spots"
-    - "Cover points"
-    - "Sound zones"
-  
+  - Shadow spots
+  - Cover points
+  - Sound zones
   benefits:
-    - "Good hiding"
-    - "Safe spots"
-    - "Quiet areas"
-
-
+  - Good hiding
+  - Safe spots
+  - Quiet areas
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

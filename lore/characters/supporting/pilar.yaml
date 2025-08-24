@@ -1,0 +1,51 @@
+---
+id: char_pilar
+title: Pilar
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Pilar
+    meno: Pilar
+    priezvisko: neznáme
+    vek: 22
+    pohlavie: muž
+    zamestnanie: edgerunner
+    status: mŕtvy (zabitý počas misie)
+
+  background:
+    pôvod: Night City
+    vzdelanie: Street smart/základný edgerunner výcvik
+    osobnosť: "Perverzný, vulgarny ale zábavný člen crew"
+    "ochranársky voči svojej sestre Rebecca"
+    "má perverzné záľuby ale je lojalny voči crew"
+    "nie je najsilnejší ale je oddaný"
+
+  abilities:
+    - "základné bojové schopnosti"
+    - "technické zručnosti"
+    - "menšie kybernetické vylepšenia"
+    - "schopnosť rozveseliť crew v ťažkých chvíľach"
+
+  story_involvement:
+    first_appearance: Cyberpunk Edgerunners
+    role_in_story: Členka Maine's crew/komická úľava
+    significance: Ukazuje ľudskejšiu stranu edgerunner života
+
+  relationships:
+    family:
+      - name: Rebecca
+        nature: sestra
+        strength: silná rodinná láska
+    crew:
+      - name: Maine's crew
+        nature: rodina/spolubojovníci
+        strength: lojalita napriek slabostiam
+
+  notes_for_elena:
+    - "napriek svojmu perverznom správaniu má dobré srdce"
+    - "jeho vzťah s Rebecca ukazuje, že edgerunneri sú stále ľudia s rodinami"
+    - "nie je najsilnejší člen crew, ale jeho lojalita je nespochybniteľná"
+    - "predstavuje 'obyčajného' edgerunnera bez výnimočných schopností"

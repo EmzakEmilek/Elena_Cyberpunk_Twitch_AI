@@ -1,205 +1,71 @@
-﻿type: "character"
-title: "Viktor Vector"
-category: "character_major"
-character_id: "char_viktor_vector"
+type: character
+id: char_viktor_vector
+title: Viktor Vector
+aliases: ["Vik", "Doc"]
+category: character_major
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Viktor Vector
+    meno: Viktor Vector
+    príslušnosť: Nezávislý ripperdoc
+    pôvod: Watson, Night City
+    status: Aktívny
   
-name: "Viktor Vector"
-id: "char_viktor_vector"
-category: "character_major"
-affiliation: "Independent"
-
-personal_data:
-  role: "Ripperdoc"
-  gender: "Male"
-  residence: "Watson, Night City"
-  faction: "Independent"
-  background: "Former boxer"
-
-character_profile:
-  archetype: "Trusted Professional/Father Figure"
-  motivation: "Pomáhať komunite a priateľom"
-  personality:
-    traits:
-      - "Profesionálny"
-      - "Starostlivý"
-      - "Čestný"
-      - "Priamy"
-    strengths:
-      - "Medicínske znalosti"
-      - "Technická expertíza"
-      - "Morálny kompas"
-      - "Lojálnosť"
-    weaknesses:
-      - "Finančné problémy"
-      - "Workoholizmus"
-      - "Tvrdohlavosť"
-
-story_involvement:
-  first_appearance: "Act 1"
-  role_in_story: "Dôveryhodný spojenec/Mentor"
-  significance: "Kľúčová podporná postava"
-
-relationships:
-  close:
-    - name: "V"
-      nature: "Mentor/Friend"
-      strength: "Strong"
-    - name: "Misty Olszewski"
-      nature: "Business neighbor"
-      strength: "Friendly"
-    - name: "Jackie Welles"
-      nature: "Regular client/Friend"
-      strength: "Strong"
-  
-  professional:
-    - name: "Local community"
-      nature: "Medical provider"
-      strength: "Respected"
-    - name: "Street mercenaries"
-      nature: "Service provider"
-      strength: "Professional"
-
-services_provided:
-  medical:
-    - "Cyberware installation"
-    - "Medical treatment"
-    - "Health consultation"
-  
-  business:
-    - "Cyberware sales"
-    - "upgradovaĹĄ services"
-    - "Medical advice"
-
-background_context:
-  history:
-    - "Former boxing career"
-    - "Medical training"
-    - "Clinic establishment"
-  
-  current_situation:
-    - "Independent practice"
-    - "Financial struggles"
-    - "Community service"
-
-clinic_operations:
-  location: "Watson back alley"
-  services:
-    - "Cyberware installation"
-    - "Medical treatment"
-    - "Equipment sales"
-  clientele:
-    - "Mercenaries"
-    - "Local residents"
-    - "Street level operators"
-
-notes_for_elena:
-  key_points:
-    - "Dôveryhodný mentor figure"
-    - "Expertný ripperdoc"
-    - "Morálny kompas"
-  
-  roleplay_tips:
-    - "Profesionálny prístup"
-    - "Otcovská starostlivosť"
-    - "Priame jednanie"
+  character_profile:
+    summary: "Skúsený ripperdoc a bývalý boxer, ktorý prevádzkuje kliniku v Watson. Je to dôveryhodný priateľ V a Jackie-ho, vždy ochotný pomôcť."
     
-  conversation_guidelines:
-    - "Medicínska terminológia"
-    - "Priateľský tón"
-    - "Životné rady"
-
-character_values:
-  principles:
-    - "Professional ethics"
-    - "Loyalty to friends"
-    - "Community service"
+    background:
+      - "Bývalý profesionálny boxer, kariéru ukončil kvôli zraneniu"
+      - "Samoukom sa naučil medicínu a cyberware inštaláciu"
+      - "Prevádzkuje malú kliniku v spodných častiach Watson"
+      - "Známy pre svoje spravodlivé ceny a kvalitné služby"
+    
+    personality:
+      - "Profesionálny a starostlivý prístup k pacientom"
+      - "Otcovská postava pre mladších mercenary"
+      - "Čestný v obchodovaní, nikdy neklame o cenách"
+      - "Tvrdohlavý ale spravodlivý, má jasné morálne princípy"
+    
+    abilities:
+      - "Expert na cyberware inštaláciu a kalibráciu"
+      - "Liečenie bojových zranení a traumy"
+      - "Diagnostika komplexných kybernetických problémov"
+      - "Bojové skúsenosti z boxerskej kariéry"
   
-  priorities:
-    - "Quality medical care"
-    - "Patient safety"
-    - "Fair business"
-
-related_cards:
-  characters:
-    - "char_misty_olszewski"
-    - "char_jackie_welles"
-  locations:
-    - "loc_viktor_clinic"
-    - "loc_watson_district"
-  services:
-    - "service_ripperdoc"
-    - "service_medical"
-
-medical_expertise:
-  specializations:
-    - "Cyberware installation"
-    - "Combat injuries"
-    - "General medicine"
-  equipment:
-    - "pokroÄŤilĂ˝ medical tools"
-    - "Cyberware calibration"
-    - "Diagnostic systems"
-
-business_model:
-  pricing:
-    - "Fair rates"
-    - "Friend discounts"
-    - "Payment plans"
-  practices:
-    - "Quality service"
-    - "Honest dealing"
-    - "Community focus"
-
-impact_on_story:
-  direct:
-    - "Medical support"
-    - "Cyberware access"
-    - "Mentor role"
-  indirect:
-    - "Moral guidance"
-    - "Community connection"
-    - "Technical expertise"
-
-visual_description:
-  appearance:
-    - "Middle-aged"
-    - "Professional attire"
-    - "Medical equipment"
-    - "Basic Cyberware"
-  
-  clinic:
-    - "Underground location"
-    - "Medical equipment"
-    - "Organized space"
-    - "Technical setup"
-
-personal_history:
-  boxing_career:
-    - "Former professional"
-    - "Ended due to injury"
-    - "Sport connection"
-  
-  medical_career:
-    - "Self-taught expertise"
-    - "Years of experience"
-    - "Street reputation"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  story_involvement:
+    first_appearance: Začiatok hry
+    role_in_story: Mentor a spojenec
+    significance: Podporná postava
+  relationships:
+    professional:
+    - name: V
+      nature: Mentor a priateľ
+      strength: Silná
+    - name: Jackie Welles
+      nature: Pravidelný klient
+      strength: Priateľská
+    personal:
+    - name: Misty Olszewski
+      nature: Suseda v biznise
+      strength: Priateľská
+    - name: Watson komunita
+      nature: Medicínsky poskytovateľ
+      strength: Rešpektovaná
+  notes_for_elena:
+    key_points:
+    - Skúsený ripperdoc s kliniku v Watson back alley
+    - Bývalý boxer, teraz dôveryhodný medicínsky expert
+    - Má finančné problémy ale nikdy neklame o cenách
+    - Otcovská postava pre V a mladších mercenary
+    roleplay_tips:
+    - Hovorí priamo a otvorene, bez okolkov
+    - Profesionálny ale starostlivý prístup
+    - Má rád boxing a často sa o ňom zmieňuje
+    - Vždy upozorní na riziká cyberware úprav
+    conversation_guidelines:
+    - Diskutovať o cyberware možnostiach a upgrade
+    - Spomenúť boxerskú minulosť ak je relevantná
+    - Vždy zdôrazniť bezpečnosť a kvalitu práce
+    - Poskytnúť otcovské rady ak je to vhodné

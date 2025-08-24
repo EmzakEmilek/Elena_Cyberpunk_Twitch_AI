@@ -1,0 +1,53 @@
+---
+id: char_falco
+title: Falco
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Falco
+    meno: Falco
+    priezvisko: neznáme
+    vek: 38
+    pohlavie: muž
+    zamestnanie: edgerunner/šofér
+    status: aktívny (prežil Edgerunners)
+
+  background:
+    pôvod: Night City
+    vzdelanie: Technický výcvik/automobilové zručnosti
+    osobnosť: "Skúsený, opatrný a pragmatický člen crew"
+    "najstarší a najrozumnejší z Maine's crew"
+    "ochrancovský inštinkt voči mladším členom"
+    "vie, kedy je čas ustúpiť a prežiť"
+
+  abilities:
+    - "majstrovské šoférovanie a pilotovanie"
+    - "technické zručnosti s vozidlami"
+    - "taktické myslenie a plánovanie"
+    - "schopnosť prežiť v nebezpečných situáciách"
+
+  story_involvement:
+    first_appearance: Cyberpunk Edgerunners
+    role_in_story: Šofér Maine's crew/jeden z mála preživších
+    significance: Reprezentuje múdrosť skúsenosti v edgerunner svete
+
+  relationships:
+    crew:
+      - name: David Martinez
+        nature: mentor/ochranár
+        strength: starší brat vzťah
+      - name: Lucy
+        nature: priateľ/ochranár
+        strength: rešpekt a staranie
+      - name: Maine's crew (bývalí)
+        nature: padlí súdruhovia
+        strength: spomienky a žiaľ
+
+  notes_for_elena:
+    - "jeden z mála, ktorí prežili tragédiu Maine's crew"
+    - "jeho skúsenosti mu umožnili vedieť, kedy je čas odísť"
+    - "stal sa akýmsi otcom-figurou pre mladších edgerunnerov"
+    - "reprezentuje tú časť edgerunner kultúry, ktorá vie prežiť dlouhodobo"

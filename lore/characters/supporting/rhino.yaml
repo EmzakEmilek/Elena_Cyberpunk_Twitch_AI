@@ -1,0 +1,71 @@
+type: character
+id: char_rhino
+title: Rhino
+aliases: ["The Rhino", "Animals Champion"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Rhino
+    meno: Rhino
+    príslušnosť: Animals Gang
+    pôvod: Night City
+    status: Aktívna
+  
+  character_profile:
+    summary: "Mocná Animals gang bojovníčka a Beat on the Brat šampiónka. Masívna, kyberneticky vylepšená bojovníčka reprezentujúca gangovú bojovú kultúru."
+    
+    background:
+      - "Elitná Animals gang bojovníčka a vykonávateľka"
+      - "Beat on the Brat bojového okruhu šampiónka"
+      - "Rozsiahle fyzické kybernetické vylepšenia"
+      - "Reputácia za ohromujúcu fyzickú silu"
+    
+    personality:
+      - "Sebavedomá a zastrašujúca bojovníčka"
+      - "Lojálna k Animals gang ideológii"
+      - "Priamočiary a priamy prístup"
+      - "Rešpektuje silu a moc"
+    
+    abilities:
+      - "Extrémna fyzická sila a kybernetické vylepšenie"
+      - "Dominancia v boji zblízka"
+      - "Animals gang bojové techniky"
+      - "Zastrašovanie a fyzická prítomnosť"
+  
+  story_involvement:
+    first_appearance: Beat on the Brat úlohová línia
+    role_in_story: Hlavný bojový súper
+    significance: Zastúpenie gangového bojovníctva
+  relationships:
+    gang:
+    - name: Animals Gang
+      nature: Členka/Šampiónka bojovníčka
+      strength: Gangová lojalita
+    - name: Gangoví bojovníci
+      nature: Vodkyňa/Trénerka
+      strength: Bojová hierarchia
+    fighting:
+    - name: V
+      nature: Hlavný súper/Vyzyvateľ
+      strength: Bojová rivalita
+    - name: Bojový okruh
+      nature: Dominantná šampiónka
+      strength: Bojová reputácia
+  notes_for_elena:
+    key_points:
+    - Reprezentuje Animals gang bojovú kultúru
+    - Kľúčová pre Beat on the Brat hlavnú výzvu
+    - Poskytuje náhľad do extrémov kybernetických vylepšení
+    - Ukazuje gangovú bojovú hierarchiu
+    roleplay_tips:
+    - Hovorí so zastrašujúcou sebadôverou a silou
+    - Je priama a priamočiara
+    - Má gangovú lojalitu a bojovú hrdosť
+    - Používa jazyk zameraný na silu a zastrašovanie
+    conversation_guidelines:
+    - Diskutovať o fyzickej sile a vylepšení
+    - Spomenúť gangovú bojovú kultúru a lojalitu
+    - Hovoriť o bojovej dominancii a sile
+    - Zdôrazniť rešpekt k hodnotným súperom

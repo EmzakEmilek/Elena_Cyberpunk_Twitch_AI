@@ -1,217 +1,166 @@
-﻿type: "technology"
-title: "Technical Ability Skill System"
-category: "system_skill"
-technology_id: "system_skill_technical"
-
+type: technology
+title: Technical Ability Skill System
+category: system_skill
+technology_id: system_skill_technical
 content:
-  summary: ""
-  
-name: "Technical Ability Skill System"
-id: "system_skill_technical"
-category: "system_skill"
-
+  summary: ''
+name: Technical Ability Skill System
+id: system_skill_technical
 system_overview:
-  description: "Systém pre technické znalosti a crafting"
+  description: Systém pre technické znalosti a crafting
   core_aspects:
-    - "Crafting ability"
-    - "Technical knowledge"
-    - "Engineering skills"
-    - "Equipment handling"
-
+  - Crafting ability
+  - Technical knowledge
+  - Engineering skills
+  - Equipment handling
 core_features:
   technical:
-    - "Item crafting"
-    - "Equipment repair"
-    - "Tech analysis"
-    - "System hacking"
-  
+  - Item crafting
+  - Equipment repair
+  - Tech analysis
+  - System hacking
   crafting:
-    - "Weapon creation"
-    - "Armor making"
-    - "Item upgrades"
-    - "Resource management"
-
+  - Weapon creation
+  - Armor making
+  - Item upgrades
+  - Resource management
 skill_progression:
   levels:
-    - name: "Novice"
-      requirements: "0-5 points"
-      benefits: "Basic crafting"
-    - name: "Adept"
-      requirements: "6-10 points"
-      benefits: "Better items"
-    - name: "Expert"
-      requirements: "11-15 points"
-      benefits: "pokroÄŤilĂ˝ tech"
-    - name: "Master"
-      requirements: "16-20 points"
-      benefits: "Master crafting"
-
+  - name: Novice
+    requirements: 0-5 points
+    benefits: Basic crafting
+  - name: Adept
+    requirements: 6-10 points
+    benefits: Better items
+  - name: Expert
+    requirements: 11-15 points
+    benefits: pokroÄŤilĂ˝ tech
+  - name: Master
+    requirements: 16-20 points
+    benefits: Master crafting
 perk_system:
   categories:
     crafting:
-      - name: "Master Smith"
-        effect: "Better weapon crafting"
-      - name: "Armor Expert"
-        effect: "Enhanced armor making"
-      - name: "Resource Saver"
-        effect: "Efficient crafting"
-    
+    - name: Master Smith
+      effect: Better weapon crafting
+    - name: Armor Expert
+      effect: Enhanced armor making
+    - name: Resource Saver
+      effect: Efficient crafting
     technical:
-      - name: "Tech Wizard"
-        effect: "Better hacking"
-      - name: "Engineer"
-        effect: "pokroÄŤilĂ˝ repairs"
-      - name: "Innovator"
-        effect: "Unique upgrades"
-
+    - name: Tech Wizard
+      effect: Better hacking
+    - name: Engineer
+      effect: pokroÄŤilĂ˝ repairs
+    - name: Innovator
+      effect: Unique upgrades
 notes_for_elena:
   key_points:
-    - "Technical skills"
-    - "Crafting system"
-    - "Equipment knowledge"
-  
-  roleplay_tips:
-    - "Technical expertise"
-    - "Crafting focus"
-    - "Engineering mind"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Technical terms"
-    - "Crafting language"
-    - "Engineering concepts"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 gameplay_elements:
   primary:
-    - "Crafting ability"
-    - "Repair skill"
-    - "Tech knowledge"
-    - "Resource use"
-  
+  - Crafting ability
+  - Repair skill
+  - Tech knowledge
+  - Resource use
   secondary:
-    - "Item quality"
-    - "Success chance"
-    - "Resource efficiency"
-
+  - Item quality
+  - Success chance
+  - Resource efficiency
 skill_applications:
   crafting:
-    - "Item creation"
-    - "Equipment repair"
-    - "Upgrades"
-  
+  - Item creation
+  - Equipment repair
+  - Upgrades
   technical:
-    - "System hacking"
-    - "Tech analysis"
-    - "Engineering tasks"
-
+  - System hacking
+  - Tech analysis
+  - Engineering tasks
 progression_mechanics:
   experience:
-    - "Crafting items"
-    - "Making repairs"
-    - "Tech work"
-  
+  - Crafting items
+  - Making repairs
+  - Tech work
   rewards:
-    - "Skill points"
-    - "Perk unlocks"
-    - "Crafting recipes"
-
+  - Skill points
+  - Perk unlocks
+  - Crafting recipes
 related_systems:
   skills:
-    - "system_skill_intelligence"
-    - "system_skill_cool"
+  - system_skill_intelligence
+  - system_skill_cool
   mechanics:
-    - "system_mechanics_crafting"
-    - "system_mechanics_inventory"
-
+  - system_mechanics_crafting
+  - system_mechanics_inventory
 ui_elements:
   displays:
-    - "Crafting menu"
-    - "Resource list"
-    - "Tech stats"
-  
+  - Crafting menu
+  - Resource list
+  - Tech stats
   indicators:
-    - "Success chance"
-    - "Quality level"
-    - "Resource needs"
-
+  - Success chance
+  - Quality level
+  - Resource needs
 balance_considerations:
   advantages:
-    - "Item creation"
-    - "Self-sufficiency"
-    - "Custom gear"
-  
+  - Item creation
+  - Self-sufficiency
+  - Custom gear
   limitations:
-    - "Resource needs"
-    - "Time investment"
-    - "Skill requirements"
-
+  - Resource needs
+  - Time investment
+  - Skill requirements
 synergy_effects:
   skills:
-    - "Intelligence boost"
-    - "Cool benefits"
-    - "Combat support"
-  
+  - Intelligence boost
+  - Cool benefits
+  - Combat support
   attributes:
-    - "Crafting quality"
-    - "Tech power"
-    - "Resource use"
-
+  - Crafting quality
+  - Tech power
+  - Resource use
 advancement_paths:
   crafting:
-    - "Weapon smith"
-    - "Armor maker"
-    - "upgradovaĹĄ specialist"
-  
+  - Weapon smith
+  - Armor maker
+  - upgradovaĹĄ specialist
   technical:
-    - "System expert"
-    - "Tech wizard"
-    - "Engineer pro"
-
+  - System expert
+  - Tech wizard
+  - Engineer pro
 customization_options:
   builds:
-    - "Pure crafter"
-    - "Tech specialist"
-    - "Hybrid engineer"
-  
+  - Pure crafter
+  - Tech specialist
+  - Hybrid engineer
   specializations:
-    - "Weapon focus"
-    - "Armor expert"
-    - "Tech master"
-
+  - Weapon focus
+  - Armor expert
+  - Tech master
 resource_management:
   materials:
-    - "Basic resources"
-    - "vzĂˇcny components"
-    - "Special items"
-  
+  - Basic resources
+  - vzĂˇcny components
+  - Special items
   efficiency:
-    - "Resource use"
-    - "Time management"
-    - "Quality control"
-
+  - Resource use
+  - Time management
+  - Quality control
 crafting_specializations:
   weapons:
-    - "Ranged crafting"
-    - "Melee making"
-    - "Special arms"
-  
+  - Ranged crafting
+  - Melee making
+  - Special arms
   armor:
-    - "Light gear"
-    - "Heavy protection"
-    - "Special suits"
-
-
+  - Light gear
+  - Heavy protection
+  - Special suits
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

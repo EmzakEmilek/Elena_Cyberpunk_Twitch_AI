@@ -1,223 +1,168 @@
-﻿type: "technology"
-title: "Cybernetic Legs"
-category: "system_cyberware"
-technology_id: "system_cyberware_legs"
-
+type: technology
+title: Cybernetic Legs
+category: system_cyberware
+technology_id: system_cyberware_legs
 content:
-  summary: ""
-  
-name: "Cybernetic Legs"
-id: "system_cyberware_legs"
-category: "system_cyberware"
-
+  summary: ''
+name: Cybernetic Legs
+id: system_cyberware_legs
 system_overview:
-  description: "Kybernetické vylepšenia pre dolné končatiny"
+  description: Kybernetické vylepšenia pre dolné končatiny
   core_functions:
-    - "Enhanced mobility"
-    - "Jump augmentation"
-    - "Speed boost"
-    - "Stability control"
-
+  - Enhanced mobility
+  - Jump augmentation
+  - Speed boost
+  - Stability control
 core_features:
   movement:
-    - "Speed enhancement"
-    - "Jump boost"
-    - "Balance control"
-    - "Impact absorption"
-  
+  - Speed enhancement
+  - Jump boost
+  - Balance control
+  - Impact absorption
   combat:
-    - "Kick power"
-    - "Dodge ability"
-    - "Landing control"
-    - "Tactical movement"
-
+  - Kick power
+  - Dodge ability
+  - Landing control
+  - Tactical movement
 enhancement_capabilities:
   primary:
-    - "Movement speed"
-    - "Jump height"
-    - "Landing safety"
-    - "Balance precision"
-  
+  - Movement speed
+  - Jump height
+  - Landing safety
+  - Balance precision
   secondary:
-    - "Combat mobility"
-    - "Stealth movement"
-    - "Terrain handling"
-    - "Special moves"
-
+  - Combat mobility
+  - Stealth movement
+  - Terrain handling
+  - Special moves
 hardware_components:
   structural:
-    - "Synthetic muscle"
-    - "Titanium frame"
-    - "Shock absorbers"
-  
+  - Synthetic muscle
+  - Titanium frame
+  - Shock absorbers
   systems:
-    - "Control unit"
-    - "Power supply"
-    - "Hydraulics"
-
+  - Control unit
+  - Power supply
+  - Hydraulics
 notes_for_elena:
   key_points:
-    - "Movement enhancement"
-    - "Combat mobility"
-    - "Special abilities"
-  
-  roleplay_tips:
-    - "Enhanced agility"
-    - "Movement prowess"
-    - "Physical capability"
-    
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "Movement terms"
-    - "Technical aspects"
-    - "Combat mobility"
-
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
+  roleplay_aspects:
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu
 performance_levels:
   basic:
-    description: "Standard enhancement"
-    capabilities: "Basic mobility"
-    limitations: "Limited power"
-  
+    description: Štandardizovaná doplniteľnosť
+    capabilities: Basic mobility
+    limitations: Limited power
   pokroÄŤilĂ˝:
-    description: "Enhanced systems"
-    capabilities: "pokroÄŤilĂ˝ features"
-    limitations: "Higher demands"
-  
+    description: Zvýhodnené systémy
+    capabilities: pokroÄŤilĂ˝ features
+    limitations: Higher demands
   premium:
-    description: "Maximum capability"
-    capabilities: "Full feature set"
-    limitations: "High maintenance"
-
+    description: maximálna zmogljivost
+    capabilities: Full feature set
+    limitations: High maintenance
 integration_aspects:
   physical:
-    - "Muscle interface"
-    - "Bone mounting"
-    - "Nerve connection"
-  
+  - Muscle interface
+  - Bone mounting
+  - Nerve connection
   control:
-    - "Neural linking"
-    - "Motion control"
-    - "Balance systems"
-
+  - Neural linking
+  - Motion control
+  - Balance systems
 skill_benefits:
   mobility:
-    - "Running speed"
-    - "Jump height"
-    - "Balance control"
-  
+  - Running speed
+  - Jump height
+  - Balance control
   combat:
-    - "Dodge ability"
-    - "Kick power"
-    - "Movement tactics"
-
+  - Dodge ability
+  - Kick power
+  - Movement tactics
 gameplay_impact:
   advantages:
-    - "Enhanced mobility"
-    - "Combat options"
-    - "Exploration ability"
-  
+  - Enhanced mobility
+  - Combat options
+  - Exploration ability
   limitations:
-    - "Power consumption"
-    - "Maintenance needs"
-    - "Noise generation"
-
+  - Power consumption
+  - Maintenance needs
+  - Noise generation
 ui_elements:
   status:
-    - "Power levels"
-    - "System health"
-    - "Mode indicators"
-  
+  - Power levels
+  - System health
+  - Mode indicators
   control:
-    - "Mode selection"
-    - "Power settings"
-    - "Function control"
-
+  - Mode selection
+  - Power settings
+  - Function control
 related_systems:
   Cyberware:
-    - "system_cyberware_operating_system"
-    - "system_cyberware_skeleton"
+  - system_cyberware_operating_system
+  - system_cyberware_skeleton
   combat:
-    - "system_combat_melee"
-    - "system_combat_stealth"
-
+  - system_combat_melee
+  - system_combat_stealth
 maintenance_requirements:
   routine:
-    - "Joint check"
-    - "Power verification"
-    - "Calibration"
-  
+  - Joint check
+  - Power verification
+  - Calibration
   repair:
-    - "Damage fixing"
-    - "Part replacement"
-    - "System tuning"
-
+  - Damage fixing
+  - Part replacement
+  - System tuning
 movement_features:
   standard:
-    - "Enhanced running"
-    - "Better jumping"
-    - "Stable landing"
-  
+  - Enhanced running
+  - Better jumping
+  - Stable landing
   special:
-    - "Double jump"
-    - "Charge jump"
-    - "Air dash"
-
+  - Double jump
+  - Charge jump
+  - Air dash
 terrain_handling:
   surfaces:
-    - "Urban terrain"
-    - "Rough ground"
-    - "Wall running"
-  
+  - Urban terrain
+  - Rough ground
+  - Wall running
   conditions:
-    - "Wet surfaces"
-    - "Loose ground"
-    - "Vertical surfaces"
-
+  - Wet surfaces
+  - Loose ground
+  - Vertical surfaces
 safety_features:
   protection:
-    - "Impact protection"
-    - "Overload prevention"
-    - "Emergency stop"
-  
+  - Impact protection
+  - Overload prevention
+  - Emergency stop
   recovery:
-    - "Backup systems"
-    - "Fail-safes"
-    - "Emergency mode"
-
+  - Backup systems
+  - Fail-safes
+  - Emergency mode
 upgrade_options:
   hardware:
-    - "Power zvĂ˝ĹˇiĹĄ"
-    - "Jump vylepĹˇiĹĄ"
-    - "Speed boost"
-  
+  - Power zvĂ˝ĹˇiĹĄ
+  - Jump vylepĹˇiĹĄ
+  - Speed boost
   software:
-    - "Control updates"
-    - "Efficiency patches"
-    - "New features"
-
+  - Control updates
+  - Efficiency patches
+  - New features
 customization_aspects:
   appearance:
-    - "Design style"
-    - "Color schemes"
-    - "Surface finish"
-  
+  - Design style
+  - Color schemes
+  - Surface finish
   function:
-    - "Special moves"
-    - "Custom features"
-    - "Unique abilities"
-
-
+  - Special moves
+  - Custom features
+  - Unique abilities
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null

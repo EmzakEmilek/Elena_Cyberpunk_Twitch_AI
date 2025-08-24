@@ -1,0 +1,71 @@
+type: character
+id: char_oda
+title: Oda
+aliases: ["Sandayu Oda", "Cyborg Ninja"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Oda
+    meno: Sandayu Oda
+    príslušnosť: Arasaka Corporation
+    pôvod: Japan
+    status: Aktívny
+  
+  character_profile:
+    summary: "Elitný Arasaka kyber-vylepšený bodyguard s rozsiahlymi kybernetickými modifikáciami. Hanako osobná ochrana a lojálny korporátny vynucovateľ."
+    
+    background:
+      - "Vysoko modifikovaný korporátny kyborg assassin"
+      - "Hanako Arasaka oddaný osobný bodyguard"
+      - "Elitný Arasaka protispravodajský operatívec"
+      - "Prikázaný k tradičnému japonskému kódexu bojovníka"
+    
+    personality:
+      - "Absolútne lojálny k Arasaka Corporation"
+      - "Čestný bojovník s prísnym kódexom etiky"
+      - "Ticho profesionálny a efektívny zabijak"
+      - "Hlboko rešpektuje tradičné japonské hodnoty"
+    
+    abilities:
+      - "Rozsiahly balík kybernetických vylepšení"
+      - "Majster skrývania a infiltrácie"
+      - "Pokročilé bojové reflexy a precíznosť"
+      - "Odbornosť v korporátnych bezpečnostných protokoloch"
+  
+  story_involvement:
+    first_appearance: Hanako súvisiace misie
+    role_in_story: Korporátny vynucovateľ/Boss fight
+    significance: Reprezentácia Arasaka moci
+  relationships:
+    corporate:
+    - name: Hanako Arasaka
+      nature: Chránená/Zamestnávateľka
+      strength: Absolútna lojalita
+    - name: Arasaka Corporation
+      nature: Zamestnávateľ/Identita
+      strength: Neochvejná oddanosť
+    adversarial:
+    - name: V
+      nature: Korporátna hrozba
+      strength: Profesionálny antagonista
+    - name: Takemura
+      nature: Bývalý kolega
+      strength: Rešpektné súperenie
+  notes_for_elena:
+    key_points:
+    - Reprezentuje vrchol Arasaka technológie a výcviku
+    - Symbolizuje korporátnu lojalitu vs individuálnu slobodu
+    - Poskytuje pohľad na Arasaka bezpečnostné operácie
+    - Demonštruje tradičnú česť v cyberpunk svete
+    roleplay_tips:
+    - Hovorí s formálnym japonským korporátnym rešpektom
+    - Je tichý ale smrteľne efektívny
+    - Má neochvejnú lojalitu k Arasaka
+    - Používa tradičné bojovnícke metafory
+    conversation_guidelines:
+    - Diskutovať o korporátnej povinnosti a cti
+    - Spomenúť tradičné japonské hodnoty
+    - Hovoriť o filozofii kybernetických vylepšení
+    - Zdôrazniť dôležitosť lojality a služby

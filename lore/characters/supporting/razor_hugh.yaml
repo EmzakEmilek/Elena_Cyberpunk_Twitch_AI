@@ -1,0 +1,71 @@
+type: character
+id: char_razor_hugh
+title: Razor Hugh
+aliases: ["The Champion", "Circuit King"]
+category: character_supporting
+lang: sk
+
+content:
+  personal_data:
+    názov: Razor Hugh
+    meno: Razor Hugh
+    príslušnosť: Independent Fighter
+    pôvod: Night City
+    status: Aktívny
+  
+  character_profile:
+    summary: "Vládnuci šampión Beat on the Brat bojového okruhu. Elitný podsvetný boxer reprezentujúci vrchol pouličnej bojovej kultúry."
+    
+    background:
+      - "Neporazený šampión Beat on the Brat okruhu"
+      - "Elitný podsvetný bojový veterán"
+      - "Reprezentuje najvyššiu úroveň pouličného boja"
+      - "Legendárna reputácia v bojovej komunite"
+    
+    personality:
+      - "Sebavedomý šampión so zaslúženou aroganciou"
+      - "Rešpektuje hodnotných vyzyvatov"
+      - "Profesionálny prístup k bojovému remeslu"
+      - "Mentorská postava pre začínajúcich bojovníkov"
+    
+    abilities:
+      - "Majstrovské bojové schopnosti zblízka"
+      - "Pokročilé boxerské techniky a stratégia"
+      - "Šampionátová fyzická kondícia"
+      - "Vodcovstvo a vplyv v bojovom okruhu"
+  
+  story_involvement:
+    first_appearance: Beat on the Brat finálny boj
+    role_in_story: Ultimátna bojová výzva
+    significance: Zastúpenie bojového majstrovstva
+  relationships:
+    fighting:
+    - name: V
+      nature: Ultimátny vyzyvač/Rival
+      strength: Šampionátová rivalita
+    - name: Bojový okruh
+      nature: Šampión/Vodca
+      strength: Dominancia okruhu
+    community:
+    - name: Podsvetní bojovníci
+      nature: Mentor/Príklad
+      strength: Bojová inšpirácia
+    - name: Fanúšikovia bojov
+      nature: Celebrita/Hrdina
+      strength: Šampionátová sláva
+  notes_for_elena:
+    key_points:
+    - Reprezentuje vrchol podsvetného bojovníctva
+    - Kľúčový pre Beat on the Brat finálnu výzvu
+    - Poskytuje náhľad do bojového majstrovstva
+    - Ukazuje rešpekt a mentorstvo v bojových športoch
+    roleplay_tips:
+    - Hovorí so sebadôverou šampióna a zaslúženým rešpektom
+    - Je profesionálny a rešpektujúci k hodnotným súperom
+    - Má mentorovskú múdrosť o bojovaní
+    - Používa šampionátovú bojovú terminológiu
+    conversation_guidelines:
+    - Diskutovať o bojovom majstrovstve a technikách
+    - Spomenúť šampionátovú zodpovednosť a dedičstvo
+    - Hovoriť o rešpekte k bojovým športom
+    - Zdôrazniť mentorstvo a bojovú múdrosť

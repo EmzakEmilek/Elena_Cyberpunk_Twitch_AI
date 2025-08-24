@@ -1,66 +1,34 @@
-﻿type: "economy"
-title: "Power Weapons Technology"
-category: ""
-economy_id: ""
-
-content:
-  summary: "High-impact firearms using electromagnetic technology to propel ammunition"
-  
-name: Power Weapons Technology
 type: weapon_system
-description: High-impact firearms using electromagnetic technology to propel ammunition
-details: |
-  Power Weapons represent the backbone of Night City's firearms market, utilizing electromagnetic technology to deliver devastating kinetic impacts.
-
-  Core Technology:
-  - Electromagnetic propulsion system
-  - High-velocity projectiles
-  - Kinetic energy focus
-  - Traditional ammunition base
-
-  Key Features:
-  - Superior stopping power
-  - High penetration capability
-  - Reliable in most conditions
-  - Compatible with standard ammunition
-
-  Advantages:
-  - No special Cyberware required
-  - Effective against most armor types
-  - Widely available ammunition
-  - Familiar operation to most users
-
-  Disadvantages:
-  - Significant recoil
-  - Limited smart features
-  - Higher power consumption
-  - Noise signature
-
+title: 'Power Weapons Technology '
+category: ''
+economy_id: ''
+content:
+  summary: Zbrane zvisokih impaktov, ktoré používajú elektromagnetické technológie
+    na odpaľovanie streliva.
+name: Power Weapons Technology
+description: Vysokozákluzové zbrane, ktoré používajú elektromagnetické technológie
+  na odpaľovanie munície
+details: '- Elektromagnetni sistem za poganjanje'
 importance: Standard weapon technology in Night City
 common_locations:
-  - Local gun shops
-  - Police forces
-  - Security teams
-  - Civilian market
+- Local gun shops
+- Police forces
+- Security teams
+- Civilian market
 relationships:
-  - Ammunition Types
-  - Weapon Maintenance
-  - Street Weapons beĹľnĂ˝ Types
-  - Power Pistol Mechanics
-
-
+- Ammunition Types
+- Weapon Maintenance
+- Street Weapons beĹľnĂ˝ Types
+- Power Pistol Mechanics
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

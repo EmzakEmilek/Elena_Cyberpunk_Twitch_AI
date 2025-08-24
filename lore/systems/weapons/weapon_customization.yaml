@@ -1,74 +1,41 @@
-﻿type: "economy"
-title: "Weapon Customization"
-category: ""
-economy_id: ""
-
-content:
-  summary: "Methods and options for modifying and customizing weapons"
-  
-name: Weapon Customization
 type: weapon_system
-description: Methods and options for modifying and customizing weapons
-details: |
-  Weapon customization encompasses the various ways weapons can be modified and enhanced for specific needs.
-
-  Customization Areas:
-  - Performance
-    * Barrel modifications
-    * Trigger mechanisms
-    * Recoil systems
-  - Accessories
-    * Scopes and sights
-    * Grips and stocks
-    * Magazine extensions
-  - Special Features
-    * Silencers/suppressors
-    * Smart link integration
-    * Custom ammunition
-
-  beĹľnĂ˝ Modifications:
-  - Accuracy improvements
-  - Damage enhancement
-  - Handling upgrades
-  - Aesthetic changes
-
-  Legal Considerations:
-  - Licensed modifications
-  - Restricted changes
-  - nelegĂˇlny alterations
-  - Documentation requirements
-
-  Service Providers:
-  - Licensed gunsmiths
-  - Weapon shops
-  - Underground modders
-  - Corporate technicians
-
+title: 'Weapon Customization '
+category: ''
+economy_id: ''
+content:
+  summary: metódy in možnosti za modifikacijo in prilagajanje orožja
+name: Weapon Customization
+description: metódy in možnosti za modifikacijo in prilagajanje orožja
+details: "Weapon customization encompasses the various ways weapons can be modified\
+  \ and enhanced for specific needs.\n\nCustomization Areas:\n- Performance\n  * Barrel\
+  \ modifications\n  * Trigger mechanisms\n  * Recoil systems\n- Accessories\n  *\
+  \ Scopes and sights\n  * Grips and stocks\n  * Magazine extensions\n- Special Features\n\
+  \  * Silencers/suppressors\n  * Smart link integration\n  * Custom ammunition\n\n\
+  beĹľnĂ˝ Modifications:\n- Accuracy improvements\n- Damage enhancement\n- Handling\
+  \ upgrades\n- Aesthetic changes\n\nLegal Considerations:\n- Licensed modifications\n\
+  - Restricted changes\n- nelegĂˇlny alterations\n- Documentation requirements\n\n\
+  Service Providers:\n- Licensed gunsmiths\n- Weapon shops\n- Underground modders\n\
+  - Corporate technicians\n"
 importance: Essential aspect of weapon ownership
 common_locations:
-  - Gun shops
-  - Weapon workshops
-  - Underground shops
-  - Corporate armories
+- Gun shops
+- Weapon workshops
+- Underground shops
+- Corporate armories
 relationships:
-  - Weapon Manufacturers
-  - Black Market Weapons
-  - Ammunition Types
-  - Weapon Maintenance
-
-
+- Weapon Manufacturers
+- Black Market Weapons
+- Ammunition Types
+- Weapon Maintenance
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

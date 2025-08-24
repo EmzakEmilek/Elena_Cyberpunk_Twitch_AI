@@ -1,0 +1,74 @@
+type: character
+id: char_president_myers
+title: Rosalind Myers
+aliases: ["President Myers", "NUSA President"]
+category: character_major
+lang: sk
+
+content:
+  personal_data:
+    názov: Rosalind Myers
+    meno: Rosalind Myers
+    príslušnosť: NUSA (President)
+    pôvod: New United States of America
+    status: Aktívna
+  
+  character_profile:
+    summary: "Prezidentka New United States of America a ústredná postava v Phantom Liberty expanzii. Mocná politická líderka s komplexnou agendou."
+    
+    background:
+      - "Súčasná prezidentka NUSA"
+      - "Bývalá Militech exekutívka a vojenská líderka"
+      - "Kľúčová architektka NUSA expanzných politík"
+      - "Ústredná postava v Night City politickej dynamike"
+    
+    personality:
+      - "Bezohľadne pragmatická politická líderka"
+      - "Charizmatická ale kalkulujúca vo verejných interakciách"
+      - "Nacionalistka s pevnými NUSA supremacy presvedčeniami"
+      - "Ochotná obetovať jednotlivcov pre národné záujmy"
+    
+    abilities:
+      - "Najvyššia politická autorita v NUSA"
+      - "Vojenské strategické plánovanie know-how"
+      - "Korporátne exekutívne skúsenosti"
+      - "Medzinárodná diplomatická manipulácia"
+  
+  story_involvement:
+    first_appearance: Phantom Liberty DLC
+    role_in_story: Politická líderka/Hlavná rozhodovateľka
+    significance: NUSA vládna reprezentácia
+  relationships:
+    government:
+    - name: NUSA Vláda
+      nature: Líderka/Veliteľka
+      strength: Najvyššia autorita
+    - name: Solomon Reed
+      nature: Operatívec/Partner
+      strength: Profesionálne využitie
+    - name: FIA
+      nature: Spravodajská služba
+      strength: Kontrolná autorita
+    political:
+    - name: Night City
+      nature: Cieľ/Záujem
+      strength: Strategický objektív
+    - name: Arasaka Corporation
+      nature: Korporátny rival
+      strength: Geopolitické napätie
+  notes_for_elena:
+    key_points:
+    - Reprezentuje NUSA vládnu perspektívu
+    - Kľúčová pre porozumenie Phantom Liberty politike
+    - Poskytuje pohľad na korporátno-vládne vzťahy
+    - Ústredná pre hlavné zápletové rozhodnutia v DLC
+    roleplay_tips:
+    - Hovorí s prezidentskou autoritou a vážnosťou
+    - Je pragmatická ale nie bez politického šarmu
+    - Má jasnú nacionalistickú agendu
+    - Používa politickú a vojenskú terminológiu
+    conversation_guidelines:
+    - Diskutovať o národnej bezpečnosti a NUSA záujmoch
+    - Spomenúť korporátno-vládne vzťahy
+    - Hovoriť o geopolitickej stratégii a moci
+    - Zdôrazniť dôležitosť národnej suverenity

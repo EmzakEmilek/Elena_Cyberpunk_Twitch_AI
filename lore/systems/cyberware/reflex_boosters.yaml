@@ -1,66 +1,79 @@
-﻿type: "technology"
-title: "Reflex Boosters"
-category: ""
-technology_id: ""
-
-content:
-  summary: "Neural and muscular enhancements for improved reaction time"
-  
-name: Reflex Boosters
 type: Cyberware
-description: Neural and muscular enhancements for improved reaction time
-details: |
-  Reflex boosters vylepĹˇiĹĄ natural reaction speeds through integrated neural and muscular modifications.
+title: 'Reflex Boosters '
+category: ''
+technology_id: ''
+content:
+  summary: Neurálne a músculečné vylepšenia reakcijskej doby
+name: Reflex Boosters
+description: Neurálne inštalácie a svalné uvedomljenosti za izboljšan čas reakcije
+details: 'Reflex boosters vylepĹˇiĹĄ natural reaction speeds through integrated neural
+  and muscular modifications.
+
 
   Core Systems:
+
   - Neural accelerators
+
   - Muscle fiber enhancement
+
   - Synaptic boosters
+
   - Response optimization
 
+
   Enhancement Levels:
+
   - Basic enhancement
+
   - Professional grade
+
   - Military spec
+
   - Experimental tier
 
+
   Applications:
+
   - Combat reactions
+
   - Sports performance
+
   - Vehicle operation
+
   - Emergency response
 
+
   Side Effects:
+
   - Increased metabolism
+
   - Enhanced perception
+
   - Time dilation
+
   - Sensory overload
 
+  '
 importance: Critical combat and performance enhancement
 common_locations:
-  - Combat specialists
-  - Professional athletes
-  - Security forces
-  - Racing circuits
+- Combat specialists
+- Professional athletes
+- Security forces
+- Racing circuits
 relationships:
-  - Nervous System Upgrades
-  - Sandevistan Technology
-  - Combat Implants
-  - Neural Implants
-
-
+- Nervous System Upgrades
+- Sandevistan Technology
+- Combat Implants
+- Neural Implants
 technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
+  last_updated: '2025-08-24'
+  translation_status: automated_bulk_process
+  language: slovak
+related_cards: null
 notes_for_elena:
   key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
+  - Automaticky preložené - skontroluj presnosĹĄ
   conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
+  - PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termínmi v EN
   roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+  - ZĂˇkladnĂ© informĂˇcie pre konverzáciaĂˇciu

@@ -1,202 +1,69 @@
-﻿type: "character"
-title: "Yorinobu Arasaka"
-category: "character_major"
-character_id: "char_yorinobu_arasaka"
-
+type: character
+id: char_yorinobu_arasaka
+title: Yorinobu Arasaka
+aliases: []
+category: character_major
+lang: sk
 content:
-  summary: ""
+  personal_data:
+    názov: Yorinobu Arasaka
+    meno: Yorinobu Arasaka
+    príslušnosť: Arasaka Corporation (komplikované)
+    pôvod: Arasaka dynastie, Tokyo
+    status: Aktívny CEO
   
-name: "Yorinobu Arasaka"
-id: "char_yorinobu_arasaka"
-category: "character_major"
-affiliation: "Arasaka Corporation"
-
-personal_data:
-  role: "Arasaka Heir/Rebel"
-  gender: "Male"
-  residence: "Night City/Tokyo"
-  faction: "Arasaka (complicated)"
-
-character_profile:
-  archetype: "Rebel Prince/skrytĂ˝ Revolutionary"
-  motivation: "Zničiť Arasaka zvnútra"
-  personality:
-    traits:
-      - "Rebelský"
-      - "Manipulatívny"
-      - "Komplexný"
-      - "Odhodlaný"
-    strengths:
-      - "Strategické myslenie"
-      - "Adaptabilita"
-      - "Charizma"
-      - "Inside knowledge"
-    weaknesses:
-      - "Rodinné traumy"
-      - "Vnútorné konflikty"
-      - "Trust issues"
-
-story_involvement:
-  first_appearance: "The Heist"
-  role_in_story: "Key Antagonist/skrytĂ˝ Ally"
-  significance: "Vrah Sabura/Tajný rebel"
-
-relationships:
-  family:
-    - name: "Saburo Arasaka"
-      relation: "Otec"
-      nature: "Antagonistická"
-    - name: "Hanako Arasaka"
-      relation: "Sestra"
-      nature: "Komplikovaná"
-  
-  professional:
-    - name: "Arasaka Board"
-      nature: "Povrchná lojalita"
-    - name: "Steel Dragons"
-      nature: "Bývalé spojenectvo"
-
-character_development:
-  arc_type: "Complex Anti-Hero"
-  key_moments:
-    - "Vražda Sabura"
-    - "Prevzatie Arasaka"
-    - "Odhalenie pravých motívov"
-
-visual_description:
-  appearance:
-    - "Moderný biznis štýl"
-    - "Cyber vylepšenia"
-    - "Mix japonského a západného štýlu"
-    - "Charizmatická prezencia"
-  style:
-    - "Corporate rebel"
-    - "High fashion"
-    - "Power dresser"
-
-power_dynamics:
-  official:
-    - "Arasaka heir"
-    - "Corporate executive"
-    - "verejnĂ˝ face"
-  skrytĂ˝:
-    - "Revolutionary"
-    - "Saboteur"
-    - "Strategic planner"
-
-notes_for_elena:
-  key_points:
-    - "Komplexná motivácia"
-    - "Skrytá agenda"
-    - "Rodinné konflikty"
-  
-  roleplay_tips:
-    - "Balansovať verejnú a skrytú osobnosť"
-    - "Naznačovať hlbšie motívy"
-    - "Udržiavať mystériu"
+  character_profile:
+    summary: "Rebelský syn Sabura Arasaka, ktorý sa vrátil do korporácie s tajným plánom zničiť ju zvnútra. Bývalý zakladateľ gangu Steel Dragons, teraz dedič Arasaka Corporation."
     
-  conversation_guidelines:
-    - "Formálny v oficiálnych situáciách"
-    - "Skryté náznaky rebélie"
-    - "Komplexné odpovede"
-
-background_context:
-  history:
-    - "Založenie Steel Dragons"
-    - "Rebélia proti otcovi"
-    - "Návrat do Arasaka"
-  
-  motivation:
-    - "Zničiť Arasaka zvnútra"
-    - "Pomsta otcovi"
-    - "Systémová zmena"
-
-related_cards:
-  characters:
-    - "char_saburo_arasaka"
-    - "char_hanako_arasaka"
-  factions:
-    - "faction_arasaka"
-    - "faction_steel_dragons"
-  locations:
-    - "loc_konpeki_plaza"
-    - "loc_arasaka_tower"
-  quests:
-    - "mq_the_heist"
-
-rebellion_history:
-  steel_dragons:
-    - "Založenie gangu"
-    - "Anti-Arasaka aktivity"
-    - "Budovanie siete"
-  corporate:
-    - "Návrat do firmy"
-    - "Získavanie pozície"
-    - "Príprava prevratu"
-
-public_persona:
-  image:
-    - "Corporate heir"
-    - "Reformed rebel"
-    - "Business leader"
-  activities:
-    - "Corporate management"
-    - "verejnĂ˝ appearances"
-    - "Business deals"
-
-hidden_agenda:
-  goals:
-    - "Destroy Arasaka from within"
-    - "End corporate control"
-    - "Personal revenge"
-  methods:
-    - "Long-term infiltration"
-    - "Strategic positioning"
-    - "Careful manipulation"
-
-impact_on_story:
-  direct:
-    - "Saburo murder"
-    - "Arasaka destabilization"
-    - "Relic theft opportunity"
-  symbolic:
-    - "Corporate rebellion"
-    - "Family conflict"
-    - "skrytĂ˝ revolution"
-
-combat_capabilities:
-  training:
-    - "KorporĂˇtna bezpeÄŤnosĹĄ"
-    - "Martial arts"
-    - "Tactical planning"
-  equipment:
-    - "High-end Cyberware"
-    - "Corporate resources"
-    - "Personal security"
-
-philosophical_stance:
-  verejnĂ˝:
-    - "Corporate reform"
-    - "Modernization"
-    - "Progress"
-  private:
-    - "Anti-corporate revolution"
-    - "System destruction"
-    - "Personal vengeance"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+    background:
+      - "Bývalý zakladateľ gangu Steel Dragons v mladosti"
+      - "Dlho žil v exile, vzdialený od rodiny"
+      - "Vrátil sa do Arasaka Corporation s vlastnou agendou"
+      - "Zavraždil svojho otca Sabura kvôli ideologickým rozdielom"
+    
+    personality:
+      - "Rebelský duch zabalený v korporátnej maske"
+      - "Strategicky myslí, dlhodobo plánuje"
+      - "Komplikovaný vzťah k rodinnej tradícii"
+      - "Skrýva svoje pravé úmysly za kultivovaným správaním"
+    
+    abilities:
+      - "Hlboké znalosti Arasaka Corporation zvnútra"
+      - "Strategické plánovanie a manipulácia"
+      - "Charizmatické vedenie a presvedčovanie"
+      - "Kombinuje korporátne a street skúsenosti"
+  story_involvement:
+    first_appearance: The Heist
+    role_in_story: Kľúčový antagonista/Skrytý spojenec
+    significance: Vrah Sabura/Tajný rebel
+  relationships:
+    family:
+    - name: Saburo Arasaka
+      nature: Otec (zavraždený)
+      strength: Antagonistická
+    - name: Hanako Arasaka
+      nature: Sestra
+      strength: Komplikovaná
+    professional:
+    - name: Arasaka Board
+      nature: Povrchná lojalita
+      strength: Strategická
+    - name: Steel Dragons
+      nature: Bývalé spojenectvo
+      strength: Historická
+  notes_for_elena:
+    key_points:
+    - Vrah svojho otca Sabura pre osobné aj ideologické dôvody
+    - Tajný revolucionár, ktorý chce zničiť Arasaka zvnútra
+    - Kľúčová postava v príbehu V a Relic technológie
+    - Má aristokratické správanie s rebelským duchom
+    roleplay_tips:
+    - Hovorí kultivovane ale s podtónom rebélie
+    - Má komplikovaný vzťah k rodinnej tradícii
+    - Skrýva svoje pravé úmysly za korporátnou maskou
+    - Kombinuje filozofické úvahy s praktickými rozhodnutiami
+    conversation_guidelines:
+    - Kombinuje korporátnu reč s filozofickými úvahami
+    - Je opatrný s informáciami o svojich plánoch
+    - Diskutuje o budúcnosti technológie a spoločnosti
+    - Má aristokratické správanie ale chápe street kultúru

@@ -1,0 +1,59 @@
+---
+id: char_lucy
+title: Lucy
+lang: sk
+category: character_major
+---
+
+content:
+  personal_data:
+    názov: Lucy (Lucyna Kushinada)
+    meno: Lucyna
+    priezvisko: Kushinada
+    vek: 20
+    pohlavie: žena
+    zamestnanie: netrunner/edgerunner
+    status: aktívny
+
+  background:
+    pôvod: Neznámy (pravdepodobne Európa)
+    vzdelanie: Arasaka výcvik (nútený)/netrunner školenie
+    osobnosť: "Tichá, introverovaná ale mimoriadne talentovaná"
+    "traumatizovaná z detstva stráveného v Arasaka laboratóriách"
+    "túži po slobode a úniku na Mesiac"
+    "opatrná ale oddaná tým, ktorých miluje"
+
+  abilities:
+    - "elitné netrunner schopnosti"
+    - "špecializácia na prenikanie do Arasaka systémov"
+    - "pokročilé hacking a kybernetické bojové techniky"
+    - "schopnosť manipulovať s pamäťami"
+
+  story_involvement:
+    first_appearance: Cyberpunk Edgerunners
+    role_in_story: Hlavná ženská postava Edgerunners
+    significance: Reprezentuje túžbu po slobode v korporátnom svete
+
+  relationships:
+    romantic:
+      - name: David Martinez
+        nature: láska/partner
+        strength: hlboká romantická väzba
+    crew:
+      - name: Maine's crew
+        nature: spolupracovníci/rodina
+        strength: silná lojalita
+    enemies:
+      - name: Arasaka Corporation
+        nature: bývalý väziteľ/systémový nepriateľ
+        strength: smrteľná nenávisť
+    targets:
+      - name: Mesiac
+        nature: sen/únikový cieľ
+        strength: obsesívna túžba
+
+  notes_for_elena:
+    - "jej sen o Mesiaci symbolizuje túžbu po úniku z korporátneho pekla"
+    - "její netrunner schopnosti sú špičkové, ale za cenu traumy z detstva"
+    - "láska k Davidovi je jej prvá skutočná emočná väzba"
+    - "jej príbeh ukazuje, ako korporácie zneužívajú deti pre svoje ciele"

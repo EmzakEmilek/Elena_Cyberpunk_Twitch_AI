@@ -1,139 +1,118 @@
 type: technology
-title: "Robotics Systems"
-category: "technology"
-tech_id: "tech_robotics"
-
+title: Robotics Systems
+category: technology
+tech_id: tech_robotics
 content:
-  summary: "Robotické systémy v Night City, od priemyselných robotov až po osobných asistentov a bojové jednotky."
-  
+  summary: Robotické systémy v Night City, od priemyselných robotov až po osobných
+    asistentov a bojové jednotky.
   categories:
     industrial:
-      - "Výrobné linky"
-      - "Skladové systémy"
-      - "Údržbárske roboty"
-      - "Ťažobné jednotky"
-    
+    - Výrobné linky
+    - Skladové systémy
+    - Údržbárske roboty
+    - Ťažobné jednotky
     security:
-      - "Automatizované obranné systémy"
-      - "Hliadkovacie drony"
-      - "Bezpečnostní roboti"
-      - "Bojové jednotky"
-    
+    - Automatizované obranné systémy
+    - Hliadkovacie drony
+    - Bezpečnostní roboti
+    - Bojové jednotky
     service:
-      - "Osobní asistenti"
-      - "Medicínski roboti"
-      - "Údržbárske drony"
-      - "Doručovacie systémy"
-    
+    - Osobní asistenti
+    - Medicínski roboti
+    - Údržbárske drony
+    - Doručovacie systémy
     military:
-      - "Bojové roboty"
-      - "Taktické drony"
-      - "Prieskumné jednotky"
-      - "Podporné systémy"
-
+    - Bojové roboty
+    - Taktické drony
+    - Prieskumné jednotky
+    - Podporné systémy
   key_technologies:
     ai_systems:
-      - "Neurálne siete"
-      - "Strojové učenie"
-      - "Behaviorálne algoritmy"
-      - "Rozhodovacie systémy"
-    
+    - Neurálne siete
+    - Strojové učenie
+    - Behaviorálne algoritmy
+    - Rozhodovacie systémy
     mobility:
-      - "Bipedálna lokomócia"
-      - "Lietajúce systémy"
-      - "Pásové podvozky"
-      - "Multi-terrain adaptácia"
-    
+    - Bipedálna lokomócia
+    - Lietajúce systémy
+    - Pásové podvozky
+    - Multi-terrain adaptácia
     sensors:
-      - "Optické systémy"
-      - "Termálne senzory"
-      - "Akustické detektory"
-      - "Environmentálne senzory"
-
+    - Optické systémy
+    - Termálne senzory
+    - Akustické detektory
+    - Environmentálne senzory
   manufacturers:
     major:
-      - "Arasaka Robotics"
-      - "Militech Automated Systems"
-      - "Kang Tao Robotics"
-    
+    - Arasaka Robotics
+    - Militech Automated Systems
+    - Kang Tao Robotics
     specialized:
-      - "Medical Robotics Corp"
-      - "Industrial Automation Ltd"
-      - "Security Drone Systems"
-
+    - Medical Robotics Corp
+    - Industrial Automation Ltd
+    - Security Drone Systems
   applications:
     commercial:
-      - "Automatizované obchody"
-      - "Reštauračné služby"
-      - "Upratovacie systémy"
-      - "Zákaznícky servis"
-    
+    - Automatizované obchody
+    - Reštauračné služby
+    - Upratovacie systémy
+    - Zákaznícky servis
     medical:
-      - "Chirurgické roboty"
-      - "Rehabilitačné systémy"
-      - "Diagnostické jednotky"
-      - "Ošetrovateľskí asistenti"
-    
+    - Chirurgické roboty
+    - Rehabilitačné systémy
+    - Diagnostické jednotky
+    - Ošetrovateľskí asistenti
     entertainment:
-      - "Zábavné roboty"
-      - "Interaktívne systémy"
-      - "Športové roboty"
-      - "Performance drony"
-
+    - Zábavné roboty
+    - Interaktívne systémy
+    - Športové roboty
+    - Performanca drona
   limitations:
     technical:
-      - "Energetická náročnosť"
-      - "Údržbové požiadavky"
-      - "Softvérové obmedzenia"
-      - "Hardvérové limity"
-    
+    - Energetická náročnosť
+    - Údržbové požiadavky
+    - Softvérové obmedzenia
+    - Hardvérové limity
     social:
-      - "Verejná akceptácia"
-      - "Etické otázky"
-      - "Bezpečnostné obavy"
-      - "Pracovné dopady"
-
+    - Verejná akceptácia
+    - Etické otázky
+    - Bezpečnostné obavy
+    - Pracovné dopady
   security_concerns:
     vulnerabilities:
-      - "Hackerské útoky"
-      - "Systémové zlyhania"
-      - "Fyzické poškodenie"
-      - "AI vzbury"
-    
+    - Hackerské útoky
+    - Systémové zlyhania
+    - Fyzické poškodenie
+    - AI vzbury
     countermeasures:
-      - "Bezpečnostné protokoly"
-      - "Záložné systémy"
-      - "Núdzové vypnutie"
-      - "Behaviorálne obmedzenia"
-
+    - Bezpečnostné protokoly
+    - Záložné systémy
+    - Núdzové vypnutie
+    - Behaviorálne obmedzenia
 technical_metadata:
-  implementation_cost: "Vysoká"
-  maintenance_requirements: "Pravidelné"
-  security_level: "Vysoká"
-  reliability: "Variabilná"
-
+  implementation_cost: Vysoká
+  maintenance_requirements: Pravidelné
+  security_level: Vysoká
+  reliability: Variabilná
 related_cards:
   technology:
-    - "tech_ai_systems"
-    - "tech_security_systems"
-    - "tech_manufacturing"
+  - tech_ai_systems
+  - tech_security_systems
+  - tech_manufacturing
   corporations:
-    - "corp_arasaka"
-    - "corp_militech"
-    - "corp_kang_tao"
-
+  - corp_arasaka
+  - corp_militech
+  - corp_kang_tao
 notes_for_elena:
   key_points:
-    - "Robotika je všadeprítomná v Night City"
-    - "Rôzne typy robotov pre rôzne účely"
-    - "Bezpečnostné a etické otázky"
-  
+  - Robotika je všadeprítomná v Night City
+  - Rôzne typy robotov pre rôzne účely
+  - Bezpečnostné a etické otázky
   conversation_guidelines:
-    - "Zdôrazniť rôznorodosť robotických systémov"
-    - "Diskutovať o výhodách aj rizikách"
-    - "Spomenúť vplyv na spoločnosť"
-  
+  - Zdôrazniť rôznorodosť robotických systémov
+  - Diskutovať o výhodách aj rizikách
+  - Spomenúť vplyv na spoločnosť
   roleplay_aspects:
-    - "Popísať interakcie s robotmi v každodennom živote"
-    - "Vysvetliť rôzne typy robotov v meste"
-    - "Diskutovať o konfliktoch človek vs. stroj"
+  - Popísať interakcie s robotmi v každodennom živote
+  - Vysvetliť rôzne typy robotov v meste
+  - Diskutovať o konfliktoch človek vs. stroj

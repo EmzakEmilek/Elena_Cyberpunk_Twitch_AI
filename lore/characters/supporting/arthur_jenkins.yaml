@@ -1,139 +1,67 @@
-﻿type: "character"
-title: ""
-category: "character_supporting"
-character_id: ""
+type: character
+id: char_arthur_jenkins
+title: Arthur Jenkins
+aliases: []
+category: character_supporting
+lang: sk
 
 content:
-  summary: ""
+  personal_data:
+    názov: Arthur Jenkins
+    meno: Arthur Jenkins
+    príslušnosť: Arasaka Counterintelligence
+    pôvod: Arasaka Corporation
+    status: Aktívny
   
-title: "Arthur Jenkins"
-category: "character_supporting"
-char_id: "char_arthur_jenkins"
-content:
-  summary: "Vysokopostavený agent Arasaka Counterintelligence, bývalý nadriadený V v Corpo life path. Manipulatívny a bezohľadný predstaviteľ korporátnej kultúry."
+  character_profile:
+    summary: "Vysokopostavený agent Arasaka Counterintelligence, bývalý nadriadený V v Corpo life path. Manipulatívny a bezohľadný predstaviteľ korporátnej kultúry."
+    
+    background:
+      - "Viac ako 20 rokov služby v Arasaka Counterintelligence"
+      - "Špecialista na vnútornú bezpečnosť a elimináciu hrozieb"
+      - "Postupný vzostup v korporátnej hierarchii"
+      - "Známy pre svoje bezohľadné metódy a úspešné operácie"
+    
+    personality:
+      - "Manipulatívny a kalkulatívny v každom rozhodnutí"
+      - "Bezohľadne využíva podriadených pre vlastné ciele"
+      - "Mocichtivý s hlbokým chápaním korporátnej politiky"
+      - "Chladne racionálny, emócie považuje za slabosť"
+    
+    abilities:
+      - "Expert na kontrarozviedku a korporátnu politiku"
+      - "Psychologická manipulácia a vydieranie"
+      - "Prístup k vysokým Arasaka zdrojom a informáciám"
+      - "Vedenie tímu lojálnych counterintelligence agentov"
   
-  background:
-    position: "Senior Counterintelligence Agent"
-    department: "Arasaka Counterintelligence"
-    years_of_service: "20+"
-    specialization: "Vnútorná bezpečnosť"
-    
-    career_history:
-      - "Postupný vzostup v Arasaka CI"
-      - "Množstvo úspešných operácií"
-      - "Špecialista na elimináciu interných hrozieb"
-    
-  personality:
-    traits:
-      - "Manipulatívny"
-      - "Bezohľadný"
-      - "Mocichtivý"
-      - "Kalkulatívny"
-      
-    values:
-      - "Moc"
-      - "Kontrola"
-      - "Osobný prospech"
-      - "Korporátna hierarchia"
-    
-    methods:
-      - "Psychologická manipulácia"
-      - "Vydieranie"
-      - "Využívanie podriadených"
-
+  story_involvement:
+    first_appearance: Corpo life path
+    role_in_story: Katalyzátor pádu V
+    significance: Antagonista Corpo path
   relationships:
-    v_corpo:
-      type: "Bývalý nadriadený"
-      status: "Nepriateľský"
-      history: "Využil V ako obetného baránka"
-    
-    abernathy:
-      type: "Rival/Nepriateľ"
-      status: "Aktívny konflikt"
-      notes: "Mocenský boj v Arasaka CI"
-    
-    arasaka:
-      type: "Lojálny zamestnanec"
-      position: "Vysoký manažment"
-      access_level: "Vysoký"
-
-story_relevance:
-  main_story:
-    role: "Catalyst pre V's pád"
-    appearances: ["Corpo life path"]
-    impact: "Spúšťač V's zmeny života"
-    
-  significance:
-    - "Reprezentuje toxickú korporátnu kultúru"
-    - "Ukazuje nebezpečenstvo korporátnych intríg"
-    - "Demonštruje bezcitnosť systému"
-
-professional_profile:
-  expertise:
-    - "Kontrarozviedka"
-    - "Korporátna politika"
-    - "Manipulácia"
-    - "Vnútorná bezpečnosť"
-  
-  resources:
-    - "Prístup k Arasaka zdrojom"
-    - "Tím lojálnych agentov"
-    - "Rozsiahla spravodajská sieť"
-  
-  methods:
-    - "Psychologická warfare"
-    - "Informačná manipulácia"
-    - "Využívanie hierarchie"
-
-appearance:
-  description: "Elegantný, upravený korporátny executive"
-  distinctive_features:
-    - "Drahý oblek"
-    - "Perfektná úprava"
-    - "Chladný pohľad"
-    - "Kontrolovaná reč tela"
-
-quotes:
-  - quote: "You're not smarter than me, V. Just more expendable."
-    context: "Corpo life path"
-    
-  - quote: "In this job, you're either the one getting stabbed in the back, or doing the stabbing."
-    context: "Životná filozofia"
-
-technical_metadata:
-  first_appearance: "Corpo Life Path"
-  recurring: false
-  voice_actor: "Nepotvrdené"
-
-notes_for_elena:
-  key_points:
-    - "Reprezentuje toxickú korporátnu kultúru"
-    - "Katalyzátor pre V's životnú zmenu"
-    - "Príklad bezohľadnosti korporátneho sveta"
-  
-  conversation_guidelines:
-    - "Hovoriť o ňom s opovrhnutím/horkosťou"
-    - "Používať ako príklad korporátnej manipulácie"
-    - "Zdôrazniť jeho rolu v V's páde"
-  
-  character_context:
-    - "Symbolizuje všetko zlé v korporáciách"
-    - "Dôvod prečo V nedôveruje korpom"
-    - "Príklad toho, ako moc korumpuje"
-
-
-technical_metadata:
-  last_updated: "2025-08-24"
-  translation_status: "automated_bulk_process"
-  language: "slovak"
-
-related_cards:
-  # TODO: Add related cards during review
-
-notes_for_elena:
-  key_points:
-    - "Automaticky preloĹľenĂ© - skontroluj presnosĹĄ"
-  conversation_guidelines:
-    - "PouĹľi slovenskĂ˝ jazyk s technickĂ˝mi termĂ­nmi v EN"
-  roleplay_aspects:
-    - "ZĂˇkladnĂ© informĂˇcie pre konverzĂˇciu"
+    professional:
+    - name: V (Corpo path)
+      nature: Bývalý nadriadený
+      strength: Nepriateľská
+    - name: Susan Abernathy
+      nature: Rivala v CI
+      strength: Konfliktná
+    - name: Arasaka CI team
+      nature: Podriadení
+      strength: Lojálna
+  notes_for_elena:
+    key_points:
+    - Reprezentuje toxickú korporátnu kultúru Arasaka
+    - Využil V ako obetného baránka v mocenskom boji
+    - Demonštruje bezcitnosť korporátneho systému
+    - Kľúčový pre Corpo life path príbeh
+    roleplay_tips:
+    - Hovorí formálne a korporátne, ale s manipulatívnym podtónom
+    - Vždy má skrytú agendu za každou interakciou
+    - Používa hierarchiu na ovládanie situácie
+    - Chladne kalkuluje každé rozhodnutie
+    conversation_guidelines:
+    - Zdôrazniť korporátnu kultúru a politiku
+    - Spomenúť mocenské hry v Arasaka CI
+    - Diskutovať o využívaní ľudí pre vlastné ciele
+    - Vyjadriť pohŕdanie voči "slabším" zamestnancom
