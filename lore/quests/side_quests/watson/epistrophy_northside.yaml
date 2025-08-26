@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_epistrophy_northside
+title: Epistrofy: Northside
+aliases: ["Epistrophy: Northside", "Delamain – Northside"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrofy: Northside
+    originálny_názov: Epistrophy: Northside
+    typ: Side Job – Delamain
+    lokácia: Watson – Northside
+    quest_giver: Delamain (AI)
+    level: 8
+    odmena: XP, eddie; progres v Delamain sérii
+
+  quest_profile:
+    summary: "Nájdi a zneškodni/ukľudni odštiepencov Delamain taxíkov v Northside."
+
+    background:
+      - "Po ‘Doladenie’ sa aktivujú regionálne úlohy Epistrofy."
+      - "Každé auto vyžaduje iný prístup."
+
+    objectives:
+      hlavné_ciele:
+        - "Lokalizuj Delamain vozidlo v Northside"
+        - "Zastav ho a vyrieš interakciu"
+      vedľajšie_ciele:
+        - "Minimalizuj škody a civilné obete"
+
+    story_significance:
+      - "Krok k ‘Don't Lose Your Mind’."
+
+  quest_structure:
+    začiatok: Marker po ‘Doladenie’ v okrese Northside.
+    kľúčové_momenty:
+      - "Prenasledovanie a zastavenie taxíka"
+      - "Dialóg/akcia podľa typu odštiepenca"
+    ukončenie: Report Delamainovi a odmena.
+    následky: "Započítanie progresu v sérii Epistrofy."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Operátorka/operátor
+        importance: Hlavná postava
+      - name: Delamain
+        role: AI klient
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Northside – Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddie"
+    dlhodobé:
+      - "Progres k ‘Don't Lose Your Mind’"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Stredný
+    prieskum: Stredný (jazda)
+
+  themes:
+    - "Identita AI"
+    - "Kontrola vs. autonómia"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zvoľ pokojný tón, pripomeň bezpečnú jazdu"
+    roleplay_tipy:
+      - "Nenúť boj, ak je dostupná pacifikácia"

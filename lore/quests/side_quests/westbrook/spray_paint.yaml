@@ -1,0 +1,78 @@
+type: quest
+id: side_westbrook_spray_paint
+title: Sprejová farba
+aliases: ["Spray Paint"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Sprejová farba
+    originálny_názov: Spray Paint
+    typ: Side Job
+    lokácia: Westbrook – Japantown (pri Brendane)
+    quest_giver: Brendan (automat); vandal
+    level: 5
+    odmena: "XP, reputácia; otvorí ‘Coin Operated Boy’ po ďalšom návrate"
+
+  quest_profile:
+    summary: "Niekoho láka nastriekať Brendana. Zasiahni a vypočuj si ‘metakomenty’ automatu po ‘záblesku’."
+
+    background:
+      - "Pokračovanie po ‘I Can See Clearly Now’ a druhom stretnutí s Theou."
+
+    objectives:
+      hlavné_ciele:
+        - "Zastaviť vandala a ochrániť Brendana"
+        - "Počkať na ‘záber’ a vypočuť si Brendana"
+      vedľajšie_ciele:
+        - "Opustiť oblasť, počkať a vrátiť sa pre ‘Coin Operated Boy’"
+
+    story_significance:
+      - "Rozvíja sa vzťah Thea–Brendan a zvláštny nádych ‘vedomia’ AI."
+
+  quest_structure:
+    začiatok: Vráť sa k Brendanu – scénka s vandalom.
+    kľúčové_momenty:
+      - "Krátky konflikt; Brendan ťa ‘odpáli’ a zahlási zvláštnu repliku"
+    ukončenie: Po rozhovore je úloha ukončená.
+    následky: "Otvorenie záverečnej časti linky s Brendanom."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Ochranca automatu
+        importance: Hlavná postava
+      - name: Brendan
+        role: Automat s AI
+        importance: Kľúčová postava
+      - name: Theo
+        role: Zákazníčka, priateľka automatu
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Japantown – Westbrook (Brendanova ulička)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Spustenie ‘Coin Operated Boy’ po čase"
+
+  gameplay_elements:
+    boj: Nízky (krátky súboj)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "AI vs. ľudia"
+    - "Mestská poézia"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Ak zostane rozmazané videnie, stačí reload – známy glitch"
+    roleplay_tipy:
+      - "Krátke, uvoľnené komentovanie, jemný humor"

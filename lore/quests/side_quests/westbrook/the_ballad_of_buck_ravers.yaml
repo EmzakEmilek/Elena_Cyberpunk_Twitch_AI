@@ -1,0 +1,75 @@
+type: quest
+id: side_westbrook_ballad_of_buck_ravers
+title: Balada o Buck Raversovi
+aliases: ["The Ballad of Buck Ravers"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Balada o Buck Raversovi
+    originálny_názov: The Ballad of Buck Ravers
+    typ: Side Job
+    lokácia: Westbrook – Japantown (trhovisko)
+    quest_giver: Johnny Silverhand
+    level: 9
+    odmena: "XP, reputácia; posun Johnny/Kerry linky"
+
+  quest_profile:
+    summary: "Johnny ťa požiada zabrať gitare v uličke a pomôcť pouličnému muzikantovi – malá pocta starým časom."
+
+    background:
+      - "Spúšťa sa pri prechode trhoviskom v Japantown po určitom pokroku v Samurai linke."
+
+    objectives:
+      hlavné_ciele:
+        - "Zastaviť sa pri muzikantovi a ‘pustiť Johnnyho k slovu’"
+        - "Zahrať skladbu a prehovoriť okoloidúcich"
+      vedľajšie_ciele:
+        - "Dať napiť muzikantovi alebo drobnú almužnu"
+
+    story_significance:
+      - "Atmosférická vsuvka – buduje mýtus Johnnyho a Night City."
+
+  quest_structure:
+    začiatok: Náhodné stretnutie po aktivácii Johnnyho linky.
+    kľúčové_momenty:
+      - "Improvizovaný mini-koncert"
+    ukončenie: Krátke poďakovanie; Johnnyva poznámka.
+    následky: "Drobné plus v ‘vibe’ s Kerrym."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V / Johnny Silverhand
+        role: Umelec
+        importance: Hlavná postava
+      - name: Pouličný muzikant
+        role: NPC
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Japantown – Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Drobné flavor napojenie na hudobnú linku"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Nostalgia"
+    - "Pouličná kultúra"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Krátke, ale charizmatické – udrž svižné tempo textu"
+    roleplay_tipy:
+      - "Dovoľ Johnnymu ‘zažiariť’ s iróniou aj sentimentom"

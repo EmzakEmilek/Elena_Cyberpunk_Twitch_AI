@@ -1,0 +1,76 @@
+type: quest
+id: side_santo_domingo_stadium_love
+title: Stadiónová láska
+aliases: ["Stadium Love"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Stadiónová láska
+    originálny_názov: Stadium Love
+    typ: Side Job
+    lokácia: Santo Domingo – Rancho Coronado (base 6th Street na štadióne)
+    quest_giver: 6th Street (Bobby / Irwin – partia pri štadióne)
+    level: 18
+    odmena: "XP, reputácia; možné zbrane/loot od 6th Street podľa výsledku"
+
+  quest_profile:
+    summary: "Improvizovaná strelecká súťaž so 6th Street na štadióne. Vyhraj férovo, podvádzaj, alebo situáciu vyhroť – výsledky sa líšia."
+
+    background:
+      - "Otvorené po priblížení sa k štadiónu; V je vyzvaný/á na súťaž."
+
+    objectives:
+      hlavné_ciele:
+        - "Porozprávať sa s 6th Street a prijať výzvu"
+        - "Zostreliť všetky ciele v časovom limite"
+      vedľajšie_ciele:
+        - "Nepoužívať Sandevistan/cheaty, ak chceš ‘čistú’ výhru"
+
+    story_significance:
+      - "Ukazuje lokálne zvyky 6th Street a ich ‘česť’."
+
+  quest_structure:
+    začiatok: Príchod na štadión a dialóg s partiou 6th Street.
+    kľúčové_momenty:
+      - "Streľba na ciele – presnosť a tempo"
+      - "Reakcia 6th Street na spôsob výhry"
+    ukončenie: Výhra/prehra alebo prestrelka pri hádke.
+    následky: "Vzťahy s 6th Street sa môžu zhoršiť pri podvode alebo provokácii."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Súťažiaci
+        importance: Hlavná postava
+      - name: 6th Street partia
+        role: Organizátori súťaže
+        importance: Dôležité postavy
+
+  locations:
+    primárne:
+      - "Rancho Coronado – štadión (Santo Domingo)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia; loot podľa priebehu"
+    dlhodobé:
+      - "Bez ďalšej línie; iba lokálna povesť"
+
+  gameplay_elements:
+    boj: Stredný (ak sa to zvrtne)
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky až stredný
+    prieskum: Nízky
+
+  themes:
+    - "Lokalpatriotizmus a ‘česť’ gangu"
+    - "Súťaž a férovosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Spomeň variácie konca podľa správania V"
+    roleplay_tipy:
+      - "Drž odľahčený, ale drsný ‘gang’ tón"

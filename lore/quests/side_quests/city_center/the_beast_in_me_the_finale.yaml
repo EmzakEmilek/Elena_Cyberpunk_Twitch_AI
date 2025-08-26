@@ -1,0 +1,79 @@
+type: quest
+id: side_city_center_the_beast_in_me_the_finale
+title: Šelma vo mne: Finále
+aliases: ["The Beast in Me: The Finale"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Šelma vo mne: Finále
+    originálny_názov: The Beast in Me: The Finale
+    typ: Side Job (pouličné preteky)
+    lokácia: City Center – Downtown/Corpo Plaza (finálová trasa)
+    quest_giver: Claire Russell
+    level: 16
+    odmena: "XP, reputácia; eddies; uzavretie závodnej línie"
+
+  quest_profile:
+    summary: "Finálový pretek s rozhodnutiami o rivaloch a Claireinej motivácii. Dôležité voľby počas jazdy aj po nej."
+
+    background:
+      - "Dostupné po dokončení závodov v City Center, Santo Domingo a Badlands."
+
+    objectives:
+      hlavné_ciele:
+        - "Dostaviť sa na finálový štart"
+        - "Dokončiť finále a riešiť následný konflikt/rozhodnutie"
+      vedľajšie_ciele:
+        - "Jazdi čisto, drž tempo s lídrami"
+
+    story_significance:
+      - "Uzavretie Claire linky s morálnou voľbou (bez spoilerov)."
+
+  quest_structure:
+    začiatok: SMS/marker od Claire; registrácia na štarte finále.
+    kľúčové_momenty:
+      - "Vrchol rivality na trati"
+      - "Post-race dialóg s voľbou"
+    ukončenie: Ukončenie série podľa tvojich rozhodnutí.
+    následky: "Trvalý dopad na vzťah s Claire a reputáciu."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Pretekár/ka
+        importance: Hlavná postava
+      - name: Claire Russell
+        role: Organizátorka a partnerka v boxe
+        importance: Kľúčová postava
+      - name: Rivali
+        role: Súperi na trati
+        importance: Antagonisti
+
+  locations:
+    primárne:
+      - "City Center (finálová trať)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia, eddies"
+    dlhodobé:
+      - "Uzavretie príbehu a dopady podľa voľby"
+
+  gameplay_elements:
+    boj: Nízky (kontaktné šúchance)
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Stredný (po preteku)
+    prieskum: Stredný (čítanie trate)
+
+  themes:
+    - "Rivalita a spravodlivosť"
+    - "Cieľ vs. prostriedky"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Bez spoilerov: zdôrazni, že voľby menia výsledok"
+    roleplay_tipy:
+      - "Energický, ale vecný štýl; rešpekt k emóciám postáv"

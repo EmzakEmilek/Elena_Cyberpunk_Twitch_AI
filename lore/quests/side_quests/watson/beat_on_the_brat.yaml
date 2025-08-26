@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_beat_on_the_brat
+title: Daj mu nakladačku
+aliases: ["Beat on the Brat"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Daj mu nakladačku
+    originálny_názov: Beat on the Brat
+    typ: Side Job – boxerská séria (Coach Fred)
+    lokácia: Watson – Little China (Coach Fred) + naprieč mestom
+    quest_giver: Coach Fred
+    level: 5
+    odmena: "€$, Street Cred, postup k ďalším zápasom a finále s Razor Hugh"
+
+  quest_profile:
+    summary: "Začni sériu pouličných boxerských zápasov s Coach Fredom. Ide o tvrdé súboje len päsťami naprieč Night City."
+
+    background:
+      - "Po odchode z bytu H10 ťa osloví Coach Fred a ponúkne prvý zápas."
+
+    objectives:
+      hlavné_ciele:
+        - "Porozprávať sa s Coach Fredom pri H10"
+        - "Absolvovať zápasy v štvrtiach (Kabuki, Arroyo, Rancho Coronado, The Glen)"
+      vedľajšie_ciele:
+        - "Staviť si pred zápasmi (riziko/odmena)"
+
+    story_significance:
+      - "Odomyká všetky pod-úlohy ‘Beat on the Brat’ a finále proti Razor Hugh."
+
+  quest_structure:
+    začiatok: "Stretnutie s Coach Fredom pred megabuildingom H10."
+    kľúčové_momenty:
+      - "Pravidlá: len päste, bez zbraní"
+      - "Správne timovanie úderov, parry a úskoky"
+    ukončenie: "Po víťazstvách v štyroch štvrtiach sa otvorí finálový zápas."
+    následky: "Možnosť veľkej výhry alebo dohodnutého ‘throw’ s menšou odmenou."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Boxer
+        importance: Hlavná postava
+      - name: Coach Fred
+        role: Tréner a organizátor zápasov
+        importance: Dôležitý
+
+  locations:
+    primárne:
+      - "Megabuilding H10 – Little China, Watson"
+      - "Rôzne boxerské ringy po meste"
+
+  rewards_and_consequences:
+    okamžité:
+      - "€$, Street Cred po výhrach"
+    dlhodobé:
+      - "Finálový zápas s Razor Hugh; reputácia pouličného boxera"
+
+  gameplay_elements:
+    boj: Vysoký (ručný boj)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Vytrvalosť a technika"
+    - "Stávky a riziko"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Navrhni Gorilla Arms alebo perky Street Brawler."
+    roleplay_tipy:
+      - "Fred je priamočiary; drž priateľský, motivujúci tón."

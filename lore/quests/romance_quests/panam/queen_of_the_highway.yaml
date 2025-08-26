@@ -1,0 +1,74 @@
+type: quest
+id: romance_panam_queen_of_the_highway
+title: Kráľovná diaľnice
+aliases: ["Queen of the Highway", "Panam – kulminácia"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Kráľovná diaľnice
+    originálny_názov: Queen of the Highway
+    typ: Side Job – Panam (romance)
+    lokácia: Badlands – zakončenie jazdy
+    quest_giver: Panam Palmer
+    level: 20
+    odmena: Romantický vzťah s Panam (ak podmienky splnené)
+
+  quest_profile:
+    summary: "Test novej techniky a jazda cez Badlands; intímne momenty môžu spečatiť vzťah s Panam."
+
+    background:
+      - "Dôvera je vybudovaná; klan drží spolu"
+
+    objectives:
+      hlavné_ciele:
+        - "Otestovať vozidlo a nové úpravy"
+        - "Chrániť posádku pred hrozbami"
+      vedľajšie_ciele:
+        - "Dať najavo citovú dostupnosť"
+
+    story_significance:
+      - "Vrchol Panam linky – možný vzťah"
+
+  quest_structure:
+    začiatok: Spoločný výjazd s Panam
+    kľúčové_momenty:
+      - "Akčné situácie a tímová spolupráca"
+      - "Intímna scéna pod hviezdami"
+    ukončenie: Vzťah potvrdený (ak podmienky splnené)
+    následky: "Silná partnerská väzba a správy od Panam"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Partner/ka
+        importance: Hlavná postava
+      - name: Panam Palmer
+        role: Partnerka
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Badlands – trasy a tábor"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Intimita a blízkosť"
+    dlhodobé:
+      - "Podpora Aldecaldos v neskorších častiach"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Nízky
+    hacknutie: Nízky
+    dialógy: Vysoký
+    prieskum: Stredný (jazda)
+
+  themes:
+    - "Sloboda a blízkosť"
+    - "Cesta a zodpovednosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Romantický, ale nie gýčový tón"

@@ -1,0 +1,86 @@
+type: quest
+id: side_heywood_heroes
+title: Hrdinovia
+aliases: ["Heroes"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Hrdinovia
+    originálny_názov: Heroes
+    typ: Side Job
+    lokácia: Heywood – The Glen (El Coyote Cojo, cintorín); Watson – Little China (Jackieho garáž)
+    quest_giver: Mama Welles
+    level: 7
+    odmena: "Jackieho motorka (ak prijmeš), pamätné predmety, XP a reputácia"
+
+  quest_profile:
+    summary: "Zúčastni sa ofrendy za Jackiem v El Coyote Cojo, vyber dar z garáže a rozlúč sa s priateľom spolu s jeho rodinou a priateľmi."
+
+    background:
+      - "Po udalostiach The Heist si Mama Welles želá uctiť Jackieho pamiatku."
+      - "V garáži sú osobné veci, z ktorých si V vyberie symbol na ofrendu."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť sa s Mamou Welles v El Coyote Cojo"
+        - "Odomknúť Jackieho garáž a vybrať predmet na ofrendu"
+        - "Zúčastniť sa panychídy a položiť predmet na oltár"
+      vedľajšie_ciele:
+        - "Presvedčiť Misty, aby prišla"
+        - "Prehovoriť s Padre, Viktorom a priateľmi"
+
+    story_significance:
+      - "Uzatvára Jackieho kapitolu a posilňuje vzťahy v komunite Heywood."
+
+  quest_structure:
+    začiatok: Telefonát od Mamy Welles po dokončení Prológu a návrate do mesta.
+    kľúčové_momenty:
+      - "Prehliadka garáže – voľba predmetu (kniha, opasok, fľaša, fotografia, basketbal)"
+      - "Ofrenda v El Coyote Cojo – dobrovoľný príhovor"
+    ukončenie: Po rozlúčke môžeš prijať kľúče od Jackieho motorky.
+    následky: "Nové dialógy s postavami z Heywoodu; neskôr ikonická zbraň v ofrende."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Priateľ rodiny
+        importance: Hlavná postava
+      - name: Mama Welles
+        role: Matka Jackiego, hostiteľka ofrendy
+        importance: Kľúčová postava
+      - name: Misty
+        role: Jackieho partnerka
+        importance: Dôležitá pre emócie scény
+
+  locations:
+    primárne:
+      - "El Coyote Cojo – The Glen, Heywood"
+      - "Cintorín – Heywood"
+    sekundárne:
+      - "Jackieho garáž – Watson, Little China"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP a reputácia"
+      - "Kľúče od Jackieho motorky (ak prijmeš)"
+    dlhodobé:
+      - "Posilnené väzby v Heywoode a príležitostné dodatočné dialógy"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Strata a spomienka"
+    - "Rodina a komunita"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž citlivý tón, dopraj čas na ticho a spomínanie"
+    roleplay_tipy:
+      - "Nechaj V povedať krátke, úprimné slová o Jackiem"

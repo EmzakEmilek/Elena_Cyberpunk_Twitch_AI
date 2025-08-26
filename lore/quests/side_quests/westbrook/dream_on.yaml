@@ -1,0 +1,81 @@
+type: quest
+id: side_westbrook_dream_on
+title: Snívaj ďalej
+aliases: ["Dream On"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Snívaj ďalej
+    originálny_názov: Dream On
+    typ: Side Job
+    lokácia: Westbrook – Charter Hill (byt Peralezovcov, strecha, dodávka)
+    quest_giver: Jefferson a Elizabeth Peralezovci
+    level: 18
+    odmena: "XP, reputácia; pokračovanie Peralez príbehu (telefonát neskôr)"
+
+  quest_profile:
+    summary: "Vyšetrovanie manipulácie s Peralezovcami odkryje skrytú inštaláciu a vplyv tajomnej entity – pravdu môžeš zamlčať."
+
+    background:
+      - "Odvíja sa od ‘I Fought the Law’."
+
+    objectives:
+      hlavné_ciele:
+        - "Preskúmať byt – nájsť skrytý priechod"
+        - "Dostať sa na strechu – transceiver"
+        - "Sledovať dodávku a identifikovať odpočúvanie"
+      vedľajšie_ciele:
+        - "Rozhodnúť, čo povedať Jeffersonovi pri ramen stánku"
+
+    story_significance:
+      - "Jedna z najmrazivejších línií hry; zasiahnutie do volebného procesu."
+
+  quest_structure:
+    začiatok: Volanie od Elizabeth po ukončení vyšetrovania s Riverom.
+    kľúčové_momenty:
+      - "Kód 6709/Body 7 – skryté dvere"
+      - "Strecha – zosilňovač signálu"
+      - "Stopovanie dodávky do skladu"
+    ukončenie: Debrief pri ramen; ťažké rozhodnutie, čo zdieľať.
+    následky: "Neskorší telefonát naznačí ďalšiu manipuláciu bez ohľadu na voľbu."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Detektív outsider
+        importance: Hlavná postava
+      - name: Jefferson Peralez
+        role: Kandidát na starostu
+        importance: Kľúčová postava
+      - name: Elizabeth Peralez
+        role: Partnerka, ochranca pravdy
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Charter Hill – byt Peralezovcov a okolie"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Znepokojivý follow-up telefonát; bez jasného rozuzlenia"
+
+  gameplay_elements:
+    boj: Nízky až stredný (sklad)
+    skrývanie: Stredný
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Vysoký
+
+  themes:
+    - "Kontrola mysle a slobodná vôľa"
+    - "Politická manipulácia"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zvýrazni paranoju a pocit ‘neviditeľných rúk’"
+    roleplay_tipy:
+      - "Minimalizmus v dialógoch umocní atmosféru"

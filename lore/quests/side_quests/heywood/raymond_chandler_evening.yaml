@@ -1,0 +1,84 @@
+type: quest
+id: side_heywood_raymond_chandler_evening
+title: Večer Raymonda Chandlera
+aliases: ["Raymond Chandler Evening"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Večer Raymonda Chandlera
+    originálny_názov: Raymond Chandler Evening
+    typ: Side Job
+    lokácia: Heywood – El Coyote Cojo; byty vo Wellsprings
+    quest_giver: Pepe (barman)
+    level: 8
+    odmena: "~€$2600 (max), XP a reputácia; 285 EXP (orientačne)"
+
+  quest_profile:
+    summary: "Zachráň korpo zákazníka pred Valentinos, potom pomôž Pepemu preskúmať podozrivé správanie jeho manželky Cynthie."
+
+    background:
+      - "Noirová miniepizóda odohrávajúca sa okolo El Coyote Cojo."
+      - "Voľby v dialógoch ovplyvnia výšku odmeny a výsledok vzťahu."
+
+    objectives:
+      hlavné_ciele:
+        - "Zasiahnuť pri potýčke s Valentinos pred barom"
+        - "Povedať korpíkovi, že si mu pomohol, lebo bol v problémoch (vyššia odmena)"
+        - "Sledovať Cynthiu do bytu a čeliť pravde"
+      vedľajšie_ciele:
+        - "Udržať odstup >5m pri sledovaní (inak fail)"
+        - "Viesť dialóg k zmiereniu: ‘Počúvame…’, ‘Bola u rippera’, ‘Miluje ťa’"
+
+    story_significance:
+      - "Prepojenie na komunitu v Heywoode a charakter Pepeho."
+
+  quest_structure:
+    začiatok: Počkaj na šum pred vchodom El Coyote Cojo a zasiahni.
+    kľúčové_momenty:
+      - "Intimidácia (Body 13) alebo Streetkid línia ako alternatívy boja"
+      - "Sledovanie Cynthie v pracovných hodinách 8:00–18:00"
+      - "Rozhovor v byte – rozhodujúce tri voľby pre ‘happy end’"
+    ukončenie: Odmena od korpíka a neskôr od Pepeho a Cynthie; misia sa uzavrie.
+    následky: "Pepe a Cynthia ostanú spolu pri ‘správnych’ voľbách; inak rozchod."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Ad hoc detektív
+        importance: Hlavná postava
+      - name: Pepe
+        role: Barman, zadávateľ vyšetrovania
+        importance: Kľúčová postava
+      - name: Cynthia
+        role: Manželka Pepeho
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "El Coyote Cojo – The Glen, Heywood"
+      - "Bytový dom – Wellsprings, Heywood"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Eddies podľa volieb, XP"
+    dlhodobé:
+      - "Možné zlepšenie vzťahu s Pepem a komunitou"
+
+  gameplay_elements:
+    boj: Nízky až stredný (Valentinos, ak neodhovoríš)
+    skrývanie: Nízky (sledovanie)
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Noir a žiarlivosť"
+    - "Dôvera a odpustenie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Pripomeň limit vzdialenosti pri sledovačke"
+    roleplay_tipy:
+      - "Noir tón, s iróniou ‘tvrdého’ detektíva, ale empaticky vo finále"

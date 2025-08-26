@@ -1,0 +1,83 @@
+type: quest
+id: side_watson_blistering_love
+title: Spaľujúca láska
+aliases: ["Blistering Love"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Spaľujúca láska
+    originálny_názov: Blistering Love
+    typ: Side Job – Johnny & Rogue linka
+    lokácia: Watson – Little China (Afterlife) → Silver Pixel Cloud (drive-in)
+    quest_giver: Johnny Silverhand / Rogue
+    level: 30
+    odmena: "Romantická scéna s Rogue (ak zvolíš možnosti), XP/€$, postup k ‘Holdin’ On’"
+
+  quest_profile:
+    summary: "Johnny pozve Rogue na rande – vyrazíte do starého drive-in kina. Odomyká ďalší krok Johnnyho linky."
+
+    background:
+      - "Spúšťa sa po ‘Chippin’ In’. Johnny chce ‘napraviť minulosť’."
+      - "Rande vedie do Silver Pixel Cloud; kód do dverí: 0000."
+
+    objectives:
+      hlavné_ciele:
+        - "Zavolať Rogue a prísť do Afterlife večer"
+        - "Priviezť ju k Silver Pixel Cloud a spustiť projekciu"
+        - "Užiť Mistyine tabletky a nechať Johnnyho viesť"
+      vedľajšie_ciele:
+        - "Dialógové voľby umožnia romantickú scénu"
+
+    story_significance:
+      - "Prehlbuje vzťah Johnny ↔ Rogue a pripravuje ‘Holdin’ On’."
+
+  quest_structure:
+    začiatok: "Telefonát Rogue; stretnutie pri vchode Afterlife."
+    kľúčové_momenty:
+      - "Jazda v Porsche 911 Johnnyho"
+      - "Otvorenie kina kódom 0000 a spustenie Bushido X"
+      - "Romantická scéna (voľby)"
+    ukončenie: "Ráno sa V preberie; rozhovor s Johnnym."
+    následky: "Otvorí sa ‘Holdin’ On’; vetvenie podľa volieb je skôr flavor."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Hostiteľ tela; svedok ‘rande’
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Vedie rande s Rogue
+        importance: Kľúčová postava
+      - name: Rogue
+        role: Fixerka, romantický záujem Johnnyho
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Afterlife – Little China, Watson"
+      - "Silver Pixel Cloud – drive-in kino"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP/€$; špeciálne dialógy s Rogue/Johnnym"
+    dlhodobé:
+      - "Postup v Johnnyho linke a Rogue vzťahu"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Minulosť vs. prítomnosť"
+    - "Náprava a nostalgia"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Nezabudni uviesť kód 0000 a Afterlife večerné načasovanie."
+    roleplay_tipy:
+      - "Rogue drž rezervovaný, no úprimný tón; Johnny charizmaticky naliehavý."

@@ -1,0 +1,83 @@
+type: quest
+id: side_santo_domingo_there_is_a_light_that_never_goes_out
+title: Svetlo, ktoré nikdy nezhasne
+aliases: ["There Is A Light That Never Goes Out"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Svetlo, ktoré nikdy nezhasne
+    originálny_názov: There Is A Light That Never Goes Out
+    typ: Side Job
+    lokácia: Santo Domingo – Rancho Coronado (dom Zuleiky, rodinné stretnutie) → Westbrook – Japantown (reštaurácia)
+    quest_giver: Joshua Stephenson / Rachel / Zuleika
+    level: 16
+    odmena: "Eddies (Rachelin úplatok, vyšší s CORPO), XP"
+
+  quest_profile:
+    summary: "Pokračovanie po ‘Sinnerman’: rozhovory so Zuleikou a Joshuom a ponuka úplatku od Rachel, ktorá môže líniu ukončiť."
+
+    background:
+      - "Dostupné iba ak si v ‘Sinnerman’ ušetril Joshuu a súhlasil s jeho stretnutiami."
+
+    objectives:
+      hlavné_ciele:
+        - "Navštíviť Zuleiku v Rancho Coronado"
+        - "V reštaurácii reagovať na Rachelinu ponuku (prijať/odmietnuť)"
+      vedľajšie_ciele:
+        - "Dialógy zvedavo, ale s rešpektom k viere Zuleiky"
+
+    story_significance:
+      - "Nastavuje finále ‘They Won’t Go When I Go’ (ak úplatok odmietneš)."
+
+  quest_structure:
+    začiatok: Marker v Rancho Coronado po ukončení ‘Sinnerman’.
+    kľúčové_momenty:
+      - "Rodinné napätie v dome Zuleiky"
+      - "Rachelin úplatok v reštaurácii"
+    ukončenie: Prijatie úplatku = koniec linky; odmietnutie = pokračovanie.
+    následky: "Odomkne ‘They Won’t Go When I Go’ pri odmietnutí."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Pozorovateľ/mediátor
+        importance: Hlavná postava
+      - name: Joshua Stephenson
+        role: Odsúdený hľadajúci vykúpenie
+        importance: Kľúčová postava
+      - name: Rachel
+        role: Producentka BD
+        importance: Kľúčová postava
+      - name: Zuleika
+        role: Matka, náboženský vplyv
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Rancho Coronado – Santo Domingo (dom Zuleiky)"
+      - "Japantown – Westbrook (reštaurácia)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP; eddies (ak prijmeš úplatok)"
+    dlhodobé:
+      - "Pokračovanie alebo uzavretie linky"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Viera vs. biznis"
+    - "Médiá a vykúpenie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zachovaj neutrál a citlivosť; žiadne moralizovanie"
+    roleplay_tipy:
+      - "Krátke, faktické vety, nechávať priestor pre hráča"

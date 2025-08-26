@@ -1,0 +1,106 @@
+type: quest
+id: quest_totalimmortal
+title: Úplne nesmrteľný
+aliases: ["Totalimmortal", "Hanako – finále"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Úplne nesmrteľný
+    originálny_názov: Totalimmortal
+    typ: Main Job - Act 3 (Hanako)
+    lokácia: Corpo Plaza – Arasaka Tower
+    quest_giver: Hanako Arasaka
+    level: 30
+  odmena: Postup do misie – Zmeny
+
+  quest_profile:
+    summary: "V sprevádza Hanako do Arasaka Tower, aby odhalila pravdu o Saburovi a konfrontovala Yorinobua; rozhodnutia vnútri veže určujú korporátne finále."
+
+    background:
+      - "Saburova smrť bola zamlčaná a prekrútená"
+      - "Hanako chce verejne odhaliť Yorinobua"
+      - "V-ova situácia so Šrapnelom a Relikom eskaluje"
+
+    objectives:
+      hlavné_ciele:
+        - "Dostať sa do Arasaka Tower"
+        - "Doprovodiť Hanako na rokovania a vypočuť pravdu"
+        - "Prežiť útoky bezpečnosti a interné sabotáže"
+        - "Rozhodnúť o ďalšom osude – klinika Mikoshi/Soulkiller"
+      vedľajšie_ciele:
+        - "Nepatriť k stratám civilov"
+        - "Získať prístup do zabezpečených poschodí"
+        - "Zohnať dodatočné dôkazy proti Yorinobuovi"
+
+    story_significance:
+      - "Vyvrcholenie korporátnej línie"
+      - "Otvorenie cesty k epilógu ‚Diabol‘"
+      - "Nejasná cena za V-ovu ‚záchranu‘"
+
+  quest_structure:
+    začiatok: Príchod do Corpo Plaza a vstup do Arasaka Tower
+    kľúčové_momenty:
+      - "Tiché postupy alebo otvorená prestrelka – oboje možné"
+      - "Konfrontácia s Yorinobuom a interná politika"
+      - "Prístup k Mikoshi a rozhodnutie o dušiach v sieti"
+    ukončenie: Hanako dosiahne ciele; V čelí následkom rozhodnutí
+  následky: "Otvorené rozhodnutia v Mikoshi vedú do epilógov"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Agent
+        importance: Hlavná postava
+      - name: Hanako Arasaka
+        role: Klientka/Svedkyňa
+        importance: Kľúčová
+      - name: Yorinobu Arasaka
+        role: Antagonista
+        importance: Primárny cieľ politickej konfrontácie
+    vedľajšie_postavy:
+      - name: Goro Takemura
+        role: Potenciálny spojenec
+        importance: Závisí od predošlých rozhodnutí
+      - name: Arasaka bezpečnosť
+        role: Nepriatelia
+        importance: Prekážky
+
+  locations:
+    primárne:
+      - "Arasaka Tower – Corpo Plaza"
+    sekundárne:
+      - "Mikoshi rozhranie"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Odhalenie pravdy o Saburovi"
+      - "Otvorená cesta do Mikoshi"
+    dlhodobé:
+      - "Epilóg ‚Diabol‘ a jeho dôsledky"
+      - "Vzťah V – Johnny sa posúva podľa voľby"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Vysoký
+    hacknutie: Vysoký
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Pravda verzus moc"
+    - "Korporátna lojalita"
+    - "Cena za prežitie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zachovaj napätie formálnej korporátnej drámy"
+      - "Nechaj priestor pre stealth aj combat prístup"
+      - "Pripomínaj dôsledky smerujúce do epilógu"
+    roleplay_tipy:
+      - "Hanako je kalkulujúca, nie chladná; hovorí stroho, ale úprimne"
+      - "V môže prežívať tlak Reliku – odrážaj to v replikách"
+    pokyny_pre_konverzáciu:
+      - "Minimalizuj anglicizmy, drž sa terminológie (Mikoshi, Relik, kyberpriestor)"
+      - "Udržuj konzistentný tón s predošlými kartami"

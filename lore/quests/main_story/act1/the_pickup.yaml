@@ -1,0 +1,120 @@
+type: quest
+id: quest_the_pickup
+title: Odber
+aliases: ["The Pickup", "Maelstrom deal"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Odber
+    originálny_názov: The Pickup
+    typ: Main Job - Act 1
+    lokácia: All Foods Factory (Watson)
+  quest_giver: Dexter DeShawn
+    level: 4
+  odmena: Robotík Flathead (ak sa podarí dohoda)
+    
+  quest_profile:
+    summary: "V má získať bojového robota Flathead od gangu Maelstrom – dohodou alebo násilím; do hry vstupuje aj Militech."
+    
+    background:
+  - "Flathead pôvodne získal gang Maelstrom"
+      - "Militech má vlastné záujmy a agentku Meredith Stout"
+      - "Dex očakáva výsledok bez ohľadu na metódu"
+      - "Situácia je nestabilná a nepredvídateľná"
+    
+  objectives:
+      hlavné_ciele:
+        - "Kontaktovať Meredith Stout (voliteľné)"
+        - "Dohodnúť stretnutie s Maelstromom"
+        - "Získať Flathead – dohodou alebo bojom"
+        - "Dostať sa z fabriky živý"
+      vedľajšie_ciele:
+        - "Zistiť pozadie konfliktu Maelstrom vs. Militech"
+        - "Pripraviť sa na bojové scenáre"
+        - "Overiť čip od Militechu (pozor na vírus)"
+        - "Využiť hackovanie a stealth pre výhodu"
+    
+    story_significance:
+      - "Definuje štýl V: diplomacia vs. sila"
+      - "Odkrytie hráčov – Maelstrom, Militech, Dex"
+      - "Možné dlhodobé následky podľa voľby"
+      - "Nastavenie tónu pre ďalšie misie"
+  
+  quest_structure:
+    začiatok: Inštrukcie od Dexa
+    kľúčové_momenty:
+      - "Stretnutie s Meredith Stout"
+      - "Vstup do All Foods a rokovanie"
+  - "Zrada alebo boj podľa priebehu dohody"
+      - "Útek z fabriky"
+      - "Odovzdanie Flatheada"
+    ukončenie: Výstup z All Foods
+    následky: "Vzťahy s Maelstrom/Militech sa odrazia neskôr"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Vyjednávač
+        importance: Hlavná postava
+      - name: Jackie Welles
+        role: Partner/Podpora
+        importance: Spojenec
+      - name: Meredith Stout
+        role: Agentka Militech
+        importance: Alternatívny zdroj a riziko
+      - name: Royce / Dum Dum
+        role: Vodca/zástupca Maelstromu
+        importance: Protihráči pri dohode
+    vedľajšie_postavy:
+      - name: Dexter DeShawn
+        role: Fixer/Zadávateľ
+        importance: Zadávateľ a hodnotiteľ výsledku
+  
+  locations:
+    primárne:
+      - "All Foods Factory"
+    sekundárne:
+      - "Uličky a skladiská Watson"
+      - "Miesto stretnutia s Meredith"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Flathead (ak prežije dohoda)"
+      - "Peniaze od Dexa"
+      - "Skúsenosti z vyjednávania/boja"
+    dlhodobé:
+      - "Vzťah s Militech a Meredith"
+      - "Budúce interakcie s Maelstromom"
+      - "Reputácia podľa zvolenej cesty"
+  
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Stredný
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Stredný
+    
+  themes:
+    - "Vyjednávanie vs. sila"
+    - "Korpo intriky a vírusy"
+    - "Dôsledky rozhodnutí"
+    - "Prežitie v chaose"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Viacero ciest riešenia – diplomaticky alebo brutálne"
+      - "Militech čip môže byť infikovaný – spomeň riziká"
+      - "Royce je nevyspytateľný – atmosféru napätia drž vysoko"
+      - "Dum Dum môže byť pragmatickejší na rozhovor"
+    roleplay_tipy:
+      - "V je pripravený prepnúť z dialógu na akciu"
+      - "Jackie kryje chrbát a odbúrava stres"
+      - "Meredith hrá tvrdú korpo hru"
+      - "Royce je hrozba, ktorá testuje hranice"
+    pokyny_pre_konverzáciu:
+      - "Zdôrazniť riziká dôvery v korporátne riešenia"
+      - "Popísať napätie rokovaní v All Foods"
+      - "Rozobrať, prečo sa hráči rozhodli tak či onak"
+      - "Vyzdvihnúť dopad rozhodnutí na neskoršie misie"

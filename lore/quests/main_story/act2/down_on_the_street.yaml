@@ -1,0 +1,70 @@
+type: quest
+id: quest_down_on_the_street
+title: Na ulici
+aliases: ["Down on the Street", "Takemura – Hanako stopa"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Na ulici
+    originálny_názov: Down on the Street
+    typ: Main Job - Act 2
+    lokácia: Westbrook – Japantown
+    quest_giver: Goro Takemura
+    level: 14
+    odmena: Otvorenie korporátnej línie k Hanako
+
+  quest_profile:
+    summary: "V a Takemura hľadajú cestu k Hanako; je potrebné vyjednávať v tieňoch Japantownu a získať dôveru."
+
+    background:
+      - "Takemura verí, že Hanako je kľúč k pravde o Saburovi"
+      - "Začína politická hra s Arasakou"
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť kontakty v Japantowne"
+        - "Získať potvrdenie o možnosti audiencie"
+      vedľajšie_ciele:
+        - "Udržať nízky profil medzi Tyger Claws"
+
+    story_significance:
+      - "Nastavenie korporátnej vetvy"
+
+  quest_structure:
+    začiatok: Koordinácia s Takemurom
+    kľúčové_momenty:
+      - "Taktické schôdzky a dohody"
+    ukončenie: Cesta k „Hra na istotu"
+    následky: "Rastúci vplyv Arasaky v príbehu"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Vyjednávač
+        importance: Hlavná postava
+      - name: Goro Takemura
+        role: Sprievodca korporátnou líniou
+        importance: Kľúčový
+
+  locations:
+    primárne:
+      - "Japantown – Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Kontakty a sľuby audiencie"
+    dlhodobé:
+      - "Prístup k ďalším krokom s Hanako"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Stredný
+    hacknutie: Nízky
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Politika a protokoly"
+    - "Trpezlivosť a taktika"

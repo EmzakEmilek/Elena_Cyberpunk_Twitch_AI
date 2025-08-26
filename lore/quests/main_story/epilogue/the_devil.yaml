@@ -1,0 +1,86 @@
+type: quest
+id: epilogue_the_devil
+title: Diabol
+aliases: ["The Devil", "Where Is My Mind?", "Arasaka klinika"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Diabol
+    originálny_názov: The Devil
+    typ: Epilogue
+    lokácia: Arasaka klinika, orbitálna stanica
+    quest_giver: —
+    level: 30
+    odmena: Uzavretie – korporátne riešenie so smutnou cenou
+
+  quest_profile:
+    summary: "Po korporátnej ceste V prechádza programom Arasaky; prebudenie v klinike odhaľuje chladnú pravdu o nasledkoch a možnostiach dožitia."
+
+    background:
+      - "Hanako dosiahla svoj cieľ; Arasaka ponúka ‚riešenie‘"
+      - "Identita a duša sú predmetom zmlúv a patentov"
+
+    objectives:
+      hlavné_ciele:
+        - "Prebudiť sa v klinike a orientovať sa v režime"
+        - "Zistiť výsledok procedúr ("Where Is My Mind?")"
+        - "Prijať alebo odmietnuť korporátne podmienky"
+      vedľajšie_ciele:
+        - "Zistiť maximum informácií od personálu"
+
+    story_significance:
+      - "Korporácie ako správcovia života a smrti"
+      - "Osud V je determinovaný zmluvami a technológiou"
+
+  quest_structure:
+    začiatok: Prebudenie v sterílnej izbe na stanici
+    kľúčové_momenty:
+      - "Formálne hodnotenie stavu V"
+      - "Konverzácia o možnostiach a neistote"
+    ukončenie: Návrat na Zem alebo zotrvanie – podľa podmienok
+    následky: "Trpkosladké uzavretie s pocitom odcudzenia"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Pacient/Objekt korporácie
+        importance: Hlavná postava
+    vedľajšie_postavy:
+      - name: Hanako Arasaka
+        role: Zástupkyňa korporácie
+        importance: Politický garant riešenia
+      - name: Arasaka personál
+        role: Lekári/Administratíva
+        importance: Sprievod
+
+  locations:
+    primárne:
+      - "Arasaka klinika na orbitálnej stanici"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Dočasná stabilizácia stavu V"
+    dlhodobé:
+      - "Neistá prognóza; závislosť od korporácie"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Minimálne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Moc a odcudzenie"
+    - "Cena korporátnej ochrany"
+    - "Identita ako produkt"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Chladný, formálny tón; udrž vzdialenosť"
+    roleplay_tipy:
+      - "V rozpráva stručne; personál používa korporátny jazyk"
+    pokyny_pre_konverzáciu:
+      - "Presná terminológia; bez anglicizmov"

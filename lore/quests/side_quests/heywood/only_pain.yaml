@@ -1,0 +1,80 @@
+type: quest
+id: side_heywood_only_pain
+title: Iba bolesť
+aliases: ["Only Pain"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Iba bolesť
+    originálny_názov: Only Pain
+    typ: Side Job
+    lokácia: Heywood – Vista del Rey (pri Delamain HQ)
+    quest_giver: Neznámy korpo (na zemi)
+    level: 8
+    odmena: "Eddies podľa dialógu/atribútov; XP"
+
+  quest_profile:
+    summary: "Policajti tyranizujú zraneného korpo muža. Ako Streetkid ich vieš rozohnať slovom; inak sa priprav na rýchly boj a vyjednávanie o odmene."
+
+    background:
+      - "Krátka epizóda s morálnou voľbou a drobnými odmenami viazanými na atribúty."
+
+    objectives:
+      hlavné_ciele:
+        - "Pristúpiť k scéne a neodísť predčasne"
+        - "Riešiť policajtov (Streetkid línia/boj)"
+        - "Vyjednať s korpíkom (Int 12 alebo Cool 9; následná páka Body 12)"
+      vedľajšie_ciele:
+        - "Môžeš ho zastreliť aj po vyplatení – čisto voľba hráča"
+
+    story_significance:
+      - "Zrkadlo ulice Heywoodu: prežitie, výpal, česť."
+
+  quest_structure:
+    začiatok: Príchod k označenému miestu pri HQ a oslovenie policajta uprostred.
+    kľúčové_momenty:
+      - "Streetkid dialóg vyženie policajtov bez boja"
+      - "Int alebo Cool otvárajú extra odmenu"
+    ukončenie: Korpík odíde, alebo ho môžeš zložiť; úloha sa uzavrie.
+    následky: "Bez dlhodobých väzieb; drobné uznanie v uličkách."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Zasahujúci
+        importance: Hlavná postava
+      - name: Policajti NCPD
+        role: Agresori
+        importance: Vedľajšie postavy
+      - name: Neznámy korpo
+        role: Obeť/platca
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Vista del Rey – Heywood (pri Delamain HQ)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Eddies, XP"
+    dlhodobé:
+      - "Žiadne významné"
+
+  gameplay_elements:
+    boj: Nízky až stredný (ak sa bije)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Korupcia a moc"
+    - "Pýcha a výkupné"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Spomeň Streetkid výhodu; a že boj možno vyhnúť"
+    roleplay_tipy:
+      - "Krátky, tvrdý slang; žiadne zdĺhavé moralizovanie"

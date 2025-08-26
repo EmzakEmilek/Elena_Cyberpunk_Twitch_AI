@@ -1,0 +1,75 @@
+type: quest
+id: side_watson_both_sides_now
+title: Obe strany, teraz
+aliases: ["Both Sides, Now"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Obe strany, teraz
+    originálny_názov: Both Sides, Now
+    typ: Side Job – Judy Alvarez linka
+    lokácia: Watson – Kabuki (Judyin byt)
+    quest_giver: Judy Alvarez (telefonát/pozvánka)
+    level: 10
+    odmena: "Postup v Judy príbehovej línii; XP/€$"
+
+  quest_profile:
+    summary: "Navštív Judy po udalostiach v Clouds a porozprávaj sa o tom, čo bude ďalej. Nastaví tón pre ďalšie kroky."
+
+    background:
+      - "Nadväzuje na udalosti s Clouds; Judy sa snaží spamätať a plánovať."
+
+    objectives:
+      hlavné_ciele:
+        - "Navštíviť Judy v jej byte v Kabuki"
+        - "Prebrať situáciu a možnosti"
+      vedľajšie_ciele:
+        - "Udržať empatický tón – ovplyvňuje náladu a ďalší kontakt"
+
+    story_significance:
+      - "Základ pre ‘Talking 'Bout a Revolution’ a ďalšie časti Judy linky."
+
+  quest_structure:
+    začiatok: "Judy ťa kontaktuje a pozve. Marker vedie do Kabuki."
+    kľúčové_momenty:
+      - "Dialógy v byte; spracovanie následkov"
+    ukončenie: "Po rozhovore sa úloha uzavrie a otvorí sa ďalšia."
+    následky: "Posilnenie vzťahu s Judy; nové úlohy v jej linke."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Podpora a partnerka/partner v rozhovore
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Impulz pre sériu udalostí
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Judyin byt – Kabuki, Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, €$"
+    dlhodobé:
+      - "Postup v Judy romanci/príbehovej línii"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Podpora a dôvera"
+    - "Trauma a zotavenie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž empatickú, nehodnotiacu komunikáciu."
+    roleplay_tipy:
+      - "Judy je citlivá; preferuj jemné, podporné formulácie."

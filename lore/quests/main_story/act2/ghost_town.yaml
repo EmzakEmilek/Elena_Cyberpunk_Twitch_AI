@@ -1,0 +1,75 @@
+type: quest
+id: quest_ghost_town
+title: Mesto duchov
+aliases: ["Ghost Town", "Rogue → Panam"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Mesto duchov
+    originálny_názov: Ghost Town
+    typ: Main Job - Act 2
+    lokácia: Afterlife; Badlands – Outskirts
+    quest_giver: Rogue Amendiares
+    level: 12
+    odmena: Otvorenie nomádskej línie (vedie k Blesky šľahajú)
+
+  quest_profile:
+    summary: "Rogue spojí V s Panam; cieľom je získať informácie o Hellmanovi a pripraviť zásah v Badlands."
+
+    background:
+      - "Hellman je kľúčom k Reliku"
+      - "Panam má vlastné účty na vyrovnanie"
+
+    objectives:
+      hlavné_ciele:
+        - "Získať Panam ako spojenca"
+        - "Pripraviť nástrahy na cieľ"
+      vedľajšie_ciele:
+        - "Vybaviť vybavenie cez kontakty nomádov"
+
+    story_significance:
+      - "Vstup do línie Aldecaldos"
+
+  quest_structure:
+    začiatok: Dohoda v Afterlife
+    kľúčové_momenty:
+      - "Stretnutie s Panam a vyjasnenie podmienok"
+      - "Presun do Badlands"
+    ukončenie: Plán hotový
+    následky: "Vedie k ‚Blesky šľahajú‘"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Vyjednávač/operatívec
+        importance: Hlavná postava
+      - name: Rogue Amendiares
+        role: Prostredkovateľka
+        importance: Kľúčová
+      - name: Panam Palmer
+        role: Budúca partnerka
+        importance: Kľúčová
+
+  locations:
+    primárne:
+      - "Afterlife – Watson"
+      - "Badlands – okraj"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Kontakt s Panam"
+    dlhodobé:
+      - "Nastavenie cesty k Hellmanovi"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Nízky
+    hacknutie: Nízky
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Dôvera a dohody"
+    - "Nomádske väzby"

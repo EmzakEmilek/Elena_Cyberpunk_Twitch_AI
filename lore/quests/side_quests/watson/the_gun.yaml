@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_the_gun
+title: Zbraň
+aliases: ["The Gun", "Dying Night"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Zbraň
+    originálny_názov: The Gun
+    typ: Side Job
+    lokácia: Watson – Little China (2nd Amendment)
+    quest_giver: Wilson
+    level: 2
+    odmena: Pistol Dying Night (Legendárna/Unikátna verzia podľa postupu)
+
+  quest_profile:
+    summary: "Wilson v obchode so zbraňami ti ponúkne špeciálnu pištoľ Dying Night ako vernej zákazníčke."
+
+    background:
+      - "Po dokončení The Rescue/úvodných misií sa sprístupní obchod u Wilsona."
+      - "Zbraň je bezplatná ako lojalitná odmena."
+
+    objectives:
+      hlavné_ciele:
+        - "Navštíviť obchod 2nd Amendment"
+        - "Zobrať pištoľ Dying Night z vitríny"
+      vedľajšie_ciele:
+        - "Prezrieť si ponuku strelných zbraní a modov"
+
+    story_significance:
+      - "Dying Night slúži ako skorá kvalitná zbraň s bonusmi."
+
+  quest_structure:
+    začiatok: Sprístupnená ponuka u Wilsona po úvodných úlohách.
+    kľúčové_momenty:
+      - "Krátka interakcia s Wilsonom"
+      - "Zisk pištole Dying Night"
+    ukončenie: Úloha sa uzavrie po prevzatí zbrane.
+    následky: "Zvýšenie bojovej sily na začiatku hry."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Solo/strelec
+        importance: Hlavná postava
+      - name: Wilson
+        role: Predajca zbraní
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Little China – obchod 2nd Amendment"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Pištoľ Dying Night"
+    dlhodobé:
+      - "Skorý prístup k modom a vylepšeniam zbraní"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Lojalita a odmeny"
+    - "Príprava na boj"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Krátka, priamočiara interakcia; žiadne komplikácie"
+    roleplay_tipy:
+      - "Wilson je ústretový, udržať vecný tón"

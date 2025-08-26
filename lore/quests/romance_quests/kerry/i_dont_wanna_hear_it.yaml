@@ -1,0 +1,74 @@
+type: quest
+id: romance_kerry_i_dont_wanna_hear_it
+title: Nechcem to počuť
+aliases: ["I Don’t Wanna Hear It", "Kerry – konfrontácia"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Nechcem to počuť
+    originálny_názov: I Don’t Wanna Hear It
+    typ: Side Job – Kerry (romance)
+    lokácia: Westbrook – nočné scény
+    quest_giver: Kerry Eurodyne
+    level: 17
+    odmena: Posun vo vzťahu, definovanie hraníc
+
+  quest_profile:
+    summary: "Kerry sa postaví ľuďom, ktorí ho držia pri zemi; V ho podporí a pomôže nastaviť nové pravidlá."
+
+    background:
+      - "Kerry balansuje medzi slávou a únavou"
+
+    objectives:
+      hlavné_ciele:
+        - "Dohliadnuť na stretnutia a vyjednávania"
+        - "Zastaviť manipulácie voči Kerrymu"
+      vedľajšie_ciele:
+        - "Budovať dôveru cez úprimnosť a rešpekt"
+
+    story_significance:
+      - "Zmeny v Kerryho živote a otvorenie k V"
+
+  quest_structure:
+    začiatok: Kerry požiada o prítomnosť pri kľúčovom stretnutí
+    kľúčové_momenty:
+      - "Konfrontácia s manažmentom"
+      - "Rozhovor o budúcnosti"
+    ukončenie: Kerry si vybojuje priestor
+    následky: "Vedie k ‚Z reťaze utrhnutý‘"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Opora a facilitátor
+        importance: Hlavná postava
+      - name: Kerry Eurodyne
+        role: Rocker, hľadá rovnováhu
+        importance: Kľúčový
+
+  locations:
+    primárne:
+      - "Westbrook – kluby a zákulisie"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Silnejšia väzba"
+    dlhodobé:
+      - "Cesta k romantike s Kerrym"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Veľmi vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Sebazastanie"
+    - "Dôvera a blízkosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž civilný jazyk; bez anglicizmov"

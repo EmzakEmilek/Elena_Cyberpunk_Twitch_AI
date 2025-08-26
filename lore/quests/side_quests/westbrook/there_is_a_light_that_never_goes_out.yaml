@@ -1,0 +1,83 @@
+type: quest
+id: side_westbrook_there_is_a_light_that_never_goes_out
+title: Svetlo, ktoré nikdy nezhasne
+aliases: ["There Is A Light That Never Goes Out"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Svetlo, ktoré nikdy nezhasne
+    originálny_názov: There Is A Light That Never Goes Out
+    typ: Side Job
+    lokácia: Santo Domingo – Rancho Coronado (dom Zuleiky); Westbrook – Japantown (reštaurácia)
+    quest_giver: Joshua Stephenson / Rachel / Zuleika
+    level: 16
+    odmena: "Eddies (možná Rachel úplatok; CORPO môže vyjednať viac), XP"
+
+  quest_profile:
+    summary: "Pokračovanie po ‘Sinnerman’: rozhovory so Zuleikou a Joshuom, ponuka úplatku od Rachel, rozhodnutie, či príbeh ukončíš alebo budeš pokračovať."
+
+    background:
+      - "Dostupné iba ak si v ‘Sinnerman’ neodpratal Joshuu a išiel s ním."
+
+    objectives:
+      hlavné_ciele:
+        - "Navštíviť Zuleiku v Rancho Coronado a zúčastniť sa rozhovoru"
+        - "V reštaurácii reagovať na Rachelinu ponuku (prijať/odmietnuť)"
+      vedľajšie_ciele:
+        - "Pre dialóg ‘úspechu’ BD drž zvedavé a podporné odpovede"
+
+    story_significance:
+      - "Etické dilemy médií a vykúpenia; pripravuje ‘They Won’t Go When I Go’."
+
+  quest_structure:
+    začiatok: Automatický prechod zo ‘Sinnerman’ alebo marker pri Rancho Coronado St.
+    kľúčové_momenty:
+      - "Rozhovor u Zuleiky; rešpektuj hranice jej rodiny"
+      - "Úplatok od Rachel (CORPO: vyšší payout)"
+    ukončenie: Podľa rozhodnutia – prijatie úplatku quest ukončí, odmietnutie vedie ďalej.
+    následky: "Odomkne ‘They Won’t Go When I Go’ pri odmietnutí úplatku."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Pozorovateľ/mediátor
+        importance: Hlavná postava
+      - name: Joshua Stephenson
+        role: Odsúdený hľadajúci vykúpenie
+        importance: Kľúčová postava
+      - name: Rachel
+        role: Producentka BD
+        importance: Kľúčová postava
+      - name: Zuleika
+        role: Náboženské vodidlo pre Joshuu
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Rancho Coronado – Santo Domingo (dom Zuleiky)"
+      - "Japantown – Westbrook (reštaurácia)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP; eddies (ak prijmeš úplatok)"
+    dlhodobé:
+      - "Pokračovanie reťazca alebo jeho ukončenie"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Vykúpenie a spektákel"
+    - "Média a manipulácia"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Ponúkni sumár voľby: prijať úplatok = koniec; odmietnuť = pokračovanie"
+    roleplay_tipy:
+      - "Drž neutrálne, reflektívne tempo; nenúť hráča do jednej morálnej voľby"

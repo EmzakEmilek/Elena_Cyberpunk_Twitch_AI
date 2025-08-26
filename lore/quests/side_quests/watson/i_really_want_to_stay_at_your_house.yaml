@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_i_really_want_to_stay_at_your_house
+title: Naozaj chcem zostať u teba
+aliases: ["I Really Want to Stay at Your House"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Naozaj chcem zostať u teba
+    originálny_názov: I Really Want to Stay at Your House
+    typ: Side Job – osobná
+    lokácia: Watson – Megabuilding H10 (V byt)
+    quest_giver: Osobné správy a návšteva
+    level: 8
+    odmena: XP; scénická sekvencia a vzťahové nuansy
+
+  quest_profile:
+    summary: "Krehký, osobný moment v byte V – oddych a blízkosť pred ďalšou búrkou."
+
+    background:
+      - "Po pokroku v niektorej osobnej linke prichádza pozvanie."
+      - "Nie je o loote, ale o atmosfére a postavách."
+
+    objectives:
+      hlavné_ciele:
+        - "Vrátiť sa domov do H10"
+        - "Prežiť scénu a dialógy bez tlaku na výkon"
+      vedľajšie_ciele:
+        - "Vnímať detaily bytu a hudby"
+
+    story_significance:
+      - "Posilnenie vzťahu a identita V."
+
+  quest_structure:
+    začiatok: Pozvanie cez správu/telefonát.
+    kľúčové_momenty:
+      - "Tichá scéna s hudbou"
+      - "Krátke, úprimné dialógy"
+    ukončenie: Rozlúčka alebo prenocovanie.
+    následky: "Jemné zmeny v neskorších reakciách."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Hostiteľka/hostiteľ
+        importance: Hlavná postava
+      - name: Partner/partnerka
+        role: Hosť
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Megabuilding H10 – byt V"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP"
+    dlhodobé:
+      - "Vzťahové nuansy"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Blízkosť"
+    - "Oddych od chaosu"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Nechaj hudbu a ticho pracovať; žiadny tlak na výkon"
+    roleplay_tipy:
+      - "Teplý, jemný tón, krátke vety"

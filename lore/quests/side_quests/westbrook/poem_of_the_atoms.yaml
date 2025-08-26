@@ -1,0 +1,75 @@
+type: quest
+id: side_westbrook_poem_of_the_atoms
+title: Báseň atómov
+aliases: ["Poem of the Atoms"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Báseň atómov
+    originálny_názov: Poem of the Atoms
+    typ: Side Job
+    lokácia: Westbrook – North Oak (pri Columbariu)
+    quest_giver: Zen Master (mních)
+    level: 5
+    odmena: "BD meditácia; XP"
+
+  quest_profile:
+    summary: "Ďalšia meditácia Zen Mastera – krátky BD výjav, ktorý spomalí tempo a nechá vyniknúť myšlienky."
+
+    background:
+      - "Súčasť série Zen Master stretnutí."
+
+    objectives:
+      hlavné_ciele:
+        - "Prisadnúť a prijať BD"
+        - "Nechať dobehnúť zážitok"
+      vedľajšie_ciele:
+        - "Voľba zaplatiť/neplatiť je čisto roleplay"
+
+    story_significance:
+      - "Tématická vsuvka – žiadne vetvenie, ale posilňuje atmosféru hry."
+
+  quest_structure:
+    začiatok: Zen Master v North Oak, neďaleko Columbaria.
+    kľúčové_momenty:
+      - "Pokojné BD obrazy, bez akcie"
+    ukončenie: Po návrate z BD sa úloha ukončí.
+    následky: "Žiadne mechanické väzby."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Účastník meditácie
+        importance: Hlavná postava
+      - name: Zen Master
+        role: Duchovný sprievodca
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "North Oak – Westbrook (pri Columbariu)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP"
+    dlhodobé:
+      - "Žiadne"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Meditácia"
+    - "Memento mori (miesto pri Columbariu)"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Udrž kľudný rytmus hlasu"
+    roleplay_tipy:
+      - "Stručnosť a ticho sú cnosť"

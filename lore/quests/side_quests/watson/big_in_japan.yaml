@@ -1,0 +1,80 @@
+type: quest
+id: side_watson_big_in_japan
+title: Veľký v Japonsku
+aliases: ["Big in Japan"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Veľký v Japonsku
+    originálny_názov: Big in Japan
+    typ: Side Job
+    lokácia: Watson – Afterlife, doky Northside
+    quest_giver: Dennis
+    level: 10
+    odmena: Katana ‘Scalpel’ a odmena eddie
+
+  quest_profile:
+    summary: "Nenápadne vyzdvihni ‘balík’ z kontajnera v dokoch – ukáže sa, že ide o živého muža, ktorého treba dopraviť do bezpečia."
+
+    background:
+      - "Dennis z Afterlife potrebuje diskrétnu prepravu."
+      - "Balík je sledovaný; očakávaj odpor v dokoch."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Dennisa v Afterlife"
+        - "Ísť do dokov a nájsť kontajner s balíkom"
+        - "Prepraviť ‘balík’ do určeného miesta"
+      vedľajšie_ciele:
+        - "Udržať nízky profil; minimalizovať bitky"
+
+    story_significance:
+      - "Ukážka morálnej dilemy a praktickej logistiky v Night City."
+
+  quest_structure:
+    začiatok: Kontakt s Dennisom v Afterlife a prijatie zákazky.
+    kľúčové_momenty:
+      - "Zistenie, že ‘balík’ je osoba"
+      - "Únik s nákladom cez nepriateľské územie"
+    ukončenie: Odovzdanie osoby v bezpečnom dome; vyplatenie odmeny.
+    následky: "Získanie katany Scalpel a reputácie, že V doručuje."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Kurierka/kurier
+        importance: Hlavná postava
+      - name: Dennis
+        role: Klient z Afterlife
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Afterlife – Watson/Downtown hraničné zóny"
+      - "Doki – Northside, Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Katana Scalpel"
+      - "Eddie od Dennisa"
+    dlhodobé:
+      - "Referencie na spoľahlivosť V v budúcich rozhovoroch"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Stredné
+    hacknutie: Nízke
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "Zodpovednosť za ‘náklad’"
+    - "Česť a zmluvy v podsvetí"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zdôrazni, že osoba v kontajneri je živá a krehká"
+    roleplay_tipy:
+      - "Ponúkni stealth alternatívy (bočné uličky, deaktivácia kamier)"

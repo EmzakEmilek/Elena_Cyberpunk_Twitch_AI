@@ -1,0 +1,107 @@
+type: quest
+id: quest_transmission
+title: Prenos
+aliases: ["Transmission", "Voodoo Blackwall", "Kontakt s Alt"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Prenos
+    originálny_názov: Transmission
+    typ: Main Job - Act 2
+    lokácia: Pacifica – Grand Imperial Mall; kyberpriestor za Blackwallom
+    quest_giver: Brigitte (Voodoo Boys)
+    level: 17
+    odmena: Kontakt s Alt Cunningham za Blackwallom
+
+  quest_profile:
+    summary: "S pomocou Voodoo Boys V vykoná hlboký ponor za Blackwall, aby kontaktoval Alt Cunningham a získal návod, ako oddeliť Relik."
+
+    background:
+      - "Blackwall oddeľuje ľudstvo od zblúdilých AI"
+      - "Voodoo Boys vnímajú hlboký net duchovne, no sledujú aj vlastné ciele"
+      - "Alt Cunningham prežila ako konštrukt za Blackwallom"
+      - "NetWatch sleduje podobné operácie a zasahuje"
+
+    objectives:
+      hlavné_ciele:
+        - "Zabezpečiť prostredie v GIM pre ponor"
+        - "Preniknúť za Blackwall"
+        - "Nadviazať kontakt s Alt Cunningham"
+      vedľajšie_ciele:
+        - "Vysporiadať sa s pokusom NetWatch o prerušenie"
+        - "Minimalizovať riziká pre Relik a V"
+
+    story_significance:
+      - "Prvý priamy kontakt s Alt"
+      - "Potvrdenie cesty k Mikoshi"
+      - "Odhalenie manipulatívnych praktík Voodoo Boys"
+
+  quest_structure:
+    začiatok: Stretnutie s Brigitte v Pacifice a príprava ponoru
+    kľúčové_momenty:
+      - "Infiltrácia GIM a zabezpečenie uzlov"
+      - "Zásah agenta NetWatch"
+      - "Prechod cez Blackwall a rozhovor s Alt"
+    ukončenie: Alt dá V jasný cieľ – dostať sa do Mikoshi
+    následky: "Zmena priorít a otvorené konflikty v Pacifice"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Digitálny spolujazdec
+        importance: Poradca a komentátor
+      - name: Brigitte
+        role: Vodkyňa Voodoo Boys
+        importance: Sprievodkyňa ponorom
+      - name: Placide
+        role: Vymáhač Voodoo Boys
+        importance: Neistý spojenec
+      - name: Alt Cunningham
+        role: Netrunner konštrukt za Blackwallom
+        importance: Kľúč k riešeniu Reliku
+      - name: Agent NetWatch
+        role: Sieťová bezpečnosť
+        importance: Antagonista
+
+  locations:
+    primárne:
+      - "Grand Imperial Mall (Pacifica)"
+      - "Kyberpriestor za Blackwallom"
+    sekundárne:
+      - "Rituálne priestory Voodoo Boys"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Kontakt s Alt"
+      - "Odhalené motívy Voodoo Boys"
+    dlhodobé:
+      - "Cieľ Mikoshi je potvrdený"
+      - "Možné zhoršenie vzťahov s frakciami v Pacifice"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Vysoký
+    hacknutie: Veľmi vysoký
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Prekračovanie hraníc zakázaného"
+    - "Dôvera verzus manipulácia"
+    - "Identita v digitálnej sfére"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Voodoo Boys pôsobia tajomne, no účelovo"
+      - "Alt je chladná, presná, neľudská – dôležité pre atmosféru"
+      - "Johnny balansuje cynizmus a starosť o V"
+    roleplay_tipy:
+      - "Brigitte je vecná a pokojná"
+      - "Placide tlačí na výkon a kontrolu"
+    pokyny_pre_konverzáciu:
+      - "Terminológia: Blackwall, ponor, Mikoshi, Relik"

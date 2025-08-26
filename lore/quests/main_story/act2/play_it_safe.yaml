@@ -1,0 +1,76 @@
+type: quest
+id: quest_play_it_safe
+title: Hra na istotu
+aliases: ["Play It Safe", "Paráda v Japantowne"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Hra na istotu
+    originálny_názov: Play It Safe
+    typ: Main Job - Act 2
+    lokácia: Westbrook – Japantown (paráda)
+    quest_giver: Goro Takemura
+    level: 18
+    odmena: Kľúčový zásah proti Arasake (vedie k Search and Destroy)
+
+  quest_profile:
+    summary: "Po rokovaniach v Japantowne V a Takemura spúšťajú plán počas parády; operácia je riskantná a plná následkov."
+
+    background:
+      - "Cieľom je zasiahnuť v správnej chvíli a získať dôkaz"
+      - "Bezpečnostné protokoly sú na maxime"
+
+    objectives:
+      hlavné_ciele:
+        - "Infiltrovať sa do trás ochranky"
+        - "Zneškodniť alebo obísť Odu"
+        - "Zabezpečiť dôkazy pre Hanako"
+      vedľajšie_ciele:
+        - "Minimalizovať škody na civilistoch"
+
+    story_significance:
+      - "Kritický úder v korporátnej línii"
+
+  quest_structure:
+    začiatok: Brífing s Takemurom
+    kľúčové_momenty:
+      - "Prechod cez strechy a servisné koridory"
+      - "Stret s Odou"
+      - "Komunikačné uzly a dôkazy"
+    ukončenie: Útek z Japantownu
+    následky: "Vedie k ‚Hľadaj a znič‘ (Search and Destroy)"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Agent v teréne
+        importance: Hlavná postava
+      - name: Goro Takemura
+        role: Plánovač
+        importance: Kľúčový
+      - name: Oda
+        role: Elitný strážca
+        importance: Antagonista
+
+  locations:
+    primárne:
+      - "Japantown – trasy parády"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Dôkazy o udalostiach v Arasake"
+    dlhodobé:
+      - "Následné zatýkanie V a útoky Arasaky"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Vysoký
+    hacknutie: Vysoký
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Presnosť a načasovanie"
+    - "Cena za pravdu"

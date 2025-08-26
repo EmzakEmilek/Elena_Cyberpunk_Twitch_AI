@@ -1,0 +1,76 @@
+type: quest
+id: side_heywood_beat_on_the_brat_glen
+title: Daj mu nakladačku: The Glen
+aliases: ["Beat On The Brat: The Glen"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Daj mu nakladačku: The Glen
+    originálny_názov: Beat On The Brat: The Glen
+    typ: Side Job
+    lokácia: Heywood – The Glen (parkovisko pri Ventura & Skyline)
+    quest_giver: El Cesar (boxer)
+    level: 10
+    odmena: "Eddies; prípadne auto El Cesara a stávka podľa dohody"
+
+  quest_profile:
+    summary: "Boxerský duel s El Cesarom. Môžeš staviť peniaze a dokonca vložiť do hry jeho auto."
+
+    background:
+      - "Pokračovanie série ‘Beat on the Brat’."
+      - "El Cesar bojuje, aby získal peniaze – je ochotný vsadiť aj auto."
+
+    objectives:
+      hlavné_ciele:
+        - "Poraziť El Cesara v súboji na päste"
+      vedľajšie_ciele:
+        - "Uzavrieť stávku (a prípadne vložiť do hry jeho auto)"
+
+    story_significance:
+      - "Jeden z kľúčových zápasov série – demonštrácia reputácie v Heywoode."
+
+  quest_structure:
+    začiatok: Priblíž sa k ringu v The Glen a porozprávaj sa s El Cesarom.
+    kľúčové_momenty:
+      - "El Cesarovo ‘teleportovanie’ (rýchle vyrazenie a dopadová päsť) – nauč sa uhýbať"
+      - "Možnosti výhry: vziať peniaze, auto, obe alebo nič"
+    ukončenie: Zápas sa uzavrie vyplatením výhry a odovzdaním prípadnej odmeny.
+    následky: "Výber odmeny nemá dlhodobé dopady mimo reputácie a inventára."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Boxer
+        importance: Hlavná postava
+      - name: El Cesar
+        role: Súper, miestny boxer
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "The Glen – Heywood (Ventura & Skyline)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Výhra stávky, prípadne vozidlo El Cesara"
+    dlhodobé:
+      - "Žiadne významné mimo reputácie"
+
+  gameplay_elements:
+    boj: Vysoký (boj na päste)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Ulica a česť"
+    - "Riziko a odmena"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zdôrazniť načasovanie uhýbania a krátke okná protiútoku"
+    roleplay_tipy:
+      - "Mierna drzosť, sebavedomie, ale bez krutosti"

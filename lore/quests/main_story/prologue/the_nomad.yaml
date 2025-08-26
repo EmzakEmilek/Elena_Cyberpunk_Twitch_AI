@@ -1,0 +1,123 @@
+type: quest
+id: quest_the_nomad
+    názov: Nomád
+    originálny_názov: The Nomad
+    typ: Main Job - Prologue
+    lokácia: Badlands, Border Crossing, Biotechnica Flats
+    quest_giver: Automaticky (Life Path)
+    level: 1
+    odmena: Vstup do hlavného príbehu
+  názov: Nomád
+    summary: "Úvodný quest pre nomádsku životnú cestu. V je členom nomádskej rodiny a má doručiť náklad cez hranice. Veci sa skomplikujú a V uteká do Night City."
+    typ: Main Job - Prologue
+      - "V je člen nomádskej rodiny v Pustine"
+      - "Pracuje ako pašerák pre klan"
+      - "Má prepraviť náklad cez hranice"
+      - "Operácia sa pokazí po zásahu úradov"
+    
+  quest_profile:
+        - "Priprav vozidlo na jazdu"
+        - "Prejdi cez hraničný checkpoint"
+        - "Doruč náklad do Night City"
+      - "Utekaj pred NCPD a šerifom"
+      - "Pracuje ako pašerák pre klan"
+  - "Má prepraviť náklad cez hranice"
+  - "Operácia sa pokazí po zásahu úradov"
+    
+    objectives:
+      hlavné_ciele:
+  - "Priprav vozidlo na jazdu"
+        - "Prejdi cez hraničný checkpoint"
+        - "Doruč náklad do Night City"
+    následky: "V opúšťa nomádsku rodinu a začína nový život v meste"
+      vedľajšie_ciele:
+        - "Preskúmaj nomádsky tábor"
+        - "Zoznám sa s nomádskou kultúrou"
+        - "Pochop rodinné väzby a tradície"
+    
+    story_significance:
+      - "Úvod do nomádskej kultúry a hodnôt"
+      - "Ukázka života mimo Night City"
+      - "Prvé stretnutie V s Jackie Wellesom"
+      - "Začiatok V's vyhnanstva z Pustiny"
+  
+  quest_structure:
+    začiatok: Nomádsky tábor v Pustine
+    kľúčové_momenty:
+      - "Príprava nákladu s rodinou"
+      - "Jazda cez Pustinu"
+      - "Stretnutie na hraničnom kontrolnom bode"
+      - "Stretnutie s Jackie Wellesom"
+      - "Útek do Night City"
+    ukončenie: Príchod do Night City
+  následky: "V opúšťa nomádsku rodinu a začína nový život v meste"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Nomádsky pašerák
+        importance: Hlavná postava
+      - name: Jackie Welles
+        role: Fixer/Budúci partner
+        importance: Prvé stretnutie
+      - name: Šerif Myers
+        role: Donucovacia zložka
+        importance: Antagonista
+    vedľajšie_postavy:
+      - name: Členovia nomádskej rodiny
+        role: Rodina/Klan
+        importance: Pozadie a podpora
+      - name: Hraničná stráž
+        role: Donucovacia zložka
+        importance: Prekážky
+  
+  locations:
+    primárne:
+      - "Nomádsky tábor - Pustina"
+      - "Yucca hraničný prechod"
+      - "Biotechnica Flats"
+    sekundárne:
+      - "Púštne diaľnice"
+      - "Opustené čerpacie stanice"
+      - "Predmestia Night City"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Vyhnanstvo z nomádskej rodiny"
+      - "Začiatok života v Night City"
+      - "Partnerstvo s Jackie Wellesom"
+    dlhodobé:
+      - "Zachované nomádske hodnoty a schopnosti"
+      - "Kontakty na Pustinu"
+      - "Pochopenie perspektívy outsidera"
+  
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Nízky
+    hacknutie: Minimálny
+    dialógy: Stredný
+    prieskum: Vysoký
+    šoférovanie: Vysoký
+    
+  themes:
+    - "Rodinné väzby a lojalita"
+    - "Život na okraji spoločnosti"
+    - "Sloboda verzus bezpečnosť"
+    - "Tradície verzus pokrok"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Tento quest establišuje V ako nomáda s rodinným pozadím"
+      - "Dôležité pre pochopenie V's spojenia s prírodou a slobodou"
+      - "Ukazuje rozdiel medzi Pustinou a mestským životom"
+      - "Jackie sa objavuje ako užitočný miestny kontakt"
+    roleplay_tipy:
+      - "V má silné rodinné hodnoty"
+      - "Rozumie mechanickým schopnostiam a prežívaniu"
+      - "Je oboznámený s geografiou Pustiny"
+      - "Váži si slobodu a nezávislosť"
+    pokyny_pre_konverzáciu:
+      - "Diskutovať o nomádskych tradíciách"
+      - "Spomenúť rodinné kontakty a lojalitu"
+      - "Hovoriť o živote v pustine"
+      - "Zdôrazniť dôležitosť slobody a mobility"

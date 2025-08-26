@@ -1,0 +1,118 @@
+type: quest
+id: quest_combat_mastery
+title: Bojové majstrovstvo
+aliases: ["Bojové majstrovstvo", "Pokročilý boj", "Tréning boja"]
+category: quest_tutorials
+lang: sk
+
+content:
+  quest_data:
+    názov: Bojové majstrovstvo
+    originálny_názov: Advanced Combat Training
+    typ: Tutoriál
+    lokácia: Tréningové zariadenie v bojovej zóne
+    quest_giver: Inštruktor zo 6th Street
+    level: 5
+    odmenka: Pokročilé bojové techniky
+    
+  quest_profile:
+    summary: "Intenzívny výcvik pokročilých bojových techník: práca so zbraňami, integrácia kybervýbavy do boja a taktické prístupy pre rôzne situácie."
+    
+    background:
+      - "V Night City rozhodujú špičkové bojové zručnosti"
+      - "Rôzne gangy a frakcie používajú rozdielne štýly boja"
+      - "Kybernetické vylepšenia menia dynamiku súbojov"
+      - "Prežitie závisí od taktického myslenia"
+    
+    objectives:
+      hlavné_ciele:
+        - "Ovládnuť hlavné kategórie zbraní"
+        - "Naučiť sa integráciu kybervýbavy v boji"
+        - "Pochopiť taktické postavenie a krytie"
+        - "Absolvovať scenáre s viacerými nepriateľmi"
+      vedľajšie_ciele:
+        - "Preskúmať úpravy a modifikácie zbraní"
+        - "Pochopiť vzorce správania nepriateľov"
+        - "Naučiť sa využívať prostredie v boji"
+        - "Otestovať rôzne bojové prístupy"
+    
+    story_significance:
+      - "Príprava na ťažké bojové strety"
+      - "Rozšírenie taktických možností postavy"
+      - "Integrácia kybervýbavy do boja"
+      - "Profesionalizácia použitia sily"
+  
+  quest_structure:
+    začiatok: Vstup do tréningového zariadenia
+    kľúčové_momenty:
+      - "Testovanie zručností so zbraňami"
+      - "Integrácia kybervýbavy do boja"
+      - "Simulácie taktických scenárov"
+      - "Tréning proti viacerým protivníkom"
+      - "Využitie prostredia v boji"
+    ukončenie: Certifikácia bojovej spôsobilosti
+    následky: "V je elitný bojovník"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Kadet
+        importance: Hlavná postava
+      - name: Inštruktor zo 6th Street
+        role: Vojenský tréner/Expert
+        importance: Profesionálny učiteľ
+    vedľajšie_postavy:
+      - name: Tréningové figuríny/umelá inteligencia
+        role: Ciele v tréningu
+        importance: Cviční protivníci
+      - name: Ostatní kadeti
+        role: Sparing partneri
+        importance: Reálny bojový kontext
+  
+  locations:
+    primárne:
+      - "Tréningové centrum 6th Street"
+    sekundárne:
+      - "Strelnice a testovacie dráhy"
+      - "Simulačné miestnosti"
+      - "Sklad výstroja"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Certifikácia pokročilého boja"
+      - "Bonusy k zručnosti so zbraňami"
+      - "Znalostná báza taktických postupov"
+    dlhodobé:
+      - "Lepší výkon v boji"
+      - "Prístup k pokročilým zbraniam"
+      - "Zvýšené šance na prežitie"
+  
+  gameplay_elements:
+    boj: Veľmi vysoký
+    skrývanie: Vysoký
+    hacknutie: Stredný
+    dialógy: Nízky
+    prieskum: Stredný
+    
+  themes:
+    - "Majstrovstvo sily ako nevyhnutná zručnosť"
+    - "Technológia zvyšuje ľudské schopnosti"
+    - "Taktické myslenie verzus surová sila"
+    - "Profesionálny verzus pouličný štýl boja"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Boj je podmienkou prežitia v Night City"
+      - "6th Street funguje v polomilitárnom štýle"
+      - "Tréning je systematický a profesionálny"
+      - "Kybervýbava otvára nové bojové možnosti"
+    roleplay_tipy:
+      - "V je odhodlaný učiť sa a zlepšovať"
+      - "Inštruktor je prísny, ale spravodlivý"
+      - "Tréning je intenzívny, no hodnotný"
+      - "Zručnosti v boji zachraňujú životy"
+    pokyny_pre_konverzáciu:
+      - "Diskutovať nevyhnutnosť sebaobrany"
+      - "Spomenúť integráciu technológií do boja"
+      - "Hovoriť o dôležitosti taktického myslenia"
+      - "Zdôrazniť profesionálny prístup k používaniu sily"

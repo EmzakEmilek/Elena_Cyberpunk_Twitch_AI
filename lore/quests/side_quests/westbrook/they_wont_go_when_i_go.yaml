@@ -1,0 +1,81 @@
+type: quest
+id: side_westbrook_they_wont_go_when_i_go
+title: Neodídu, keď odídem ja
+aliases: ["They Won't Go When I Go"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Neodídu, keď odídem ja
+    originálny_názov: They Won't Go When I Go
+    typ: Side Job
+    lokácia: Westbrook – Japantown (BD štúdio/Rachelin plac)
+    quest_giver: Rachel (producentka BD) / Joshua Stephenson
+    level: 18
+    odmena: "XP, reputácia; jednorazová odmena za účasť (ak prijmeš), unikátne zakončenie línie"
+
+  quest_profile:
+    summary: "Finále Joshua línie: účasť na kontroverznom BD ukrižovaní alebo odchod; ťažké etické rozhodnutie z pohľadu V."
+
+    background:
+      - "Dostupné po ‘There Is A Light That Never Goes Out’, ak si neukončil príbeh prijatím úplatku."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť sa s Rachel pri štúdiu v Japantown"
+        - "Rozhodnúť sa, či sa zúčastníš nahrávania (prikovať klince/odmietnuť)"
+        - "Zostať pri Joshuovi až do konca alebo odísť"
+      vedľajšie_ciele:
+        - "Dialógmi buď podporný alebo odmietavý; ovplyvní tón scén"
+
+    story_significance:
+      - "Jedna z najsilnejších morálnych dilem hry; médiá vs. viera/vykúpenie."
+
+  quest_structure:
+    začiatok: Telefonát/marker od Rachel pri BD štúdiu v Japantown.
+    kľúčové_momenty:
+      - "Prístup do štúdia a príprava scény"
+      - "Voľba účasti (interakcia s klincami)"
+      - "Záverečný rozhovor s Rachel/Theom podľa prístupu"
+    ukončenie: Scéna sa dokončí s tebou alebo bez teba; následne quest končí.
+    následky: "Linka sa uzatvára; e-maily/poznámky môžu odrážať tvoju účasť."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Svedok alebo aktér
+        importance: Hlavná postava
+      - name: Joshua Stephenson
+        role: Odsúdený hľadajúci vykúpenie
+        importance: Kľúčová postava
+      - name: Rachel
+        role: Producentka BD
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Japantown – Westbrook (BD štúdio/natáčanie)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia; prípadné eddies za účasť"
+    dlhodobé:
+      - "Psychologický dosah; žiadne gameplay bonusy"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Vykúpenie vs. využitie"
+    - "Spektákel a hranice umenia"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Upozorni na vážny obsah; drž faktický tón"
+    roleplay_tipy:
+      - "Citlivé, striedme formulácie; nechaj priestor pre hráčovu interpretáciu"

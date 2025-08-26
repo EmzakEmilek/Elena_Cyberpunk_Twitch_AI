@@ -1,0 +1,81 @@
+type: quest
+id: side_westbrook_ex_factor
+title: Ex-faktor
+aliases: ["Ex-Factor"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Ex-faktor
+    originálny_názov: Ex-Factor
+    typ: Side Job
+    lokácia: Westbrook – Japantown (Megabuilding H8, Clouds)
+    quest_giver: Judy Alvarez
+    level: 12
+    odmena: "XP, reputácia; loot (M251S Ajax), ďalší postup v Judy línii"
+
+  quest_profile:
+    summary: "Judy ťa požiada o pomoc v Clouds. Konfrontácia s Maiko a (ak žije) Woodmanom určí smer ďalšieho odporu."
+
+    background:
+      - "Nasleduje po ‘Both Sides, Now’; čakaj správy a telefonát od Judy."
+      - "Voľby voči Maiko a Woodmanovi formujú dôveru s Judy a budúci románik."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Judy nad Clouds (H8) v čase 5:00–8:00"
+        - "Porozprávať sa s Maiko; neukončiť rozhovor predčasne (‘waste of time’ = fail)"
+        - "(Ak žije) Nájsť Woodmana a vyriešiť ho (boj/dohovor)"
+      vedľajšie_ciele:
+        - "Udržať trpezlivý tón s Judy – zachová to puto do ďalších misií"
+
+    story_significance:
+      - "Kritický uzol Judy príbehu; otvára ‘Pisces’."
+
+  quest_structure:
+    začiatok: SMS/telefonát od Judy po 12+6 hodinách od ‘Both Sides, Now’.
+    kľúčové_momenty:
+      - "Strecha Clouds – plán s Maiko"
+      - "Konfrontácia s Woodmanom (ak žije)"
+    ukončenie: Rozhovor pri výstupe z Clouds; upevnenie vzťahu s Judy.
+    následky: "Umožnené ‘Pisces’; smerovanie romániku podľa postojov."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Spojenec a exekútor plánu
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Iniciátorka, hacktivistka
+        importance: Kľúčová postava
+      - name: Maiko Maeda
+        role: Manažérka Clouds
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Megabuilding H8 – Japantown, Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia, potenciálny loot"
+    dlhodobé:
+      - "Vetvenie Judy príbehu (romance lock/unlock neskôr)"
+
+  gameplay_elements:
+    boj: Stredný (ak riešiš Woodmana)
+    skrývanie: Nízky
+    hacknutie: Nízky
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Vykorisťovanie vs. autonómia"
+    - "Dôvera a hranice"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Neukončuj rozhovor s Maiko cez ‘strata času’ – preruší líniu"
+    roleplay_tipy:
+      - "Podpor Judy, ale buď racionálny pri eskalácii"

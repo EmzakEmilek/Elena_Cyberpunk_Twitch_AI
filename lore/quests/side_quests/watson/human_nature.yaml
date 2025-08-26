@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_human_nature
+title: Ľudská prirodzenosť
+aliases: ["Human Nature"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Ľudská prirodzenosť
+    originálny_názov: Human Nature
+    typ: Side Job
+    lokácia: Watson – Megabuilding H10 (garáže)
+    quest_giver: Správca garáže (Delamain incident)
+    level: 5
+    odmena: Prístup k oprave vozidla a pokračovanie do „Tune Up“
+
+  quest_profile:
+    summary: "Po nehode s Delamainom sa V-ino auto dostane do servisu. Zisti stav a priprav sa na proces opravy."
+
+    background:
+      - "Po The Heist a skorých udalostiach dôjde k incidentu s autonómnym vozidlom Delamain."
+      - "Auto je odtiahnuté do garáže H10 a čaká na spracovanie."
+
+    objectives:
+      hlavné_ciele:
+        - "Skontrolovať auto v garáži Megabuilding H10"
+        - "Prečítať oznámenie a informácie o oprave"
+      vedľajšie_ciele:
+        - "Udržiavať kontakt so správcom garáže"
+
+    story_significance:
+      - "Nastavuje líniu s Delamainom; odomkne ‘Tune Up’ a ‘Epistrophy’."
+
+  quest_structure:
+    začiatok: Notifikácia v denníku po nehode – marker v garáži H10.
+    kľúčové_momenty:
+      - "Zistenie poškodenia a administratívne kroky"
+      - "Príprava na návštevu Delamain HQ"
+    ukončenie: Auto je v procese; úloha sa uzavrie po prečítaní informácií.
+    následky: "Aktivovaný ‘Tune Up’ vedúci do ‘Epistrophy’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Majiteľka/majiteľ vozidla
+        importance: Hlavná postava
+      - name: Správca garáže
+        role: Kontakt pre administratívu
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Megabuilding H10 – garáže"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Aktualizovaný stav vozidla"
+    dlhodobé:
+      - "Reštart Delamain questline"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Byrokracia"
+    - "Zodpovednosť za majetok"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Informuj stručne, kam ísť a čo si prečítať"
+    roleplay_tipy:
+      - "Udrž vecný, trpezlivý tón – ide o administratívny krok"

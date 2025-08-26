@@ -1,0 +1,122 @@
+type: quest
+id: quest_nocturne_op55n1
+title: Nokturno OP55N1
+aliases: ["Nocturne OP55N1", "Bod bez návratu", "Embers"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Nokturno OP55N1
+    originálny_názov: Nocturne OP55N1
+    typ: Interlude / Main Job
+    lokácia: Reštaurácia Embers, City Center – Corpo Plaza
+    quest_giver: Hanako Arasaka (stretnutie), Johnny Silverhand (voľba)
+    level: 20
+    odmena: Otvorenie koncových ciest a spustenie finálnych misií
+
+  quest_profile:
+    summary: "Pozvánka do Embers vedie k zásadnému rozhodnutiu: V sa po rozhovore s Hanako a Johnny-m musí rozhodnúť, koho požiadať o pomoc. Ide o bod bez návratu, ktorý odštartuje finále."
+
+    background:
+      - "Relic ničí V a času je málo"
+      - "Hanako ponúka korporátnu cestu a očistu mena"
+      - "Johnny tlačí na vlastnú víziu slobody a pomsty"
+      - "Voľba určí smer konca príbehu a epilógy"
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť sa s Hanako v reštaurácii Embers"
+        - "Odísť s Misty na strechu a predýchať situáciu"
+        - "Porozprávať sa s Johnnym o možnostiach"
+        - "Vybrať si spojenca: Arasaka / Rogue / Aldecaldos / Sólo"
+        - "Potvrdiť rozhodnutie (bod bez návratu)"
+      vedľajšie_ciele:
+        - "Skontrolovať výbavu, muníciu a kybervýbavu"
+        - "Uložiť si hru pred potvrdením voľby"
+        - "Rozlúčiť sa s blízkymi kontaktmi (voliteľné)"
+
+    story_significance:
+      - "Definuje finálnu vetvu príbehu (Act 3)"
+      - "Prehlbuje vzťah V ↔ Johnny a dôveru"
+      - "Vytvára odlišné herné finále a epilógy"
+      - "Uzamkne návrat k voľnej hre až po epilógu"
+
+  quest_structure:
+    začiatok: Pozvánka do Embers po udalostiach Act 2
+    kľúčové_momenty:
+      - "Formálne stretnutie s Hanako v Embers"
+      - "Misty odvedie V na strechu"
+      - "Intímny rozhovor s Johnnym o možnostiach"
+      - "Rozhodnutie o spojencovi a potvrdenie voľby"
+    ukončenie: Potvrdená cesta do finále
+    následky: "Spustenie príslušnej finálnej misie a uzamknutie návratu pred epilógmi"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Rozhodujúci hráč
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Partner/Nátlak a svedomie
+        importance: Kľúčový vplyv na voľbu
+      - name: Hanako Arasaka
+        role: Korporátna spojkyňa
+        importance: Otvára Arasaka cestu
+    vedľajšie_postavy:
+      - name: Misty Olszewski
+        role: Sprievodkyňa/Opora
+        importance: Emocionálny kontext a rituál
+      - name: Rogue Amendiares
+        role: Potenciálny spojenec (koniec: Rogue)
+        importance: Otvára cestu cez Afterlife
+      - name: Panam Palmer
+        role: Potenciálny spojenec (koniec: Aldecaldos)
+        importance: Otvára nomádsku cestu
+
+  locations:
+    primárne:
+      - "Reštaurácia Embers (City Center – Corpo Plaza)"
+    sekundárne:
+      - "Mistyho esoterika (Kabuki)"
+      - "Strecha nad Mistyho esoterikou"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Prístup k finálnym misiám podľa voľby"
+      - "Zmeny vo vzťahu s Johnnym"
+      - "Uloženie kontrolného bodu pred finále"
+    dlhodobé:
+      - "Určenie epilógu a záverečného stavu V"
+      - "Odlišné koncové misie a odmeny"
+      - "Trvalý dopad na osudy hlavných postáv"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Nízky
+    hacknutie: Nízky
+    dialógy: Veľmi vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Voľba a zodpovednosť"
+    - "Identita a smrteľnosť"
+    - "Dôvera verzus kontrola"
+    - "Cena slobody"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Ide o bod bez návratu – pripomeň uloženie pred voľbou"
+      - "Neutrálne predstav jednotlivé cesty (Arasaka/Rogue/Aldecaldos/Sólo)"
+      - "Misty dodáva pokoj a duchovný rámec rozhodnutiu"
+      - "Johnny je naliehavý, ale odhaľuje svoje motívy"
+    roleplay_tipy:
+      - "V pôsobí zamyslene a úprimne, zvažuje dôsledky"
+      - "Hanako je vecná a strohá; Rogue tvrdá a priama; Panam emotívna a lojálna"
+      - "Tón udrž neutrálne-informačný bez spoilerov detailov"
+      - "Pripomeň prípravu výbavy a kybervýbavy pred potvrdením"
+    pokyny_pre_konverzáciu:
+      - "Vysvetli význam bodu bez návratu a epilógov"
+      - "Zhrň rozdiely ciest na vysokej úrovni"
+      - "Podpor otázky divákov k preferovanému štýlu finále"
+      - "Upozorni na vhodný timing pre uloženie hry"

@@ -1,0 +1,81 @@
+type: quest
+id: side_watson_sinnerman
+title: Hriešnik
+aliases: ["Sinnerman"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Hriešnik
+    originálny_názov: Sinnerman
+    typ: Side Job
+    lokácia: Watson – Little China (štart pri Megabuilding H8) → Westbrook – Japantown (jadro rozhovorov)
+    quest_giver: Kontakt pri H8; neskôr Rachel/Joshua
+    level: 15
+    odmena: "XP, reputácia; otvorí reťazec s Joshuom"
+
+  quest_profile:
+    summary: "Zastavenie väzenského konvoja pri H8 ťa zavedie k Joshuovi Stephensonovi a producentke Rachel. Rozhodnutia určia, či linka bude pokračovať."
+
+    background:
+      - "Objaví sa marker v Little China; kontakt ťa požiada o zásah."
+
+    objectives:
+      hlavné_ciele:
+        - "Sledovať konvoj a zastaviť auto"
+        - "Rozhodnúť o osude vodiča a Joshuu ušetriť"
+        - "Odviezť sa do Japantown a vypočuť si návrh"
+      vedľajšie_ciele:
+        - "Nezabiť Joshuu, inak linka končí"
+
+    story_significance:
+      - "Začiatok výrazne morálnej línie; smeruje do ‘There Is A Light…’."
+
+  quest_structure:
+    začiatok: Marker a SMS pri H8.
+    kľúčové_momenty:
+      - "Stop auta a krátke napätie"
+      - "Prvé stretnutie s Rachel"
+    ukončenie: Ak si Joshuu ušetril, dostaneš ďalšie pokyny.
+    následky: "Odomkne ‘There Is A Light That Never Goes Out’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Intervencia
+        importance: Hlavná postava
+      - name: Joshua Stephenson
+        role: Odsúdený
+        importance: Kľúčová postava
+      - name: Rachel
+        role: Producentka BD
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Little China – Watson (H8)"
+      - "Japantown – Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Otvorenie pokračovaní reťazca"
+
+  gameplay_elements:
+    boj: Nízky až stredný
+    skrývanie: Nízky
+    hacknutie: Nízky
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Vina a vykúpenie"
+    - "Médiá a senzácie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Explicitne uveď, že zabitie Joshuu ukončí linku"
+    roleplay_tipy:
+      - "Striedmy, citlivý tón; bez grafických detailov"

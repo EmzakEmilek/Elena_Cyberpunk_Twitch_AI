@@ -1,0 +1,104 @@
+type: quest
+id: quest_for_whom_the_bell_tolls
+title: Komu zvonia do hrobu
+aliases: ["For Whom the Bell Tolls", "Rogue – príprava útoku"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Komu zvonia do hrobu
+    originálny_názov: For Whom the Bell Tolls
+    typ: Main Job - Act 3 (Rogue)
+    lokácia: Afterlife, City Center – Corpo Plaza (okolie)
+    quest_giver: Rogue Amendiares
+    level: 28
+    odmena: Otvorenie útoku na Arasaka Tower (Rogue línia)
+
+  quest_profile:
+    summary: "V spolu s Rogue a tímom Afterlife pripravujú lúpežný nájazd na Arasaka Tower; plán kombinuje infiltráciu, leteckú podporu a odlákanie pozornosti."
+
+    background:
+      - "Po Nokturne OP55N1 sa V rozhodol pre cestu s Rogue"
+      - "Johnny tlačí na aktívny útok proti Arasake"
+      - "Zostavenie tímu a zabezpečenie výbavy je kľúčové"
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť sa s Rogue v Afterlife a potvrdiť plán"
+        - "Zabezpečiť AV a prístupové kľúče"
+        - "Naverbovať Weylanda a ďalších členov tímu"
+        - "Spustiť operáciu a priblížiť sa k veži"
+      vedľajšie_ciele:
+        - "Znížiť riziká – získať alternatívne trasy"
+        - "Zabezpečiť krytie v prípade poplachu"
+        - "Nazbierať intel o rozvrhu stráží"
+
+    story_significance:
+      - "Nastavuje finálny zásah Rogue línie"
+      - "Prehlbuje vzťah V – Rogue – Johnny"
+      - "Definuje prístup do veže a následné riziká"
+
+  quest_structure:
+    začiatok: Briefing v Afterlife a logistika operácie
+    kľúčové_momenty:
+      - "Zostavenie tímu a rozdelenie rolí"
+      - "Získanie AV a prístupov"
+      - "Let a presun k Arasaka Tower pod paľbou"
+    ukončenie: Tím je v dosahu cieľa a pripravený na prienik
+    následky: "Otvorená cesta do Arasaka Tower (Rogue línia)"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Veliteľ zásahu/Operatívny agent
+        importance: Hlavná postava
+      - name: Rogue Amendiares
+        role: Tímový líder/Strategička
+        importance: Kľúčová pre Afterlife cestu
+      - name: Johnny Silverhand
+        role: Motivátor/Protikorporátny duch
+        importance: Tlak na akciu
+    vedľajšie_postavy:
+      - name: Weyland
+        role: Ťažký operátor
+        importance: Podpora
+      - name: Afterlife posádka
+        role: Spojenci
+        importance: Taktická opora
+
+  locations:
+    primárne:
+      - "Afterlife – Watson"
+    sekundárne:
+      - "City Center – prístupové koridory k Corpo Plaza"
+      - "Vzdušné trasy (AV)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Pripravený plán na prienik"
+      - "Získané prístupy a technika"
+    dlhodobé:
+      - "Riziká zásahu a možné straty v tíme"
+      - "Cesta k epilógu ‚Zmeny‘"
+
+  gameplay_elements:
+    boj: Stredný až vysoký
+    skrývanie: Stredný
+    hacknutie: Vysoký
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Povstanie proti korporáciám"
+    - "Lojalita a riziko"
+    - "Plán verzus improvizácia"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zachyť energiu Afterlife a profesionálny žargón"
+      - "Rogue je pragmatická, Johnny tlačí na agresiu"
+    roleplay_tipy:
+      - "V drží tím pokope a vyvažuje riziká"
+    pokyny_pre_konverzáciu:
+      - "Používaj konzistentné termíny (AV, prístupové kľúče, Corpo Plaza)"

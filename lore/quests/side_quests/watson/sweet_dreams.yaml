@@ -1,0 +1,83 @@
+type: quest
+id: side_watson_sweet_dreams
+title: Sladké sny
+aliases: ["Sweet Dreams"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Sladké sny
+    originálny_názov: Sweet Dreams
+    typ: Side Job
+    lokácia: Watson – Little China (uličky pri H10) → scav úkryt
+    quest_giver: Stefan (pouličný predajca BD)
+    level: 12
+    odmena: "XP/Street Cred; späť svoj inventár; uzavretie ‘scam’ linky so Stefanom"
+
+  quest_profile:
+    summary: "Stefan ti predá ‘zaručený’ brain dance a oškube ťa do poslednej nite. Prebojuj sa späť k svojim veciam a rozhodni o jeho osude."
+
+    background:
+      - "Stefan ponúkne BD za 16 000 €$ (a +4 000 €$ za prehrávanie u neho)."
+      - "Po ‘snívaní’ sa prebudíš okradnutý v scav komplexe."
+
+    objectives:
+      hlavné_ciele:
+        - "Zaplať Stefanovi a spusti BD (alebo žiadaj peniaze späť – neukončí úlohu)"
+        - "Prebi sa scav úkrytom a nájdi skrinku s tvojím lootom"
+        - "Dostaň sa von a konfrontuj Stefana"
+      vedľajšie_ciele:
+        - "Rozhodni o osude Stefana (varovanie / vyhostenie)"
+
+    story_significance:
+      - "Krátka epizóda s pouličným podvodom; zaujímavá stealth/boj sekcia bez gearu."
+
+  quest_structure:
+    začiatok: "Stretneš Stefana pri vchode do uličky v Little China."
+    kľúčové_momenty:
+      - "Prebudenie nahý/á v kúpeľni; improvizovaná ‘retrieval’ sekvencia"
+      - "Skrinka so všetkou výbavou v západnej časti miestnosti"
+      - "Útek výťahom a konfrontácia so Stefanom"
+    ukončenie: "Rozhodnutie, či ho nechať ísť, alebo vykázať z NC."
+    následky: "Uzavretie minilinky; žiadne väčšie dlhodobé dopady."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Obeť podvodu, následne pomstiteľ/ka
+        importance: Hlavná postava
+      - name: Stefan
+        role: Podvodník; predajca BD
+        importance: Epizódny
+      - name: Johnny Silverhand
+        role: Komentátor situácie
+        importance: Vedľajší
+
+  locations:
+    primárne:
+      - "Little China – Watson (pri H10)"
+      - "Scav úkryt (interiér)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Návrat inventára; XP/Street Cred"
+    dlhodobé:
+      - "Flavour následky podľa voľby pri Stefanovi"
+
+  gameplay_elements:
+    boj: Stredný (začiatok bez výbavy)
+    skrývanie: Stredný (výhodné)
+    hacknutie: Nízke
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "Podvod a odveta"
+    - "Sebazáchova bez gearu"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Upozorni na vysokú vstupnú cenu BD a voliteľnosť ‘refund’ voľby."
+    roleplay_tipy:
+      - "Drž ironický tón cez Johnnyho komentáre; pri Stefanovi strohá prísnosť."

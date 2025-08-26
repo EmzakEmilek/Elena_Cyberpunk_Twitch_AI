@@ -1,0 +1,78 @@
+type: quest
+id: romance_panam_help_from_friends
+title: S malou pomocou od priateľov
+aliases: ["With a Little Help from My Friends", "Panam – plán s klanom"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: S malou pomocou od priateľov
+    originálny_názov: With a Little Help from My Friends
+    typ: Side Job – Panam (romance)
+    lokácia: Badlands – tábor Aldecaldos
+    quest_giver: Panam Palmer
+    level: 18
+    odmena: Prehĺbenie puta a dôvery (možné intímne momenty)
+
+  quest_profile:
+    summary: "Panam ťahá za jeden povraz s klanom; V pomáha zladiť plán a vystužuje dôveru – aj osobnú."
+
+    background:
+      - "Po záchrane Saula treba stabilizovať klan"
+      - "Panam potrebuje, aby jej V veril a stál pri nej"
+
+    objectives:
+      hlavné_ciele:
+        - "Podieľať sa na prípravách klanu"
+        - "Chrániť Panam pred vonkajším tlakom"
+      vedľajšie_ciele:
+        - "Budovať blízkosť cez voľby dialógu"
+
+    story_significance:
+      - "Vzťah s Panam sa môže posunúť k romantike"
+
+  quest_structure:
+    začiatok: Stretnutie v tábore a plánovanie
+    kľúčové_momenty:
+      - "Prípravné úlohy a rozhovory pri ohni"
+      - "Rozhodnutia, ktoré ukážu lojalitu"
+    ukončenie: Tím zjednotený
+    následky: "Vedie k ‚Kráľovná diaľnice‘"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Partner a opora
+        importance: Hlavná postava
+      - name: Panam Palmer
+        role: Lídra a srdce klanu
+        importance: Kľúčová
+      - name: Aldecaldos
+        role: Rodina
+        importance: Zázemie
+
+  locations:
+    primárne:
+      - "Tábor Aldecaldos – Badlands"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Osobné zblíženie"
+    dlhodobé:
+      - "Stabilné partnerstvo do budúcna"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Veľmi vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Komunita a lojalita"
+    - "Vzťah na vzájomnej podpore"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Teplý, úprimný tón;"

@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_full_disclosure
+title: Úplné zverejnenie
+aliases: ["Full Disclosure"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Úplné zverejnenie
+    originálny_názov: Full Disclosure
+    typ: Side Job
+    lokácia: Watson – Kabuki
+    quest_giver: Sandra Dorsett (dátová bezpečnosť)
+    level: 7
+    odmena: XP, eddie; odmena podľa výsledku (dátová integrita)
+
+  quest_profile:
+    summary: "Získaj späť Sandrine dáta a rozhodni sa, čo s citlivým obsahom – čestnosť sa môže vyplatiť."
+
+    background:
+      - "Sandra žiada späť databanku od možných zlodejov."
+      - "Obsah môže byť kompromitujúci."
+
+    objectives:
+      hlavné_ciele:
+        - "Vypátrať databanku v Kabuki"
+        - "Vrátiť ju Sandre"
+      vedľajšie_ciele:
+        - "Rozhodnúť sa, či dáta čítať a čo prezradiť"
+
+    story_significance:
+      - "Voľba medzi priamou odmenou a dôverou do budúcna."
+
+  quest_structure:
+    začiatok: Kontakt so Sandrou po náleze/povesti o stratenej databanke.
+    kľúčové_momenty:
+      - "Infiltrácia priestoru so zlodejmi"
+      - "Doručenie a rozhovor so Sandrou"
+    ukončenie: Odmena podľa prístupu; možné extra bonusy za čestnosť.
+    následky: "Postoj V ovplyvní reputáciu a reakciu Sandry."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Sprostredkovateľka/sprostredkovateľ dát
+        importance: Hlavná postava
+      - name: Sandra Dorsett
+        role: Klientka; odborníčka na dáta
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Kabuki – zastrčené byty/sklady"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddie"
+    dlhodobé:
+      - "Možná vyššia odmena a reputácia za čestnosť"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Stredné
+    hacknutie: Stredné
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Súkromie vs. zvedavosť"
+    - "Dôvera"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Upozorni na morálny aspekt čítania dát"
+    roleplay_tipy:
+      - "Ponúkni čestnú cestu bez moralizovania"

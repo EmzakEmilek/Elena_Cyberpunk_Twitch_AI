@@ -1,0 +1,80 @@
+type: quest
+id: side_watson_fool_on_the_hill
+title: Blázon na kopci
+aliases: ["Fool on the Hill"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Blázon na kopci
+    originálny_názov: Fool on the Hill
+    typ: Side Job – zbierka
+    lokácia: Watson (štart), naprieč Night City
+    quest_giver: Misty (tarotové karty)
+    level: 5
+    odmena: Kompletný tarot set; duchovné posolstvá
+
+  quest_profile:
+    summary: "Nazbieraj všetky murálne tarotové karty roztrúsené po Night City pre Misty a zisti ich význam."
+
+    background:
+      - "Tarotové maľby predstavujú archetypy; Misty vysvetlí ich symboliku."
+      - "Niektoré sú dobre skryté alebo vyžadujú prístup v neskorších častiach hry."
+
+    objectives:
+      hlavné_ciele:
+        - "Navštíviť Misty a získať úvod do tarotov"
+        - "Zdokumentovať všetky nástenné taroty (fotografiou/skenerom)"
+        - "Vrátiť sa k Misty s kompletným setom"
+      vedľajšie_ciele:
+        - "Popri tom navštíviť miesta s príbehovým významom"
+
+    story_significance:
+      - "Reflektuje cestu V a možné konce; ľahké prepojenie na epilógy."
+
+  quest_structure:
+    začiatok: Rozhovor s Misty pri jej stánku v Watson.
+    kľúčové_momenty:
+      - "Objav prvých murálov v okolí Little China"
+      - "Postupne odhaľované symboly a ich interpretácie"
+    ukončenie: Vrátenie sa k Misty po dokončení zbierky; záverečný výklad.
+    následky: "Rozšírené chápanie motívov príbehu a predzvestí."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Hľadačka/hľadač symbolov
+        importance: Hlavná postava
+      - name: Misty
+        role: Ezoterická sprievodkyňa
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Watson – stánok Misty"
+    sekundárne:
+      - "Rôzne lokality po Night City (všetky okresy)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Skúsenosti za objavy"
+    dlhodobé:
+      - "Lore bonusy a napojenie na konce príbehu"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Nízky
+    prieskum: Vysoký
+
+  themes:
+    - "Osud a archetypy"
+    - "Sebapoznanie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Usmerňuj šetrne, bez spoilerov na konce"
+    roleplay_tipy:
+      - "Misty má nežný, trpezlivý tón"

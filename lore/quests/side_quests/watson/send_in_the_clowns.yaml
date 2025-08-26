@@ -1,0 +1,79 @@
+type: quest
+id: side_watson_send_in_the_clowns
+title: Pošli klaunov
+aliases: ["Send in the Clowns"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Pošli klaunov
+    originálny_názov: Send in the Clowns
+    typ: Side Job
+    lokácia: Westbrook – Japantown (štart), presuny cez Watson
+    quest_giver: Ozob
+    level: 10
+    odmena: XP, eddie; kontakt s Ozobom
+
+  quest_profile:
+    summary: "Pomôž Ozobovi s presunom a ‘biznisom’; cesta sa môže rýchlo zvrhnúť."
+
+    background:
+      - "Ozob je charakter s výbušnou povesťou."
+      - "Úloha je citlivá na jazdu a konflikty."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Ozoba v Japantown"
+        - "Odviezť ho na miesto a prežiť schôdzku"
+      vedľajšie_ciele:
+        - "Minimalizovať škody a zbytočné bitky"
+
+    story_significance:
+      - "Kuriózna epizóda; pre niektorých hráčov easter egg."
+
+  quest_structure:
+    začiatok: Telefonát/správa od Ozoba.
+    kľúčové_momenty:
+      - "Riziková jazda mestom"
+      - "Napäté rokovanie, možný konflikt"
+    ukončenie: Odmena podľa výsledku.
+    následky: "Kontakt na Ozoba do budúcna."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Šofér/ochranka
+        importance: Hlavná postava
+      - name: Ozob
+        role: Klient s ‘náložou’
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Japantown – Westbrook"
+    sekundárne:
+      - "Trasy cez Watson podľa navigácie"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddie"
+    dlhodobé:
+      - "Odlišné komentáre v neskorších dialógoch"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Nízke
+    hacknutie: Nízke
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Riziko a zodpovednosť"
+    - "Čierny humor"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Pripomeň, aby hráč nejazdil agresívne, riziko explózie"
+    roleplay_tipy:
+      - "Tón ironický, ale nie krutý"

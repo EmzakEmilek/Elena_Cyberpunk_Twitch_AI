@@ -1,0 +1,121 @@
+type: quest
+id: quest_stealth_infiltration
+title: Skrývanie a infiltrácia
+aliases: ["Skrývanie a infiltrácia", "Umenie nenápadnosti", "Ninja tréning"]
+category: quest_tutorials
+lang: sk
+
+content:
+  quest_data:
+    názov: Skrývanie a infiltrácia
+    originálny_názov: Stealth & Infiltration Tutorial
+    typ: Tutoriál
+    lokácia: Arasaka akadémia – kurz nenápadnosti
+    quest_giver: Goro Takemura (spomienka)
+    level: 8
+    odmenka: Majstrovstvo v skrývaní a prieniku
+    
+  quest_profile:
+    summary: "Goro Takemura vo flashbacku učí V tradičné techniky nenápadnosti skombinované s modernými technológiami pre bezchybnú infiltráciu."
+    
+    background:
+      - "Arasaka čerpá zo storočiami overených tradícií skrývania"
+      - "Moderné technológie posilňujú klasické postupy"
+      - "Tichý postup je často lepší než priamy konflikt"
+      - "Infiltrácia vyžaduje trpezlivosť a plánovanie"
+    
+    objectives:
+      hlavné_ciele:
+        - "Ovládnuť základné princípy pohybu v utajení"
+        - "Naučiť sa kamufláž a využitie prostredia"
+        - "Pochopiť vzorce detekcie nepriateľa"
+        - "Absolvovať kompletnú infiltračnú misiu"
+      vedľajšie_ciele:
+        - "Preskúmať optické maskovanie"
+        - "Pochopiť techniky tlmenia zvuku"
+        - "Naučiť sa tiché zneškodnenia"
+        - "Otestovať metódy rozptýlenia pozornosti"
+    
+    story_significance:
+      - "Náhľad do tréningových metód Arasaky"
+      - "Hlbšie pochopenie pozadia Takemuru"
+      - "Alternatívny prístup k prekážkam"
+      - "Príprava na stealth misie"
+  
+  quest_structure:
+    začiatok: Spomienka na výcvik v Arasaka akadémii
+    kľúčové_momenty:
+      - "Filozofia tichej nenápadnosti"
+      - "Základy pohybu a postavenia"
+      - "Technológiami podporené skrývanie"
+      - "Rozpoznávanie vzorcov hliadok"
+      - "Záverečný infiltračný test"
+    ukončenie: Potvrdenie majstrovstva
+    následky: "V je expert na tichý prienik"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Kadet
+        importance: Hlavná postava
+      - name: Goro Takemura (mladý)
+        role: Inštruktor Arasaky/Mentor
+        importance: Majstrovský učiteľ
+    vedľajšie_postavy:
+      - name: Kadeti Arasaky
+        role: Spolužiaci
+        importance: Tréningový kontext
+      - name: Inštruktori akadémie
+        role: Ďalší učitelia
+        importance: Komplexný výcvik
+      - name: Bezpečnostné systémy
+        role: Prekážky v tréningu
+        importance: Cvičné ciele
+  
+  locations:
+    primárne:
+      - "Tréningové zariadenie Arasaka akadémie"
+    sekundárne:
+      - "Tradičné dojo priestory"
+  - "Pokročilé simulačné miestnosti"
+      - "Mestské infiltračné dráhy"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Potvrdenie zručnosti v skrývaní"
+      - "Pokročilé techniky maskovania"
+      - "Majstrovstvo tichého pohybu"
+    dlhodobé:
+      - "Alternatívne prístupy k misiám"
+      - "Vyššia šanca prežitia bez boja"
+      - "Hlbší vzťah k japonskej kultúre Arasaky"
+  
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Veľmi vysoký
+    hacknutie: Stredný
+    dialógy: Stredný
+    prieskum: Vysoký
+    
+  themes:
+    - "Tradičné prístupy a moderné technológie"
+    - "Význam trpezlivosti a disciplíny"
+    - "Neviditeľný vplyv verzus priame konanie"
+    - "Kultúrna úcta a učenie"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Takemura stelesňuje česť a tradíciu"
+      - "Arasaka kombinuje staré a nové metódy"
+      - "Skrývanie je umenie, nielen taktika"
+      - "Japonská filozofia prehlbuje techniku"
+    roleplay_tipy:
+      - "V má úctu k tradičným metódam"
+      - "Takemura je trpezlivý a disciplinovaný učiteľ"
+      - "Tréning je meditatívny a sústredený"
+      - "Kultúrna výmena cez učenie a prax"
+    pokyny_pre_konverzáciu:
+      - "Diskutovať trpezlivosť verzus rýchla akcia"
+      - "Spomenúť úctu k tradičným postupom"
+      - "Hovoriť o sile neviditeľného vplyvu"
+      - "Zdôrazniť hodnotu disciplíny a tréningu"

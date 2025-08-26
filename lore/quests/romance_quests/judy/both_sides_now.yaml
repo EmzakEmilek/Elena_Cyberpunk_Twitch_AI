@@ -1,0 +1,77 @@
+type: quest
+id: romance_judy_both_sides_now
+title: Z oboch strán
+aliases: ["Both Sides, Now", "Judy – začiatok linky"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Z oboch strán
+    originálny_názov: Both Sides, Now
+    typ: Side Job – Judy (romance)
+    lokácia: Watson – byt Judy
+    quest_giver: Judy Alvarez
+    level: 10
+    odmena: Otvorenie osobnej linky Judy
+
+  quest_profile:
+    summary: "Judy sa vyrovnáva s následkami okolo Evelyn a hľadá oporu; V môže budovať dôveru a blízkosť."
+
+    background:
+      - "Udalosti v Clouds a s Evelyn"
+      - "Judy potrebuje podporu a praktickú pomoc"
+
+    objectives:
+      hlavné_ciele:
+        - "Navštíviť Judy a zistiť, čo potrebuje"
+        - "Pomôcť stabilizovať situáciu v byte"
+      vedľajšie_ciele:
+        - "Byť oporou v rozhovoroch, nie sudcom"
+
+    story_significance:
+      - "Začína sa osobná linka a dôvera"
+
+  quest_structure:
+    začiatok: Správa od Judy a pozvanie do bytu
+    kľúčové_momenty:
+      - "Tichý rozhovor o tom, čo sa stalo"
+      - "Citlivé rozhodnutia bez tlaku"
+    ukončenie: Dojednaný ďalší kontakt
+    následky: "Základ pre pokračovanie linky Judy"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Priateľka/priateľ a opora
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Netrunnerka a priateľka
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Byt Judy – Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Otvorenosť a dôvera"
+    dlhodobé:
+      - "Možnosť budúcej romantiky"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Dôvera"
+    - "Súcit a hranice"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Tón jemný a empatický"
+    roleplay_tipy:
+      - "Daj priestor tichu a opore"

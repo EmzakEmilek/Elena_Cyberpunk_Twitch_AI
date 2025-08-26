@@ -1,0 +1,79 @@
+type: quest
+id: side_watson_talking_bout_a_revolution
+title: Hovoríme o revolúcii
+aliases: ["Talking 'Bout a Revolution"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Hovoríme o revolúcii
+    originálny_názov: Talking 'Bout a Revolution
+    typ: Side Job – Judy Alvarez linka
+    lokácia: Watson – Kabuki (Judyin byt)
+    quest_giver: Judy Alvarez
+    level: 12
+    odmena: "Postup v Judy linke; XP/€$"
+
+  quest_profile:
+    summary: "Judy zvoláva stretnutie, aby naplánovala ďalší krok proti Tiger Claws/Clouds. Diskusia zadefinuje taktiku a úlohy."
+
+    background:
+      - "Nadväzuje na ‘Both Sides, Now’; skupina hľadá spôsob, ako zmeniť pomery v Clouds."
+
+    objectives:
+      hlavné_ciele:
+        - "Prísť k Judy na plánovanie"
+        - "Zúčastniť sa porady a rozdeliť si úlohy"
+      vedľajšie_ciele:
+        - "Udržiavať vzťahy v skupine (Judy, Panam/ostatní podľa postupu)"
+
+    story_significance:
+      - "Nastavuje ďalšie kroky Judy línie a odomyká následné misie."
+
+  quest_structure:
+    začiatok: "Telefonát/pozvánka od Judy, marker do Kabuki."
+    kľúčové_momenty:
+      - "Diskusia o rizikách a cieľoch"
+      - "Rozdelenie rolí"
+    ukončenie: "Po porade sa úloha uzatvorí; otvorí sa ďalší krok linky."
+    následky: "Silnejšie väzby a jasne definovaný plán do ďalšej misie."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Partner/ka v plánovaní
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Iniciátorka a líderka plánu
+        importance: Kľúčová postava
+      - name: Skupina spojencov
+        role: Zúčastnení na porade
+        importance: Vedľajší
+
+  locations:
+    primárne:
+      - "Judyin byt – Kabuki, Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, €$"
+    dlhodobé:
+      - "Postup v Judy príbehovej/romantickej línii"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Odpor a zmena systému"
+    - "Dôvera v tím"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Formuluj jasný plán, zvýrazni riziká a motivácie."
+    roleplay_tipy:
+      - "Judy potrebuje podporu a pragmatické návrhy; drž realistickú empatiu."

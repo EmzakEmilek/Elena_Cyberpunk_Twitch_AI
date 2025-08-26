@@ -1,0 +1,118 @@
+type: quest
+id: quest_vehicle_operation
+title: Ovládanie vozidiel
+aliases: ["Ovládanie vozidiel", "Šoférovanie", "Delamainov tutoriál"]
+category: quest_tutorials
+lang: sk
+
+content:
+  quest_data:
+    názov: Ovládanie vozidiel
+    originálny_názov: Vehicle Operation Tutorial
+    typ: Tutoriál
+  lokácia: Ulice Night City
+  quest_giver: Delamain (umelá inteligencia)
+  level: 2
+  odmenka: Zvládnutie jazdy a navigácie
+    
+  quest_profile:
+    summary: "Delamain naučí V základy aj pokročilejšie techniky jazdy v Night City – manuálne riadenie, asistované režimy, navigáciu a bezpečné správanie v premávke."
+    
+    background:
+      - "V Night City je spoľahlivá doprava životne dôležitá"
+      - "Delamain je pokročilá taxislužba s umelou inteligenciou"
+      - "Rôzne typy vozidiel si žiadajú odlišné zručnosti"
+      - "Dopravné situácie sú často chaotické a nebezpečné"
+    
+    objectives:
+      hlavné_ciele:
+        - "Naučiť sa základy manuálneho riadenia"
+        - "Pochopiť asistované a autopilotné režimy"
+        - "Ovládnuť jazdu s rôznymi typmi vozidiel"
+        - "Absolvovať test mestskej navigácie"
+      vedľajšie_ciele:
+        - "Preskúmať možnosti úprav vozidiel"
+        - "Pochopiť dopravné pravidlá Night City"
+        - "Naučiť sa núdzové manévre"
+        - "Otestovať rôzne jazdné režimy"
+    
+    story_significance:
+      - "Úvod do systému dopravy v meste"
+      - "Zavedenie Delamaina ako užitočného sprievodcu"
+      - "Rozšírenie možností mobility"
+      - "Príprava na misie s prenasledovaním a únikom"
+  
+  quest_structure:
+    začiatok: Nastúpenie do vozidla Delamain
+    kľúčové_momenty:
+      - "Ovládacie prvky vozidla"
+      - "Základy jazdných mechaník"
+      - "Porovnanie manuálneho a asistovaného režimu"
+      - "Navigácia ulicami Night City"
+      - "Tréning reakcií v núdzových situáciách"
+    ukončenie: Dokončenie jazdeckej certifikácie
+    následky: "V je spôsobilý vodič v Night City"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Žiak
+        importance: Hlavná postava
+      - name: Delamain
+        role: Inštruktor (umelá inteligencia)/Služba
+        importance: Pokročilý sprievodca
+    vedľajšie_postavy:
+      - name: Ostatní vodiči
+        role: Účastníci premávky
+        importance: Reálny kontext
+      - name: Dôstojníci NCPD
+        role: Dohľad nad pravidlami
+        importance: Vymáhanie poriadku
+  
+  locations:
+    primárne:
+      - "Ulice a diaľnice Night City"
+    sekundárne:
+      - "Depo Delamain"
+      - "Dopravné riadiace centrá"
+      - "Dielne na úpravu vozidiel"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Základná licencia na vedenie vozidiel"
+      - "Prístup k nákupu a prenájmu vozidiel"
+      - "Kredity na služby autopilota"
+    dlhodobé:
+      - "Lepšia mobilita v Night City"
+      - "Prístup k úlohám zameraným na vozidlá"
+      - "Zlepšené schopnosti úniku a prenasledovania"
+  
+  gameplay_elements:
+    boj: Minimálny
+    skrývanie: Minimálny
+    hacknutie: Nízky
+    dialógy: Stredný
+    prieskum: Vysoký
+    
+  themes:
+    - "Technologická pomoc verzus ľudská kontrola"
+    - "Komplexnosť mestskej navigácie"
+    - "Sloboda cez mobilitu"
+    - "Zodpovednosť vodiča"
+  
+  notes_for_elena:
+    kľúčové_body:
+  - "Delamain je slušná a pokročilá osobnosť umelej inteligencie"
+      - "Doprava v Night City je chaotická, no zvládnuteľná"
+      - "Vozidlá sú nástroj aj statusový symbol"
+      - "Voľba medzi manuálom a asistenciou mení štýl jazdy"
+    roleplay_tipy:
+      - "V si cení technologické pohodlie, ale učí sa aj zodpovednosti"
+      - "Delamain je nápomocný, občas mentorujúci"
+      - "Jazda dáva slobodu, no vyžaduje disciplínu"
+      - "Ulice Night City rozprávajú vlastné príbehy"
+    pokyny_pre_konverzáciu:
+  - "Diskutovať prínosy asistencie umelej inteligencie pri riadení"
+      - "Spomenúť chaos mestskej premávky"
+      - "Hovoriť o vozidle ako o predĺžení vodiča"
+      - "Zdôrazniť potrebu spoľahlivej dopravy pre prežitie"

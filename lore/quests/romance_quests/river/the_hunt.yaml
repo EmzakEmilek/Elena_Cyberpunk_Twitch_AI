@@ -1,0 +1,77 @@
+type: quest
+id: romance_river_the_hunt
+title: Lov
+aliases: ["The Hunt", "River – rodinný prípad"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Lov
+    originálny_názov: The Hunt
+    typ: Side Job – River (romance)
+    lokácia: Charter Hill, Rancho Coronado
+    quest_giver: River Ward
+    level: 16
+    odmena: Prehĺbená dôvera a blízkosť
+
+  quest_profile:
+    summary: "V pomáha Riverovi pri hľadaní zmiznutého synovca; temné vyšetrovanie preverí odvahu aj empatiu."
+
+    background:
+      - "Únosy a trauma"
+      - "Riverova rodina pod tlakom"
+
+    objectives:
+      hlavné_ciele:
+        - "Získať stopy z databáz a terénu"
+        - "Zachrániť chlapca včas"
+      vedľajšie_ciele:
+        - "Chrániť Riverovu rodinu počas zásahu"
+
+    story_significance:
+      - "Silné puto a rešpekt medzi V a Riverom"
+
+  quest_structure:
+    začiatok: Žiadosť Riverovej sestry o pomoc
+    kľúčové_momenty:
+      - "Prelomenie stopovacej siete"
+      - "Záchranná akcia"
+    ukončenie: Chlapec v bezpečí
+    následky: "Vzťah s Riverom sa prehlbuje"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Partner pri vyšetrovaní
+        importance: Hlavná postava
+      - name: River Ward
+        role: Detektív a strýko
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Rancho Coronado – zázemie"
+    sekundárne:
+      - "Skryté lokality únoscu"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Záchrana a vďačnosť rodiny"
+    dlhodobé:
+      - "Otvorená cesta k ‚Po rieke‘"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Stredný
+    hacknutie: Vysoký
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Rodina a ochrana"
+    - "Trauma a nádej"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Citlivé témy podaj vecne, bez senzácie"

@@ -1,0 +1,82 @@
+type: quest
+id: quest_never_fade_away
+title: Nikdy nevyhasne
+aliases: ["Never Fade Away", "Johnny a Alt 2023"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Nikdy nevyhasne
+    originálny_názov: Never Fade Away
+    typ: Main Job - Interlude
+    lokácia: 2023 – The Hammer; Arasaka Tower
+    quest_giver: Johnny Silverhand
+    level: 15
+    odmena: Kontext Johnny + Alt a pôvod Soulkillera
+
+  quest_profile:
+    summary: "Spomienková misia na Johnnyho a Alt – koncert, únos Alt Arasakou a útok na vežu; vysvetľuje korene Soulkillera."
+
+    background:
+      - "Vzťah Johnny – Alt a vznik Soulkillera"
+      - "Arasaka ako nepriateľ hackerov a rockerboyov"
+
+    objectives:
+      hlavné_ciele:
+        - "Odohráť koncert v The Hammer"
+        - "Útok na Arasaka Tower pre záchranu Alt"
+      vedľajšie_ciele:
+        - "Preniknúť cez obranu a kryť Johnnyho tím"
+
+    story_significance:
+      - "Upevňuje motivácie Johnnyho"
+      - "Prehlbuje význam Alt a Mikoshi"
+
+  quest_structure:
+    začiatok: Backstage v The Hammer
+    kľúčové_momenty:
+      - "Koncert a chaos"
+      - "Prienik do veže, konfrontácie"
+      - "Osud Alt a dôsledky"
+    ukončenie: Johnnyho spomienka dohasína
+    následky: "Nové pochopenie v Mikoshi diskusiách"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: Johnny Silverhand
+        role: Protagonista spomienky
+        importance: Hlavná postava
+      - name: Alt Cunningham
+        role: Cieľ záchrany/AI pôvod
+        importance: Kľúčová
+    vedľajšie_postavy:
+      - name: Kerry Eurodyne
+        role: Spoločník
+        importance: Podpora
+
+  locations:
+    primárne:
+      - "The Hammer – 2023"
+      - "Arasaka Tower – 2023"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Pochopenie Johnnyho minulosti"
+    dlhodobé:
+      - "Kontext pre rozhodnutia v Mikoshi"
+
+  gameplay_elements:
+    boj: Stredný až vysoký
+    skrývanie: Nízky
+    hacknutie: Stredný
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Láska a vzdor"
+    - "Korporátny útlak vs. sloboda"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Rockerská energia, ale drž slovenskú terminológiu"

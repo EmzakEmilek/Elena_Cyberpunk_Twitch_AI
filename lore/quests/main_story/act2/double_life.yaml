@@ -1,0 +1,122 @@
+type: quest
+id: quest_double_life
+title: Dvojitý život
+aliases: ["Dvojitý život", "Vyšetrovanie s Takemuru", "Stopy v Japantowne"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Dvojitý život
+    originálny_názov: Double Life
+    typ: Main Job - Act 2
+    lokácia: Japantown, zariadenia Arasaky
+    quest_giver: Goro Takemura
+    level: 10
+    odmena: Kľúčové informácie o Arasake
+    
+  quest_profile:
+    summary: "V a Takemura spolu vyšetrujú súvislosti v Arasake. Stopy vedú k skrytým plánom a odhaleniam, ktoré pripravia pôdu pre riskantné misie."
+    
+    background:
+      - "Arasaka sleduje skryté ciele a intrígy"
+      - "Yorinobu Arasaka nesie vinu za vraždu Sabaura"
+      - "Korporátne sprisahanie siaha hlbšie, než sa zdá"
+      - "Opatrný zber dôkazov je nevyhnutný a nebezpečný"
+    
+    objectives:
+      hlavné_ciele:
+        - "Preskúmať aktivity Arasaky v Japantowne"
+        - "Získať a zdokumentovať dôkazy o sprisahaní"
+        - "Infiltrácia vybraných zariadení Arasaky"
+        - "Odovzdať informácie Takemurovi a naplánovať ďalší postup"
+      vedľajšie_ciele:
+        - "Mapovať kontakty a prepojenia v štvrti"
+        - "Odpočúvať komunikáciu a analyzovať prenosy"
+        - "Identifikovať kľúčových aktérov"
+        - "Navrhnúť stratégiu nenápadného prieniku"
+    
+    story_significance:
+      - "Prehlbenie vyšetrovania smerom k veľkému odhaleniu"
+      - "Posilnenie spolupráce V–Takemura"
+      - "Vyjasnenie motívov Yorinobu Arasaku"
+      - "Príprava na kľúčové udalosti v Akte 2"
+  
+  quest_structure:
+    začiatok: Stretnutie a koordinácia s Takemurom
+    kľúčové_momenty:
+      - "Plánovanie vyšetrovania a rozdelenie úloh"
+      - "Nenápadný prienik do zariadení Arasaky"
+      - "Získanie a analýza dôkazov"
+      - "Únik pred ochrankou a krytie stôp"
+      - "Zhrnutie zistení a ďalší plán"
+    ukončenie: Zozbierané spravodajské informácie
+    následky: "V a Takemura získajú dôležité podklady pre ďalšie kroky"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Vyšetrovateľ
+        importance: Hlavná postava
+      - name: Goro Takemura
+        role: Bývalý insider/Sprievodca
+        importance: Vedie vyšetrovanie
+      - name: Johnny Silverhand
+        role: Digitálny poradca/Kritik
+        importance: Komentuje a spochybňuje
+    vedľajšie_postavy:
+      - name: Zamestnanci Arasaky
+        role: Ciele/Zdroje
+        importance: Poskytovatelia informácií
+      - name: Korporátna bezpečnosť
+        role: Antagonisti/Prekážky
+        importance: Protihráči v misii
+  
+  locations:
+    primárne:
+      - "Štvrť Japantown"
+      - "Zariadenia Arasaky"
+    sekundárne:
+      - "Kancelárie a backoffice priestory"
+      - "Kontrolné stanovištia"
+      - "Komunikačné uzly"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Získanie kľúčových informácií"
+      - "Lepšie pochopenie rozsahu sprisahania"
+      - "Posilnenie spolupráce s Takemurom"
+    dlhodobé:
+      - "Príprava na konfrontáciu s Arasakou"
+      - "Hlbšie vtiahnutie do korporátnej politiky"
+      - "Strategická výhoda v ďalších krokoch"
+  
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Vysoký
+    hacknutie: Vysoký
+    dialógy: Stredný
+    prieskum: Vysoký
+    
+  themes:
+    - "Korporátna špionáž a dohľad"
+    - "Dôvera v nebezpečných spojenectvách"
+    - "Informácia ako zbraň"
+    - "Vyšetrovanie verzus priama akcia"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Napätie narastá smerom k veľkým udalostiam"
+      - "Takemurove skúsenosti sú nenahraditeľné"
+      - "Korporátny svet je labyrint intríg"
+      - "Stávky sa neustále zvyšujú"
+    roleplay_tipy:
+      - "V sa učí pohybovať v korporátnych intrigách"
+      - "Takemura pôsobí ako trpezlivý, skúsený sprievodca"
+      - "Johnny je skeptický voči korporátnemu svetu"
+      - "Vyšetrovanie si vyžaduje trpezlivosť a presnosť"
+    pokyny_pre_konverzáciu:
+      - "Diskutovať o korporátnej manipulácii"
+      - "Zdôrazniť dôležitosť dôkladného plánovania"
+      - "Hovoriť o dôvere v krehkých spojenectvách"
+      - "Spomenúť informačnú vojnu a taktiky"

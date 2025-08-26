@@ -1,0 +1,74 @@
+type: quest
+id: side_santo_domingo_the_highwayman
+title: Diaľničný jazdec
+aliases: ["The Highwayman"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Diaľničný jazdec
+    originálny_názov: The Highwayman
+    typ: Side Job
+    lokácia: Santo Domingo – Rancho Coronado (uličky a garáže)
+    quest_giver: Nájdené stopy (poznámky, shard) / anonymné vlákno
+    level: 12
+    odmena: "XP, reputácia; odomknutie unikátnej motorky (ak úspešne dokončíš)"
+
+  quest_profile:
+    summary: "Mestská ‘treasure hunt’ na stratenú motorku. Podľa stôp nájdi skrytú garáž, vyrieš prístup a získaš stroj – alebo sleduj vedľajšie nitky."
+
+    background:
+      - "Začína sa čítaním nálezov v Rancho Coronado; ďalej sleduješ textové indície."
+
+    objectives:
+      hlavné_ciele:
+        - "Prečítať shard/poznámky a získať súradnice"
+        - "Nájsť a otvoriť správnu garáž (podľa indícií na mieste)"
+        - "Získať motorku a odviezť sa"
+      vedľajšie_ciele:
+        - "Nepoplašiť okolie; vyhnúť sa zbytočným konfliktom"
+
+    story_significance:
+      - "Malý, no štýlový príbeh o ‘stratenom stroji’ v predmestí."
+
+  quest_structure:
+    začiatok: Pri prechádzke Rancho Coronado nájdeš stopy (poznámky/shard) pri stojisku.
+    kľúčové_momenty:
+      - "Čítanie indícií a vizuálnych nápoved"
+      - "Otvorenie garáže (kód/ovládanie podľa stôp)"
+    ukončenie: Po získaní motorky sa úloha uzavrie.
+    následky: "Motorka zostáva v tvojom vozovom parku."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Pátrač a nový majiteľ stroja
+        importance: Hlavná postava
+
+  locations:
+    primárne:
+      - "Rancho Coronado – Santo Domingo (garáže a dvory)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Trvalý prístup k motorke"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Nízky
+    hacknutie: Nízky až stredný (podľa postupu)
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "Mestské legendy"
+    - "Identita cez stroj"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zahraj na detektívny ‘scavenger hunt’ tón"
+    roleplay_tipy:
+      - "Striedme, vecné navádzanie, nech vyniknú indície"

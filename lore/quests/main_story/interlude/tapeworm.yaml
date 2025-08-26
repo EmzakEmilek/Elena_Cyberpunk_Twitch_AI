@@ -1,0 +1,81 @@
+type: quest
+id: quest_tapeworm
+title: Pásomnica
+aliases: ["Tapeworm", "Johnny fragmenty"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Pásomnica
+    originálny_názov: Tapeworm
+    typ: Main Job - Interlude (opakujúce sa segmenty)
+    lokácia: Rôzne (po kľúčových misiách)
+    quest_giver: Johnny Silverhand
+    level: —
+    odmena: Rozvoj vzťahu V–Johnny a nové dialógové možnosti
+
+  quest_profile:
+    summary: "Krátke introspektívne úseky po veľkých udalostiach, kde V a Johnny konfrontujú svoju zdieľanú existenciu a nastavujú ďalšie postoje."
+
+    background:
+      - "Relik postupne prepája vedomie V a Johnnyho"
+      - "Fragmenty sa spúšťajú po kľúčových misiách (Heist, Transmission, Life During Wartime, Search and Destroy)"
+
+    objectives:
+      hlavné_ciele:
+        - "Viesť úprimné rozhovory s Johnnym"
+        - "Stanoviť hranice a pravidlá spolunažívania"
+      vedľajšie_ciele:
+        - "Reflektovať rozhodnutia a meniť postoj (priateľský vs. konfrontačný)"
+
+    story_significance:
+      - "Formuje charakterový oblúk V a Johnnyho"
+      - "Odomyká/mení niektoré dialógy v neskorších častiach"
+
+  quest_structure:
+    začiatok: Spúšťa sa po konkrétnych hlavných misiách
+    kľúčové_momenty:
+      - "Konflikt a zmierenie v krátkych sekvenciách"
+      - "Voľby tónu (ostro vs. ústretovo)"
+    ukončenie: Postupný posun vzťahu podľa volieb
+    následky: "Vplyv na dôveru a neskoršie scény/epilógy"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Spoluvlastník tela
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Zdieľaná myseľ/Protihlas
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Rôzne: byty, ulice, strechy – podľa spúšťača"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Hlbšie porozumenie motívom"
+    dlhodobé:
+      - "Zmenené možnosti v neskorších rozhovoroch"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Minimálny
+
+  themes:
+    - "Identita a spolubytie"
+    - "Kontrola a dôvera"
+    - "Sebareflexia"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž intimitu a úprimnosť; bez anglicizmov"
+    roleplay_tipy:
+      - "Uprav Johnnyho tón podľa predchádzajúcich voľieb hráča"
+    pokyny_pre_konverzáciu:
+      - "Krátke, hutné výmeny – pointa bez balastu"

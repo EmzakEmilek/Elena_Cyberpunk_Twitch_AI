@@ -1,0 +1,99 @@
+type: quest
+id: quest_we_gotta_live_together
+title: Musíme držať spolu
+aliases: ["We Gotta Live Together", "Aldecaldos – príprava"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Musíme držať spolu
+    originálny_názov: We Gotta Live Together
+    typ: Main Job - Act 3 (Aldecaldos)
+    lokácia: Nomádske tábory – Badlands
+    quest_giver: Panam Palmer / Saul Bright
+    level: 28
+    odmena: Otvorenie útoku na Arasaka komplex (Aldecaldos línia)
+
+  quest_profile:
+    summary: "V požiada Aldecaldos o pomoc, Panam zostaví plán a rodina nomádov sa pripraví na nebezpečný nájazd proti Arasake."
+
+    background:
+      - "Rozhodnutie po Nokturne: dôvera v Aldecaldos"
+      - "Panam a Saul riešia vnútorné nezhody"
+      - "Nomádi majú techniku aj odvahu, chýba im len šanca"
+
+    objectives:
+      hlavné_ciele:
+        - "Presvedčiť Saula a Panam k spoločnej akcii"
+        - "Zabezpečiť techniku a vozy"
+        - "Pripraviť tunelový prienik a rušenie"
+      vedľajšie_ciele:
+        - "Vyriešiť napätie v rodine a posilniť morálku"
+        - "Overiť trasy a zásoby"
+        - "Vylepšiť kybervýbavu pre členov tímu"
+
+    story_significance:
+      - "Budovanie komunity a dôvery"
+      - "Nastavenie finále nomádskej vetvy"
+      - "Vzťah s Panam sa prehlbuje"
+
+  quest_structure:
+    začiatok: Príchod do tábora Aldecaldos a brífing
+    kľúčové_momenty:
+      - "Rozhovory so Saulom a Panam"
+      - "Úpravy vozidiel a vybavenia"
+      - "Plán prieniku cez tunely"
+    ukončenie: Tím pripravený vyraziť
+    následky: "Otvorený útok – Vpred k smrti"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Spojenec/Plánovač
+        importance: Hlavná postava
+      - name: Panam Palmer
+        role: Lídra nájazdu
+        importance: Kľúčová pre Aldecaldos vetvu
+      - name: Saul Bright
+        role: Šéf klanu
+        importance: Vnútorná legitimita akcie
+    vedľajšie_postavy:
+      - name: Mitch, Scorpion (spomienky), Carol
+        role: Podpora
+        importance: Rodina a posádka
+
+  locations:
+    primárne:
+      - "Badlands – tábor Aldecaldos"
+    sekundárne:
+      - "Prípravné sklady a dielne"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Podpora Aldecaldos"
+      - "Vylepšené vozidlá a technika"
+    dlhodobé:
+      - "Cesta k slobode mimo Night City"
+      - "Silné väzby s Panam"
+
+  gameplay_elements:
+    boj: Nízky až stredný
+    skrývanie: Nízky
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Rodina a lojalita"
+    - "Sloboda a spolupatričnosť"
+    - "Viera v komunitu"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Udržuj teplý, komunitný tón"
+      - "Panam je rozhodná, Saul opatrný"
+    roleplay_tipy:
+      - "V sprostredkuje kompromis a motivuje tím"
+    pokyny_pre_konverzáciu:
+      - "Terminológia nomádov, dielňa, rušenie, tunely"

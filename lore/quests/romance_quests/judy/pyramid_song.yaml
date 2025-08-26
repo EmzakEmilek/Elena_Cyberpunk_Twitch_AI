@@ -1,0 +1,78 @@
+type: quest
+id: romance_judy_pyramid_song
+title: Pieseň pyramídy
+aliases: ["Pyramid Song", "Judy – romantika"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Pieseň pyramídy
+    originálny_názov: Pyramid Song
+    typ: Side Job – Judy (romance)
+    lokácia: Laguna (priehrada) – pobrežie
+    quest_giver: Judy Alvarez
+    level: 18
+    odmena: Romantický vzťah s Judy (ak podmienky splnené)
+
+  quest_profile:
+    summary: "Judy pozve V na potápanie v zatopenej dedine; zdieľaný zážitok a úprimnosť môžu vyústiť do vzťahu."
+
+    background:
+      - "Ukončené ‚Ryby‘ a dôvera vybudovaná"
+
+    objectives:
+      hlavné_ciele:
+        - "Zúčastniť sa potápania s Judy"
+        - "Zdieľať spomienky a pocity"
+      vedľajšie_ciele:
+        - "Rozhodnúť sa pre citovú otvorenosť"
+
+    story_significance:
+      - "Vyvrcholenie Judy linky"
+
+  quest_structure:
+    začiatok: Stretnutie pri priehrade
+    kľúčové_momenty:
+      - "Ponory do zatopeného mesta"
+      - "Noc v chatke pri vode"
+    ukončenie: Vzťah potvrdený (ak podmienky splnené)
+    následky: "Trvalejšie puto a následné správy od Judy"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Partnerka
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Partnerka
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Zatopená dedina – priehrada"
+    sekundárne:
+      - "Chatka na pobreží"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Blízkosť a intimita"
+    dlhodobé:
+      - "Podpora a neskoršie scény s Judy"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Stredný (prieskum pod vodou)
+
+  themes:
+    - "Pamäť a strata"
+    - "Blízkosť a dôvera"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Poetický, tichý tón;"
+    roleplay_tipy:
+      - "V a Judy hovoria priamo, bez pózy"

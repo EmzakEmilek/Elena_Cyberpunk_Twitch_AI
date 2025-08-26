@@ -1,0 +1,134 @@
+type: quest
+id: quest_life_during_wartime
+title: Life During Wartime
+aliases: ["Život počas vojny", "Parade attack", "Takemura plan"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Life During Wartime
+    originálny_názov: Life During Wartime
+    type: quest
+    id: quest_life_during_wartime
+    title: Život počas vojny
+    aliases: ["Život počas vojny", "Zostrelené AV", "Záchrana pre Takemuru"]
+    category: quest_main_story
+    lang: sk
+
+    content:
+      quest_data:
+        názov: Život počas vojny
+        originálny_názov: Life During Wartime
+        typ: Main Job - Act 2
+        lokácia: Badlands / Okraj Night City
+        quest_giver: Takemura (implicitne)
+        level: 15
+        odmena: Stopy k Andersovi Hellmanovi; posun v hlavnej dejovej línii
+  
+      quest_profile:
+        summary: "Po páde lietadla (AV) spoločnosti Kang-Tao V sleduje Andersa Hellmana cez Badlands, spojí sa s Panam Palmer a Aldecaldos, aby ho zachytil."
+    
+        background:
+          - "Takemura potrebuje Hellmana, aby očistil svoje meno a odhalil vraha Sabura Arasaku"
+          - "Panam má nevybavené účty s Nashom a gangom Wraiths"
+          - "Kang-Tao chce Hellmana späť"
+          - "Badlands sú tvrdé a bez zákonov"
+    
+        objectives:
+          hlavné_ciele:
+            - "Sledovať stopu zostreleného AV"
+            - "Spolupracovať s Panam a Aldecaldos"
+            - "Prepadnúť konvoj a získať Hellmana"
+          vedľajšie_ciele:
+            - "Vysporiadať sa s útokmi Wraithov"
+            - "Mať na pamäti plán s Basiliskom"
+            - "Vyhnúť sa civilným obetiam"
+    
+        story_significance:
+          - "Predstaví Panam a Aldecaldos ako kľúčových spojencov"
+          - "Posunie dejovú líniu s Hellmanom"
+          - "Zvýrazní pieskovisko Badlands"
+          - "Pripraví budúce nomádske dejové oblúky"
+  
+      quest_structure:
+        začiatok: Stretnutie s Panam v Sunset Motel
+        kľúčové_momenty:
+          - "Sledovanie stopy AV"
+          - "Prestreľka s Wraithmi"
+          - "Púštny prepad konvoja Kang-Tao"
+          - "Vypočúvanie Hellmana s Takemurom"
+        ukončenie: Hellman odovzdaný Takemurovi
+        následky: "V sa dozvie kľúčové informácie o potrubí biočipu a Mikoshi"
+  
+      characters_involved:
+        hlavné_postavy:
+          - name: V
+            role: Protagonista
+            importance: Hlavná postava
+          - name: Panam Palmer
+            role: Nomádska spojenkyňa/Odstrelovačka
+            importance: Kľúčová spojenkyňa
+          - name: Goro Takemura
+            role: Bývalý osobný strážca Arasaky
+            importance: Hýbateľ deja
+          - name: Anders Hellman
+            role: Inžinier Kang-Tao/Špecialista na biočip
+            importance: Cieľ/Informátor
+        vedľajšie_postavy:
+          - name: Mitch
+            role: Technik Aldecaldos
+            importance: Podpora
+          - name: Scorpion
+            role: Šofér Aldecaldos
+            importance: Podpora
+          - name: Nash (spomenutý)
+            role: Vodca Wraithov
+            importance: Pozadie antagonistu
+  
+      locations:
+        primárne:
+          - "Duny Badlands"
+          - "Miesto pádu AV"
+        sekundárne:
+          - "Sunset Motel"
+          - "Územie Raffen Shiv/Wraithov"
+          - "Improvizovaná miestnosť na výsluch"
+  
+      rewards_and_consequences:
+        okamžité:
+          - "Zadržanie Andersa Hellmana"
+          - "Postup v Takemurovom pláne"
+        dlhodobé:
+          - "Odomkne nomádske vzťahové línie"
+          - "Informácie o Mikoshi a Relicu"
+  
+      gameplay_elements:
+        boj: Vysoký
+        skrývanie: Stredný
+        hacknutie: Stredný
+        dialógy: Stredný
+        prieskum: Vysoký
+    
+      themes:
+        - "Dôvera a zrada"
+        - "Hranicová spravodlivosť"
+        - "Korporátna vojna"
+        - "Prežitie v púšti"
+  
+      notes_for_elena:
+        kľúčové_body:
+          - "Osobná motivácia Panam zvyšuje napätie"
+          - "Badlands zdôrazňujú otvorený boj a vozidlové taktiky"
+          - "Takemura si cení česť a presnosť"
+          - "Hellman je skôr pragmatický než lojálny"
+        roleplay_tipy:
+          - "Panam je odhodlaná, hrdá, no empatická"
+          - "Takemura je prísny a formálny"
+          - "Hellman je opatrný a vypočítavý"
+          - "V balansuje medzi naliehavosťou a diplomaciou"
+        pokyny_pre_konverzáciu:
+          - "Diskutovať kompromisy medzi rizikom a prínosom"
+          - "Zvýrazniť nomádsky kód a komunitu"
+          - "Predzvesť technických odhalení o Mikoshi"
+          - "Umožniť diskusiu o taktickom pláne"

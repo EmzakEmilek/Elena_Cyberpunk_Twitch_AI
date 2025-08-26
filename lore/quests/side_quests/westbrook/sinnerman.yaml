@@ -1,0 +1,84 @@
+type: quest
+id: side_westbrook_sinnerman
+title: Hriešnik
+aliases: ["Sinnerman"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Hriešnik
+    originálny_názov: Sinnerman
+    typ: Side Job
+    lokácia: Watson – Little China (štart pri Megabuilding H8); Westbrook – Japantown (väznica/konvoj, neskôr byt Zuleiky)
+    quest_giver: Rachel (nepriamo), ‘neznámy klient’; následne Joshua/Zuleika
+    level: 15
+    odmena: "XP, reputácia; otvorí reťazec s Joshuom"
+
+  quest_profile:
+    summary: "Stretnutie s konvojom väzenskej eskorty spustí zvláštnu sériu udalostí okolo odsúdeného Joshuu Stephenson a BD producentky Rachel."
+
+    background:
+      - "Marker sa objaví pri H8; sledovanie auta zmení smerovanie do Japantownu."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť sa s kontaktom pri H8 a vysliediť eskortu"
+        - "Zastaviť auto a rozhodnúť o ďalšom postupe (zabitie/pošetrenie)"
+        - "Dojazdiť do Japantown a vypočuť si Joshuu"
+      vedľajšie_ciele:
+        - "Udržať Joshuu nažive pre pokračovanie línii"
+
+    story_significance:
+      - "Otvorenie jednej z najdiskutovanejších postranných línií; pripravuje ‘There Is A Light…’ a ‘They Won’t Go…’."
+
+  quest_structure:
+    začiatok: Marker v Little China (H8) a následná jazda.
+    kľúčové_momenty:
+      - "Zrážka/stop auta a rozhodnutie o vodičovi"
+      - "Dialógy s Joshuom a predstavenie Rachel"
+    ukončenie: Podľa volieb – ak Joshuu ušetríš, nasleduje ďalší kontakt.
+    následky: "Umožní pokračovať do ‘There Is A Light That Never Goes Out’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Intervencia do eskorty
+        importance: Hlavná postava
+      - name: Joshua Stephenson
+        role: Odsúdený
+        importance: Kľúčová postava
+      - name: Rachel
+        role: Producentka BD
+        importance: Dôležitá postava
+      - name: Zuleika
+        role: Náboženské pozadie
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Little China – Watson (štart)"
+      - "Japantown – Westbrook (jadro dialógov)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Odomknutie pokračovaní reťazca"
+
+  gameplay_elements:
+    boj: Nízky až stredný (zastavenie auta)
+    skrývanie: Nízky
+    hacknutie: Nízky
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Vina a vykúpenie"
+    - "Médiá a senzácie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Uveď, že zabitie Joshuu reťaz ukončí"
+    roleplay_tipy:
+      - "Drž vecný tón; rešpektuj citlivosť tém"

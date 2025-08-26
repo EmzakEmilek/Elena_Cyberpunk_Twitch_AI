@@ -1,0 +1,75 @@
+type: quest
+id: side_watson_psycho_killer
+title: Psychokiller
+aliases: ["Psycho Killer"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Psychokiller
+    originálny_názov: Psycho Killer
+    typ: Side Job – agregátor (Regina Jones)
+    lokácia: Watson – celé Night City a Badlands (pozri pod-úlohy)
+    quest_giver: Regina Jones
+    level: 10
+    odmena: "€$/XP/Street Cred za každého kyberpsychopata; finálna odmena môže byť chybná (známa chyba)"
+
+  quest_profile:
+    summary: "Regina chce, aby si zneškodnil/a všetkých kyberpsychopatov – ideálne ne-smrteľne. Úloha agreguje 17 samostatných ‘sighting’ gigov."
+
+    background:
+      - "Ako postupuješ hrou, objavujú sa nové ‘sighting’ ikony; Regina volá pri priblížení."
+
+    objectives:
+      hlavné_ciele:
+        - "Vyhľadať a zneškodniť všetkých kyberpsychopatov"
+        - "Zozbierať dôkazy (telo/logy) a poslať Regine správu"
+      vedľajšie_ciele:
+        - "Použiť ne-smrteľné prostriedky (napr. šokové zbrane, non-lethal quickhacky)"
+
+    story_significance:
+      - "Séria drobných prípadov po celom meste; posilňuje spoluprácu s Reginou."
+
+  quest_structure:
+    začiatok: "Po prvých stretoch s kyberpsychózou ťa Regina kontaktuje."
+    kľúčové_momenty:
+      - "Rôznorodé miniboss súboje a ‘detektívne’ fragmenty"
+    ukončenie: "Po odovzdaní všetkých prípadov Regine sa úloha uzavrie (odmena môže byť bugnutá)."
+    následky: "Street Cred a loot; potenciálne slabšia finálna odmena kvôli chybe."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Lovec/lovkyňa kyberpsychopatov
+        importance: Hlavná postava
+      - name: Regina Jones
+        role: Zadávateľka a príjemkyňa hlásení
+        importance: Dôležitá
+
+  locations:
+    primárne:
+      - "Rozličné miesta: Watson, Heywood, Santo Domingo, Pacifica, City Center, Badlands"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Loot z minibossov; €$/XP/SC za jednotlivé ‘gigy’"
+    dlhodobé:
+      - "Kompletizácia série; reputácia u Reginy"
+
+  gameplay_elements:
+    boj: Vysoký (minibossovia)
+    skrývanie: Stredný (podľa prístupu)
+    hacknutie: Stredný
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "Kyberpsychóza a dôsledky augmentácie"
+    - "Non-lethal prístup a etika"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Dôraz na ne-smrteľné ukončenie bojov (aspoň odporúčané)."
+    roleplay_tipy:
+      - "Regina je profesionálna, empatická; drž vecný tón."

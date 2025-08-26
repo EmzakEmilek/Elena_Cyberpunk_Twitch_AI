@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_shoot_to_thrill
+title: Strieľaj pre vzrušenie
+aliases: ["Shoot to Thrill"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Strieľaj pre vzrušenie
+    originálny_názov: Shoot to Thrill
+    typ: Side Job – strelecká súťaž
+    lokácia: Watson – Little China (strelnica u Wilsona)
+    quest_giver: Wilson
+    level: 5
+    odmena: Zbraňové odmeny podľa umiestnenia; XP
+
+  quest_profile:
+    summary: "Zúčastni sa streleckej súťaže u Wilsona a získaj odmeny podľa výkonnosti."
+
+    background:
+      - "Wilson organizuje súťaž na strelnici 2nd Amendment."
+      - "Súťaž je časovaná a bodovaná."
+
+    objectives:
+      hlavné_ciele:
+        - "Dostaviť sa na strelnicu včas"
+        - "Zúčastniť sa súťaže a nazbierať čo najviac bodov"
+      vedľajšie_ciele:
+        - "Zvoliť vhodnú zbraň a modifikácie pre presnosť"
+
+    story_significance:
+      - "Ľahký sociálny event; rozšírenie arzenálu."
+
+  quest_structure:
+    začiatok: Pozvánka od Wilsona po pokroku v príbehu.
+    kľúčové_momenty:
+      - "Časovaná streľba na terče"
+      - "Vyhodnotenie a vyhlásenie víťazov"
+    ukončenie: Prevzatie odmien podľa poradia.
+    následky: "Zlepšenie reputácie vo Watson komunitách."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Súťažiaca/súťažiaci
+        importance: Hlavná postava
+      - name: Wilson
+        role: Organizátor súťaže
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Little China – 2nd Amendment strelnica"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Zbraňové odmeny a XP"
+    dlhodobé:
+      - "Kontakt s Wilsonom a prístup k ďalším zbraniam"
+
+  gameplay_elements:
+    boj: Stredný (streľba na terče)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Zručnosť a presnosť"
+    - "Komunitná súťaž"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Porad výber stabilnej pištole; vysvetli mechaniky bodovania bez spojlerov"
+    roleplay_tipy:
+      - "Wilson môže podpichovať, udrž priateľský tón"

@@ -1,0 +1,121 @@
+type: quest
+id: quest_the_corpo_rat
+title: Korporátna krysa
+aliases: ["Korporátna krysa", "Firemný svet"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Korporátna krysa
+    originálny_názov: The Corpo-Rat
+    typ: Main Job - Prologue
+    lokácia: Arasaka Tower, Lizzie's Bar
+    quest_giver: Automaticky (Life Path)
+    level: 1
+    odmena: Vstup do hlavného príbehu
+    
+  quest_profile:
+    summary: "Úvodný quest pre korporátnu životnú cestu. V je agent korporátnej kontrarozviedky Arasaky, ktorý má získať informácie o konkurenčnom projekte. Veci sa zvrtávajú a V prichádza o svoje postavenie."
+    
+    background:
+      - "V pracuje ako agent korporátnej kontrarozviedky pre Arasaku"
+      - "Úloha získať informácie v Lizzie's Bar"
+      - "Podozrenia na interné intrigy v Arasake"
+      - "Prvé stretnutie s Jackie Wellesom"
+    
+    objectives:
+      hlavné_ciele:
+        - "Stretni sa s kontaktom Jenkinsom"
+        - "Infiltruj Lizzie's Bar"
+        - "Získaj informácie o konkurenčnom projekte"
+        - "Ujdi pred bezpečnostnou službou Arasaky"
+      vedľajšie_ciele:
+        - "Preskúmaj Arasaka Tower"
+        - "Zoznám sa s korporátnou kultúrou"
+        - "Pochop hierarchiu a politiku firmy"
+    
+    story_significance:
+      - "Úvod do korporátneho sveta a jeho brutality"
+      - "Ukázka toho, ako korporácie manipulujú ľudí"
+      - "Prvé stretnutie V s Jackie Wellesom"
+      - "Začiatok pádu V z korporátneho sveta"
+  
+  quest_structure:
+    začiatok: Divízia korporátnej kontrarozviedky Arasaky
+    kľúčové_momenty:
+      - "Briefing s Jenkins"
+      - "Vstup do Lizzie's Bar"
+      - "Stretnutie s Jackie Wellesom"
+      - "Odhalenie sabotáže"
+      - "Zásah bezpečnostnej služby Arasaky"
+    ukončenie: Útek z Arasaka Tower
+    následky: "V stráca prácu v Arasake a začína žoldniersku kariéru"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Korporátny agent
+        importance: Hlavná postava
+  - name: Jackie Welles
+        role: Barman/Budúci partner
+        importance: Prvé stretnutie
+  - name: Arthur Jenkins
+        role: Korporátny nadriadený
+        importance: Zadávateľ úlohy
+    vedľajšie_postavy:
+      - name: Susan Abernathy
+        role: Výkonná riaditeľka Arasaky
+        importance: Politické pozadie
+      - name: Harry
+        role: Bezpečnostná služba Arasaky
+        importance: Antagonista
+  
+  locations:
+    primárne:
+      - "Arasaka Tower - Kontrarozviedka"
+      - "Lizzie's Bar"
+    sekundárne:
+      - "Vstupná hala Arasaky"
+      - "Korporátny výťah"
+      - "Ulice Night City"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Strata práce v Arasake"
+      - "Začiatok žoldnierskej kariéry"
+      - "Partnerstvo s Jackie Wellesom"
+    dlhodobé:
+      - "Pochopenie korporátnej kultúry"
+      - "Nepriateľstvo s Arasakou"
+      - "Vstup do podsvetia Night City"
+  
+  gameplay_elements:
+    boj: Minimálny
+    skrývanie: Stredný
+    hacknutie: Základný
+    dialógy: Vysoký
+    prieskum: Stredný
+    
+  themes:
+    - "Korporátna korupcia a manipulácia"
+    - "Strata identity a pozície"
+    - "Vstup do nového sveta"
+    - "Prvé kroky k nezávislosti"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Tento quest establišuje V ako bývalého korporátneho agenta"
+      - "Dôležité pre pochopenie V's pozadia a motivácií"
+      - "Ukazuje rozdiel medzi korporátnym a pouličným životom"
+      - "Jackie Welles sa tu prvýkrát objavuje ako spojenec"
+    roleplay_tipy:
+      - "V hovorí s korporátnou terminológiou"
+      - "Má znalosti o korporátnej kultúre a politike"
+      - "Je skúsený v korporátnych intrigách"
+      - "Rozumie hierarchii a mocenským vzťahom"
+    pokyny_pre_konverzáciu:
+      - "Diskutovať o korporátnych procedúrach"
+      - "Spomenúť korporátne kontakty a znalosti"
+      - "Hovoriť o korporátnej zrade a rozčarovaní"
+      - "Zdôrazniť prechod z korporátneho na pouličný život"

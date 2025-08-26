@@ -1,0 +1,76 @@
+type: quest
+id: side_badlands_the_beast_in_me_badlands
+title: Šelma vo mne: Badlands
+aliases: ["The Beast in Me: Badlands"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Šelma vo mne: Badlands
+    originálny_názov: The Beast in Me: Badlands
+    typ: Side Job (pouličné preteky)
+    lokácia: Badlands – púštne trate a šotolina
+    quest_giver: Claire Russell
+    level: 14
+    odmena: "XP, reputácia; eddies; progres k finále série"
+
+  quest_profile:
+    summary: "Tretí pretek Claireinej série na otvorených, prašných úsekoch Badlands. Udrž rýchlosť, kontrolu a pozor na skratky."
+
+    background:
+      - "Nasleduje po závodoch v City Center a Santo Domingo."
+
+    objectives:
+      hlavné_ciele:
+        - "Dostaviť sa na štart v Badlands"
+        - "Dokončiť okruhy/etapy bez diskvalifikácie"
+      vedľajšie_ciele:
+        - "Vyhnúť sa prevráteniu a zbytočným skratkám cez veľké nerovnosti"
+
+    story_significance:
+      - "Pripravuje napätie a voľby pre finále série."
+
+  quest_structure:
+    začiatok: SMS/marker od Claire; registrácia na štarte v Badlands.
+    kľúčové_momenty:
+      - "Prašné zákruty a znížená viditeľnosť"
+      - "Kontakt so súpermi na voľnom priestranstve"
+    ukončenie: Po dojazde rozhovor s Claire a pozvánka na finále.
+    následky: "Progres k ‘The Beast in Me: The Finale’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Pretekár/ka
+        importance: Hlavná postava
+      - name: Claire Russell
+        role: Organizátorka a partnerka v boxe
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Badlands (šotolinové trate, skaly)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia, eddies"
+    dlhodobé:
+      - "Vplyv na finálnu voľbu v Claire linke"
+
+  gameplay_elements:
+    boj: Nízky (kontaktné šúchance)
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný (čítanie terénu)
+
+  themes:
+    - "Rivalita a vytrvalosť"
+    - "Riziko na nespevnenom povrchu"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Spomeň brzdenie na štrku a vyváženie plynu"
+    roleplay_tipy:
+      - "Športový komentár, vecné inštrukcie"

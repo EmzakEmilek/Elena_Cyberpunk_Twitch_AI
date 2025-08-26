@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_sacrum_profanum
+title: Sacrum Profanum
+aliases: ["Sacrum Profanum"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Sacrum Profanum
+    originálny_názov: Sacrum Profanum
+    typ: Side Job
+    lokácia: Watson – Northside
+    quest_giver: Mních (obete orgánového gangu)
+    level: 9
+    odmena: XP, eddie; karma za citlivé riešenie
+
+  quest_profile:
+    summary: "Vyšetri únosy a profanovanie tiel – zachráň obete a zastav zvrátený biznis."
+
+    background:
+      - "Záhadné miznutia a nelegálne odbery implantátov."
+      - "Stopy vedú do skladu v Northside."
+
+    objectives:
+      hlavné_ciele:
+        - "Preskúmať miesto únosu"
+        - "Infiltrácia skladu a záchrana obetí"
+      vedľajšie_ciele:
+        - "Minimalizovať smrteľné násilie (voliteľné)"
+
+    story_significance:
+      - "Temná stránka medicíny a kybervýbavy v NC."
+
+  quest_structure:
+    začiatok: Stretnutie s mníchom/stopa na ulici v Northside.
+    kľúčové_momenty:
+      - "Objav nelegálnej kliniky"
+      - "Rozhodnutie o osude páchateľov"
+    ukončenie: Návrat a oznámenie výsledku.
+    následky: "Dialógové referencie a menšie reputačné zmeny."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Vyšetrovanie a zásah
+        importance: Hlavná postava
+      - name: Mních
+        role: Obeť/zadávateľ
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Northside – sklad/klinika"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddie"
+    dlhodobé:
+      - "Karma a reakcie NPC pri nenásilnom riešení"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Stredné
+    hacknutie: Stredné
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Sväté vs. profánne"
+    - "Zneužitie technológie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Ponúkni stealth alternatívy a neletálne riešenia"
+    roleplay_tipy:
+      - "Citlivý, súcitný tón k obetiam"

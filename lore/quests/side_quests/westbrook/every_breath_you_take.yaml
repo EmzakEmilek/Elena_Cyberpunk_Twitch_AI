@@ -1,0 +1,82 @@
+type: quest
+id: side_westbrook_every_breath_you_take
+title: Každý tvoj dych
+aliases: ["Every Breath You Take"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Každý tvoj dych
+    originálny_názov: Every Breath You Take
+    typ: Side Job
+    lokácia: Westbrook – Japantown (Redwood Market, uličky okolo)
+    quest_giver: Blue Moon (Us Cracks)
+    level: 20
+    odmena: "XP, reputácia; eddies; vďačnosť Blue Moon"
+
+  quest_profile:
+    summary: "Blue Moon má stalkera. Pomôž jej počas prechádzky po Japantowne identifikovať a zastaviť prenasledovateľa bez toho, aby si spôsobil/a paniku."
+
+    background:
+      - "Dostupné po ‘Off the Leash’/interakciách s Us Cracks. Blue Moon kontaktuje V správou."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Blue Moon pri Redwood Market"
+        - "Sledovať a identifikovať podozrivého v dave (fotky, správy)"
+        - "Konfrontovať stalkera (zadržať/neutralizovať)"
+      vedľajšie_ciele:
+        - "Nesplašiť Blue Moon (drž sa nablízku, ale nenápadne)"
+        - "Voliteľne zavolať NCPD po potvrdení identity"
+
+    story_significance:
+      - "Ukazuje temnú stránku slávy a bezpečnosť celebrít v Night City."
+
+  quest_structure:
+    začiatok: SMS a marker od Blue Moon; stretnutie na trhu.
+    kľúčové_momenty:
+      - "Rozpoznanie stalkera podľa fotiek/indícií"
+      - "Nenápadné sledovanie cez uličky"
+      - "Zákrok bez zranenia Blue Moon alebo civilistov"
+    ukončenie: Po úspešnom zastavení stalkera rozhovor s Blue Moon.
+    následky: "Pozitívne správy od Us Cracks; jednorazová odmena."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Ochranca v zákryte
+        importance: Hlavná postava
+      - name: Blue Moon
+        role: Členka Us Cracks, obeť stalkera
+        importance: Kľúčová postava
+      - name: Stalker
+        role: Páchateľ
+        importance: Antagonista
+
+  locations:
+    primárne:
+      - "Japantown – Westbrook (Redwood Market a okolie)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia, eddies"
+    dlhodobé:
+      - "Zlepšené vzťahy s Us Cracks; žiadne ďalšie misie priamo nenadväzujú"
+
+  gameplay_elements:
+    boj: Nízky (krátka konfrontácia)
+    skrývanie: Stredný (sledovanie bez odhalenia)
+    hacknutie: Nízky
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Sláva a jej tieň"
+    - "Ochrana a hranice fanúšikovstva"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Vyzvihni napätie davu a nenápadný dohľad"
+    roleplay_tipy:
+      - "Udržuj empatický tón voči Blue Moon; žiadna senzáciechtivosť"

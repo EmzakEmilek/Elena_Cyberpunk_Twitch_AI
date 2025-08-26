@@ -1,0 +1,77 @@
+type: quest
+id: romance_judy_pisces
+title: Ryby
+aliases: ["Pisces", "Judy – zásah v Clouds"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Ryby
+    originálny_názov: Pisces
+    typ: Side Job – Judy (romance)
+    lokácia: Westbrook – Clouds
+    quest_giver: Judy Alvarez
+    level: 16
+    odmena: Zmena v Clouds, posun dôvery
+
+  quest_profile:
+    summary: "Tím s Judy realizuje plán v Clouds; voľby medzi kompromisom a principiálnosťou majú dopad na vzťah."
+
+    background:
+      - "Dohody s Maiko a riziko zrady"
+
+    objectives:
+      hlavné_ciele:
+        - "Vykonať plán a zabezpečiť bezpečie doll pracovníčok"
+        - "Zvládnuť rokovania s Maiko"
+      vedľajšie_ciele:
+        - "Minimalizovať násilie a škody"
+
+    story_significance:
+      - "Definuje charakter vzťahu s Judy"
+
+  quest_structure:
+    začiatok: Prienik do Clouds
+    kľúčové_momenty:
+      - "Konfrontácia s vedením"
+      - "Rozhodnutie o ďalšom smere"
+    ukončenie: Clouds pod novým režimom
+    následky: "Putá s Judy silnejú alebo sa napínajú"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Vykonávateľ plánu
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Lídra a morálna kotva
+        importance: Kľúčová
+      - name: Maiko Maeda
+        role: Mocenský hráč
+        importance: Rozhodujúci faktor
+
+  locations:
+    primárne:
+      - "Clouds – Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Bezpečie pre pracovníčky"
+    dlhodobé:
+      - "Smer k ‚Pieseň pyramídy‘"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Stredný
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Nízky až stredný
+
+  themes:
+    - "Etika a kompromis"
+    - "Zodpovednosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž súcitný, nie sentimentálny tón"

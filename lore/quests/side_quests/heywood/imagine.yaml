@@ -1,0 +1,77 @@
+type: quest
+id: side_heywood_imagine
+title: Predstav si
+aliases: ["Imagine"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Predstav si
+    originálny_názov: Imagine
+    typ: Side Job
+    lokácia: Heywood – The Glen (Reconciliation Park)
+    quest_giver: Mních (neznámy)
+    level: 8
+    odmena: "BD zážitok; drobná odmena; XP"
+
+  quest_profile:
+    summary: "Stretni mnícha v parku a prijmi ponuku na braindance, ktorý ťa prenesie mimo ruch Night City do meditácie."
+
+    background:
+      - "Krátke filozofické intermezzo uprostred mestského chaosu."
+      - "Možnosť zaplatiť 144€$ alebo prijať ponuku zadarmo."
+
+    objectives:
+      hlavné_ciele:
+        - "Prisadnúť si k mníchovi a súhlasiť s BD"
+        - "Vypočuť si sprievodné slová a dokončiť meditáciu"
+      vedľajšie_ciele:
+        - "Zvoliť spôsob odmeny (zaplatiť/nezaplatiť)"
+
+    story_significance:
+      - "Odstup od neustáleho násilia; zvýrazňuje tému hľadania pokoja."
+
+  quest_structure:
+    začiatok: Oslovenie mnícha na lavičke v Reconciliation Park.
+    kľúčové_momenty:
+      - "Voľba ‘Skúsim to’ na spustenie BD"
+      - "Pokojná scéna v prírode, komentár k svetu a utrpeniu"
+    ukončenie: Po skončení BD staň a ukonči dialóg.
+    následky: "Žiadne mechanické – ide o atmosferickú vsuvku."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Účastník BD
+        importance: Hlavná postava
+      - name: Mních
+        role: Duchovný sprievodca
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Reconciliation Park – The Glen, Heywood"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, drobná suma (ak zaplatíš, strata 144€$)"
+    dlhodobé:
+      - "Žiadne – tematický zážitok"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Meditácia a únik"
+    - "Znechutenie mestom"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž kontemplatívny, tichý tón"
+    roleplay_tipy:
+      - "Krátke, pomalé repliky; dôraz na náladu, nie mechaniku"

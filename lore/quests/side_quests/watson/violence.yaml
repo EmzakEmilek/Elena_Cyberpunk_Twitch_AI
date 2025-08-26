@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_violence
+title: Násilie
+aliases: ["Violence"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Násilie
+    originálny_názov: Violence
+    typ: Side Job
+    lokácia: Watson – Little China (byt H10)
+    quest_giver: Zvláštny fanúšik/popová hviezda (kontakt cez správy)
+    level: 12
+    odmena: XP, eddie; kozmetické odmeny podľa priebehu
+
+  quest_profile:
+    summary: "Zvláštny kontakt ťa vtiahne do stalkerskej zápletky okolo popovej hviezdy – rozhodni, aký tvrdý budeš."
+
+    background:
+      - "Správy a pozvánky vedú k stretnutiu s fanúšikom s hranou reality."
+      - "Možnosti riešenia sily vs. diplomacie."
+
+    objectives:
+      hlavné_ciele:
+        - "Prečítať správy a dostaviť sa na miesto"
+        - "Riešiť stalkera a ochrániť objekt záujmu"
+      vedľajšie_ciele:
+        - "Zvoliť miernejší postup, ak je to možné"
+
+    story_significance:
+      - "Krimi vs. celebrita – kontrast Night City."
+
+  quest_structure:
+    začiatok: SMS/IM pozvánka po pokroku v príbehu.
+    kľúčové_momenty:
+      - "Odhalenie, kto stojí za hrozbami"
+      - "Voľba postupu a dôsledky"
+    ukončenie: Odmena a správa o výsledku.
+    následky: "Možné referencie v médiách/dialógoch."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Ochranka/problém solver
+        importance: Hlavná postava
+      - name: Popová hviezda
+        role: Obeť stalkera
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Watson – byt H10 a okolie"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddie"
+    dlhodobé:
+      - "Kozmetické predmety a zmeny v postojoch NPC"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Nízke
+    hacknutie: Nízke
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Sláva a nebezpečenstvo"
+    - "Hranice fanúšikovstva"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Nedávaj explicitné spoilery; udrž tajomno"
+    roleplay_tipy:
+      - "Ponúkni ochranný, no profesionálny tón"

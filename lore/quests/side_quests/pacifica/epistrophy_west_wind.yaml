@@ -1,0 +1,75 @@
+type: quest
+id: side_pacifica_epistrophy_west_wind
+title: Epistrophy: West Wind
+aliases: ["Epistrophy: West Wind"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrophy: West Wind
+    originálny_názov: Epistrophy: West Wind
+    typ: Side Job (Delamain)
+    lokácia: Pacifica – West Wind Estate
+    quest_giver: Delamain
+    level: 10
+    odmena: "XP, reputácia; progres ‘Epistrophy’ linky"
+
+  quest_profile:
+    summary: "Zachytiť ďalšie blúdiace Delamain vozidlo vo West Wind Estate; zvládnuť úzke oblúky bez poškodenia."
+
+    background:
+      - "Pod-úloha v rámci ‘Epistrophy’ po HQ briefe."
+
+    objectives:
+      hlavné_ciele:
+        - "Lokalizovať a sledovať vozidlo"
+        - "Prinútiť ho spomaliť a zastaviť bez kolízie"
+      vedľajšie_ciele:
+        - "Neohroziť miestnych obyvateľov"
+
+    story_significance:
+      - "Malý diel skladačky Delamain AI fragmentácie."
+
+  quest_structure:
+    začiatok: Marker od Delamaina vo West Wind Estate.
+    kľúčové_momenty:
+      - "Manévrovanie v slepých uličkách"
+    ukončenie: Auto sa vzdá; návrat do HQ na konci linky.
+    následky: "Progres smerom k ‘Don’t Lose Your Mind’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Operátor v teréne
+        importance: Hlavná postava
+      - name: Delamain
+        role: Dispečer AI
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "West Wind Estate – Pacifica"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Započítaný dielik k finále Delamain linky"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný (jazda)
+
+  themes:
+    - "Trpezlivosť"
+    - "AI a dôvera"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Necieliť na auto zbraňami"
+    roleplay_tipy:
+      - "Pokojný, profesionálny tón počas ‘naháňačky’"

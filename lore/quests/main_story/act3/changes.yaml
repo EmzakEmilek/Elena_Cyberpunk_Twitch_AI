@@ -1,0 +1,83 @@
+type: quest
+id: quest_changes
+title: Zmeny
+aliases: ["Changes", "Mikoshi – rozhodnutie"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Zmeny
+    originálny_názov: Changes
+    typ: Main Job - Act 3 (spoločná)
+    lokácia: Mikoshi – rozhranie
+    quest_giver: Systém Mikoshi / Alt Cunningham
+    level: 30
+    odmena: Otvorenie epilógov podľa voľby
+
+  quest_profile:
+    summary: "V stojí v rozhraní Mikoshi pred poslednou voľbou – komu bude patriť telo a aký osud čaká V a Johnnyho."
+
+    background:
+      - "Cesta k Mikoshi bola dokončená (Hanako/Rogue/Aldecaldos/Sólo)"
+      - "Alt Cunningham ponúka technickú možnosť oddelenia"
+
+    objectives:
+      hlavné_ciele:
+        - "Rozhodnúť o prenose vedomia"
+        - "Akceptovať dôsledky pre V a Johnnyho"
+      vedľajšie_ciele:
+        - "Zhodnotiť, čo znamená sloboda a identita"
+
+    story_significance:
+      - "Posledná voľba hlavného príbehu"
+      - "Určuje epilóg a budúcnosť postáv"
+
+  quest_structure:
+    začiatok: V Mikoshi po prístupe z finálnej misie vetvy
+    kľúčové_momenty:
+      - "Dialóg s Alt a Johnny/V"
+      - "Voľba smerovania – V alebo Johnny preberie kontrolu"
+    ukončenie: Voľba vykonaná
+    následky: "Otvorí sa príslušný epilóg (Slnko/Miernosť/Diabol/Hviezda)"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Ten, kto rozhoduje
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Súčasť voľby
+        importance: Kľúčový
+      - name: Alt Cunningham
+        role: Sprievodkyňa procesom
+        importance: Technický mediator
+
+  locations:
+    primárne:
+      - "Mikoshi – vnútorné rozhranie"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Determinácia finálneho epilógu"
+    dlhodobé:
+      - "Osud V/Johnnyho a status vo svete"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Koncepčné (rozhodnutie)
+    dialógy: Maximálny
+    prieskum: Minimálny
+
+  themes:
+    - "Identita a telo"
+    - "Sloboda a zodpovednosť"
+    - "Čo znamená žiť?"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Vytvor intímny, vážny tón rozhovoru"
+      - "Neponúkaj jednoznačnú ‚správnu‘ odpoveď"
+    roleplay_tipy:
+      - "Nechaj ticho a pauzy pôsobiť – rozhodnutie je ťažké"

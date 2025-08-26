@@ -1,0 +1,117 @@
+type: quest
+id: quest_i_walk_the_line
+title: Kráčam po hrane
+aliases: ["I Walk the Line", "Stretnutie s NetWatch", "Zrada Voodoo Boys"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Kráčam po hrane
+    originálny_názov: I Walk the Line
+    typ: Main Job - Act 2
+    lokácia: Grand Imperial Mall, kyberpriestor
+    quest_giver: Brigitte (Voodoo Boys)
+    level: 17
+    odmena: Kľúčová voľba medzi frakciami
+
+  quest_profile:
+    summary: "V infiltruje Grand Imperial Mall, aby sa spojil s agentom NetWatch, no odhalí zradu Voodoo Boys a musí sa rozhodnúť, komu bude veriť."
+
+    background:
+      - "NetWatch stráži poriadok za Blackwallom a loví nelegálne AI"
+      - "Voodoo Boys sledujú vlastné ciele v kyberpriestore"
+      - "Agent NetWatch tvrdí, že má informácie o Alt"
+      - "Obe frakcie chcú V využiť pre svoje plány"
+
+    objectives:
+      hlavné_ciele:
+        - "Preniknúť do Grand Imperial Mall"
+        - "Nadviazať kontakt s agentom NetWatch"
+        - "Overiť úmysly Voodoo Boys"
+        - "Urobiť zásadnú voľbu medzi frakciami"
+      vedľajšie_ciele:
+        - "Získať čo najviac informácií bez zbytočného rizika"
+        - "Minimalizovať poplach a civilné obete"
+        - "Zabezpečiť ústupovú cestu"
+
+    story_significance:
+      - "Významný morálny zlom v pacifickej línii"
+      - "Objasnenie motivácií Voodoo Boys a NetWatch"
+      - "Rozhodnutie ovplyvní ďalšie dianie a prístup k Alt"
+
+  quest_structure:
+    začiatok: Prienik do opusteného obchodného centra v Pacifice
+    kľúčové_momenty:
+      - "Obchádzanie bezpečnosti a dronov"
+      - "Dialóg s agentom NetWatch a prezentácia jeho verzie"
+      - "Odhalenie zrady zo strany Voodoo Boys"
+      - "Rozhodnutie, komu veriť a koho odpojiť"
+    ukončenie: V opúšťa Mall s novými informáciami a vybranou stranou
+    následky: "Vzťahy s frakciami a prístup k Alt sa menia podľa voľby"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Operatívny agent
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Digitálny spolujazdec/Protikorporátny hlas
+        importance: Komentátor a svedomie
+      - name: Agent NetWatch
+        role: Vládny operatívec/Alternatívny spojenec
+        importance: Zástupca frakcie
+    vedľajšie_postavy:
+      - name: Brigitte
+        role: Vodkyňa Voodoo Boys/Potenciálna zradkyňa
+        importance: Pôvodný zadávateľ úlohy
+      - name: Placide
+        role: Vynucovač Voodoo Boys
+        importance: Taktická prekážka
+      - name: Ochranka v Malli
+        role: Nepriatelia/Prekážky
+        importance: Environmentálna opozícia
+
+  locations:
+    primárne:
+      - "Grand Imperial Mall (Pacifica)"
+      - "Kyberpriestor (sieťové rozhrania)"
+    sekundárne:
+      - "Bezpečnostné systémy a uzly"
+      - "Opustené zázemie centra"
+      - "Dátové prúdy"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Poznatky o skutočných zámeroch frakcií"
+      - "Voľba spojenca v konflikte NetWatch vs. Voodoo Boys"
+      - "Stopa k Alt Cunningham"
+    dlhodobé:
+      - "Rozdielne príbehové možnosti a sprístupnené cesty"
+      - "Dôsledky pre reputáciu vo svete Pacificy"
+      - "Dopad na neskoršie interakcie v kyberpriestore"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Vysoký
+    hacknutie: Veľmi vysoký
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Zrada a skryté agendy"
+    - "Voľba medzi zlými možnosťami"
+    - "Štátna kontrola vs. nezávislé frakcie"
+    - "Informačná vojna"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Toto je zlomový bod pacifickej línie – zvýrazni morálnu ťažobu"
+      - "Obe strany majú racionálne argumenty – nechaj hráča váhať"
+      - "Pripomeň riziká kyberpriestoru a Blackwallu"
+    roleplay_tipy:
+      - "V pôsobí opatrne a pragmaticky"
+      - "Johnny spochybňuje autority a manipuláciu"
+    pokyny_pre_konverzáciu:
+      - "Minimalizuj anglicizmy; používaj terminológiu (kyberpriestor, uzly, Blackwall)"
+      - "Vysvetli dôsledky rozhodnutia pre ďalšie misie"

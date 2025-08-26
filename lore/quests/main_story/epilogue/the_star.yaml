@@ -1,0 +1,86 @@
+type: quest
+id: epilogue_the_star
+title: Hviezda
+aliases: ["The Star", "All Along the Watchtower", "Aldecaldos odchod"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Hviezda
+    originálny_názov: The Star
+    typ: Epilogue
+    lokácia: Badlands, hranice, otvorená cesta
+    quest_giver: —
+    level: 30
+    odmena: Uzavretie – odchod z Night City s Aldecaldos
+
+  quest_profile:
+    summary: "V opustí Night City s Aldecaldos; spolu s Panam a rodinou nomádov mieri za novým začiatkom mimo tieňa korporácií."
+
+    background:
+      - "Voľba v Mikoshi a silné puto s Aldecaldos"
+      - "Rodina nomádov poskytne cestu k slobode"
+
+    objectives:
+      hlavné_ciele:
+        - "Pripraviť karavánu a trasy odchodu"
+        - "Rozlúčiť sa s mestom"
+        - "Prekročiť hranicu a kráčať za horizont ("All Along the Watchtower")"
+      vedľajšie_ciele:
+        - "Uistiť sa, že rodina je v bezpečí"
+
+    story_significance:
+      - "Sloboda cez komunitu a vzájomnosť"
+      - "Odchod bez pomsty; voľba života"
+
+  quest_structure:
+    začiatok: Zbalená kolóna Aldecaldos v Badlands
+    kľúčové_momenty:
+      - "Tichá rozlúčka s Night City"
+      - "Dialóg s Panam o budúcnosti"
+    ukončenie: Karavána mizne na horizonte
+    následky: "Nový život mimo dosahu korporácií"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Člen rodiny Aldecaldos
+        importance: Hlavná postava
+      - name: Panam Palmer
+        role: Partnerka/Opora
+        importance: Kľúčová pre epilóg
+    vedľajšie_postavy:
+      - name: Saul Bright a Aldecaldos
+        role: Rodina
+        importance: Spolucestujúci
+
+  locations:
+    primárne:
+      - "Badlands – otvorené plániny"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Sloboda od City a Arasaky"
+    dlhodobé:
+      - "Život s rodinou, neistá budúcnosť – ale vlastná"
+
+  gameplay_elements:
+    boj: Minimálny
+    skrývanie: Žiadne
+    hacknutie: Minimálne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Rodina a sloboda"
+    - "Cesty a horizonty"
+    - "Odchod a nádej"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Intímny, nádejný tón; žiadny patos"
+    roleplay_tipy:
+      - "V a Panam rozprávajú obyčajnou rečou, nie sloganmi"
+    pokyny_pre_konverzáciu:
+      - "Terminológia Aldecaldos, Badlands – bez anglicizmov"

@@ -1,0 +1,74 @@
+type: quest
+id: romance_kerry_off_the_leash
+title: Z reťaze utrhnutý
+aliases: ["Off the Leash", "Kerry – nočná jazda"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Z reťaze utrhnutý
+    originálny_názov: Off the Leash
+    typ: Side Job – Kerry (romance)
+    lokácia: City Center – večerné miesta
+    quest_giver: Kerry Eurodyne
+    level: 18
+    odmena: Zblíženie a spontánnosť
+
+  quest_profile:
+    summary: "V a Kerry strávia noc na voľnobeh; spontánne rozhodnutia a rozhovory posilnia ich puto."
+
+    background:
+      - "Kerry potrebuje uvoľniť tlak"
+
+    objectives:
+      hlavné_ciele:
+        - "Dopriať si noc slobody"
+        - "Zdieľať osobné pohľady a plány"
+      vedľajšie_ciele:
+        - "Udržať veci bezpečné a dôstojné"
+
+    story_significance:
+      - "Kerry sa otvára V"
+
+  quest_structure:
+    začiatok: Pozvanie na nočný výjazd
+    kľúčové_momenty:
+      - "Scény v meste, hudba, ticho"
+      - "Citové priblíženie"
+    ukončenie: Dohodnutie ďalšej schôdzky
+    následky: "Vedie k ‚Nápoje na lodi‘"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Partner/ka v noci slobody
+        importance: Hlavná postava
+      - name: Kerry Eurodyne
+        role: Partner
+        importance: Kľúčový
+
+  locations:
+    primárne:
+      - "City Center – promenády a výhľady"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Zblíženie"
+    dlhodobé:
+      - "Stabilnejšie puto pred kulmináciou"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Veľmi vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Sloboda a autenticita"
+    - "Hudba a ticho"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Nechaj dýchať scenérie; žiadne anglicizmy"

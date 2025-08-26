@@ -1,0 +1,93 @@
+type: quest
+id: epilogue_the_sun
+title: Slnko
+aliases: ["The Sun", "Path of Glory", "Afterlife legenda"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Slnko
+    originálny_názov: The Sun
+    typ: Epilogue
+    lokácia: Afterlife, City Center, Night City
+    quest_giver: —
+    level: 30
+    odmena: Uzavretie – legenda Night City, vlastný byt a povesť
+
+  quest_profile:
+    summary: "V prežije a ostáva v tele; stúpa medzi legendy Afterlife a podnikne vlastnú veľkú akciu, čím spečatí status v Night City."
+
+    background:
+      - "Rozhodnutie v Mikoshi ponechalo telo V"
+      - "Vzťahy s Afterlife a Rogue sú kľúčové"
+      - "Cieľom je naplno prijať rolu legendy"
+
+    objectives:
+      hlavné_ciele:
+        - "Formálne prevziať status v Afterlife"
+        - "Pripraviť a vykonať prestížny zásah ("Path of Glory")"
+        - "Symbolicky potvrdiť, že V je nová špička"
+      vedľajšie_ciele:
+        - "Stretnutia so známymi a reakcie Night City"
+        - "Vybaviť nový byt a základňu"
+
+    story_significance:
+      - "V sa stáva legendou – vrchol štruktúry moci v NC"
+      - "Otvorené otázky zdravia ostávajú, no V volí slnko a slávu"
+
+  quest_structure:
+    začiatok: Ráno novej legendy v Afterlife
+    kľúčové_momenty:
+      - "Ceremónia a uznanie v Afterlife"
+      - "Plánovanie a exekúcia ikonickej akcie"
+      - "Pohľad na mesto z výšky – osobné uzavretie"
+    ukončenie: V potvrdený ako legenda Night City
+    následky: "Trvalý zápis mena medzi najväčších – za cenu neistého zajtrajška"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Hlavná postava/Legenda NC
+        importance: Kľúčový
+      - name: Johnny Silverhand
+        role: Vnútorný hlas (ak prítomný podľa voľby)
+        importance: Reflexia cesty
+    vedľajšie_postavy:
+      - name: Rogue Amendiares
+        role: Kurátorka legiend Afterlife
+        importance: Potvrdzuje status
+
+  locations:
+    primárne:
+      - "Afterlife – Watson"
+    sekundárne:
+      - "City Center – prestížne lokality"
+      - "Nový byt V"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Status legendy"
+      - "Prístup a reputácia v podsvetí"
+    dlhodobé:
+      - "Neistota ohľadom budúceho zdravia a dĺžky života"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Nízky až stredný
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Sláva a cena úspechu"
+    - "Sebaurčenie"
+    - "Legendy a ich mýty"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Tón triumfálny, no trpkosladký"
+    roleplay_tipy:
+      - "V pôsobí sebaisto, ale priznáva cenu za slávu"
+    pokyny_pre_konverzáciu:
+      - "Používaj terminológiu Afterlife/legenda, vyhni sa anglicizmom"

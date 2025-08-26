@@ -1,0 +1,93 @@
+type: quest
+id: quest_playing_for_time
+title: Hra o čas
+aliases: ["Playing for Time", "Prebudenie na skládke"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Hra o čas
+    originálny_názov: Playing for Time
+    typ: Main Job - Act 2
+    lokácia: Santo Domingo – skládka, Watson, Japantown
+    quest_giver: Goro Takemura / Judy Alvarez
+    level: 10
+    odmena: Otvorenie hlavných línií (Judy/Panam/Takemura)
+
+  quest_profile:
+    summary: "V prežije pád na skládku, unikne pred lovcami a nadviaže prvé kontakty v boji o vlastný život a čas."
+
+    background:
+      - "Relik poškodzuje V-ovu psychiku a telo"
+      - "Johnny Silverhand je prítomný v hlave V"
+      - "Takemura a Judy sa stanú kľúčovými kontaktmi"
+
+    objectives:
+      hlavné_ciele:
+        - "Dostať sa z nebezpečia a stabilizovať stav"
+        - "Stretnúť sa s Takemuru kvôli stope na Arasaku"
+        - "Skontaktovať sa s Judy kvôli Evelyn"
+      vedľajšie_ciele:
+        - "Zabezpečiť lieky a vybavenie"
+        - "Preskúmať možné smerovania vyšetrovania"
+
+    story_significance:
+      - "Nastavenie Act 2 a všetkých hlavných vetiev"
+      - "Formuje sa vzťah V – Johnny"
+
+  quest_structure:
+    začiatok: Prebudenie na skládke, útok Wraiths a útek
+    kľúčové_momenty:
+      - "Záchrana a improvizované ošetrenie"
+      - "Prvý seriózny dialóg s Johnnym"
+      - "Dohody s Takemuru a Judy"
+    ukončenie: Odštartované hlavné vyšetrovania
+    následky: "Otvorené linky Judy/Panam/Takemura"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Preživší/Hľadač riešenia
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Digitálny spolucestujúci
+        importance: Kľúčový konflikt
+      - name: Goro Takemura
+        role: Potenciálny spojenec
+        importance: Vstup na korporátnu stopu
+      - name: Judy Alvarez
+        role: Spojenkyňa
+        importance: Vstup na stopu Evelyn
+
+  locations:
+    primárne:
+      - "Skládka – Santo Domingo"
+      - "Watson – byty a ulice"
+    sekundárne:
+      - "Japantown – predpolia schôdzok"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Stabilizácia stavu"
+      - "Získané kontakty a smery"
+    dlhodobé:
+      - "Prístup ku všetkým vetvám Act 2"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Nízky
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Prežitie"
+    - "Spolupráca z nutnosti"
+    - "Identita a invázia vedomia"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zachyť slabosť a tvrdohlavosť V zároveň"
+    roleplay_tipy:
+      - "Johnny je cynický, no niekedy pravdivý"

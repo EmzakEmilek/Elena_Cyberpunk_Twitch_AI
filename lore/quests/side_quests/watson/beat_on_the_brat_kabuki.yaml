@@ -1,0 +1,79 @@
+type: quest
+id: side_watson_beat_on_the_brat_kabuki
+title: Daj mu nakladačku: Kabuki
+aliases: ["Beat on the Brat: Kabuki"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Daj mu nakladačku: Kabuki
+    originálny_názov: Beat on the Brat: Kabuki
+    typ: Side Job – boxerská séria (Coach Fred)
+    lokácia: Watson – Kabuki (strecha pri trhu)
+    quest_giver: Coach Fred (cez SMS/marker)
+    level: 7
+    odmena: "€$, Street Cred; postup v sérii"
+
+  quest_profile:
+    summary: "Zápas proti dvojici ‘dvojičiek’ na streche v Kabuki. Dôraz na kontrolu davu a timovanie silných úderov."
+
+    background:
+      - "Pod-úloha série ‘Beat on the Brat’. Po výzve sa presuň na strechu v Kabuki."
+
+    objectives:
+      hlavné_ciele:
+        - "Vystúpiť na strechu a spustiť duel"
+        - "Poraziť oboch súperov len päsťami"
+      vedľajšie_ciele:
+        - "Staviť si (voliteľné)"
+
+    story_significance:
+      - "Jeden zo štyroch regionálnych zápasov pred finále."
+
+  quest_structure:
+    začiatok: "Marker ťa vedie na strechu pri trhu v Kabuki."
+    kľúčové_momenty:
+      - "Silné údery môžu súpera omráčiť na krátko"
+      - "Udržiavaj oboch súperov v zornom poli, vyhni sa ‘sandwichu’"
+    ukončenie: "Po výhre si vyzdvihni výhru; SMS od Freda."
+    následky: "Posun v sérii a vyššia stávka nabudúce."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Boxer
+        importance: Hlavná postava
+      - name: Dvojičky (Kabuki Twins)
+        role: Súperi
+        importance: Epizódni
+      - name: Coach Fred
+        role: Organizátor
+        importance: Vedľajší
+
+  locations:
+    primárne:
+      - "Kabuki – strešný ring, Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "€$, Street Cred"
+    dlhodobé:
+      - "Postup k finále série"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Technika vs. presila"
+    - "Stávkovanie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Tip: bočný strafing a parry minimalizujú zásahy zozadu."
+    roleplay_tipy:
+      - "Udrž odľahčený, športový tón."

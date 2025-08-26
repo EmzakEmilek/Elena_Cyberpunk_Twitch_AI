@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_paid_in_full
+title: Vyrovnané do posledného
+aliases: ["Paid in Full"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Vyrovnané do posledného
+    originálny_názov: Paid in Full
+    typ: Side Job
+    lokácia: Watson – rôzne (bankomaty, fixeri)
+    quest_giver: Viktor Vektor (dlh)
+    level: 5
+    odmena: Karma a zľavy u Viktora; čisté svedomie
+
+  quest_profile:
+    summary: "Spláť dlh Viktorovi Vektorovi za život zachraňujúce vylepšenia po Heiste."
+
+    background:
+      - "Viktor uhradil časť zákroku; očakáva, že dlh raz splatíš."
+      - "Po získaní dostatočných financií môžeš dlh vyrovnať."
+
+    objectives:
+      hlavné_ciele:
+        - "Zohnať potrebné eddie na splatenie dlhu"
+        - "Uhradiť dlh Viktorovi"
+      vedľajšie_ciele:
+        - "Navštíviť Viktora a porozprávať sa po úhrade"
+
+    story_significance:
+      - "Zlepšenie vzťahov s Viktorem a prístup k lepším službám."
+
+  quest_structure:
+    začiatok: Notifikácia v denníku po čase od zákroku u Viktora.
+    kľúčové_momenty:
+      - "Získanie peňazí rôznymi aktivitami"
+      - "Úhrada pri termináli/u Viktora"
+    ukončenie: Dlh označený ako splatený.
+    následky: "Lepšie ceny/ponuka kybervýbavy u Viktora, pozitívny dopad na dialógy."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Dlžníčka/dlžník
+        importance: Hlavná postava
+      - name: Viktor Vektor
+        role: Ripperdoc, mentor
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Watson – klinika Viktora Vektora"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Zlepšené vzťahy s Viktorem"
+    dlhodobé:
+      - "Zľavy a prístup k lepším implantátom"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Zodpovednosť"
+    - "Vernosť a priateľstvo"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Udrž ľudský, vďačný tón pri dialógoch o Viktorovi"
+    roleplay_tipy:
+      - "Zvýrazni, že Viktor konal nezištne a zaslúži si úctu"

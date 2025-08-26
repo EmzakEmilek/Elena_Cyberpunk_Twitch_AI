@@ -1,0 +1,119 @@
+type: quest
+id: quest_the_information
+title: Informácie
+aliases: ["The Information", "Evelyn Parker", "Braindance"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Informácie
+    originálny_názov: The Information
+    typ: Main Job - Act 1
+    lokácia: Lizzie's Bar (Watson)
+    quest_giver: Dexter DeShawn
+    level: 5
+    odmena: Plán a údaje pre lúpež v Konpeki Plaza
+
+  quest_profile:
+    summary: "V a Jackie sa stretnú s Evelyn Parker v Lizzie's Bare a pomocou analýzy braindance získajú kľúčové informácie o obstarávaní biočipu v Konpeki Plaza."
+
+    background:
+      - "Evelyn má prístup k apartmánu v Konpeki"
+      - "Judy Álvarez je expertka na braindance"
+      - "Zámerom je získať biočip Relic"
+      - "Dex očakáva plán lúpeže"
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť sa s Evelyn v Lizzie's Bare"
+        - "Analyzovať braindance záznam"
+        - "Identifikovať bezpečnostné prvky a prístupové body"
+        - "Pripraviť plán prieniku"
+      vedľajšie_ciele:
+        - "Spýtať sa na motivácie Evelyn"
+        - "Zistiť viac o braindance technológii"
+        - "Vyhodnotiť riziká Konpeki Plaza"
+
+    story_significance:
+      - "Prvé použitie braindance v príbehu"
+      - "Získanie detailov pre lúpež"
+      - "Prepojenie na Judy a Mox"
+      - "Nastavenie finále Act 1"
+
+  quest_structure:
+    začiatok: Príchod do Lizzie's Baru
+    kľúčové_momenty:
+      - "Dialóg s Evelyn a dohadovanie spolupráce"
+      - "Úvod do braindance a kalibrácia"
+      - "Analýza senzorických vrstiev (zvuk/teplo/obraz)"
+      - "Odhalenie biočipu Relic"
+      - "Záverečné plánovanie"
+    ukončenie: Zhrnutie plánu pre Dexa
+    následky: "Aktivovanie prípravy na lúpež"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Analytik
+        importance: Hlavná postava
+      - name: Jackie Welles
+        role: Partner/Podpora
+        importance: Spojenec
+      - name: Evelyn Parker
+        role: Klientka/Informátorka
+        importance: Kľúčová postava
+      - name: Judy Álvarez
+        role: Špecialistka na braindance/Editor
+        importance: Technická expertka
+    vedľajšie_postavy:
+      - name: Členky Mox
+        role: Bezpečie a prevádzka baru
+        importance: Zázemie
+
+  locations:
+    primárne:
+      - "Lizzie's Bar"
+      - "Strižňa braindance"
+    sekundárne:
+      - "Virtuálna simulácia Konpeki Plaza"
+      - "Penthouse Yorinobu Arasaku (v zázname)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Detailné info o Konpeki"
+      - "Poznanie procesu braindance"
+      - "Kontakt s Judy"
+    dlhodobé:
+      - "Pripravenosť na lúpež"
+      - "Vzťah s Evelyn a Mox"
+      - "Smerovanie k Lúpeži"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Nízky
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Vysoký (v braindance)
+
+  themes:
+    - "Technológia pamäte a zážitkov"
+    - "Príprava a plánovanie"
+    - "Dôvera a spolupráca"
+    - "Korporátna bezpečnosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Prvé stretnutie s braindance technológiou"
+      - "Evelyn má skryté motívy – naznač"
+      - "Judy je technicky brilantná, no opatrná"
+      - "V sa učí myslieť ako zlodej"
+    roleplay_tipy:
+      - "V je fascinovaný technológiou"
+      - "Evelyn je charizmatická a manipulatívna"
+      - "Judy vysvetľuje zrozumiteľne a vecne"
+      - "Jackie drží nohy na zemi"
+    pokyny_pre_konverzáciu:
+      - "Popísať vrstvy braindance"
+      - "Vysvetliť, prečo je Relic tak cenný"
+      - "Nastaviť očakávania pred lúpežou"

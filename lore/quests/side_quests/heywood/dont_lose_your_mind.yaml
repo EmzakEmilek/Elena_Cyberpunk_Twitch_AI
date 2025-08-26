@@ -1,0 +1,79 @@
+type: quest
+id: side_heywood_dont_lose_your_mind
+title: Nestrácaj rozum
+aliases: ["Don't Lose Your Mind"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Nestrácaj rozum
+    originálny_názov: Don't Lose Your Mind
+    typ: Side Job
+    lokácia: Heywood – Delamain HQ (Wellsprings/Vista del Rey oblasti)
+    quest_giver: Delamain (AI)
+    level: 12
+    odmena: "Vozidlo Delamain (Excelsior) v garáži; eddies, XP; uzavretie questline"
+
+  quest_profile:
+    summary: "Prenikni do centrály Delamain, prekonaj prekážky a rozhodni o osude jeho jadra: reset, zlúčenie alebo zničenie."
+
+    background:
+      - "Po zhromaždení všetkých kabov v ‘Epistrophy’ je Delamainov systém nestabilný."
+      - "V HQ je prístup blokovaný; vyžaduje sa improvizácia a riešenie environmentálnych prekážok."
+
+    objectives:
+      hlavné_ciele:
+        - "Vniknúť do Delamain HQ (technika 8 alebo alternatívna cesta cez strechu/hatch)"
+        - "Zabezpečiť prístup cez miestnu sieť (Int 8 alebo kód 1234)"
+        - "Dostať sa k jadru a zvoliť riešenie (reset/zlúčenie/zničenie)"
+      vedľajšie_ciele:
+        - "Bezpečne prejsť elektrifikované sekcie (využiť auto alebo spodnú šachtu)"
+
+    story_significance:
+      - "Kanonické rozuzlenie témy identity AI a jej fragmentácie."
+
+  quest_structure:
+    začiatok: Sledovať marker do Delamain HQ a nájsť vstup mimo hlavných dverí.
+    kľúčové_momenty:
+      - "Použitie kódu 1234 alebo Int 8 na otvorenie dverí v sieti"
+      - "Prechod cez dielňu, plošiny a elektrifikované podlažia"
+      - "Voľba pri jadre: reset, zlúčenie alebo zničenie"
+    ukončenie: Po rozhodnutí a opustení jadra čaká Delemain kab s AI Excelsior; ukončenie úlohy.
+    následky: "Trvalé nastavenie stavu Delamain; odomknuté vozidlo Excelsior."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Operátor/infiltrátor
+        importance: Hlavná postava
+      - name: Delamain
+        role: AI v kríze identity
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Delamain HQ – Heywood"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddies, prístup k vozidlu Excelsior"
+    dlhodobé:
+      - "Stav Delamain podľa voľby (reset/zlúčenie/zničenie)"
+
+  gameplay_elements:
+    boj: Stredný (drony, environmentálne hrozby)
+    skrývanie: Nízky
+    hacknutie: Stredný (terminály, dvere)
+    dialógy: Stredný
+    prieskum: Stredný až vysoký
+
+  themes:
+    - "Identita AI"
+    - "Kontrola vs. sloboda"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Pripomeň dve alternatívne cesty vstupu a kód 1234 ako zálohu"
+    roleplay_tipy:
+      - "Pri rozhodnutí o jadre vyzdvihni etické dilemy a následky"

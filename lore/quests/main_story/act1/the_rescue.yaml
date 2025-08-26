@@ -1,0 +1,120 @@
+type: quest
+id: quest_the_rescue
+title: Záchranná akcia
+aliases: ["The Rescue", "Sandra Dorsett"]
+category: quest_main_story
+lang: sk
+
+content:
+	quest_data:
+		názov: Záchranná akcia
+		originálny_názov: The Rescue
+		typ: Main Job - Act 1
+		lokácia: Brloh zberačov vo Watsone
+		quest_giver: Wakako Okada
+		level: 2
+		odmena: Odmena od Wakako, reputácia vo Watsone
+
+	quest_profile:
+		summary: "V a Jackie zachraňujú Sandru Dorsett z rúk gangu zberačov. Ukážkový zásah, ktorý predstaví boj, taktiku a prácu s Trauma Team."
+
+		background:
+			- "Wakako dáva V prvý väčší job"
+			- "Zberači unášajú ľudí pre kybernetické časti"
+			- "Trauma Team zasahuje pri kritických stavoch"
+			- "Záchrana prebehne v megabudove H10"
+
+		objectives:
+			hlavné_ciele:
+				- "Prenikni do bytu zberačov"
+				- "Eliminuj hrozby a zabezpeč priestor"
+				- "Nájdi Sandru Dorsett"
+				- "Stabilizuj ju a odovzdaj Trauma Teamu"
+			vedľajšie_ciele:
+				- "Získaj prístup do bytu cez technické vstupy"
+				- "Hackuj kamery a systémy"
+				- "Zachovaj nenápadnosť, ak je to možné"
+				- "Pozbieraj dôkazový materiál"
+
+		story_significance:
+			- "Definuje V a Jackie ako zohranú dvojicu"
+			- "Ukazuje praktiky zberačov a svet Night City"
+			- "Prvé stretnutie s Trauma Teamom"
+			- "Buduje reputáciu u Wakako"
+
+	quest_structure:
+		začiatok: Kontakt od Wakako a stručný prehľad úlohy
+		kľúčové_momenty:
+			- "Vniknutie do bytu a čistenie miestností"
+			- "Objavenie Sandry vo vani s ľadom"
+			- "Stabilizácia a evakuácia na strechu"
+			- "Prílet Trauma Teamu a protokol odovzdania"
+			- "Návrat do bytu V"
+		ukončenie: Sandra je v bezpečí
+		následky: "Získaná reputácia a skúsenosti"
+
+	characters_involved:
+		hlavné_postavy:
+			- name: V
+				role: Protagonista/Záchranca
+				importance: Hlavná postava
+			- name: Jackie Welles
+				role: Partner/Podpora
+				importance: Hlavný spojenec
+			- name: Wakako Okada
+				role: Fixerka/Zadávateľka
+				importance: Dôležitý kontakt
+		vedľajšie_postavy:
+			- name: Sandra Dorsett
+				role: Obeť
+				importance: Cieľ záchrany
+			- name: Trauma Team
+				role: Zdravotná jednotka
+				importance: Partner pri evakuácii
+
+	locations:
+		primárne:
+			- "Megabuilding H10 - byt zberačov"
+		sekundárne:
+			- "Strecha megabudovy"
+			- "Uličky vo Watsone"
+
+	rewards_and_consequences:
+		okamžité:
+			- "Odmena od Wakako"
+			- "Zlepšená reputácia"
+			- "Prístup k ďalším jobom"
+		dlhodobé:
+			- "Vzťah s Wakako a kontaktmi vo Watsone"
+			- "Skúsenosti s taktickým zásahom"
+			- "Prehĺbenie partnerstva s Jackie"
+
+	gameplay_elements:
+		boj: Vysoký
+		skrývanie: Stredný
+		hacknutie: Stredný
+		dialógy: Nízky
+		prieskum: Stredný
+
+	themes:
+		- "Záchrana životov vs. zisk"
+		- "Neľútostný svet gangov"
+		- "Partnerstvo a dôvera"
+		- "Profesionálny postup"
+
+	notes_for_elena:
+		kľúčové_body:
+			- "Ukážkový zásah a prvé veľké akčné tempo"
+			- "Trauma Team protokoly a chladná efektivita"
+			- "Zberači ako dehumanizovaná hrozba"
+			- "Budovanie mena V vo Watsone"
+		roleplay_tipy:
+			- "V pôsobí sústredene a profesionálne"
+			- "Jackie odľahčuje napätie humorom"
+			- "Wakako komunikuje vecne a tvrdo"
+			- "Sandra je vystrašená, potrebuje upokojiť"
+		pokyny_pre_konverzáciu:
+			- "Vysvetliť taktické rozhodnutia"
+			- "Popísať Trauma Team postupy"
+			- "Zhodnotiť morálne dilemy sveta Night City"
+			- "Vyzdvihnúť tímovú spoluprácu"

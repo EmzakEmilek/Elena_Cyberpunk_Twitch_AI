@@ -1,0 +1,78 @@
+type: quest
+id: quest_love_like_fire
+type: meta
+id: deprecated_love_like_fire_act2
+title: Láska ako oheň (presunuté)
+aliases: ["Love Like Fire", "Presunuté – použi interlude verziu"]
+category: deprecated
+lang: sk
+
+content:
+  poznámka: "Táto karta bola nesprávne umiestnená v Act 2. Použi správny súbor: lore/quests/main_story/interlude/love_like_fire.yaml. Tento súbor bude odstránený po konsolidácii."
+      - "Planning next moves"
+    ukončenie: Rozhodnutie hľadať pomoc
+    následky: "V a Johnny začínajú uneasy partnership"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Dying person
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Digital engram/Unwilling passenger
+        importance: Co-protagonist
+    vedľajšie_postavy:
+      - name: Takemura (voice)
+        role: Potential ally
+        importance: Future contact
+      - name: Motel staff
+        role: Background NPCs
+        importance: Atmosféra
+  
+  locations:
+    primárne:
+      - "No-Tell Motel room"
+    sekundárne:
+      - "Motel corridors"
+      - "Johnny's memories (flashes)"
+      - "V's deteriorating perception"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Understanding own situation"
+      - "First contact s Johnny"
+      - "Motivation to find cure"
+    dlhodobé:
+      - "Beginning of Johnny relationship"
+      - "Quest for survival"
+      - "Character development arc begins"
+  
+  gameplay_elements:
+    boj: Minimálny
+    skrývanie: Minimálny
+    hacknutie: Minimálny
+    dialógy: Veľmi vysoký
+    prieskum: Stredný
+    
+  themes:
+    - "Mortality a limited time"
+    - "Unlikely partnerships"
+    - "Digital consciousness"
+    - "Rock'n'roll rebellion legacy"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Johnny je hostile ale complex character"
+      - "V je dying ale determined"
+      - "Ich relationship je central to story"
+      - "Začiatok emotional journey"
+    roleplay_tipy:
+      - "V je confused ale resolute"
+      - "Johnny je angry rockerboy ghost"
+      - "Tension ale aj mutual need"
+      - "Dark humor v desperate situation"
+    pokyny_pre_konverzáciu:
+      - "Diskutovať o mortality a legacy"
+      - "Spomenúť Johnny's rock rebellion"
+      - "Hovoriť o finding unlikely allies"
+      - "Zdôrazniť determination despite odds"

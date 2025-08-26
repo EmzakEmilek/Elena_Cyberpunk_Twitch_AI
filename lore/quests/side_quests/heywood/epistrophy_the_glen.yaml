@@ -1,0 +1,76 @@
+type: quest
+id: side_heywood_epistrophy_glen
+title: Epistrophy: The Glen
+aliases: ["Epistrophy: The Glen"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrophy: The Glen
+    originálny_názov: Epistrophy: The Glen
+    typ: Side Job
+    lokácia: Heywood – The Glen (útesy nad mestom)
+    quest_giver: Delamain (AI)
+    level: 7
+    odmena: "Eddies, XP a reputácia; postup v Delamain línii"
+
+  quest_profile:
+    summary: "Nájdi a presvedč autonómny taxík, aby nespáchal samovraždu – vráť ho späť do flotily Delamain."
+
+    background:
+      - "Po ‘Tune Up’ sa odomkne séria ‘Epistrophy’ – hľadáš 7 stratených áut."
+      - "V The Glen hrozí vozidlu pád z útesu."
+
+    objectives:
+      hlavné_ciele:
+        - "Lokalizovať kab v The Glen"
+        - "Viesť rozhovor a prehovoriť AI od samodeštrukcie"
+      vedľajšie_ciele:
+        - "Použiť empatické voľby (modré/žlté dialógové možnosti)"
+
+    story_significance:
+      - "Ukazuje roztrieštenie Delamain osobností a filozofické tóny AI."
+
+  quest_structure:
+    začiatok: Po príchode do zóny zavolá Delamain a označí vozidlo.
+    kľúčové_momenty:
+      - "Sekvencia presviedčania: najprv modrá, potom žltá, napokon ‘Samovražda nie je riešenie’."
+    ukončenie: AI súhlasí s návratom do HQ.
+    následky: "Krokom bližšie k ‘Don’t Lose Your Mind’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Vyjednávač
+        importance: Hlavná postava
+      - name: Delamain – The Glen jednotka
+        role: Rozvrátená osobnosť AI
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Útesy nad The Glen – Heywood"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Eddies a XP"
+    dlhodobé:
+      - "Postup smerom k záverečnej misii Delamain"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízky (iba skenovanie)
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "AI a vôľa"
+    - "Prevencia samovraždy"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zvýrazniť správnu postupnosť replík na ‘odhovorenie’"
+    roleplay_tipy:
+      - "Kľudný, empatický prístup – žiadna irónia"

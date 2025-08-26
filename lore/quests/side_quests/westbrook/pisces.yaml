@@ -1,0 +1,81 @@
+type: quest
+id: side_westbrook_pisces
+title: Ryby
+aliases: ["Pisces"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Ryby
+    originálny_názov: Pisces
+    typ: Side Job
+    lokácia: Westbrook – Japantown (Clouds, strecha a kancelária)
+    quest_giver: Judy Alvarez
+    level: 14
+    odmena: "XP, reputácia; ikonická katana Tsumetogi; otvorenie ‘Holdin On’ línie Johnny/Kerry"
+
+  quest_profile:
+    summary: "Finálny stret s Tyger Claws ohľadom Clouds. Hra s Maiko môže skončiť kompromisom alebo krvou – a ovplyvní Judy."
+
+    background:
+      - "Dostupné po ‘Talking Bout a Revolution’."
+      - "Rozhodnutia v tejto úlohe uzamykajú/odomykajú románik s Judy."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť sa s Judy a bábkami na H8"
+        - "Preniknúť na strechu a do zasadacej miestnosti"
+        - "Riešiť poradu: podpora Maiko vs. ozbrojený odpor"
+      vedľajšie_ciele:
+        - "Prehľadať miestnosť po súboji – Tsumetogi"
+
+    story_significance:
+      - "Definuje postavenie Clouds a budúcnosť Judy."
+
+  quest_structure:
+    začiatok: Správa od Judy po predchádzajúcej misii a čakaní (2×6h).
+    kľúčové_momenty:
+      - "Skrytý prienik cez strechu"
+      - "Rokovanie s Maiko/Hiromim vs. boj s Tyger Claws"
+    ukončenie: Rozhovor s Judy pri odchode; sumarizácia stavu.
+    následky: "Romance path možná najmä pri odmietnutí ‘korporátneho’ riešenia."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Taktická opora
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Vedenie akcie
+        importance: Kľúčová postava
+      - name: Maiko Maeda
+        role: Vyjednávačka, potenciálna šéfka Clouds
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Megabuilding H8 – Japantown, Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia, Tsumetogi"
+    dlhodobé:
+      - "Trajektória Judy vzťahu; otvorenie Johnny/Kerry linky ďalej (‘Holdin On’)."
+
+  gameplay_elements:
+    boj: Stredný až vysoký (varianta)
+    skrývanie: Stredný
+    hacknutie: Nízky
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Pragmatizmus vs. ideály"
+    - "Moc a kompromisy"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Jasne vysvetli dopady ‘deal s Maiko’ vs. ‘boj’"
+    roleplay_tipy:
+      - "Pre Judy voľ empatiu a vzťahový jazyk"

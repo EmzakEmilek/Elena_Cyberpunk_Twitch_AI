@@ -1,0 +1,80 @@
+type: quest
+id: romance_judy_ex_factor
+title: Bývalá
+aliases: ["Ex-Factor", "Judy – Maiko"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Bývalá
+    originálny_názov: Ex-Factor
+    typ: Side Job – Judy (romance)
+    lokácia: Westbrook – Clouds, Jig-Jig Street
+    quest_giver: Judy Alvarez
+    level: 12
+    odmena: Posun v pláne s Clouds
+
+  quest_profile:
+    summary: "Judy rieši minulosť s Maiko a mocenské pomery v Clouds; V môže stáť pri nej a ovplyvniť smer."
+
+    background:
+      - "Napätie medzi Judy a Maiko"
+      - "Tyger Claws a kontrola nad Clouds"
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Maiko a definovať postoj"
+        - "Získať možnosti zmeny v Clouds"
+      vedľajšie_ciele:
+        - "Chrániť Judyine záujmy a bezpečie"
+
+    story_significance:
+      - "Formuje sa etický rámec Judyinej akcie"
+
+  quest_structure:
+    začiatok: Kontakt od Judy a stretnutie s Maiko
+    kľúčové_momenty:
+      - "Vyjednávanie a hranice"
+      - "Rozhodnutie, ako ďalej postupovať"
+    ukončenie: Plán na ďalšie kroky
+    následky: "Dôvera posilnená alebo narušená podľa postoja"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Vyjednávač/ochranca
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Iniciátorka zmeny
+        importance: Kľúčová
+      - name: Maiko Maeda
+        role: Vyjednávačka Clouds
+        importance: Protihráčka/partnerka
+
+  locations:
+    primárne:
+      - "Clouds – Westbrook"
+    sekundárne:
+      - "Jig-Jig Street – Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Jasnejší plán v Clouds"
+    dlhodobé:
+      - "Dopady na Tyger Claws a budúce udalosti"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Nízky
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Moc a zodpovednosť"
+    - "Minulosť a dôvera"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž civilný jazyk a dôstojnosť postáv"

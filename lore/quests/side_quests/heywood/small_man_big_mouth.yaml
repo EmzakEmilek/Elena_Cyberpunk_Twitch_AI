@@ -1,0 +1,82 @@
+type: quest
+id: side_heywood_small_man_big_mouth
+title: Malý chlap, veľké ústa
+aliases: ["Small Man, Big Mouth"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Malý chlap, veľké ústa
+    originálny_názov: Small Man, Big Mouth
+    typ: Side Job
+    lokácia: Heywood – The Glen (El Coyote Cojo) → Arroyo, Santo Domingo (Megabuilding H4)
+    quest_giver: Kirk Sawyer (len pre Streetkid)
+    level: 10
+    odmena: "Eddies; loot z dodávky; XP"
+
+  quest_profile:
+    summary: "Kirk ťa vtiahne do ‘ľahkej’ fušky: získať tovar z dodávky chránený Valentinos. V praxi to nebude tak jednoduché."
+
+    background:
+      - "Quest je dostupný len pre Streetkid a až po ‘Heroes’."
+      - "Po stretnutí v Cojo sa akcia presúva do Arroyo."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Kirka v El Coyote Cojo a prijať ‘ponuku’"
+        - "Vniknúť do areálu a vybrať tovar z dodávky"
+        - "Riešiť následnú bitku s Valentinos pri H4"
+      vedľajšie_ciele:
+        - "Možnosť preplížiť sa cez južný plot alebo postup z parkoviska s krytím"
+
+    story_significance:
+      - "Návrat známej tváre (Kirk) a ukážka rizík lacného ‘kšeftu’."
+
+  quest_structure:
+    začiatok: Telefonát od Kirka po splnení ‘Heroes’; dohodnutie stretnutia v Cojo.
+    kľúčové_momenty:
+      - "Čistenie oblasti pri dodávke a vybratie tovaru zo zadných dverí"
+      - "Konfrontácia s Valentinos; možnosť ustúpiť a ‘prehryznúť’ poníženie"
+    ukončenie: Po incidente s Valentinos sa misia ukončí.
+    následky: "Bez väčších dlhodobých efektov; reputačná pachuť."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Vykonávateľ špinavej práce
+        importance: Hlavná postava
+      - name: Kirk Sawyer
+        role: Sprostredkovateľ ‘kšeftu’
+        importance: Kľúčová postava
+      - name: Valentinos
+        role: Stráž dodávky a agresori
+        importance: Vedľajšie postavy
+
+  locations:
+    primárne:
+      - "El Coyote Cojo – The Glen, Heywood"
+      - "Megabuilding H4 – Arroyo, Santo Domingo"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Eddies, XP, loot z dodávky"
+    dlhodobé:
+      - "Žiadne významné; uzavretie mini-linky s Kirkom"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Stredný (alternatívny prístup)
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "Lacné kšefty a následky"
+    - "Pýcha a poníženie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Uveď, že ide o Streetkid-only obsah a podmienku ‘Heroes’"
+    roleplay_tipy:
+      - "Ulica, rýchle repliky, mierny sarkazmus"

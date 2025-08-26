@@ -1,0 +1,76 @@
+type: quest
+id: side_heywood_epistrophy_wellsprings
+title: Epistrophy: Wellsprings
+aliases: ["Epistrophy: Wellsprings"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrophy: Wellsprings
+    originálny_názov: Epistrophy: Wellsprings
+    typ: Side Job
+    lokácia: Heywood – Wellsprings
+    quest_giver: Delamain (AI)
+    level: 7
+    odmena: "Eddies, XP a reputácia; postup v Delamain línii"
+
+  quest_profile:
+    summary: "Stop defektnému Delamain kabu a vráť ho do systému – je potrebné ho ‘prebudiť’ poškodením."
+
+    background:
+      - "Po ‘Tune Up’ sa otvorí lovecká séria na 7 kabov."
+      - "Wellsprings jednotka nereaguje korektne – treba ju znovu inicializovať."
+
+    objectives:
+      hlavné_ciele:
+        - "Lokalizovať označený kab vo Wellsprings"
+        - "Spôsobiť mu neletálne poškodenie (streľba/údery), kým sa nespustí sken"
+      vedľajšie_ciele:
+        - "Zabezpečiť okolie pred náhodným poškodením civilistov"
+
+    story_significance:
+      - "Ďalší diel do skladačky fragmentácie Delamain AI."
+
+  quest_structure:
+    začiatok: Delamain po príchode označí pozíciu kabu.
+    kľúčové_momenty:
+      - "Streľba alebo melee do karosérie, kým sa neobjaví skenovací pruh"
+    ukončenie: Po reštarte kontaktuje Delamain a kab sa vracia do HQ.
+    následky: "Splnená časť pred ‘Don’t Lose Your Mind’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Operátor v teréne
+        importance: Hlavná postava
+      - name: Delamain – Wellsprings jednotka
+        role: Porucha osobnosti AI
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Wellsprings – Heywood"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Eddies a XP"
+    dlhodobé:
+      - "Postup v Delamain questline"
+
+  gameplay_elements:
+    boj: Nízky (iba poškodenie vozidla)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Údržba AI"
+    - "Porucha a reštart"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Pripomeň, že stačí poškodiť vozidlo, nie zničiť ho"
+    roleplay_tipy:
+      - "Vecný, technický tón; stručné inštrukcie"

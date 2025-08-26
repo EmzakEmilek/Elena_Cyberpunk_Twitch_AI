@@ -1,0 +1,83 @@
+type: quest
+id: side_watson_the_gig
+title: Kšeft
+aliases: ["The Gig"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Kšeft
+    originálny_názov: The Gig
+    typ: Side Job
+    lokácia: Watson – Northside (Cassius Ryder) ⇄ Westbrook – Japantown (Wakako)
+    quest_giver: Wakako Okada / Cassius Ryder
+    level: 8
+    odmena: "Dermálna implantácia Smart Link (Tyger Claws Dermal Imprint) zdarma; €$ od Wakako; XP/Street Cred"
+
+  quest_profile:
+    summary: "Dokonči si formality po ‘The Rescue’: vyzdvihni odmenu od Wakako a u riperdoca si nainštaluj smart-link implantát."
+
+    background:
+      - "Nadväzuje na prolog ‘The Rescue’. Od Wakako si vyzdvihneš dlžnú odmenu."
+      - "Ripperdoc Cassius Ryder ti osadí smart-link do ruky."
+
+    objectives:
+      hlavné_ciele:
+        - "Navštíviť Wakako v Pachinko (Jig-Jig/Japantown)"
+        - "Ísť k Cassiusovi Ryderovi v Northside"
+        - "Nainštalovať Smart Link (zadarmo)"
+      vedľajšie_ciele:
+        - "Vyskúšať smart-zbrane po inštalácii"
+
+    story_significance:
+      - "Odomyká používanie smart-zbraní a uzatvára dlh z prologu."
+
+  quest_structure:
+    začiatok: "Po skončení Act 1 sa ozvi Wakako a dohodni si odmenu."
+    kľúčové_momenty:
+      - "Stretnutie s Wakako v zadnej miestnosti"
+      - "Ripperdoc procedúra u Cassiusa Rydera"
+    ukončenie: "Po osadení implantátu sa úloha ukončí."
+    následky: "Smart Link sprístupní zameriavanie smart-zbraní."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Klient riperdoca; odberateľ odmeny
+        importance: Hlavná postava
+      - name: Wakako Okada
+        role: Fixerka; vypláca odmenu
+        importance: Dôležitá
+      - name: Cassius Ryder
+        role: Ripperdoc; implantuje Smart Link
+        importance: Dôležitý
+
+  locations:
+    primárne:
+      - "Wakako’s Pachinko – Japantown, Westbrook"
+      - "Cassius Ryder – Northside, Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Smart Link implantát zdarma"
+      - "€$ a XP/Street Cred"
+    dlhodobé:
+      - "Trvalý prístup k smart-zbraniam"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Profesionalita a záväzky"
+    - "Korporátne ‘protislužby’"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Pripomeň hráčke/hráčovi skúsiť smart-zbraň po osadení."
+    roleplay_tipy:
+      - "Wakako drž zdvorilý odstup; Cassius technický, stručný tón."

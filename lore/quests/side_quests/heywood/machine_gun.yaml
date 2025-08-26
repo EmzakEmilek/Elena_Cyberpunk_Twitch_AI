@@ -1,0 +1,81 @@
+type: quest
+id: side_heywood_machine_gun
+title: Guľomet
+aliases: ["Machine Gun", "Skippy"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Guľomet
+    originálny_názov: Machine Gun
+    typ: Side Job
+    lokácia: Heywood – Vista del Rey (nájdi telo so Skippym)
+    quest_giver: Skippy (hovoriaca pištoľ) / Regina Jones (neskôr)
+    level: 10
+    odmena: "Skippy (inteligentná zbraň) alebo ~7000€$ za vrátenie Regine; XP"
+
+  quest_profile:
+    summary: "Nájdi legendárnu inteligentnú pištoľ Skippy, zvoľ režim a rozhodni, či ju neskôr vrátiš jej pôvodnej majiteľke Regine."
+
+    background:
+      - "Skippy má dva režimy: Stone Cold Killer (headshoty) a Puppy-Loving Pacifist (strely do nôh)."
+      - "Po ~50 killoch sa režim automaticky prepne na opačný."
+
+    objectives:
+      hlavné_ciele:
+        - "Zdvihnúť Skippyho pri tele v uličke"
+        - "Zvoliť režim a používať zbraň"
+        - "Po niekoľkých dňoch zvážiť, či zbraň vrátiť Regine"
+      vedľajšie_ciele:
+        - "Ak ponecháš Skippyho: preferovať začiatok v ‘Pacifist’ režime, inak skončíš s leg-only"
+
+    story_significance:
+      - "Humorná vsuvka a jedinečná zbraň s meta-komentárom."
+
+  quest_structure:
+    začiatok: Pri priblížení k markeru v Vista del Rey nájdeš telo a zbraň.
+    kľúčové_momenty:
+      - "Dialóg so Skippym o výbere režimu"
+      - "Telefonát od Reginy a rozhodnutie o vrátení"
+    ukončenie: Odovzdanie Regine (odmena €$) alebo ponechanie si Skippyho.
+    následky: "Trvalý režim po prepnutí po 50 killoch (ak si nezačal Pacifist)."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Nálezca a používateľ zbrane
+        importance: Hlavná postava
+      - name: Skippy
+        role: Hovoriaca inteligentná zbraň
+        importance: Kľúčová postava
+      - name: Regina Jones
+        role: Pôvodná majiteľka
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Vista del Rey – Heywood"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Získanie Skippyho"
+    dlhodobé:
+      - "Buď hotovosť a rozlúčka so zbraňou, alebo trvalý unikát v inventári"
+
+  gameplay_elements:
+    boj: Stredný (používanie zbrane)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Humor a meta"
+    - "Zodpovednosť vs. užitočnosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Upozorni na prepnutie režimu po ~50 killoch"
+    roleplay_tipy:
+      - "Skippyho repliky poň mierne sarkasticky, ale nie otravne"

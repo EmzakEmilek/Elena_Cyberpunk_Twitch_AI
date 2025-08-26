@@ -1,0 +1,75 @@
+type: quest
+id: side_santo_domingo_epistrophy_rancho_coronado
+title: Epistrophy: Rancho Coronado
+aliases: ["Epistrophy: Rancho Coronado"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrophy: Rancho Coronado
+    originálny_názov: Epistrophy: Rancho Coronado
+    typ: Side Job (Delamain)
+    lokácia: Santo Domingo – Rancho Coronado (obytné zóny, cesty)
+    quest_giver: Delamain
+    level: 10
+    odmena: "XP, reputácia; progres ‘Epistrophy’ linky"
+
+  quest_profile:
+    summary: "Zachytiť ďalší zblúdilý Delamain taxík v uličkách Rancho Coronado bez kolízií a zbytočných škôd."
+
+    background:
+      - "Pod-úloha v rámci ‘Epistrophy’ po HQ briefe."
+
+    objectives:
+      hlavn_ciele:
+        - "Zamerať polohu taxíka podľa pingu"
+        - "Udržiavať stály vizuálny kontakt a spomaliť ho"
+      vedľajšie_ciele:
+        - "Chrániť civilné autá a chodcov"
+
+    story_significance:
+      - "Potvrdenie rozsahu Delamain problému mimo centra."
+
+  quest_structure:
+    začiatok: Marker od Delamaina v Rancho Coronado.
+    kľúčové_momenty:
+      - "Sledovanie cez obytné ulice"
+    ukončenie: Dobrovoľné zastavenie/kapitulácia taxíka.
+    následky: "Progres smerom k ‘Don’t Lose Your Mind’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Sledovanie a zadržanie
+        importance: Hlavná postava
+      - name: Delamain
+        role: Riadenie operácie
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Rancho Coronado – Santo Domingo (sídliská, obchvaty)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Ďalší diel k finále Delamain linky"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "Kontrola a chaos"
+    - "AI a dôvera"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Formuluj pokyny na bezpečné ‘zadržanie’"
+    roleplay_tipy:
+      - "Rovný, rádiový štýl – krátke inštrukcie, žiadne odbočky"

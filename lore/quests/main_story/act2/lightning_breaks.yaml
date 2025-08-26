@@ -1,0 +1,74 @@
+type: quest
+id: quest_lightning_breaks
+title: Blesky šľahajú
+aliases: ["Lightning Breaks", "AV prepad"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Blesky šľahajú
+    originálny_názov: Lightning Breaks
+    typ: Main Job - Act 2
+    lokácia: Badlands – púštne trasy
+    quest_giver: Panam Palmer
+    level: 14
+    odmena: Smer k „Život počas vojny“ (Hellman)
+
+  quest_profile:
+    summary: "V a Panam prepadnú AV, aby zajali Hellmana; operácia je rýchla a nebezpečná."
+
+    background:
+      - "Hellman cestuje v konvoji"
+      - "Nomádi zabezpečia podporu a únik"
+
+    objectives:
+      hlavné_ciele:
+        - "Zastaviť AV a získať Hellmana"
+        - "Prežiť proti-útok Arasaky"
+      vedľajšie_ciele:
+        - "Chrániť Panam a techniku"
+
+    story_significance:
+      - "Kľúčový krok k informáciám o Reliku"
+
+  quest_structure:
+    začiatok: Príprava nástrahy v púšti
+    kľúčové_momenty:
+      - "Sústredená akcia počas búrky"
+      - "Zabezpečenie cieľa"
+    ukončenie: Hellman v rukách V
+    následky: "Vedie k ‚Život počas vojny‘"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Útočník/operátor
+        importance: Hlavná postava
+      - name: Panam Palmer
+        role: Partnerka/strelec
+        importance: Kľúčová
+      - name: Anders Hellman
+        role: Cieľ
+        importance: Kľúčový pre Relik
+
+  locations:
+    primárne:
+      - "Badlands – púštne cesty"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Zajatý Hellman"
+    dlhodobé:
+      - "Technické poznatky o Reliku"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Nízky
+    hacknutie: Nízky
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Presnosť a riziko"
+    - "Partnerstvo"

@@ -1,0 +1,107 @@
+type: quest
+id: quest_last_caress
+title: Posledné pohladenie
+aliases: ["Last Caress", "Hanako – záchrana"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Posledné pohladenie
+    originálny_názov: Last Caress
+    typ: Main Job - Act 3 (Hanako)
+    lokácia: North Oak – sídlo Arasaka
+    quest_giver: Hanako Arasaka
+    level: 25
+    odmena: Otvorenie korporátnej finálnej línie
+
+  quest_profile:
+    summary: "V na žiadosť Hanako infiltruje sídlo Arasaka v North Oak, aby ju zachránil a pripravil pôdu pre konfrontáciu v Arasaka Tower."
+
+    background:
+      - "Po Nokturne OP55N1 si V vybral cestu s Hanako"
+      - "Saburova smrť rozdelila Arasaku"
+      - "Hanako potrebuje dôkaz a bezpečný presun"
+      - "Goro Takemura môže byť nápomocný (podľa predchádzajúcich volieb)"
+
+    objectives:
+      hlavné_ciele:
+        - "Preniknúť do sídla Arasaka v North Oak"
+        - "Zabezpečiť Hanako a pripraviť únik"
+        - "Vyhnúť sa poplachu alebo ho udržať pod kontrolou"
+        - "Dostať Hanako do bezpečia"
+      vedľajšie_ciele:
+        - "Získať prístupové kódy a interné záznamy"
+        - "Eliminovať alebo obísť hrozby ticho"
+        - "Preskúmať bezpečnostné protokoly"
+
+    story_significance:
+      - "Upevňuje spojenectvo s Hanako"
+      - "Pripravuje veľké finále v Arasaka Tower"
+      - "Dopĺňa politický konflikt v rámci rodiny Arasaka"
+      - "Možné dopady podľa osudu Takemuru"
+
+  quest_structure:
+    začiatok: Kontakt od Hanako a nasadenie v North Oak
+    kľúčové_momenty:
+      - "Infiltrácia sídla s využitím kyberschopností"
+      - "Kontakt s Hanako a plán úniku"
+      - "Stret s bezpečnosťou a riadený ústup"
+      - "Bezpečný presun Hanako na miesto stretnutia"
+    ukončenie: Hanako v bezpečí a pripravená konať
+    následky: "Otvorené finále v Arasaka Tower"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Infiltrátor
+        importance: Hlavná postava
+      - name: Hanako Arasaka
+        role: Klientka/Spoluautorka plánu
+        importance: Kľúčová pre korporátnu cestu
+    vedľajšie_postavy:
+      - name: Goro Takemura
+        role: Bodyguard/Poradca
+        importance: Variantný spojenec
+      - name: Arasaka stráže
+        role: Nepriatelia
+        importance: Prekážky
+
+  locations:
+    primárne:
+      - "North Oak – sídlo Arasaka"
+    sekundárne:
+      - "Trasy úniku do Corpo Plaza"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Podpora Hanako"
+      - "Prístup k plánom finále"
+    dlhodobé:
+      - "Korporátne finále s dôsledkami pre V"
+      - "Vplyv na epilóg ‚Diabol‘"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Vysoký
+    hacknutie: Vysoký
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Moc a lojalita"
+    - "Rodinná politika"
+    - "Kontrola verzus dôvera"
+    - "Cieľ posväcuje prostriedky?"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zachovaj korporátne, strohé tóny v dialógoch"
+      - "Pripomeň možné prepojenie s Takemurom"
+      - "Neodraď hráča od stealth ani od boja – oboje je validné"
+    roleplay_tipy:
+      - "V koná profesionálne a takticko-chladne"
+      - "Hanako hovorí vyvážene a vecne"
+    pokyny_pre_konverzáciu:
+      - "Vysvetli politický kontext Arasaky"
+      - "Zdôrazni význam dôkazov a bezpečnosti"

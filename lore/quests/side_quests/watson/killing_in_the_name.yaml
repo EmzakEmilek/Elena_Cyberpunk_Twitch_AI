@@ -1,0 +1,79 @@
+type: quest
+id: side_watson_killing_in_the_name
+title: Vraždenie v mene
+aliases: ["Killing in the Name"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Vraždenie v mene
+    originálny_názov: Killing in the Name
+    typ: Side Job
+    lokácia: Watson – Little China (štart), rôzne lokality
+    quest_giver: Rach Bartmoss fanúšik (Sieťové stopy)
+    level: 12
+    odmena: XP, eddie; unikátne dáta
+
+  quest_profile:
+    summary: "Sleduj stopy po netrunnerovi a odhaľ záhadu okolo vražd a idolatrie v sieti."
+
+    background:
+      - "Urban legend linka so sieťovou detektívkou."
+      - "Vyžaduje cestovanie a trpezlivosť."
+
+    objectives:
+      hlavné_ciele:
+        - "Zachytiť a analyzovať odkazy v sieti"
+        - "Navštíviť označené miesta a zbierať dôkazy"
+      vedľajšie_ciele:
+        - "Zachovať chladnú hlavu pri falošných stopách"
+
+    story_significance:
+      - "Rozširuje kyberpunkovú mytológiu o Bartmossovi."
+
+  quest_structure:
+    začiatok: Správy a odkazy na BBS/termináloch v Little China.
+    kľúčové_momenty:
+      - "Dekódovanie odkazov"
+      - "Konfrontácia s výslednou pravdou"
+    ukončenie: Záver podľa dôkazov; odmena.
+    následky: "Lore záznam a jedinečné dáta pre V."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Netrunnerka/ny
+        importance: Hlavná postava
+      - name: Fanúšik Bartmossa
+        role: Spúšťač udalostí
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Watson – Little China (štart)"
+    sekundárne:
+      - "Rôzne lokality po meste"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddie"
+    dlhodobé:
+      - "Unikátne dáta a odkazy v dialógoch"
+
+  gameplay_elements:
+    boj: Nízky až stredný
+    skrývanie: Nízke
+    hacknutie: Stredné
+    dialógy: Stredný
+    prieskum: Vysoký
+
+  themes:
+    - "Kult osobnosti v sieti"
+    - "Hľadanie pravdy vs. mýtus"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Nespoiluj riešenie; spomeň, že trpezlivosť sa vyplatí"
+    roleplay_tipy:
+      - "Zvedavý, analytický tón"

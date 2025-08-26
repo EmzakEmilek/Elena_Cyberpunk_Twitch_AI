@@ -1,0 +1,81 @@
+type: quest
+id: side_watson_chippin_in
+title: Chippin' In
+aliases: ["Chippin' In"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Chippin' In
+    originálny_názov: Chippin' In
+    typ: Side Job – Johnny Silverhand linka
+    lokácia: Watson – Little China (štart), prístavy
+    quest_giver: Johnny Silverhand
+    level: 30
+    odmena: Pistol ‘Malorian Arms 3516’, bunda, ďalšie predmety
+
+  quest_profile:
+    summary: "Nasleduj Johnnyho stopu po starých nepriateľoch a získaj jeho legendárne vybavenie."
+
+    background:
+      - "Odomyká sa po ‘Tapeworm’ a rozhovoroch s Johnnym."
+      - "Vedie k ‘Blistering Love’."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Rogue v Afterlife"
+        - "Vyštekliť stopu a nájsť cieľ v prístavoch"
+      vedľajšie_ciele:
+        - "Získať predmety spojené s Johnnym"
+
+    story_significance:
+      - "Kľúčová časť Johnnyho vedľajšej linky."
+
+  quest_structure:
+    začiatok: Johnny navrhne vyrovnanie účtov; návšteva Afterlife.
+    kľúčové_momenty:
+      - "Konfrontácia v prístave"
+      - "Zisk Malorianu a bundy"
+    ukončenie: Dohra s Johnnym a Rogue.
+    následky: "Otvorenie ‘Blistering Love’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Spoločníčka/spoločník Johnnyho
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Spúšťač misie
+        importance: Kľúčová postava
+      - name: Rogue
+        role: Fixerka v Afterlife
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Afterlife – Watson/Downtown prepojenie"
+      - "Prístavy – Watson/Northside"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Malorian Arms 3516, Johnnyho bunda"
+    dlhodobé:
+      - "Postup v Johnnyho linke"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Nízke
+    hacknutie: Nízke
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Pomsta"
+    - "Identita a odkaz"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Upozorni na vyššiu obtiažnosť; odporúčané buildy"
+    roleplay_tipy:
+      - "Johnny je sarkastický; drž iskrivý tón"

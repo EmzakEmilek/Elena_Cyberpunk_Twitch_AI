@@ -1,0 +1,75 @@
+type: quest
+id: side_pacifica_beat_on_the_brat_pacifica
+title: Daj mu nakladačku: Pacifica
+aliases: ["Beat on the Brat: Pacifica"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Daj mu nakladačku: Pacifica
+    originálny_názov: Beat on the Brat: Pacifica
+    typ: Side Job – boxerská séria (Coach Fred)
+    lokácia: Pacifica – West Wind Estate (lokálny ring)
+    quest_giver: Coach Fred (séria); miestny vyzývateľ
+    level: 16
+    odmena: "€$, Street Cred; progres k finále s Razor Hugh"
+
+  quest_profile:
+    summary: "Zápas série ‘Beat on the Brat’ v Pacifica. Vyhraj férovým súbojom len päsťami proti tvrdému lokálnemu borcovi."
+
+    background:
+      - "Dostupné po úvode ‘Beat on the Brat’ (Watson) a ďalších oblastných výhrach."
+
+    objectives:
+      hlavné_ciele:
+        - "Dohodnúť stávku a pravidlá"
+        - "Poraziť súpera v ringu"
+      vedľajšie_ciele:
+        - "Optimalizovať perky Street Brawler / Gorilla Arms"
+
+    story_significance:
+      - "Jeden z krokov k finálovému zápasu."
+
+  quest_structure:
+    začiatok: Marker ‘Beat on the Brat’ v Pacifica.
+    kľúčové_momenty:
+      - "Čítanie animácií súpera a parry"
+    ukončenie: Výhra/prehra; možnosť re-match.
+    následky: "Po výhre sa posúvaš k finále série."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Boxer
+        importance: Hlavná postava
+      - name: Vyzývateľ
+        role: Protivník
+        importance: Antagonista
+
+  locations:
+    primárne:
+      - "West Wind Estate – Pacifica"
+
+  rewards_and_consequences:
+    okamžité:
+      - "€$, Street Cred"
+    dlhodobé:
+      - "Progres k finále série"
+
+  gameplay_elements:
+    boj: Vysoký (ručný boj)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Sila a technika"
+    - "Stávky a česť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Tip na power punches a správne timovanie"
+    roleplay_tipy:
+      - "Stručný, športový tón"

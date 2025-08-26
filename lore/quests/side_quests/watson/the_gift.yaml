@@ -1,0 +1,78 @@
+type: quest
+id: side_watson_the_gift
+title: Dar
+aliases: ["The Gift", "Ping – darček od netrunnerky"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Dar
+    originálny_názov: The Gift
+    typ: Side Job
+    lokácia: Watson – Kabuki (Netrunner shop)
+    quest_giver: Yoko Tsuru (Netrunnerka)
+    level: 2
+    odmena: Rýchly hack „Ping“ (démon) zadarmo
+
+  quest_profile:
+    summary: "Získaj od netrunnerky v Kabuji bezplatný rýchly hack Ping a nauč sa základ práce s kyberpriestorom."
+
+    background:
+      - "Po prvej návšteve Kabuki sa v obchode netrunnerky objaví dar pre V."
+      - "Cieľom je naučiť sa používať Ping na skenovanie nepriateľov a sietí."
+
+    objectives:
+      hlavné_ciele:
+        - "Zájsť do netrunner obchodu v Kabuki"
+        - "Prevziať dar – rýchly hack Ping"
+        - "Otestovať Ping na blízkom zariadení alebo nepriateľovi"
+      vedľajšie_ciele:
+        - "Preskúmať ponuku ďalších rýchlych hackov"
+
+    story_significance:
+      - "Otvorenie základnej hackerskej slučky a rozšírenie možností prieskumu."
+
+  quest_structure:
+    začiatok: Správa/ikonka úlohy v Kabuki – pozvánka od netrunnerky.
+    kľúčové_momenty:
+      - "Prvé nasadenie rýchleho hacku Ping"
+      - "Skenovanie prepojených zariadení v okolí"
+    ukončenie: Ping pridaný do knižnice rýchlych hackov V.
+    následky: "Zlepšený prieskum a plánovanie infiltrácie v budúcich úlohách."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Netrunner/operátorka
+        importance: Hlavná postava
+      - name: Yoko Tsuru
+        role: Predajkyňa netrunner vybavenia
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Kabuki – netrunner obchod"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Rýchly hack Ping"
+    dlhodobé:
+      - "Lepšia orientácia v kyberpriestore a plánovanie infiltračných ciest"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Nízke
+    hacknutie: Stredné
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "Technologická výhoda"
+    - "Príprava a prieskum"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Vysvetli jednoducho, čo Ping robí a kde sa hodí"
+    roleplay_tipy:
+      - "Pôsob priateľsky a vecne; ide o krátky tutoriálový side job"

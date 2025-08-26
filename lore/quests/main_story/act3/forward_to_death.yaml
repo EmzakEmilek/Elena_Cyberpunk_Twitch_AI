@@ -1,0 +1,90 @@
+type: quest
+id: quest_forward_to_death
+title: Vpred k smrti
+aliases: ["Forward to Death", "Aldecaldos – útok (I)"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Vpred k smrti
+    originálny_názov: Forward to Death
+    typ: Main Job - Act 3 (Aldecaldos)
+    lokácia: Badlands – Arasaka komplex
+    quest_giver: Panam Palmer
+    level: 29
+    odmena: Postup k „Vnútro beštie“
+
+  quest_profile:
+    summary: "Aldecaldos vykonajú prielom cez obranné línie Arasaky v Badlands a otvoria tunelový vstup k hlbším sekciám komplexu."
+
+    background:
+      - "Plán nomádov využíva ťažké vozidlá a rušenie"
+      - "Arasaka má delostrelectvo a drony"
+
+    objectives:
+      hlavné_ciele:
+        - "Prebiť sa cez prvú líniu obrany"
+        - "Nasadiť rušiace zariadenia"
+        - "Udržať vozidlá a posádku nažive"
+      vedľajšie_ciele:
+        - "Zničiť vežové obrany pre bezpečný vstup"
+        - "Zachrániť zranených nomádov"
+
+    story_significance:
+      - "Demonštrácia sily komunity"
+      - "Budovanie hybnosti pred prienikom do jadra"
+
+  quest_structure:
+    začiatok: Nástup do vozidiel a výjazd
+    kľúčové_momenty:
+      - "Prelomenie barikád"
+      - "Rušenie senzorov a dronov"
+      - "Zabezpečenie vstupu do tunela"
+    ukončenie: Cesta do vnútra komplexu je otvorená
+    následky: "Pokračovanie vo Vnútro beštie"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Útočník/Podpora Panam
+        importance: Hlavná postava
+      - name: Panam Palmer
+        role: Veliteľka útoku
+        importance: Kľúčová
+    vedľajšie_postavy:
+      - name: Saul Bright
+        role: Koordinácia
+        importance: Podpora
+      - name: Aldecaldos bojovníci
+        role: Spojenci
+        importance: Tím
+
+  locations:
+    primárne:
+      - "Badlands – prístupové pásmo"
+    sekundárne:
+      - "Vstupné tunely"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Otvorený prístup do tunelov"
+    dlhodobé:
+      - "Silné puto s Aldecaldos"
+
+  gameplay_elements:
+    boj: Veľmi vysoký
+    skrývanie: Nízky
+    hacknutie: Stredný
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Odvaha a obeť"
+    - "Tímová práca"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Akčný, vojnový tón; udrž tempo"
+    roleplay_tipy:
+      - "Panam velí rozhodne, V podporuje a improvizuje"

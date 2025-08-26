@@ -1,0 +1,128 @@
+type: quest
+id: quest_the_heist
+title: Lúpež
+aliases: ["The Heist", "Konpeki Plaza"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Lúpež
+    originálny_názov: The Heist
+    typ: Main Job - Act 1 Finále
+    lokácia: Konpeki Plaza
+  quest_giver: Dexter DeShawn
+    level: 6
+  odmena: Relic (s tragickými následkami)
+    
+  quest_profile:
+    summary: "V a Jackie uskutočnia lúpež v Konpeki Plaza, aby získali biočip Relic. Veci sa zvrtnú po smrti Sabaura Arasaku a príbeh naberie tragický smer."
+    
+    background:
+      - "Konpeki Plaza je luxusný hotel s extrémnym zabezpečením"
+      - "Relic je biočip s digitálnou osobnosťou"
+      - "Dex orchestruje operáciu"
+      - "Evelyn má vlastné plány"
+    
+    objectives:
+      hlavné_ciele:
+        - "Infiltruj Konpeki Plaza v utajení"
+        - "Vnikni do penthousu Yorinobu Arasaku"
+        - "Získaj Relic"
+        - "Unikni z budovy živý"
+      vedľajšie_ciele:
+        - "Udržuj krytie a pokoj"
+        - "Vyhni sa zbytočnému konfliktu"
+        - "Koordinuj sa s Jackie a T-Bug"
+    
+    story_significance:
+      - "Záver Act 1 a veľký zlom v príbehu"
+      - "Smrť Jackie Wellesa"
+      - "Prvé stretnutie s Johnnym Silverhandom"
+      - "V sa stáva nosičom Relicu"
+  
+  quest_structure:
+    začiatok: Posledný briefing s Dexom
+    kľúčové_momenty:
+      - "Vstup do Konpeki ako dôležitý hosť"
+      - "Navigácia bezpečnostnými systémami"
+      - "Smrť Sabaura a chaos"
+      - "Krádež biočipu"
+      - "Útek a tragédia"
+  ukončenie: Prebudenie s Johnnym v hlave
+  následky: "Jackie je mŕtvy, V má Relic, všetko sa mení"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Zlodej
+        importance: Hlavná postava
+      - name: Jackie Welles
+        role: Partner/Spolupáchateľ
+        importance: Kľúčová postava (úmrtie)
+      - name: Johnny Silverhand
+        role: Digitálny engram
+        importance: Nový spolubývajúci v hlave
+      - name: Saburo Arasaka
+        role: Hlava Arasaky/obeť vraždy
+        importance: Spúšťač udalostí
+      - name: Yorinobu Arasaka
+        role: Syn/Saburov vrah
+        importance: Antagonista
+    vedľajšie_postavy:
+      - name: Dexter DeShawn
+        role: Fixer/Zadávateľ
+        importance: Zrádca po akcii
+      - name: T-Bug
+        role: Netrunnerka/Technická podpora
+        importance: Diaľková pomoc
+      - name: Ochranka Arasaky
+        role: Antagonisti
+        importance: Prekážky na úteku
+  
+  locations:
+    primárne:
+      - "Konpeki Plaza – lobby, chodby, penthouse"
+    sekundárne:
+      - "Limuzína/Delamain"
+      - "Únikové trasy a strechy"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Relic získaný, vložený do hlavy V"
+      - "Smrť Jackie"
+      - "Chaos a útek"
+    dlhodobé:
+      - "Johnny Silverhand sprevádza V"
+      - "V má obmedzený čas"
+      - "Arasaka loví V"
+  
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Vysoký
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Stredný
+    
+  themes:
+    - "Cena ambície"
+    - "Neočakávané následky"
+    - "Strata a obeta"
+    - "Korporátna moc"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Jackieho smrť je emocionálny vrchol"
+      - "Johnny dramaticky vstupuje do deja"
+      - "Relic nie je obyčajný čip – je to osobnosť"
+      - "Tón príbehu sa zásadne mení"
+    roleplay_tipy:
+      - "V je otrasený, no bojuje ďalej"
+      - "Johnny je nepríjemný, ale charizmatický"
+      - "Dex pôsobí ako zradca"
+      - "Atmosféra: napätie a smútok"
+    pokyny_pre_konverzáciu:
+      - "Zdôrazniť priateľstvo s Jackie"
+      - "Vysvetliť, čo je Relic"
+      - "Popísať chaos v Konpeki"
+      - "Naznačiť nový smer príbehu"

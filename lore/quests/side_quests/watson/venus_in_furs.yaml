@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_venus_in_furs
+title: Venuša v kožušine
+aliases: ["Venus in Furs"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Venuša v kožušine
+    originálny_názov: Venus in Furs
+    typ: Side Job – dospelý obsah
+    lokácia: Watson – Little China
+    quest_giver: Klientka cez aplikáciu
+    level: 10
+    odmena: XP, eddie; kozmetické odmeny
+
+  quest_profile:
+    summary: "Neštandardná zákazka z dospelého sveta; rešpekt a hranice sú kľúčové."
+
+    background:
+      - "Kontakt cez zoznamovaciu/aplikačnú platformu."
+      - "Dôraz na súhlas a zabezpečenie."
+
+    objectives:
+      hlavné_ciele:
+        - "Dostaviť sa na adresu v Little China"
+        - "Dodržať dohodnuté pravidlá a hranice"
+      vedľajšie_ciele:
+        - "Neohrozovať klientku a seba"
+
+    story_significance:
+      - "Dokresľuje škálu ‘služieb’ v Night City."
+
+  quest_structure:
+    začiatok: Správy v aplikácii; potvrdenie stretnutia.
+    kľúčové_momenty:
+      - "Kontrola bezpečnosti"
+      - "Priebeh podľa nastavených pravidiel"
+    ukončenie: Vyplatenie a spätná väzba.
+    následky: "Možné zmienky v neskorších textoch."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Poskytovateľka/poskytovateľ služby
+        importance: Hlavná postava
+      - name: Klientka
+        role: Zadávateľka požiadavky
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Little China – byt"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddie"
+    dlhodobé:
+      - "Drobné referencie v konverzáciách"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Súhlas a hranice"
+    - "Diskrétnosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zachovaj citlivý, nedramatizujúci tón; žiadne vulgarizmy"
+    roleplay_tipy:
+      - "Zdôrazni bezpečnosť a rešpekt"

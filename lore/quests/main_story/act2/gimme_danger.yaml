@@ -1,0 +1,125 @@
+type: quest
+id: quest_gimme_danger
+title: Daj mi nebezpečenstvo
+aliases: ["Daj mi nebezpečenstvo", "Voodoo Boys", "Príprava na ponor"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Daj mi nebezpečenstvo
+    originálny_názov: Gimme Danger
+    typ: Main Job - Act 2 (vyvrcholenie prípravy)
+    lokácia: Pacifica, územie Voodoo Boys
+    quest_giver: Brigitte
+    level: 16
+    odmena: Pripravenosť na ponor za Blackwall a kontakt s Alt
+    
+  quest_profile:
+    summary: "V sa spolu s Voodoo Boys pripravuje na riskantný hlboký ponor za Blackwall, aby kontaktoval Alt Cunningham a našiel cestu k riešeniu problému biočipu."
+    
+    background:
+      - "Voodoo Boys majú spojenia za Blackwall"
+      - "Alt Cunningham je dostupná cez hlboký net"
+      - "Misia je mimoriadne nebezpečná"
+      - "Čas V sa kráti"
+    
+    objectives:
+      hlavné_ciele:
+        - "Vyrokovať podmienky spolupráce s Voodoo Boys"
+        - "Pripraviť sa na ponor do hlbokého netu"
+        - "Vylepšiť kybervýbavu pre misiu"
+        - "Ukončiť technické a bezpečnostné prípravy"
+      vedľajšie_ciele:
+        - "Pochopiť kultúru a motivácie Voodoo Boys"
+        - "Zhodnotiť riziká misie"
+        - "Zladiť postup s Johnnym"
+        - "Pripraviť záložné scenáre"
+    
+    story_significance:
+      - "Príprava na vyvrcholenie Aktu 2"
+      - "Spojenectvo s Voodoo Boys"
+      - "Predpolie pre stretnutie s Alt"
+      - "Finálne ladenie kľúčovej misie"
+  
+  quest_structure:
+    začiatok: Príchod do Pacificy
+    kľúčové_momenty:
+      - "Rokovania s Brigitte"
+      - "Kultúrne porozumenie a vytváranie dôvery"
+      - "Technické prípravy a testy"
+      - "Hodnotenie rizík"
+      - "Záverečný brífing k misii"
+    ukončenie: Pripravený na ponor
+    následky: "V je pripravený na doteraz najnebezpečnejšiu misiu"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Kandidát na misiu
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Digitálny pasažier/Znepokojený partner
+        importance: Emocionálna opora
+      - name: Brigitte
+        role: Vodkyňa Voodoo Boys/Kordinátorka misie
+        importance: Technická líderka
+    vedľajšie_postavy:
+      - name: Ti Neptune
+        role: Netrunner Voodoo Boys
+        importance: Technická podpora
+      - name: Placide
+        role: Vymáhač Voodoo Boys
+        importance: Bezpečnosť
+      - name: Členovia Voodoo Boys
+        role: Komunita
+        importance: Kultúrny kontext
+  
+  locations:
+    primárne:
+      - "Úkryt Voodoo Boys"
+      - "Teritórium Pacifica"
+    sekundárne:
+      - "Prípravné priestory pre netrunning"
+      - "Technické zázemie"
+      - "Komunitné priestory"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Uzatvorené spojenectvo s Voodoo Boys"
+      - "Dokončené technické prípravy"
+      - "Stanovené parametre misie"
+    dlhodobé:
+      - "Prístup k možnostiam hlbokého netu"
+      - "Potenciálna cesta k riešeniu"
+      - "Hlbšie kultúrne porozumenie"
+  
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Stredný
+    hacknutie: Vysoký
+    dialógy: Veľmi vysoký
+    prieskum: Vysoký
+    
+  themes:
+    - "Príprava na ultimátnu výzvu"
+    - "Kultúrna spolupráca"
+    - "Technológia ako duchovná prax"
+    - "Vyvažovanie rizika a prínosu"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Voodoo Boys sú jedinečná frakcia s vlastnou filozofiou"
+      - "Hlboký net je extrémne nebezpečný"
+      - "V je zúfalý, ale odhodlaný"
+      - "Johnny má obavy z rizík"
+    roleplay_tipy:
+      - "V je úctivý, no naliehavý"
+      - "Brigitte pôsobí mysticky, ale prakticky"
+      - "Johnny chráni V a spochybňuje rozhodnutia"
+      - "Atmosféra očakávania a napätia"
+    pokyny_pre_konverzáciu:
+      - "Zdôrazniť význam prípravy"
+      - "Spomenúť kultúrnu úctu"
+      - "Hovoriť o vypočítaných rizikách"
+      - "Zvýrazniť potrebu partnerstva"

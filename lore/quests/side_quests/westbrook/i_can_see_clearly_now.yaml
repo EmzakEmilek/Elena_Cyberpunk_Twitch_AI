@@ -1,0 +1,75 @@
+type: quest
+id: side_westbrook_i_can_see_clearly_now
+title: Teraz vidím jasne
+aliases: ["I Can See Clearly Now"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Teraz vidím jasne
+    originálny_názov: I Can See Clearly Now
+    typ: Side Job
+    lokácia: Westbrook – Japantown (automat Brendan pri Megabuilding H8)
+    quest_giver: Brendan (automat na nápoje)
+    level: 4
+    odmena: "XP, reputácia; odomkne ‘Spray Paint’ po návrate"
+
+  quest_profile:
+    summary: "Automat s AI menom Brendan prosí, aby si odsunul kontajner blokujúci jeho výhľad a prístup."
+
+    background:
+      - "Krátky úvod do minilínie s Brendanom a Theou."
+
+    objectives:
+      hlavné_ciele:
+        - "Porozprávať sa s Brendanom"
+        - "Odsunúť kontajner (Body 4)"
+      vedľajšie_ciele:
+        - "Vrátiť sa neskôr na ďalší encounter (‘Spray Paint’)"
+
+    story_significance:
+      - "Predstavuje zvláštny ‘osobný’ tón AI v meste a začína trojdielnu linku."
+
+  quest_structure:
+    začiatok: Oslov Brendan automat v uličke pri H8.
+    kľúčové_momenty:
+      - "Body 4 na presun kontajnera"
+    ukončenie: Po odsune a krátkom rozhovore je úloha hotová.
+    následky: "Sprístupní sa ‘Spray Paint’ po čase/odchode a návrate."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Pomocník pri ‘odblokovaní’
+        importance: Hlavná postava
+      - name: Brendan
+        role: Automat s AI
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Japantown – Westbrook (pri Megabuilding H8)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Otvorenie ďalšej konverzačnej scény s Theou"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Mestské drobnosti"
+    - "AI a ‘osobnosť’"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Pripomeň Body 4 požiadavku"
+    roleplay_tipy:
+      - "Ľahký, priateľský tón; humor vítaný"

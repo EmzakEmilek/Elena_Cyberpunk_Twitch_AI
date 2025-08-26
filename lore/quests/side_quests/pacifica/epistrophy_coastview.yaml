@@ -1,0 +1,75 @@
+type: quest
+id: side_pacifica_epistrophy_coastview
+title: Epistrophy: Coastview
+aliases: ["Epistrophy: Coastview"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrophy: Coastview
+    originálny_názov: Epistrophy: Coastview
+    typ: Side Job (Delamain)
+    lokácia: Pacifica – Coastview (pobrežná štvrť)
+    quest_giver: Delamain
+    level: 10
+    odmena: "XP, reputácia; progres ‘Epistrophy’ linky"
+
+  quest_profile:
+    summary: "Zadržať zblúdilý Delamain taxík v Coastview bez poškodenia a chaosu."
+
+    background:
+      - "Pod-úloha reťazca ‘Epistrophy’ po HQ briefe."
+
+    objectives:
+      hlavné_ciele:
+        - "Lokalizovať auto podľa pingu"
+        - "Priblížiť sa a udržať bezpečnú vzdialenosť, kým sa nevzdá"
+      vedľajšie_ciele:
+        - "Chrániť civilistov a infraštruktúru"
+
+    story_significance:
+      - "Kus skladačky fragmentácie Delamain AI."
+
+  quest_structure:
+    začiatok: Marker od Delamaina v Coastview.
+    kľúčové_momenty:
+      - "Jazda po pobreží a úzke uličky"
+    ukončenie: Dobrovoľné zastavenie taxíka.
+    následky: "Progres smerom k ‘Don’t Lose Your Mind’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Sledovanie a ‘zadržanie’ auta
+        importance: Hlavná postava
+      - name: Delamain
+        role: Dispečer AI
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Coastview – Pacifica"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Priblíženie k finále Delamain linky"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "AI a kontrola"
+    - "Trpezlivosť za volantom"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Nespúšťať paľbu; cieľom je deeskalácia"
+    roleplay_tipy:
+      - "Rádiový, stručný štýl pri hláseniach Delamainovi"

@@ -1,0 +1,75 @@
+type: quest
+id: side_city_center_epistrophy_corpo_plaza
+title: Epistrophy: Corpo Plaza
+aliases: ["Epistrophy: Corpo Plaza"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrophy: Corpo Plaza
+    originálny_názov: Epistrophy: Corpo Plaza
+    typ: Side Job (Delamain)
+    lokácia: City Center – Corpo Plaza (korporátne bulváre)
+    quest_giver: Delamain
+    level: 10
+    odmena: "XP, reputácia; progres ‘Epistrophy’ linky"
+
+  quest_profile:
+    summary: "Zadržať zblúdilý Delamain taxík v Corpo Plaza bez narušenia korporátnej bezpečnosti."
+
+    background:
+      - "Pod-úloha reťazca ‘Epistrophy’ po HQ briefe."
+
+    objectives:
+      hlavné_ciele:
+        - "Lokalizovať a držať sa za taxíkom"
+        - "Prinútiť ho spomaliť a zastaviť bez škôd"
+      vedľajšie_ciele:
+        - "Nevyvolať zásah bezpečnosti"
+
+    story_significance:
+      - "Potvrdzuje rozsah problému v srdci City Center."
+
+  quest_structure:
+    začiatok: Marker od Delamaina v Corpo Plaza.
+    kľúčové_momenty:
+      - "Úzke bulváre a checkpointy"
+    ukončenie: Auto sa vzdá; potvrdený progres.
+    následky: "K finále ‘Don’t Lose Your Mind’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Operátor za volantom
+        importance: Hlavná postava
+      - name: Delamain
+        role: Dispečer AI
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Corpo Plaza – City Center"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "K finále Delamain linky"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "AI vs. korporátna disciplína"
+    - "Presnosť a kontrola"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Žiadna streľba; ‘zadržanie’ jazdou"
+    roleplay_tipy:
+      - "Formálny, vecný tón vhodný pre Corpo prostredie"

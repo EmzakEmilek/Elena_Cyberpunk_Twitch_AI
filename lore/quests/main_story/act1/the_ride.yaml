@@ -1,0 +1,116 @@
+type: quest
+id: quest_the_ride
+title: Jazda
+aliases: ["The Ride", "Dex DeShawn"]
+category: quest_main_story
+lang: sk
+
+content:
+	quest_data:
+		názov: Jazda
+		originálny_názov: The Ride
+		typ: Main Job - Act 1
+		lokácia: Watson, Kabuki
+		quest_giver: Jackie Welles
+		level: 3
+		odmena: Kontakt s Dextrom DeShawnom
+  
+	quest_profile:
+		summary: "Jackie zoznámi V s vplyvným fixerom Dexterom DeShawnom, ktorý ponúkne lukratívnu zákazku."
+  
+		background:
+			- "Dex hľadá tím na veľkú lúpež"
+			- "Jackie ručí za V"
+			- "Stretnutia prebiehajú diskrétne v taxíku Delamain"
+			- "Súčasťou prípravy je aj výber obleku a štýlu"
+  
+		objectives:
+			hlavné_ciele:
+				- "Stretnúť sa s Dexom v taxíku Delamain"
+				- "Vypočuť si ponuku a podmienky"
+				- "Získať zálohu a inštrukcie"
+				- "Pripraviť sa na ďalšie kroky"
+			vedľajšie_ciele:
+				- "Prediskutovať riziká s Jackie"
+				- "Zohnať vhodné oblečenie"
+				- "Preskúmať Kabuki a okolie"
+  
+		story_significance:
+			- "Vstup do veľkého sveta fixerských jobov"
+			- "Dex ako kľúčová postava Act 1"
+			- "Budovanie mena a reputácie"
+			- "Príprava na Odber a Informácie"
+  
+	quest_structure:
+		začiatok: Pozvanie od Dexa
+		kľúčové_momenty:
+			- "Jazda taxíkom Delamain"
+			- "Dialóg s Dexom a dohadovanie podmienok"
+			- "Získanie zálohy"
+			- "Brief s Jackie"
+			- "Voľný pohyb po Watsone"
+		ukončenie: Príprava na ďalší job
+		následky: "Aktivované ďalšie úlohy a kontakty"
+  
+	characters_involved:
+		hlavné_postavy:
+			- name: V
+				role: Protagonista
+				importance: Hlavná postava
+			- name: Jackie Welles
+				role: Partner
+				importance: Hlavný spojenec
+			- name: Dexter DeShawn
+				role: Fixer/Zadávateľ
+				importance: Kľúčová postava Act 1
+		vedľajšie_postavy:
+			- name: Delamain
+				role: Inteligentný taxík (umelá inteligencia)
+				importance: Preprava a atmosféra
+  
+	locations:
+		primárne:
+			- "Kabuki - Watson"
+		sekundárne:
+			- "Interiér taxíka Delamain"
+			- "Uličky a trhy Kabuki"
+  
+	rewards_and_consequences:
+		okamžité:
+			- "Záloha od Dexa"
+			- "Nové kontakty"
+			- "Aktivované questy"
+		dlhodobé:
+			- "Vzťah s Dexom a reputácia"
+			- "Prístup k veľkej lúpeži"
+			- "Smerovanie príbehu"
+  
+	gameplay_elements:
+		boj: Nízky
+		skrývanie: Nízky
+		hacknutie: Nízky
+		dialógy: Veľmi vysoký
+		prieskum: Stredný
+  
+	themes:
+		- "Biznis a reputácia"
+		- "Dôvera a riziko"
+		- "Štýl a prezentácia"
+		- "Moc peňazí v Night City"
+  
+	notes_for_elena:
+		kľúčové_body:
+			- "Dex pôsobí charizmaticky, no nebezpečne"
+			- "Jackie verí v úspech tímu"
+			- "Delamain dodáva civilizovaný rámec"
+			- "Začínajú sa veľké veci"
+		roleplay_tipy:
+			- "V je profesionálny, ale zdravo skeptický"
+			- "Dex je obchodník, ktorý testuje hranice"
+			- "Jackie je lojálny a úprimný"
+			- "Delamain je zdvorilý a formálny"
+		pokyny_pre_konverzáciu:
+			- "Rozobrať ponuku a riziká"
+			- "Pohrať sa s image V"
+			- "Zdôrazniť reputáciu a kontakty"
+			- "Naznačiť budúce kroky"

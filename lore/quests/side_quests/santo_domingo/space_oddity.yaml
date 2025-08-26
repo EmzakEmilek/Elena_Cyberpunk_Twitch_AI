@@ -1,0 +1,74 @@
+type: quest
+id: side_santo_domingo_space_oddity
+title: Kozmická zvláštnosť
+aliases: ["Space Oddity"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Kozmická zvláštnosť
+    originálny_názov: Space Oddity
+    typ: Side Job
+    lokácia: Santo Domingo – Rancho Coronado (okrajové parkovisko/ležérne táborisko)
+    quest_giver: Nepriamy – nájdený šifrovaný shard a maľba
+    level: 12
+    odmena: "XP, reputácia; cenný obraz ‘Space Oddity’ (predaj/archív)"
+
+  quest_profile:
+    summary: "Narazíš na šifrovaný shard vedľa mŕtveho tuláka. Dešifruj dáta, nájdi ukrytý kontajner a získaš záhadnú maľbu ‘Space Oddity’."
+
+    background:
+      - "Objaviteľská úloha – spúšťa sa preskúmaním okolia v Rancho Coronado."
+
+    objectives:
+      hlavné_ciele:
+        - "Preskúmať telo a okolie; získať šifrovaný shard"
+        - "Dešifrovať shard (laptop/aplikácia; postup podľa indícií)"
+        - "Lokalizovať skrytý drop a vyzdvihnúť maľbu"
+      vedľajšie_ciele:
+        - "Bezpečne obísť prípadných strážcov/podozrivých"
+
+    story_significance:
+      - "Zbierateľský artefakt a malá ukážka ‘legend’ mesta."
+
+  quest_structure:
+    začiatok: Pri prechádzke Rancho Coronado si všimneš telo a improvizované stanovište.
+    kľúčové_momenty:
+      - "Dešifrovanie dát podľa nájdených stôp"
+      - "Sledovanie súradníc k úkrytu"
+    ukončenie: Po vyzdvihnutí maľby sa úloha ukončí.
+    následky: "Maľbu môžeš predať alebo si ju ponechať."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Nálezca a dešifrant
+        importance: Hlavná postava
+
+  locations:
+    primárne:
+      - "Rancho Coronado – Santo Domingo (okraj mesto/parkovisko)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia; prístup k maľbe"
+    dlhodobé:
+      - "Možný finančný zisk, žiadne ďalšie vetvenie"
+
+  gameplay_elements:
+    boj: Nízky (vyhneš sa konfliktu)
+    skrývanie: Nízky
+    hacknutie: Stredný (dešifrovanie)
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "Mestská mytológia"
+    - "Umenie a tajomstvo"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zdôrazni, že nejde o násilie; je to ‘mystery’ mini-príbeh"
+    roleplay_tipy:
+      - "Zvedavý, jemne poetický tón pri popise maľby"

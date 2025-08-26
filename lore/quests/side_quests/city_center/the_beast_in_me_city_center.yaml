@@ -1,0 +1,76 @@
+type: quest
+id: side_city_center_the_beast_in_me_city_center
+title: Šelma vo mne: City Center
+aliases: ["The Beast in Me: City Center"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Šelma vo mne: City Center
+    originálny_názov: The Beast in Me: City Center
+    typ: Side Job (pouličné preteky)
+    lokácia: City Center – Downtown (štartovacia trať série)
+    quest_giver: Claire Russell
+    level: 12
+    odmena: "XP, reputácia; eddies; odomkne ďalšie preteky v sérii"
+
+  quest_profile:
+    summary: "Prvý závod Claireinej série v mrakodrapovej džungli Downtown. Dokonči okruhy a kvalifikuj sa na ďalšie trate."
+
+    background:
+      - "Po stretnutí s Claire v Afterlife/garáži prijmi pozvánku na závod."
+
+    objectives:
+      hlavné_ciele:
+        - "Dostaviť sa na štart v Downtown"
+        - "Dokončiť okruhy bez diskvalifikácie"
+      vedľajšie_ciele:
+        - "Udržať auto v dobrom stave, vyhnúť sa zbytočným kolíziám"
+
+    story_significance:
+      - "Otvorenie pretekárskej linky s Claire a rivalmi."
+
+  quest_structure:
+    začiatok: SMS/marker od Claire; registrácia na štarte.
+    kľúčové_momenty:
+      - "Rýchle sekcie medzi mrakodrapmi"
+      - "Kontaktné súboje s konkurenciou"
+    ukončenie: Po dojazde rozhovor s Claire; ďalšia pozvánka.
+    následky: "Progres k preteku v Santo Domingo a Badlands."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Pretekár/ka
+        importance: Hlavná postava
+      - name: Claire Russell
+        role: Organizátorka a partnerka v boxe
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Downtown – City Center"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia, eddies"
+    dlhodobé:
+      - "Postup celej série až po finále"
+
+  gameplay_elements:
+    boj: Nízky (kontaktné šúchance)
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný (učenie trate)
+
+  themes:
+    - "Rivalita a výkon"
+    - "Riziko a odmena"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Tip na brzdenie pred ostrými ‘downtown’ zákrutami"
+    roleplay_tipy:
+      - "Športový komentár; krátke, energické repliky"

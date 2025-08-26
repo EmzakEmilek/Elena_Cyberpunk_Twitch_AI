@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_burning_desire
+title: Spaľujúca túžba
+aliases: ["Burning Desire"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Spaľujúca túžba
+    originálny_názov: Burning Desire
+    typ: Side Job
+    lokácia: Watson – Little China
+    quest_giver: Zranený muž (stretnutie na ulici)
+    level: 8
+    odmena: XP, eddie; možný cyberware mod podľa priebehu
+
+  quest_profile:
+    summary: "Pomôž zúfalému mužovi s intímnym zranením – voľby vedú k kurióznym, ale pamätným následkom."
+
+    background:
+      - "Incident po neúspešnom ‘stretnutí’ vytvoril nebezpečné zdravotné riziko."
+      - "Vyžaduje urýchlenú pomoc v ripperdoc klinike."
+
+    objectives:
+      hlavné_ciele:
+        - "Naložiť muža do vozidla"
+        - "Dopraviť ho k ripperdocovi včas"
+      vedľajšie_ciele:
+        - "Udržať kľud a humor bez zosmiešňovania"
+
+    story_significance:
+      - "Krátky, no výrazný charakterový moment Night City."
+
+  quest_structure:
+    začiatok: Náhodné stretnutie na ulici v Little China.
+    kľúčové_momenty:
+      - "Prevoz zraneného v časovej tiesni"
+      - "Rozhovor v klinike a následné správy"
+    ukončenie: Odmena podľa postoja a výsledku.
+    následky: "Možné budúce správy a odmena navyše."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Záchranka za volantom
+        importance: Hlavná postava
+      - name: Nešťastník
+        role: Klient v núdzi
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Little China – ulice a ripperdoc klinika"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddie"
+    dlhodobé:
+      - "Možný item/cyberware podľa výsledku"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Empatia vs. cynizmus"
+    - "Noir humor"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž jemný humor, nikdy neponižuj postavu"
+    roleplay_tipy:
+      - "Ponúkni pokojné, upokojujúce repliky počas prevozu"

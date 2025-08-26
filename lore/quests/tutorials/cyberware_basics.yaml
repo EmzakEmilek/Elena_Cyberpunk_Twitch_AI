@@ -1,0 +1,115 @@
+type: quest
+id: quest_cyberware_basics
+title: Základy kybervýbavy
+aliases: ["Základy kybernetických implantátov", "Implantáty", "Viktorov tutoriál"]
+category: quest_tutorials
+lang: sk
+
+content:
+  quest_data:
+  názov: Základy kybervýbavy
+    originálny_názov: Cyberware Installation Tutorial
+  typ: Tutoriál
+  lokácia: Klinika Viktora Vektora
+    quest_giver: Viktor Vektor
+    level: 2
+  odmenka: Základné znalosti o kybervýbave
+    
+  quest_profile:
+  summary: "V sa pod vedením Viktora učí základy kybernetických implantátov – výber, inštaláciu, kalibráciu a údržbu. Tutoriál pokrýva kľúčové prvky kybervýbavy."
+    
+    background:
+      - "Viktor je skúsený ripperdoc s desaťročiami skúseností"
+  - "Kybervýbava je nevyhnutná pre prežitie v Night City"
+      - "Každý implantát má svoje výhody a riziká"
+  - "Správna údržba predlžuje životnosť implantátov"
+    
+    objectives:
+      hlavné_ciele:
+        - "Pochop základy kybervýbavy"
+        - "Nauč sa typy implantátov a ich funkcie"
+        - "Absolvuj prvú inštaláciu"
+        - "Ovládni používateľské rozhranie implantátov"
+      vedľajšie_ciele:
+        - "Preskúmaj Viktorovu kliniku"
+        - "Pochop riziká kyberpsychózy"
+        - "Nauč sa základnú údržbu implantátov"
+        - "Otestuj kľúčové funkcie"
+    
+    story_significance:
+      - "Úvod do kľúčového herného prvku"
+      - "Viktor ako dôveryhodný spojenec"
+      - "Pochopenie technologického aspektu sveta"
+      - "Základ pre budúci rozvoj postavy"
+  
+  quest_structure:
+    začiatok: Príchod do Viktorovej kliniky
+    kľúčové_momenty:
+      - "Úvod do kybervýbavy"
+      - "Prehliadka typov implantátov"
+      - "Prvá inštalácia implantátu"
+      - "Kalibrácia a testovanie"
+      - "Vysvetlenie údržby a vylepšení"
+    ukončenie: Dokončenie základného tréningu
+    následky: "V rozumie systému kybervýbavy"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Pacient
+        importance: Hlavná postava
+      - name: Viktor Vektor
+        role: Ripperdoc/Inštruktor
+        importance: Expert a učiteľ
+    vedľajšie_postavy:
+      - name: Misty Olszewski
+        role: Recepčná a priateľka Viktora
+        importance: Podporná postava
+  
+  locations:
+    primárne:
+      - "Klinika Viktora Vektora (ripperdoc)"
+    sekundárne:
+      - "Operačný stôl"
+      - "Sklad implantátov"
+      - "Diagnostické zariadenia"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Základný implantát"
+      - "Pochopenie mechaník kybervýbavy"
+      - "Prístup k vylepšeniam"
+    dlhodobé:
+      - "Možnosť inštalácie pokročilých implantátov"
+      - "Lepšie porozumenie technológiám"
+      - "Silnejší vzťah s Viktorom"
+  
+  gameplay_elements:
+    boj: Minimálny
+    skrývanie: Minimálny
+    hacknutie: Nízky
+    dialógy: Vysoký
+    prieskum: Stredný
+    
+  themes:
+    - "Technologické vylepšenie ľudského tela"
+    - "Rovnováha medzi ľudskosťou a strojom"
+    - "Dôvera medzi pacientom a doktorom"
+    - "Pokrok verzus riziká"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Viktor pôsobí ako otcovská autorita pre V"
+      - "Kybervýbava je jadrová herná mechanika"
+      - "Každý implantát má kompromisy a riziká"
+      - "Night City vyžaduje technologickú adaptáciu"
+    roleplay_tipy:
+      - "V je zvedavý, ale opatrný"
+      - "Viktor je trpezlivý a skúsený učiteľ"
+      - "Misty poskytuje emocionálnu oporu"
+      - "Technológia je každodenná realita"
+    pokyny_pre_konverzáciu:
+      - "Diskutovať o rovnováhe človek verzus stroj"
+      - "Spomenúť riziko kyberpsychózy"
+      - "Hovoriť o dôležitosti dôveryhodného ripperdoca"
+      - "Zdôrazniť možnosti technologického vylepšenia"

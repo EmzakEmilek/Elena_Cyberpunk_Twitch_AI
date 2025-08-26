@@ -1,0 +1,76 @@
+type: quest
+id: side_badlands_little_big_man
+title: Malý veľký chlap
+aliases: ["Little Big Man"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Malý veľký chlap
+    originálny_názov: Little Big Man
+    typ: Side Job
+    lokácia: Badlands – tábory a sklady nomádov/maelstromu (okolie)
+    quest_giver: Panam (nepriamo) / nomádske kontakty
+    level: 10
+    odmena: "XP, reputácia; motorka Scorpion (ak ju získaš)"
+
+  quest_profile:
+    summary: "Krátka linka súvisiaca s nomádmi: vypátranie a privlastnenie si motorky Scorpion po jeho osude. Nenápadne, bez zbytočného konfliktu."
+
+    background:
+      - "Dostupné po udalostiach s Aldecaldos (hl. príbeh/vedľajšia línia)."
+
+    objectives:
+      hlavné_ciele:
+        - "Zistiť polohu motorky podľa stôp"
+        - "Získať kľúče/prístup a odviezť stroj"
+      vedľajšie_ciele:
+        - "Vyhnúť sa prestrelkám; riešiť potichu"
+
+    story_significance:
+      - "Citlivé gesto voči Aldecaldos a pamiatke Scorpion."
+
+  quest_structure:
+    začiatok: Po pokročení v Panaminej línii dostaneš tip na motorku.
+    kľúčové_momenty:
+      - "Diskrétne priblíženie k úkrytu"
+      - "Odblokovanie stroja a pokľudný odjazd"
+    ukončenie: Po uskladnení v garáži sa úloha uzavrie.
+    následky: "Motorka ostáva k dispozícii."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Nálezca a ‘dedič’ stroja
+        importance: Hlavná postava
+      - name: Aldecaldos
+        role: Nomádska rodina
+        importance: Dôležití
+
+  locations:
+    primárne:
+      - "Badlands – sklady/úkryty"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Trvalá motorka v vozovom parku"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Stredný
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný
+
+  themes:
+    - "Rodina a pamiatka"
+    - "Nomádsky život"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zachovaj úctivý tón k Scorpionovi"
+    roleplay_tipy:
+      - "Tichý, rešpektujúci štýl bez heroizmu"

@@ -1,0 +1,78 @@
+type: quest
+id: romance_kerry_rebel_rebel
+title: Rebel rebel
+aliases: ["Rebel! Rebel!", "Kerry – návrat na pódium"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Rebel rebel
+    originálny_názov: Rebel! Rebel!
+    typ: Side Job – Kerry (romance)
+    lokácia: Watson – scény a kluby
+    quest_giver: Johnny Silverhand / Kerry Eurodyne
+    level: 16
+    odmena: Otvorenie Kerryho osobnej linky
+
+  quest_profile:
+    summary: "V s Johnnym nakopnú Kerryho, aby sa postavil na vlastné nohy; návrat rebelantského ducha odštartuje sériu udalostí."
+
+    background:
+      - "Johnny tlačí na Kerryho, aby sa prebral"
+      - "Hudobná scéna vs. korporátny biznis"
+
+    objectives:
+      hlavné_ciele:
+        - "Nájsť Kerryho a vyprovokovať zmenu"
+        - "Zahrať si s kapelou a pripomenúť iskru"
+      vedľajšie_ciele:
+        - "Udržať vecný, priateľský tón bez urážok"
+
+    story_significance:
+      - "Začiatok Kerryho linky a potential romance"
+
+  quest_structure:
+    začiatok: Johnny navrhne plán; stretnutie s Kerrym
+    kľúčové_momenty:
+      - "Skúška s kapelou"
+      - "Vzájomné podpichovanie a hranice"
+    ukončenie: Kerry pripravený na ďalšie kroky
+    následky: "Vedie k ‚Nechcem to počuť‘"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Moderátor a priateľ
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Tlak a motivácia
+        importance: Spúšťač
+      - name: Kerry Eurodyne
+        role: Rocker a cieľ podpory
+        importance: Kľúčový
+
+  locations:
+    primárne:
+      - "Kluby a skúšobne – Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Kerry získa iskru"
+    dlhodobé:
+      - "Otvorená linka vedúca k romantike"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Sebahodnota"
+    - "Umenie vs. biznis"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Živý, priateľský tón; bez anglicizmov v replike"

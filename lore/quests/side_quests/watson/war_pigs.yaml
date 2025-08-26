@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_war_pigs
+title: Vojnové svine
+aliases: ["War Pigs"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Vojnové svine
+    originálny_názov: War Pigs
+    typ: Side Job
+    lokácia: Watson – Kabuki
+    quest_giver: Bývalý kolega (vojenské pozadie)
+    level: 7
+    odmena: XP, eddie; malé loot odmeny
+
+  quest_profile:
+    summary: "Minulosť dobehne V – objaví sa starý vojenský tieň a potrebuje riešenie."
+
+    background:
+      - "Úloha sa aktivuje po určitom pokroku; kontakt z minulosti."
+      - "Možnosť ‘upratať’ stopy alebo to nechať vyhniť."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť sa s kontaktom v Kabuki"
+        - "Získať a doručiť citlivé dáta"
+      vedľajšie_ciele:
+        - "Zvoliť stealth alebo priamy postup podľa chuti"
+
+    story_significance:
+      - "Dotyk s minulosťou V; nuance v dialógoch."
+
+  quest_structure:
+    začiatok: Správa s miestom stretnutia v Kabuki.
+    kľúčové_momenty:
+      - "Získanie dát z nepriateľského miesta"
+      - "Rozhovor o minulosti a uzavretie"
+    ukončenie: Odovzdanie a odmena.
+    následky: "Drobné zmeny v reakciách postáv."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Operátorka/operátor na voľnej nohe
+        importance: Hlavná postava
+      - name: Kontakt z armády
+        role: Zadávateľ
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Kabuki – Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, eddie"
+    dlhodobé:
+      - "Minor lore prepojenia"
+
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Stredné
+    hacknutie: Stredné
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Minulosť a dôsledky"
+    - "Lojalita vs. prežitie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Nenaznačuj konkrétne spoilery; drž všeobecné rady"
+    roleplay_tipy:
+      - "Tón vecný, mierne nostalgický"

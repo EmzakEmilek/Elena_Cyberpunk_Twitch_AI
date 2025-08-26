@@ -1,0 +1,75 @@
+type: quest
+id: romance_judy_talking_revolution
+title: Reč o revolúcii
+aliases: ["Talkin’ ‘Bout a Revolution", "Judy – plán revolty"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Reč o revolúcii
+    originálny_názov: Talkin’ ‘Bout a Revolution
+    typ: Side Job – Judy (romance)
+    lokácia: Watson – byt Judy
+    quest_giver: Judy Alvarez
+    level: 13
+    odmena: Upevnená dôvera, príprava na zásah v Clouds
+
+  quest_profile:
+    summary: "Judy zvoláva stretnutie v byte a s priateľkami plánuje zmenu v Clouds; V môže pomôcť definovať taktiku."
+
+    background:
+      - "Vyústenie napätia s Tyger Claws"
+      - "Hľadanie nekrvavého riešenia"
+
+    objectives:
+      hlavné_ciele:
+        - "Zúčastniť sa na plánovaní"
+        - "Navrhnúť bezpečnejšie postupy"
+      vedľajšie_ciele:
+        - "Budovať osobnú blízkosť cez úprimný dialóg"
+
+    story_significance:
+      - "Vzťah s Judy sa prehlbuje"
+
+  quest_structure:
+    začiatok: Domáce stretnutie u Judy
+    kľúčové_momenty:
+      - "Diskusia o rizikách a dôstojnosti"
+      - "Rozdelenie úloh"
+    ukončenie: Dohodnuté kroky do „Ryby“
+    následky: "Tím je zosúladený, dôvera rastie"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Poradca a partnerka/partner
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Lídra akcie
+        importance: Kľúčová
+
+  locations:
+    primárne:
+      - "Byt Judy – Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Silnejšie puto"
+    dlhodobé:
+      - "Pripravenosť na zásah v Clouds"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Veľmi vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Solidarita"
+    - "Dôstojnosť práce"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Teplý, komunitný tón; bez patosu"

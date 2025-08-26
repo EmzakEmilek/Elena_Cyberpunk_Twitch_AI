@@ -1,0 +1,74 @@
+type: quest
+id: romance_kerry_boat_drinks
+title: Nápoje na lodi
+aliases: ["Boat Drinks", "Kerry – romantika"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Nápoje na lodi
+    originálny_názov: Boat Drinks
+    typ: Side Job – Kerry (romance)
+    lokácia: Marina – City Center
+    quest_giver: Kerry Eurodyne
+    level: 20
+    odmena: Romantický vzťah s Kerrym (ak podmienky splnené)
+
+  quest_profile:
+    summary: "Večer pri vode a plavba; chvíle úprimnosti môžu spečatiť vzťah."
+
+    background:
+      - "Vzťah s Kerrym je pripravený na ďalší krok"
+
+    objectives:
+      hlavné_ciele:
+        - "Stráviť večer s Kerrym na lodi"
+        - "Byť otvorený a priamy v rozhovoroch"
+      vedľajšie_ciele:
+        - "Udržať veci bezpečné a diskrétne"
+
+    story_significance:
+      - "Vrchol Kerryho linky – možný vzťah"
+
+  quest_structure:
+    začiatok: Pozvanie do maríny
+    kľúčové_momenty:
+      - "Plavba a rozhovory"
+      - "Intímna scéna na palube"
+    ukončenie: Vzťah potvrdený (ak podmienky splnené)
+    následky: "Trvalejšie puto a správy od Kerryho"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Partner/ka
+        importance: Hlavná postava
+      - name: Kerry Eurodyne
+        role: Partner
+        importance: Kľúčový
+
+  locations:
+    primárne:
+      - "Marína – City Center"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Intimita a blízkosť"
+    dlhodobé:
+      - "Podpora Kerryho v neskorších častiach"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Veľmi vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Intimita"
+    - "Dôvera a budúcnosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Pokojný, úprimný tón; bez anglicizmov"

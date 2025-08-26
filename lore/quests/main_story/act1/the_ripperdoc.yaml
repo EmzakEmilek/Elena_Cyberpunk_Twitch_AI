@@ -1,0 +1,115 @@
+type: quest
+id: quest_the_ripperdoc
+title: Ripperdoc
+aliases: ["The Ripperdoc", "Viktor Vektor"]
+category: quest_main_story
+lang: sk
+
+content:
+	quest_data:
+		názov: Ripperdoc
+		originálny_názov: The Ripperdoc
+		typ: Main Job - Act 1
+		lokácia: Viktorova klinika (Watson)
+		quest_giver: Jackie Welles
+		level: 2
+		odmena: Základné implantáty a kalibrácia
+  
+	quest_profile:
+		summary: "V navštívi ripperdoka Viktora, aby získal prvé implantáty a kalibráciu očí a rúk."
+  
+		background:
+			- "V potrebuje vylepšiť výbavu"
+			- "Viktor je dôveryhodný ripperdok"
+			- "Misty prevádzkuje ezoterický obchod vedľa"
+			- "Implantáty vyžadujú údržbu a kalibráciu"
+  
+		objectives:
+			hlavné_ciele:
+				- "Zájsť s Jackie k Viktorovi"
+				- "Vybrať a nainštalovať implantáty"
+				- "Absolvovať kalibráciu a test"
+				- "Zohnať prostriedky na splatenie dlhu"
+			vedľajšie_ciele:
+				- "Porozprávať sa s Misty"
+				- "Zistiť viac o údržbe implantátov"
+				- "Prispôsobiť si rozhranie a zameriavač"
+  
+		story_significance:
+			- "Základ pre budúci progres postavy"
+			- "Budovanie vzťahu s Viktorom"
+			- "Vysvetlenie kybernetických mechaník"
+			- "Prístup k ďalším vylepšeniam"
+  
+	quest_structure:
+		začiatok: Príchod do kliniky
+		kľúčové_momenty:
+			- "Privítanie od Misty"
+			- "Vyšetrenie a výber implantátov"
+			- "Inštalácia a kalibrácia"
+			- "Test a uvoľnenie do služby"
+			- "Dohoda o splatení dlhu"
+		ukončenie: Odchod z kliniky
+		následky: "V má nové implantáty a otvorené možnosti"
+  
+	characters_involved:
+		hlavné_postavy:
+			- name: V
+				role: Protagonista/Pacient
+				importance: Hlavná postava
+			- name: Viktor Vektor
+				role: Ripperdok/Mentor
+				importance: Spojenec a odborník
+			- name: Jackie Welles
+				role: Partner/Podpora
+				importance: Sprievod
+		vedľajšie_postavy:
+			- name: Misty Olszewski
+				role: Priateľka/Príručka
+				importance: Zázemie a komfort
+  
+	locations:
+		primárne:
+			- "Viktorova klinika"
+		sekundárne:
+			- "Mistyina ezoterika"
+  
+	rewards_and_consequences:
+		okamžité:
+			- "Očné a ručné implantáty"
+			- "Kalibrácia systému"
+			- "Odomknutie základných funkcií"
+		dlhodobé:
+			- "Prístup k pokročilým implantátom"
+			- "Silnejší vzťah s Viktorom"
+			- "Lepší výkon v boji a hackovaní"
+  
+	gameplay_elements:
+		boj: Nízky
+		skrývanie: Nízky
+		hacknutie: Nízky
+		dialógy: Vysoký
+		prieskum: Nízky
+  
+	themes:
+		- "Technologický pokrok"
+		- "Dôvera a priateľstvo"
+		- "Cena vylepšení"
+		- "Identita vs. kybernetika"
+  
+	notes_for_elena:
+		kľúčové_body:
+			- "Viktor ako otcovská postava"
+			- "Bezpečná a edukatívna atmosféra"
+			- "Kyberware ako kľúčový systém"
+			- "Dlhy a záväzky vo svete NC"
+		roleplay_tipy:
+			- "V pôsobí vďačne a zvedavo"
+			- "Viktor je trpezlivý a priamy"
+			- "Misty je empatická"
+			- "Jackie dodáva humor"
+		pokyny_pre_konverzáciu:
+			- "Vysvetliť implantáty ľudskou rečou"
+			- "Spomenúť údržbu a riziká"
+			- "Poukázať na dlh a jeho splácanie"
+			- "Prepojiť na budúce upgrady"

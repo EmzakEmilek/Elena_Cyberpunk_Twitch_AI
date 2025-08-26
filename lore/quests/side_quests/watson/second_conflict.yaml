@@ -1,0 +1,97 @@
+type: quest
+id: side_watson_second_conflict
+title: Druhý konflikt
+aliases: ["Second Conflict"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Druhý konflikt
+    originálny_názov: Second Conflict
+    typ: Side Job – Samurai/Kerry linka
+    lokácia: Watson – Northside (Totentanz) → North Oak (mansion)
+    quest_giver: Nancy (Bes Isis), cez Johnny/Kerry
+    level: 25
+    odmena: "Prístup k pokračovaniu ‘A Like Supreme’; ikonická zbraň Doom Doom (ak žije Dum Dum); Zlatý pozlátený bejzbalový palcát (v bazéne)"
+
+  quest_profile:
+    summary: "Získaj materiály a dohodni reunion Samurai. V Totentanz klube sa rozhoduje, či pôjdeš po dobrom, bez boja, alebo utečieš s dátami."
+
+    background:
+      - "Nadväzuje na ‘Holdin’ On’; Nancy potrebuje získať dáta a kontaktovať Denny/Henry."
+      - "Minulé voľby (Dum Dum/Royce nažive) menia priebeh, ale výsledok je rovnaký."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Nancy v Totentanz (Northside)"
+        - "Získať dáta pre ňu (dialógy/krádež/boj)"
+        - "Odprevadiť Nancy k autu a do N54"
+        - "Navštíviť Dennyho vilu v North Oak a vyriešiť konflikt s Henrym"
+        - "Vybrať, kto bude hrať (Denny alebo Henry)"
+      vedľajšie_ciele:
+        - "Získať ikonický Doom Doom (loot z Dum Duma, ak žije)"
+        - "Vziať pozlátený bejzbalový palcát z vypusteného bazéna"
+
+    story_significance:
+      - "Pripravuje koncert v ‘A Like Supreme’."
+      - "Uzatvára staré spory členov kapely."
+
+  quest_structure:
+    začiatok: "Kontakt od Nancy (Bes Isis) a marker do Totentanz."
+    kľúčové_momenty:
+      - "Vyjednávanie v Totentanz; alternatívy: Brick/Patricia/Dum Dum & Royce"
+      - "Stealth útek cez okná a rímsy (ak kradneš dáta)"
+      - "Konflikt Denny vs. Henry pri vile; voľba člena kapely"
+    ukončenie: "Dohodnutý reunion; otvorí sa ‘A Like Supreme’."
+    následky: "Výber určí, koho uvidíš na pódiu, inak bez väčších dopadov."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Prostredník pre Johnnyho a Samurai
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Motivuje reunion
+        importance: Kľúčová postava
+      - name: Kerry Eurodyne
+        role: Člen Samurai
+        importance: Vedľajšia postava
+      - name: Nancy (Bes Isis)
+        role: Novinárka; iniciátorka akcie
+        importance: Dôležitá
+      - name: Denny / Henry
+        role: Bývalí členovia; konflikt
+        importance: Dôležití
+      - name: Dum Dum / Royce / Brick / Patricia
+        role: Postavy v Totentanz, určujú priebeh
+        importance: Voliteľní
+
+  locations:
+    primárne:
+      - "Totentanz – Northside, Watson"
+      - "Vila v North Oak – Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, €$; možnosť získať Doom Doom a pozlátený bejzbalový palcát"
+    dlhodobé:
+      - "Odomkne ‘A Like Supreme’; kozmetické zmeny v kapele podľa voľby"
+
+  gameplay_elements:
+    boj: Stredný až vysoký (podľa postupu)
+    skrývanie: Stredný (možnosť stealth úniku)
+    hacknutie: Nízke
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Reunion a minulosť"
+    - "Sláva vs. vzťahy"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Pripomeň loot: Doom Doom (ak žije Dum Dum) a zlatý palcát v bazéne."
+      - "Upozorni, že voľba Denny/Henry je najmä estetická pre koncert."
+    roleplay_tipy:
+      - "Kerry drž mierne cynický, ale nostalgický tón; Johnny pritlačí na ‘old times’."

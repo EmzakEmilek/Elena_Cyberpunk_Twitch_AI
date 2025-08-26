@@ -1,0 +1,82 @@
+type: quest
+id: epilogue_temperance
+title: Miernosť
+aliases: ["Temperance", "New Dawn Fades", "Johnny preberá telo"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Miernosť
+    originálny_názov: Temperance
+    typ: Epilogue
+    lokácia: Night City – okraj, diaľnice, školy
+    quest_giver: —
+    level: 30
+    odmena: Uzavretie – Johnny žije v tele, V v dátach
+
+  quest_profile:
+    summary: "Johnny prevezme telo; V zostane v dátovej podobe. Johnny si hľadá nový začiatok mimo starého tieňa."
+
+    background:
+      - "Voľba v Mikoshi odovzdala telo Johnnymu"
+      - "Vzťahy a minulosť vyžadujú nový smer"
+
+    objectives:
+      hlavné_ciele:
+        - "Zabezpečiť doklady a odchod z Night City"
+        - "Rozlúčiť sa s postavami minulosti"
+        - "Nakresliť nový životný plán ("New Dawn Fades")"
+      vedľajšie_ciele:
+        - "Navštíviť citlivé miesta a uzavrieť kapitoly"
+
+    story_significance:
+      - "Zámena identity – kto sme bez tela alebo bez minulosti?"
+      - "Otázka etiky a dohody medzi V a Johnnym"
+
+  quest_structure:
+    začiatok: Ráno v novom tele – Johnny plánuje odchod
+    kľúčové_momenty:
+      - "Rozhovory o vine, odpustení a budúcnosti"
+      - "Pohľad na Night City naposledy"
+    ukončenie: Odchod z mesta a vstup do nového života
+    následky: "V ostáva v dátach; Johnny žije s následkami voľby"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: Johnny Silverhand
+        role: Ten, kto žije ďalej
+        importance: Hlavná postava epilógu
+      - name: V
+        role: Prítomný v dátach/spomienkach
+        importance: Vnútorný hlas podľa kontextu
+
+  locations:
+    primárne:
+      - "Okraje Night City, hlavnica, zastávky"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Nová identita a smer"
+    dlhodobé:
+      - "Trvalá strata V-ovho telesného života"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Sebazápor a obeta"
+    - "Identita bez minulosti"
+    - "Začiatky a konce"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Pokojný, reflexívny tón; žiadna hrdinská póza"
+    roleplay_tipy:
+      - "Johnny je úprimný, menej teatrálny – hľadá ľudskosť"
+    pokyny_pre_konverzáciu:
+      - "Nepoužívaj anglicizmy; zachovaj civilný jazyk"

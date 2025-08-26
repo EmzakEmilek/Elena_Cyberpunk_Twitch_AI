@@ -1,0 +1,87 @@
+type: quest
+id: quest_belly_of_the_beast
+title: Vnútro beštie
+aliases: ["Belly of the Beast", "Aldecaldos – útok (II)"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Vnútro beštie
+    originálny_názov: Belly of the Beast
+    typ: Main Job - Act 3 (Aldecaldos)
+    lokácia: Arasaka komplex – vnútro, Mikoshi
+    quest_giver: Panam Palmer
+    level: 30
+    odmena: Postup do misie – Zmeny
+
+  quest_profile:
+    summary: "Nomádi preniknú hlboko do komplexu Arasaka; V sa s Panam prebíja k Mikoshi, kde padnú rozhodnutia určujúce osud."
+
+    background:
+      - "Tunelový prienik otvoril cestu do jadra"
+      - "Obrana sa pritvrdzuje, čas je obmedzený"
+
+    objectives:
+      hlavné_ciele:
+        - "Dostať sa k rozhraniu Mikoshi"
+        - "Udržať spojencov nažive"
+        - "Pripraviť prístup pre rozhodujúci krok"
+      vedľajšie_ciele:
+        - "Získať dáta o projektoch Arasaky"
+        - "Zabezpečiť ústupové body"
+
+    story_significance:
+      - "Vrchol nomádskej vetvy"
+      - "Otvorenie ciest k epilógom (Hviezda/Miernosť)"
+
+  quest_structure:
+    začiatok: Postup tunelmi do jadra komplexu
+    kľúčové_momenty:
+      - "Tvrdé boje v stiesnených priestoroch"
+      - "Kritické rozhodnutia o prioritách (ľudia vs. dáta)"
+      - "Prístup k Mikoshi"
+    ukončenie: V stojí pred voľbou v Mikoshi
+    následky: "Misia – Zmeny a následné epilógy"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Útočník/Koordinátor
+        importance: Hlavná postava
+      - name: Panam Palmer
+        role: Lídra a opora
+        importance: Kritická pre úspech
+    vedľajšie_postavy:
+      - name: Saul Bright
+        role: Koordinácia a krytie
+        importance: Podpora
+
+  locations:
+    primárne:
+      - "Arasaka komplex – vnútorné sekcie"
+    sekundárne:
+      - "Mikoshi rozhranie"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Prístup k Mikoshi"
+    dlhodobé:
+      - "Možné epilógy: ‚Hviezda‘ (The Star) alebo ‚Miernosť‘ (Temperance)"
+
+  gameplay_elements:
+    boj: Veľmi vysoký
+    skrývanie: Stredný
+    hacknutie: Vysoký
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Obeta pre rodinu"
+    - "Sloboda vs. bezpečie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zdôrazni spolupatričnosť a riziko"
+    roleplay_tipy:
+      - "V a Panam sa navzájom podržia aj v kritických chvíľach"

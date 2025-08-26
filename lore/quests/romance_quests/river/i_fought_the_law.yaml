@@ -1,0 +1,82 @@
+type: quest
+id: romance_river_i_fought_the_law
+title: Súboj so zákonom
+aliases: ["I Fought the Law", "Peralez → River prequel"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Súboj so zákonom
+    originálny_názov: I Fought the Law
+    typ: Side Job – River (prelúdium)
+    lokácia: City Center; Heywood – policajné zázemie
+    quest_giver: Jefferson a Elizabeth Peralezovci
+    level: 12
+    odmena: Otvorenie linky River Ward
+
+  quest_profile:
+    summary: "V vyšetrovaním pre Peralezovcov spozná detektíva River Warda; spolu narazia na stopy zasahujúce do politiky a polície."
+
+    background:
+      - "Politické intrigy a zamlčiavanie"
+      - "River hľadá spravodlivosť napriek systému"
+
+    objectives:
+      hlavné_ciele:
+        - "Preskúmať stopy a materiály prípadov"
+        - "Spolupracovať s Riverom na nezávislej linke"
+      vedľajšie_ciele:
+        - "Udržať Peralezovcov informovaných bez zbytočného rizika"
+
+    story_significance:
+      - "Nadviazanie kontaktu s Riverom"
+
+  quest_structure:
+    začiatok: Kontakt od Peralezovcov
+    kľúčové_momenty:
+      - "Práca v teréne s Riverom"
+      - "Konflikt s vedením polície"
+    ukončenie: Otvorená cesta k ‚Lov‘
+    následky: "Vzniká dôvera medzi V a Riverom"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Vyšetrovateľ/ka
+        importance: Hlavná postava
+      - name: River Ward
+        role: Detektív
+        importance: Kľúčová postava
+    vedľajšie_postavy:
+      - name: Jefferson Peralez
+        role: Klient
+        importance: Politické krytie
+      - name: Elizabeth Peralez
+        role: Koordinácia
+        importance: Podpora
+
+  locations:
+    primárne:
+      - "Mestské kancelárie a ulice"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Kontakt s Riverom"
+    dlhodobé:
+      - "Otvorenie osobnej linky a dôvery"
+
+  gameplay_elements:
+    boj: Nízky až stredný
+    skrývanie: Nízky
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Spravodlivosť vs. systém"
+    - "Dôvera a integrita"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž civilný, vecný tón; bez senzácie"

@@ -1,0 +1,81 @@
+type: quest
+id: side_westbrook_coin_operated_boy
+title: Mincom poháňaný chalan
+aliases: ["Coin Operated Boy"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Mincom poháňaný chalan
+    originálny_názov: Coin Operated Boy
+    typ: Side Job
+    lokácia: Westbrook – Japantown (Thea) → Heywood – The Glen (servis pri H2)
+    quest_giver: Theo; Brendan (automat)
+    level: 6
+    odmena: "XP, reputácia; uzavretie línie Brendan–Theo"
+
+  quest_profile:
+    summary: "Brendana odviezli do servisu. Získaj prístup, porozprávaj sa s ním a odovzdaj odkaz Thee."
+
+    background:
+      - "Nasleduje po ‘Spray Paint’. Vstup do servisu: výhražka, úplatok 600€$ alebo Technika 13."
+
+    objectives:
+      hlavné_ciele:
+        - "Porozprávať sa s Theou pri prázdnom mieste po automate"
+        - "Navštíviť servis v The Glen a nájsť Brendana"
+        - "Odovzdať Thee Brendanov odkaz (voliteľná replika ‘Našiel som ho’)"
+      vedľajšie_ciele:
+        - "Prečítať správy v PC pri Brendanovi (lore)"
+
+    story_significance:
+      - "Uzavretie ‘mikrorománu’ o AI a ľudskej projekcii."
+
+  quest_structure:
+    začiatok: Vráť sa k miestu Brendana, Thea oznámi odvoz do servisu.
+    kľúčové_momenty:
+      - "Vstupné voľby do dielne (600€$, zastrašenie, Technika 13)"
+      - "Rozhovor s Brendanom a doručenie správy"
+    ukončenie: Po odovzdaní odkazu Thee je úloha ukončená.
+    následky: "Emotívny epilóg; žiadne mechanické bonusy."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Posol medzi Theou a AI
+        importance: Hlavná postava
+      - name: Brendan
+        role: Automat s AI
+        importance: Kľúčová postava
+      - name: Theo
+        role: Zákazníčka, priateľka automatu
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Japantown – Westbrook (miesto Brendana)"
+      - "The Glen – Heywood (servis pri FT H2)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Uzavretý príbeh; bez ďalších krokov"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízky (Technika 13 pre dialóg)
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Láska/projekcia a AI"
+    - "Pominuteľnosť mestského ‘priateľstva’"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Upozorni na alternatívy vstupu a na voliteľnú repliku pri Thee"
+    roleplay_tipy:
+      - "Jemný, empatický tón; bez cynizmu v závere"

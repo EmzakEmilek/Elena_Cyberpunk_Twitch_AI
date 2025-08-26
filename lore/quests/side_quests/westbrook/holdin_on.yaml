@@ -1,0 +1,77 @@
+type: quest
+id: side_westbrook_holdin_on
+title: Drž sa
+aliases: ["Holdin On", "Holding On"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Drž sa
+    originálny_názov: Holdin On
+    typ: Side Job
+    lokácia: Westbrook – North Oak (Kerryho vila, Columbarium)
+    quest_giver: Johnny Silverhand
+    level: 15
+    odmena: "XP, reputácia; postup k ‘Second Conflict’"
+
+  quest_profile:
+    summary: "Johnny chce napraviť veci s Kerrym. Vkradneš sa do jeho sídla a rozbehneš staré hudobné väzby."
+
+    background:
+      - "Dostupné po ‘Chippin’ In’ a ‘Blistering Love’ (alebo alternatívnom prístupe k priateľstvu s Johnnym)."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Johnnyho pri North Oak nápise a súhlasiť s pomocou"
+        - "Vniknúť do Kerryho sídla a spustiť scénu s gitarou"
+        - "Udržať rolu ‘Johnnyho’ v rozhovore s Kerrym"
+      vedľajšie_ciele:
+        - "Zavolať Nancy (Best Isis) po scéne"
+
+    story_significance:
+      - "Reštartuje linku Samurai/Kerry a vedie k koncertnej nadstavbe."
+
+  quest_structure:
+    začiatok: Johnny čaká pod North Oak nápisom; nechce počuť ‘Nedôverujem ti’. 
+    kľúčové_momenty:
+      - "Lezenie cez skaly a sklenený plot do vily"
+      - "Gitarový ‘set’ a konfrontácia spomienok"
+    ukončenie: Telefonát Nancy; plán ďalšieho kroku.
+    následky: "Otvorené ‘Second Conflict’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V / Johnny Silverhand
+        role: Iniciátor zmierenia
+        importance: Hlavná postava
+      - name: Kerry Eurodyne
+        role: Cieľ presvedčovania, rockerboy
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "North Oak – Westbrook (Kerryho vila)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Otvorená hudobná linka (Samurai reunion)"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Nízky
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Priateľstvo a odpustenie"
+    - "Sláva vs. realita"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Varuj: ‘Nedôverujem ti’ ukončí líniu predčasne"
+    roleplay_tipy:
+      - "Johnnyho tón – drsný humor, ale úprimnosť v kľúčových momentoch"

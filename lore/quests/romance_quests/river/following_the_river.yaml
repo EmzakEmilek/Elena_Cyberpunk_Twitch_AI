@@ -1,0 +1,74 @@
+type: quest
+id: romance_river_following_the_river
+title: Po rieke
+aliases: ["Following the River", "River – romantika"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Po rieke
+    originálny_názov: Following the River
+    typ: Side Job – River (romance)
+    lokácia: Rancho Coronado – dom Riverovej sestry
+    quest_giver: River Ward
+    level: 18
+    odmena: Romantický vzťah s Riverom (ak podmienky splnené)
+
+  quest_profile:
+    summary: "Pokojné popoludnie s Riverovou rodinou; spoločná večera a rozhovory môžu prerásť do vzťahu."
+
+    background:
+      - "Po ‚Lov‘ je rodina v bezpečí"
+
+    objectives:
+      hlavné_ciele:
+        - "Pomôcť s prípravou a aktivitami s deťmi"
+        - "Stráviť čas s Riverom a hovoriť o budúcnosti"
+      vedľajšie_ciele:
+        - "Zvoliť úprimný a podporný tón"
+
+    story_significance:
+      - "Vrchol Riverovej linky – možný vzťah"
+
+  quest_structure:
+    začiatok: Pozvanie na návštevu
+    kľúčové_momenty:
+      - "Hry na záhrade a spoločná večera"
+      - "Intímna scéna po zotmení"
+    ukončenie: Vzťah potvrdený (ak podmienky splnené)
+    následky: "Trvalejšie puto a správy od River Warda"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Partner/ka
+        importance: Hlavná postava
+      - name: River Ward
+        role: Partner
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Rancho Coronado – dom a dvor"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Blízkosť a intimita"
+    dlhodobé:
+      - "Podpora River Warda v neskorších častiach"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Veľmi vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Rodinné zázemie"
+    - "Dôvera a budúcnosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Civilný, domácky tón; prirodzené dialógy"

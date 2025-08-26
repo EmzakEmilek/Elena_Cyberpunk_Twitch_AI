@@ -1,0 +1,79 @@
+type: quest
+id: side_westbrook_off_the_leash
+title: Bez vodítka
+aliases: ["Off the Leash"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Bez vodítka
+    originálny_názov: Off the Leash
+    typ: Side Job
+    lokácia: Westbrook – Charter Hill (Riot klub, strecha)
+    quest_giver: Kerry Eurodyne
+    level: 16
+    odmena: "XP, reputácia; progres Kerry linky (‘Boat Drinks’ neskôr)"
+
+  quest_profile:
+    summary: "Pozvánka na party a vystúpenie v Riot. Rozhovory s Us Cracks a intímne momenty na streche – smerovanie vzťahu s Kerrym."
+
+    background:
+      - "Nasleduje po ‘I Don’t Wanna Hear It’ a ďalších Kerry krokoch."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Kerryho pri vstupe do Riot"
+        - "Prežiť večer – rozhovory, drinky, strecha"
+      vedľajšie_ciele:
+        - "Voliteľná chemia s Kerrym (výber replík)"
+
+    story_significance:
+      - "Buduje osobný vzťah s Kerrym; nastavuje ‘Boat Drinks’."
+
+  quest_structure:
+    začiatok: Pozvánka/SMS od Kerryho; miesto Riot v Charter Hill.
+    kľúčové_momenty:
+      - "Interakcie s Us Cracks, backstage vibe"
+      - "Nočný rozhovor na streche"
+    ukončenie: Odchod z klubu; ďalšia správa od Kerryho neskôr.
+    následky: "Otvorenie ‘Boat Drinks’ v City Center (mimo Westbrook)."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Hosť, potenciálny partner
+        importance: Hlavná postava
+      - name: Kerry Eurodyne
+        role: Rockerboy, hostiteľ
+        importance: Kľúčová postava
+      - name: Us Cracks
+        role: Kapela
+        importance: Vedľajšie postavy
+
+  locations:
+    primárne:
+      - "Riot – Charter Hill, Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Možný posun vzťahu a ďalšia misia s Kerrym"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Sláva a identita"
+    - "Príťažlivosť a dôvera"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Keep it chill – večer je o atmosfére a vzťahoch"
+    roleplay_tipy:
+      - "Nech je V odviazaný/á, ale nie cynický/á"

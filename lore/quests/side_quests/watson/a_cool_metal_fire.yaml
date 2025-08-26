@@ -1,0 +1,92 @@
+type: quest
+id: side_watson_a_cool_metal_fire
+title: Chladný kovový oheň
+aliases: ["A Cool Metal Fire"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Chladný kovový oheň
+    originálny_názov: A Cool Metal Fire
+    typ: Side Job – Johnny Silverhand linka
+    lokácia: Watson – Little China (Afterlife; prepojenie na Downtown)
+    quest_giver: Johnny Silverhand (cez Rogue v Afterlife)
+    level: 30
+    odmena: "Tetovanie (Johnny & V), Johnny Old Fashioned drink, XP/€$, postup v linke"
+
+  quest_profile:
+    summary: "Krátke prebratie kontroly Johnnym, nočná jazda a rozhovory, ktoré odhalia nové stopy a posunú ťa späť do Chippin’ In."
+
+    background:
+      - "Spúšťa sa počas ‘Chippin’ In’ po užití Mistyiných tabletiek v Afterlife."
+      - "Johnny preberie kontrolu a ‘preťahá’ ťa sériou scén v klube a mimo neho."
+
+    objectives:
+      hlavné_ciele:
+        - "Užiť Mistyine tabletky v Afterlife a nechať Johnnyho prevziať kontrolu"
+        - "Prežiť nočné udalosti a rozhovory"
+        - "Porozprávať sa s Rogue o stopách (Grayson)"
+      vedľajšie_ciele:
+        - "Zvoliť si Johnnyho drink (Tequila Old Fashioned)"
+        - "Vybrať tetovanie (koza vs. ‘best friends’ symbol)"
+        - "Rozhodnúť sa, či eskalovať potýčku s vyhadzovačom"
+
+    story_significance:
+      - "Rozvíja Johnnyho charakter a upevňuje vzťah V ↔ Johnny."
+      - "Nadväzuje späť na ‘Chippin’ In’ a pripravuje ‘Blistering Love’."
+
+  quest_structure:
+    začiatok: "V vezme tabletky v Afterlife a Johnny preberie telo."
+    kľúčové_momenty:
+      - "Johnnyho ‘Old Fashioned’ pri bare"
+      - "Tetovanie ako trvalá spomienka"
+      - "Potýčka s vyhadzovačom (voliteľné)"
+      - "Rozhovor s Rogue o Graysonovi"
+    ukončenie: "Kontrolu získa späť V; úloha sa uzavrie a pokračuje linka ‘Chippin’ In’."
+    následky: "Odomkne sa ‘Blistering Love’ a posilní sa vzťah s Johnnym/Rogue."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Hlavná postava; dočasne pasívna počas Johnnyho ‘jazdy’
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Prevezme telo; vedie noc
+        importance: Kľúčová postava
+      - name: Rogue
+        role: Fixerka; poskytne stopu na Graysona
+        importance: Vedľajšia postava
+      - name: Tatér
+        role: Urobí tetovanie podľa voľby
+        importance: Epizódna
+
+  locations:
+    primárne:
+      - "Afterlife – prepojenie Watson/Downtown"
+      - "Nočné uličky v okolí"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Tetovanie (kozouška alebo ‘best friends’)"
+      - "XP a €$ podľa priebehu"
+    dlhodobé:
+      - "Silnejší vzťah V ↔ Johnny a postup v linke Rogue/Grayson"
+
+  gameplay_elements:
+    boj: Nízky (väčšinou scény; voliteľná potýčka)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Identita a kontrola"
+    - "Priateľstvo a spomienky"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Ide hlavne o príbehovú pasáž; upozorni na možnosti tetovania/drinku."
+      - "Po ukončení hráčka/hráč vráti kontrolu V a pokračuje ‘Chippin’ In’."
+    roleplay_tipy:
+      - "Johnny drž sarkastický, svojský tón; V môže byť triezviaca protiváha."

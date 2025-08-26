@@ -1,0 +1,75 @@
+type: quest
+id: side_westbrook_stairway_to_heaven
+title: Schody do neba
+aliases: ["Stairway to Heaven"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Schody do neba
+    originálny_názov: Stairway to Heaven
+    typ: Side Job
+    lokácia: Westbrook – Japantown (Zen Master pri Redwood Market)
+    quest_giver: Zen Master (mních)
+    level: 5
+    odmena: "BD meditácia; XP"
+
+  quest_profile:
+    summary: "Meditácia s mníchom formou krátkeho BD – zaplať alebo nie, zážitok je rovnaký: chvíľka pokoja mimo Night City."
+
+    background:
+      - "Súčasť série Zen Master stretnutí naprieč mestom."
+
+    objectives:
+      hlavné_ciele:
+        - "Prisadnúť si k Zen Masterovi a prijať BD"
+        - "Dokončiť meditáciu"
+      vedľajšie_ciele:
+        - "Zaplatiť/alebo nie – čisto voľba roleplay"
+
+    story_significance:
+      - "Krátka duchovná vsuvka uprostred chaosu."
+
+  quest_structure:
+    začiatok: Označený Zen Master v Japantown; sadni si.
+    kľúčové_momenty:
+      - "Tichý BD výjav; návrat späť"
+    ukončenie: Po skončení BD sa úloha ukončí.
+    následky: "Bez väzieb; len zážitok."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Účastník meditácie
+        importance: Hlavná postava
+      - name: Zen Master
+        role: Duchovný sprievodca
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Japantown – Westbrook (Redwood Market)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, BD zážitok"
+    dlhodobé:
+      - "Žiadne"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Meditácia"
+    - "Odpočinok"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž pomalé tempo, dovoľ ticho"
+    roleplay_tipy:
+      - "Jednoduchosť, bez technoblablu"

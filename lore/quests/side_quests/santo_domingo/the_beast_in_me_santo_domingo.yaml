@@ -1,0 +1,76 @@
+type: quest
+id: side_santo_domingo_the_beast_in_me_santo_domingo
+title: Šelma vo mne: Santo Domingo
+aliases: ["The Beast in Me: Santo Domingo"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Šelma vo mne: Santo Domingo
+    originálny_názov: The Beast in Me: Santo Domingo
+    typ: Side Job (pouličné preteky)
+    lokácia: Santo Domingo – Arroyo (industriálne trate)
+    quest_giver: Claire Russell
+    level: 12
+    odmena: "XP, reputácia; eddies; progres pretekárskej linky k finále"
+
+  quest_profile:
+    summary: "Druhý pretek v Claireinej sérii – náročná trať cez priemyselné zóny Arroyo. Dojazdi do cieľa bez diskvalifikácie a so zdravým vozidlom."
+
+    background:
+      - "Po úvodnom závode ‘The Beast in Me: City Center’ Claire pozýva na ďalšie kolo v Santo Domingo."
+
+    objectives:
+      hlavné_ciele:
+        - "Dostaviť sa na štart v Arroyo"
+        - "Dokončiť okruhy a držať sa ideálnej stopy"
+      vedľajšie_ciele:
+        - "Udržať vozidlo v dobrom stave; vyhnúť sa kolíziám"
+
+    story_significance:
+      - "Buduje rivalitu a rozhodnutia pre finále pretekov s Claire."
+
+  quest_structure:
+    začiatok: SMS/marker od Claire; registrácia na štarte.
+    kľúčové_momenty:
+      - "Úseky s ostrými zákrutami medzi kontajnermi"
+      - "Kontaktné súboje s konkurenciou"
+    ukončenie: Po dojazde rozhovor s Claire a ďalšia pozvánka.
+    následky: "Progres k ‘The Beast in Me: The Finale’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Pretekár/ka
+        importance: Hlavná postava
+      - name: Claire Russell
+        role: Organizátorka a partnerka v boxe
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "Arroyo – Santo Domingo (industriálna trať)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia, eddies"
+    dlhodobé:
+      - "Vplyv na finálnu voľbu v Claire linke (bez spoilerov)"
+
+  gameplay_elements:
+    boj: Nízky (kontaktné šúchance)
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný (učenie trate)
+
+  themes:
+    - "Rivalita a česť na trati"
+    - "Riziko a výkon"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Spomeň kontrolu stability a brzdenie v zákrutách"
+    roleplay_tipy:
+      - "Športovo-komentátorský štýl, krátke motivácie"

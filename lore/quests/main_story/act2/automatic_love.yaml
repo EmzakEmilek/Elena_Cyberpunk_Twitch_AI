@@ -1,0 +1,85 @@
+type: quest
+id: quest_automatic_love
+title: Automatická láska
+aliases: ["Automatic Love", "Clouds vyšetrovanie"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Automatická láska
+    originálny_názov: Automatic Love
+    typ: Main Job - Act 2
+    lokácia: Watson – Lizzie’s; Westbrook – Clouds
+    quest_giver: Judy Alvarez
+    level: 12
+    odmena: Otvorenie linky Judy/Evelyn (vedie k Space In Between)
+
+  quest_profile:
+    summary: "V spolu s Judy pátra po Evelyn; stopy vedú do klubu Clouds, kde je nutné obísť korporátnu kontrolu."
+
+    background:
+      - "Evelyn mizne po udalostiach v All Foods a Heiste"
+      - "Clouds je napojený na Tyger Claws"
+
+    objectives:
+      hlavné_ciele:
+        - "Získať prístup do Clouds"
+        - "Zistiť informácie o Evelyn"
+        - "Vyhnúť sa otvorenému konfliktu s Tyger Claws (ak možné)"
+      vedľajšie_ciele:
+        - "Nazbierať dôkazy a mená kontaktov"
+
+    story_significance:
+      - "Spúšťa Judy/Evelyn pátraciu linku"
+      - "Konflikt s Tyger Claws eskaluje neskôr"
+
+  quest_structure:
+    začiatok: Návšteva v Lizzie’s a plán s Judy
+    kľúčové_momenty:
+      - "Vstup do Clouds a rozhovory s doll-menedžmentom"
+      - "Stopy k doktorovi Fingersovi"
+    ukončenie: Smer k „Priestor medzi nami“
+    následky: "Napätie s Tyger Claws; pomoc Judy pokračuje"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Vyšetrovanie
+        importance: Hlavná postava
+      - name: Judy Alvarez
+        role: Partnerka pri pátraní
+        importance: Kľúčová
+    vedľajšie_postavy:
+      - name: Evelyn Parker
+        role: Neprítomná, cieľ pátrania
+        importance: Spúšťač udalostí
+      - name: Tyger Claws manažment Clouds
+        role: Oponenti
+        importance: Prekážka
+
+  locations:
+    primárne:
+      - "Lizzie’s Bar – Watson"
+      - "Clouds – Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Informácie o ďalších krokoch"
+    dlhodobé:
+      - "Prehlbujúci sa konflikt s Tyger Claws"
+
+  gameplay_elements:
+    boj: Nízky až stredný
+    skrývanie: Stredný
+    hacknutie: Stredný
+    dialógy: Vysoký
+    prieskum: Stredný
+
+  themes:
+    - "Exploatácia a kontrola"
+    - "Solidarita a priatelstvo"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Citlivý tón pri témach vykořisťovania"

@@ -1,0 +1,75 @@
+type: quest
+id: side_santo_domingo_beat_on_the_brat_rancho_coronado
+title: Daj mu nakladačku: Rancho Coronado
+aliases: ["Beat on the Brat: Rancho Coronado"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Daj mu nakladačku: Rancho Coronado
+    originálny_názov: Beat on the Brat: Rancho Coronado
+    typ: Side Job – boxerská séria (Coach Fred)
+    lokácia: Santo Domingo – Rancho Coronado (predmestský ring)
+    quest_giver: Coach Fred (séria); miestny vyzývateľ
+    level: 14
+    odmena: "€$, Street Cred; postup k finále s Razor Hugh"
+
+  quest_profile:
+    summary: "Ďalší zápas pouličného boxu v rámci seriálu Coach Freda. Vyhraj férovým súbojom len päsťami."
+
+    background:
+      - "Dostupné po ‘Beat on the Brat’ (Watson) a ďalších oblastných zápasoch."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť vyzývateľa a dohodnúť stávku"
+        - "Zvíťaziť v zápase bez zbraní"
+      vedľajšie_ciele:
+        - "Nastaviť stávku rozumne podľa build-u"
+
+    story_significance:
+      - "Zber jedného z potrebných víťazstiev pred finále série."
+
+  quest_structure:
+    začiatok: Marker ‘Beat on the Brat’ v Rancho Coronado.
+    kľúčové_momenty:
+      - "Čítanie rytmu súpera a správa výdrže"
+    ukončenie: Výhra alebo prehra; možnosť re-match.
+    následky: "Po výhre sa priblížiš k finále s Razor Hugh."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Boxer
+        importance: Hlavná postava
+      - name: Vyzývateľ
+        role: Protivník
+        importance: Antagonista
+
+  locations:
+    primárne:
+      - "Rancho Coronado – Santo Domingo (provizórny ring)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "€$, Street Cred"
+    dlhodobé:
+      - "Postup k finále série"
+
+  gameplay_elements:
+    boj: Vysoký (ručný boj)
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Technika a timing"
+    - "Risk a odmena"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Tip na Gorilla Arms a perky Street Brawler"
+    roleplay_tipy:
+      - "Krátke, športové formulácie; bez zbytočných fráz"

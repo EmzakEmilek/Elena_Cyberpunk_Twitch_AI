@@ -1,0 +1,102 @@
+type: quest
+id: quest_knockin_on_heavens_door
+title: Klopanie na nebeskú bránu
+aliases: ["Knockin’ on Heaven’s Door", "Rogue – útok na vežu"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Klopanie na nebeskú bránu
+    originálny_názov: Knockin’ on Heaven’s Door
+    typ: Main Job - Act 3 (Rogue)
+    lokácia: Arasaka Tower – Corpo Plaza
+    quest_giver: Rogue Amendiares / Johnny Silverhand
+    level: 30
+  odmena: Postup do misie – Zmeny
+
+  quest_profile:
+    summary: "Tím Afterlife spúšťa priamy útok na Arasaka Tower; V a Johnny vedú prienik k Mikoshi, kde padnú rozhodnutia s trvalými dôsledkami."
+
+    background:
+      - "Plán z Afterlife je pripravený; začína sa exekúcia"
+      - "Očakáva sa tvrdý odpor a prítomnosť elitnej bezpečnosti"
+      - "Cieľom je dosiahnuť prístup k Mikoshi rozhraniu"
+
+    objectives:
+      hlavné_ciele:
+        - "Preniknúť do Arasaka Tower a udržať postup"
+        - "Prebiť sa k Mikoshi cez obranu"
+        - "Urobiť rozhodnutia, ktoré určia osud V a Johnnyho"
+      vedľajšie_ciele:
+        - "Minimalizovať straty tímu"
+        - "Zabezpečiť záložné trasy ústupu"
+        - "Získať dôkazy o praktikách Arasaky"
+
+    story_significance:
+      - "Vyvrcholenie Rogue/Afterlife línie"
+      - "Otvorenie epilógu ‚Zmeny‘ a následných uzáver"
+      - "Možnosť rozhodnúť o prevzatí tela alebo návrate V"
+
+  quest_structure:
+    začiatok: Vstup do veže a rozdelenie tímu
+    kľúčové_momenty:
+      - "Tvrdé prestrelky a hackovanie bezpečnosti"
+      - "Kritické rozhodnutia pri Mikoshi"
+      - "Drahé víťazstvo – následky pre Afterlife tím"
+    ukončenie: Prístup k Mikoshi získaný; smer ‚Zmeny‘
+  následky: "Rozhodnutia v Mikoshi otvoria epilógy (Slnko/Miernosť)"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Útočný líder
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Spolusmerovanie rozhodnutí
+        importance: Kľúčový v Mikoshi
+      - name: Rogue Amendiares
+        role: Veliteľka operácie
+        importance: Kritická pre túto vetvu
+    vedľajšie_postavy:
+      - name: Weyland
+        role: Podpora/Ťažký operátor
+        importance: Taktická opora
+      - name: Arasaka bezpečnosť
+        role: Nepriatelia
+        importance: Prekážky
+
+  locations:
+    primárne:
+      - "Arasaka Tower – interiér"
+    sekundárne:
+      - "Mikoshi rozhranie"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Prístup do Mikoshi"
+      - "Rozhodnutia s priamymi dôsledkami"
+    dlhodobé:
+      - "Epilóg ‚Zmeny‘; potenciálne ‚Slnko‘ alebo ‚Miernosť‘"
+      - "Legendárny status v Afterlife (ak V prežije a vráti sa)"
+
+  gameplay_elements:
+    boj: Veľmi vysoký
+    skrývanie: Nízky až stredný
+    hacknutie: Vysoký
+    dialógy: Stredný
+    prieskum: Nízky
+
+  themes:
+    - "Obeť a cena slobody"
+    - "Pomsta vs. zodpovednosť"
+    - "Identita a vlastníctvo tela"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Udržuj vysoké tempo a napätie"
+      - "Dialógy nech reflektujú cenu zásahu"
+    roleplay_tipy:
+      - "Johnny je neústupný; V môže váhať"
+    pokyny_pre_konverzáciu:
+      - "Terminológia: Mikoshi, Relik, Afterlife, Corpo Plaza"

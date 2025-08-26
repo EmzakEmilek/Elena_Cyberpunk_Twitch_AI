@@ -1,0 +1,121 @@
+type: quest
+id: quest_disasterpiece
+title: Katastrofa
+aliases: ["Katastrofa", "Hľadanie Evelyn", "Brloh Scavov"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Katastrofa
+    originálny_názov: Disasterpiece
+    typ: Main Job - Act 2
+    lokácia: Úkryt Scavov (zberačov)
+    quest_giver: Judy Álvarez
+    level: 9
+    odmena: Zistenie polohy Evelyn Parker
+    
+  quest_profile:
+    summary: "V a Judy hľadajú Evelyn Parker, ktorá zmizla po lúpeži v Konpeki Plaza. Pátranie ich zavedie do temného podsvetia gangu Scavov, ktorí obchodujú s ľudskými orgánmi."
+    
+    background:
+      - "Evelyn Parker zmizla po nepodarenej lúpeži"
+      - "Scavovia sú gang zameraný na zber a predaj orgánov"
+      - "Judy sa obáva o Evelynino bezpečie"
+      - "V potrebuje Evelyn kvôli informáciám o biočipe"
+    
+    objectives:
+      hlavné_ciele:
+        - "Sleduj Evelynine posledné známe miesta"
+        - "Prenikni do úkrytu Scavov"
+        - "Nájdi Evelyn Parker"
+        - "Zachráň ju zo zajatia Scavov"
+      vedľajšie_ciele:
+        - "Preskúmaj operácie Scavov"
+        - "Zisti, čo sa stalo s Evelyn"
+        - "Podpor Judy v ťažkej situácii"
+        - "Odstráň hrozbu Scavov"
+    
+    story_significance:
+      - "Temný zlom v príbehu Evelyn"
+      - "Odhalenie brutality gangu Scavov"
+      - "Prehlbujúci sa vzťah V a Judy"
+      - "Morálne dôsledky nepodarenej lúpeže"
+  
+  quest_structure:
+    začiatok: Stretnutie s Judy a začiatok pátrania
+    kľúčové_momenty:
+      - "Vyšetrovanie zmiznutia Evelyn"
+      - "Zistenie účasti Scavov"
+      - "Útok na úkryt Scavov"
+      - "Nájdenie traumatizovanej Evelyn"
+      - "Záchrana a následná starostlivosť"
+    ukončenie: Záchrana Evelyn
+    následky: "Evelyn je zachránená, no ťažko psychicky zasiahnutá"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Záchranca
+        importance: Hlavná postava
+      - name: Judy Álvarez
+        role: Znepokojená priateľka/Partnerka
+        importance: Emocionálna opora
+      - name: Evelyn Parker
+        role: Obeť/Cieľ
+        importance: Kľúčová zachránená osoba
+    vedľajšie_postavy:
+      - name: Členovia gangu Scavov
+        role: Antagonisti/Zločinci
+        importance: Primárni nepriatelia
+      - name: Ostatné obete
+        role: Obete únosov
+        importance: Morálny kontext
+  
+  locations:
+    primárne:
+      - "Úkryt Scavov"
+    sekundárne:
+      - "Posledné známe lokality Evelyn"
+      - "Zariadenia na odoberanie orgánov"
+      - "Podzemné tunely"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Evelyn Parker je zachránená"
+      - "Operácie Scavov sú narušené"
+      - "Získané informácie o biočipe"
+    dlhodobé:
+      - "Prehĺbený vzťah s Judy"
+      - "Pochopenie nebezpečenstiev podsvetia"
+      - "Morálna záťaž dôsledkov"
+  
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Vysoký
+    hacknutie: Stredný
+    dialógy: Stredný
+    prieskum: Vysoký
+    
+  themes:
+    - "Dôsledky kriminálnych činov"
+    - "Mestskí predátori a obete"
+    - "Lojalita a priateľstvo"
+    - "Morálna cena prežitia"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Veľmi temný quest s rušivými témami"
+      - "Ukazuje brutálnu realitu Night City"
+      - "Judy je emocionálne zainteresovaná"
+      - "Evelynina trauma je vážna"
+    roleplay_tipy:
+      - "V je odhodlaný, no otrasený hrôzami"
+      - "Judy je zúfalá a emotívna"
+      - "Quest má ťažkú atmosféru"
+      - "Morálne implikácie sú vážne"
+    pokyny_pre_konverzáciu:
+      - "Diskutovať o ochrane zraniteľných"
+      - "Spomenúť temnotu, ktorá číha v meste"
+      - "Hovoriť o priateľstve a lojalite"
+      - "Zdôrazniť dôsledky násilia"

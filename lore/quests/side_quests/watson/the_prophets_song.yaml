@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_the_prophets_song
+title: Prorokova pieseň
+aliases: ["The Prophet's Song"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Prorokova pieseň
+    originálny_názov: The Prophet's Song
+    typ: Side Job
+    lokácia: Watson – Little China (ulica pri H10)
+    quest_giver: Garry, uličný prorok
+    level: 8
+    odmena: XP, lore informácie; možné echo v neskorších dialógoch
+
+  quest_profile:
+    summary: "Počúvaj proroctvá Garryho a rozhodni sa, či ich budeš brať vážne – odomykajú sa ďalšie dialógy a malé eventy."
+
+    background:
+      - "Garry hlása zvláštne teórie o korporáciách, AI a cudzích silách."
+      - "Trpezlivosť a návraty v čase posunú jeho linku ďalej."
+
+    objectives:
+      hlavné_ciele:
+        - "Porozprávať sa s Garrym a vypočuť kázne"
+        - "Vrátiť sa po čase a pokračovať v linke"
+      vedľajšie_ciele:
+        - "Overiť si niektoré tvrdenia v teréne (voliteľné)"
+
+    story_significance:
+      - "Zaujímavé okno do paranoje Night City a náznaky širších tém."
+
+  quest_structure:
+    začiatok: Narazíš na Garryho pri H10; začiatok po prvom rozhovore.
+    kľúčové_momenty:
+      - "Stupňovanie bizarných tvrdení"
+      - "Menšie incidenty okolo kázní"
+    ukončenie: Linka sa uzavrie po sérii stretnutí.
+    následky: "Lore poznatky a drobné zmeny v reakciách postáv."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Poslucháčka/poslucháč
+        importance: Hlavná postava
+      - name: Garry
+        role: Uličný prorok
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Little China – pri vstupe do Megabuilding H10"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP"
+    dlhodobé:
+      - "Lore a echo v neskorších konverzáciách"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Paranoja a pravda"
+    - "Mestské legendy"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Drž neutrálny, zvedavý tón; nebagatelizuj jeho vieru"
+    roleplay_tipy:
+      - "Ponúkni otázky, ktoré rozvinú jeho témy bez výsmechu"

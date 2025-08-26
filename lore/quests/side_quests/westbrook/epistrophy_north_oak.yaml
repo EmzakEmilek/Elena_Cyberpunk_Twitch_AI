@@ -1,0 +1,75 @@
+type: quest
+id: side_westbrook_epistrophy_north_oak
+title: Epistrophy: North Oak
+aliases: ["Epistrophy: North Oak"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrophy: North Oak
+    originálny_názov: Epistrophy: North Oak
+    typ: Side Job
+    lokácia: Westbrook – North Oak
+    quest_giver: Delamain
+    level: 10
+    odmena: "XP, reputácia; progres k ‘Don’t Lose Your Mind’"
+
+  quest_profile:
+    summary: "Upokojením ‘ušľachtilej’ taxislužby na okraji cintorína dokončíš jednu z vetiev Delamainovej misie."
+
+    background:
+      - "Jedna z ôsmich lokálnych jazd Epistrophy."
+
+    objectives:
+      hlavné_ciele:
+        - "Nájsť odbočené vozidlo v North Oak"
+        - "Zastaviť ho bez zničenia a presvedčiť na návrat"
+      vedľajšie_ciele:
+        - "Nespôsobiť civilné obete"
+
+    story_significance:
+      - "Malý, ale šarmantný segment AI linky Delamain."
+
+  quest_structure:
+    začiatok: Ping od Delamain HQ po aktivácii Epistrophy.
+    kľúčové_momenty:
+      - "Jazda cez pokojnú štvrť a dialóg s vozidlom"
+    ukončenie: Vozidlo sa vráti do garáže Delamain.
+    následky: "Postup do final HQ riešenia."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Taxikár s citom
+        importance: Hlavná postava
+      - name: Delamain
+        role: AI klient
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "North Oak – Westbrook"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Kumulatívny progres do finálnej misie"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Nízke
+    prieskum: Nízky
+
+  themes:
+    - "Osobnosť AI"
+    - "Empatia v stroji"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Krátky, oddychový tón oproti temnejším linkám"
+    roleplay_tipy:
+      - "Hraj ‘trpezlivého vodiča’"

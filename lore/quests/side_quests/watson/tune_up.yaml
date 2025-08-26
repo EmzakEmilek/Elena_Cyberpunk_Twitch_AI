@@ -1,0 +1,77 @@
+type: quest
+id: side_watson_tune_up
+title: Doladenie
+aliases: ["Tune Up"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Doladenie
+    originálny_názov: Tune Up
+    typ: Side Job
+    lokácia: Watson – Little China (štart), Delamain HQ (Heywood)
+    quest_giver: Delamain (AI)
+    level: 5
+    odmena: Finančná kompenzácia; otvorenie „Epistrophy“
+
+  quest_profile:
+    summary: "Po incidente s Delamain vozidlom si vyzdvihni kompenzáciu a odomkni ďalšie kroky v linke Delamain."
+
+    background:
+      - "‘Doladenie’ nadväzuje na ‘Ľudská prirodzenosť’."
+      - "V Delamain HQ sa rieši náhrada škody a diagnostika."
+
+    objectives:
+      hlavné_ciele:
+        - "Dostaviť sa do Delamain HQ"
+        - "Porozprávať sa s recepciou/AI a vybaviť kompenzáciu"
+      vedľajšie_ciele:
+        - "Prezrieť si priestory HQ a terminály"
+
+    story_significance:
+      - "Spúšťa ‘Epistrophy’ – rozptyl aut po mestských okresoch."
+
+  quest_structure:
+    začiatok: Notifikácia a marker po ‘Ľudská prirodzenosť’. 
+    kľúčové_momenty:
+      - "Fronta nespokojných zákazníkov"
+      - "Finančná kompenzácia a info o anomáliách"
+    ukončenie: Vyplatenie a zápis do denníka.
+    následky: "Aktivované ‘Epistrophy’ úlohy v okresoch."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Klientka/klient
+        importance: Hlavná postava
+      - name: Delamain
+        role: AI, prevádzkovateľ taxislužby
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Delamain HQ – Heywood"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Eddie (kompenzácia)"
+    dlhodobé:
+      - "Otvorenie série ‘Epistrophy’ a následne ‘Don't Lose Your Mind’"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Nízke
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Korporátna AI a zodpovednosť"
+    - "Zákaznícky servis"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Stručne, jasne – ide o krátky prechod k sérii Epistrophy"
+    roleplay_tipy:
+      - "Vtipná poznámka k ‘frontám’ u AI je v poriadku"

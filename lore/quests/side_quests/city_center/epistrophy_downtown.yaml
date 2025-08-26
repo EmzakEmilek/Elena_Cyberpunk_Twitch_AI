@@ -1,0 +1,75 @@
+type: quest
+id: side_city_center_epistrophy_downtown
+title: Epistrophy: Downtown
+aliases: ["Epistrophy: Downtown"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrophy: Downtown
+    originálny_názov: Epistrophy: Downtown
+    typ: Side Job (Delamain)
+    lokácia: City Center – Downtown (mrakodrapy, križovatky)
+    quest_giver: Delamain
+    level: 10
+    odmena: "XP, reputácia; progres ‘Epistrophy’ linky"
+
+  quest_profile:
+    summary: "Zadržať zblúdilý Delamain taxík v rušných uliciach Downtown bez škôd a chaosu."
+
+    background:
+      - "Pod-úloha reťazca ‘Epistrophy’ po HQ briefe."
+
+    objectives:
+      hlavné_ciele:
+        - "Lokalizovať vozidlo podľa pingu"
+        - "Udržať bezpečnú vzdialenosť a prinútiť ho zastaviť"
+      vedľajšie_ciele:
+        - "Minimalizovať škody a dopravné zápchy"
+
+    story_significance:
+      - "Ďalší dielik k Delamain AI skladačke."
+
+  quest_structure:
+    začiatok: Marker od Delamaina v Downtown.
+    kľúčové_momenty:
+      - "Manévrovanie medzi hustou dopravou"
+    ukončenie: Auto kapitulue; zaznamenaný progres.
+    následky: "K finále ‘Don’t Lose Your Mind’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Operátor v premávke
+        importance: Hlavná postava
+      - name: Delamain
+        role: Dispečer AI
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Downtown – City Center"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "K finále Delamain linky"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný (premávka)
+
+  themes:
+    - "AI a kontrola"
+    - "Trpezlivosť za volantom"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Nekolidovať; žiadna paľba"
+    roleplay_tipy:
+      - "Kľudný, ‘rádiový’ tón pri Delamain komunikácii"

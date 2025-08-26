@@ -1,0 +1,82 @@
+type: quest
+id: side_watson_happy_together
+title: Šťastní spolu
+aliases: ["Happy Together"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Šťastní spolu
+    originálny_názov: Happy Together
+    typ: Side Job
+    lokácia: Watson – Megabuilding H10
+    quest_giver: Strážnici/obyvatelia bytovky (Barry)
+    level: 5
+    odmena: Skúsenosti, reputácia; možné odlišné výsledky podľa empatie
+
+  quest_profile:
+    summary: "Pomôž susedovi Barrymu zvládnuť depresiu – empatický prístup môže zachrániť život."
+
+    background:
+      - "Barry je bývalý policajt, ktorý sa trápi stratou."
+      - "Strážnici pred dverami ho chcú len ‘opraviť’, ale potrebuje porozumenie."
+
+    objectives:
+      hlavné_ciele:
+        - "Zaklopať Barrymu a nadviazať rozhovor"
+        - "Zistiť príčinu jeho stavu (navštíviť cintorín)"
+        - "Vrátiť sa a viesť citlivý dialóg"
+      vedľajšie_ciele:
+        - "Prehovoriť s policajtmi k empatii"
+
+    story_significance:
+      - "Silná sociálna téma; ukážka, že slová majú následky."
+
+  quest_structure:
+    začiatok: Vstup do dialógu so strážnikmi pred Barryho bytom v H10.
+    kľúčové_momenty:
+      - "Cintorín – objavenie pravdy o ‘priatelke’"
+      - "Návrat k Barrymu a citlivé odpovede"
+    ukončenie: Rozličné konce podľa prístupu V.
+    následky: "Možný tragický koniec pri necitlivom postupe; lepšia karma pri empatii."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Suseda/sused, mediátor
+        importance: Hlavná postava
+      - name: Barry
+        role: Bývalý policajt v depresii
+        importance: Vedľajšia postava
+      - name: Mates z NCPD
+        role: Kolega pred dverami
+        importance: Vedľajšia postava
+
+  locations:
+    primárne:
+      - "Megabuilding H10 – bytová chodba"
+      - "Cintorín – Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Skúsenosti a reputácia"
+    dlhodobé:
+      - "Morálny dôsledok a referencie v dialógoch"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Empatia vs. formalizmus"
+    - "Strata a vyrovnanie"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Buď jemná; varuj, že necitlivé odpovede môžu viesť k tragédii"
+    roleplay_tipy:
+      - "Ponúkni konkrétne, citlivé formulácie odpovedí"

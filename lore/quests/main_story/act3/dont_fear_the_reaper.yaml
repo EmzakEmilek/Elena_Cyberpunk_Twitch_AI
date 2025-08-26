@@ -1,0 +1,84 @@
+type: quest
+id: quest_dont_fear_the_reaper
+title: Neboj sa zberača
+aliases: ["(Don’t Fear) The Reaper", "Tajná sólo cesta"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Neboj sa zberača
+    originálny_názov: (Don’t Fear) The Reaper
+    typ: Main Job - Act 3 (Tajná)
+    lokácia: Arasaka Tower – Corpo Plaza
+    quest_giver: Johnny Silverhand (iniciované voľbou pri Nokturne)
+    level: 35
+    odmena: Postup do misie – Zmeny (extrémne náročná cesta)
+
+  quest_profile:
+    summary: "V sa rozhodne ísť na Arasaka Tower bez spojencov; extrémne náročný prienik, kde každá chyba môže byť posledná."
+
+    background:
+      - "Tajná voľba dostupná pri Nokturne OP55N1"
+      - "Žiadna podpora od frakcií, len V a Johnny"
+
+    objectives:
+      hlavné_ciele:
+        - "Preniknúť do veže bez podpory"
+        - "Prežiť vlny elitnej bezpečnosti"
+        - "Dosiahnuť Mikoshi a rozhodnúť o osude"
+      vedľajšie_ciele:
+        - "Hľadať obchádzky a improvizovať"
+        - "Šetriť zdroje – munícia, lieky, RAM"
+
+    story_significance:
+      - "Najťažšia cesta – test schopností a odhodlania"
+      - "Priama linka k epilógom bez kompromisov"
+
+  quest_structure:
+    začiatok: Samostatný vstup do Arasaka Tower
+    kľúčové_momenty:
+      - "Súboje s ťažkoodencami a netrunner-mi"
+      - "Kreatívne využívanie kyberschopností"
+      - "Prístup k Mikoshi bez zálohy"
+    ukončenie: V dorazí k Mikoshi
+    následky: "Misia – Zmeny a následné epilógy (Slnko/Miernosť)"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Sólo útočník
+        importance: Hlavná postava
+      - name: Johnny Silverhand
+        role: Morálna opora/Provokatér
+        importance: Sprievodný hlas
+    vedľajšie_postavy: []
+
+  locations:
+    primárne:
+      - "Arasaka Tower – interiér"
+    sekundárne:
+      - "Mikoshi rozhranie"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Prístup do Mikoshi vlastnými silami"
+    dlhodobé:
+      - "Najtvrdšia cesta k epilógom – hrdinský alebo tragický koniec"
+
+  gameplay_elements:
+    boj: Extrémny
+    skrývanie: Stredný
+    hacknutie: Vysoký
+    dialógy: Nízky
+    prieskum: Nízky
+
+  themes:
+    - "Sebestačnosť a vzdor"
+    - "Cena slobody"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zdôrazni extrémnu náročnosť a osamelosť"
+    roleplay_tipy:
+      - "Johnny hecuje, ale aj varuje pred preceňovaním síl"

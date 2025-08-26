@@ -1,0 +1,114 @@
+type: quest
+id: quest_practice_makes_perfect
+title: Tréning robí majstra
+aliases: ["Tutoriál"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Tréning robí majstra
+    originálny_názov: Practice Makes Perfect
+    typ: Main Job - Act 1 (Voliteľné)
+    lokácia: Virtuálna realita
+    quest_giver: T-Bug
+    level: 1
+    odmena: Základný tréning schopností
+
+  quest_profile:
+    summary: "Voliteľný tréning, kde sa V učí základy hackovania, boja, pohybu a skrývania vo virtuálnom prostredí pod vedením T-Bug."
+
+    background:
+      - "V potrebuje oprášiť svoje schopnosti"
+      - "T-Bug ponúka základný tréning"
+      - "Virtuálne prostredie je bezpečné na nácvik"
+      - "Príprava na budúce misie"
+
+    objectives:
+      hlavné_ciele:
+        - "Absolvuj základný bojový tréning"
+        - "Nauč sa základy hackovania"
+        - "Precvič pohyb a skrývanie"
+        - "Dokonči všetky tréningové scenáre"
+      vedľajšie_ciele:
+        - "Preskúmaj možnosti virtuálnej reality"
+        - "Otestuj rôzne zbrane a prístupy"
+        - "Pochop základy sieťovej architektúry"
+
+    story_significance:
+      - "Úvod do herných mechaník"
+      - "Prvé interakcie s T-Bug"
+      - "Zvyšuje pripravenosť na misie"
+      - "Etabluje technické zručnosti V"
+
+  quest_structure:
+    začiatok: Spustenie virtuálnej relácie
+    kľúčové_momenty:
+      - "Úvod od T-Bug"
+      - "Základný bojový tréning"
+      - "Hackovanie a kybernetické systémy"
+      - "Skrývanie a infiltrácia"
+      - "Finálny test schopností"
+    ukončenie: Ukončenie virtuálnej relácie
+    následky: "V je pripravený na skutočné misie"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Študent
+        importance: Hlavná postava
+      - name: T-Bug
+        role: Netrunner/Inštruktorka
+        importance: Učiteľka a sprievodkyňa
+    vedľajšie_postavy:
+      - name: Virtuálni protivníci
+        role: Tréningové ciele
+        importance: Cvičné objekty
+
+  locations:
+    primárne:
+      - "Virtuálne tréningové prostredie"
+    sekundárne:
+      - "Simulované budovy"
+      - "Kyberpriestorové siete"
+      - "Bojové arény"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Základné schopnosti boja a hackovania"
+      - "Pochopenie herných mechaník"
+      - "Kontakt s T-Bug"
+    dlhodobé:
+      - "Pripravenosť na skutočné misie"
+      - "Sebavedomie v bojových situáciách"
+      - "Základy netrunnerských schopností"
+
+  gameplay_elements:
+    boj: Vysoký (tréning)
+    skrývanie: Vysoký (tréning)
+    hacknutie: Vysoký (tréning)
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Učenie a rast schopností"
+    - "Príprava na nebezpečný svet"
+    - "Technologické zvládnutie"
+    - "Sebadôvera a pripravenosť"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Tutoriál pre nových hráčov"
+      - "Etabluje T-Bug ako technickú expertku"
+      - "Ukazuje možnosti virtuálneho sveta"
+      - "Pripravuje V na výzvy"
+    roleplay_tipy:
+      - "V je zvedavý, ale opatrný"
+      - "T-Bug je trpezlivá a profesionálna"
+      - "Virtuálne prostredie umožňuje experimenty"
+      - "Dôraz na technické schopnosti"
+    pokyny_pre_konverzáciu:
+      - "Hovoriť o základoch hackovania"
+      - "Zdôrazniť dôležitosť prípravy"
+      - "Diskutovať o technológiách a kybernetike"
+      - "Motivovať hráčov k trpezlivosti"

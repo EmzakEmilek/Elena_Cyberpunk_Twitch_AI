@@ -1,0 +1,78 @@
+type: quest
+id: side_watson_heroes
+title: Hrdinovia
+aliases: ["Heroes"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Hrdinovia
+    originálny_názov: Heroes
+    typ: Side Job
+    lokácia: Watson – Little China; Heywood – cintorín El Coyote Cojo
+    quest_giver: Mama Welles
+    level: 7
+    odmena: Pamätný predmet Jackiego; XP, reputácia
+
+  quest_profile:
+    summary: "Zúčastni sa panychídy za Jackiem s rodinou Wellesovcov a rozlúč sa so starým priateľom."
+
+    background:
+      - "Po udalostiach ‘The Heist’ rodina pripraví oslavu života v El Coyote Cojo."
+      - "Rozhodnutia môžu ovplyvniť, komu skončia niektoré Jackiho veci."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť sa s Mamou Welles a prijať pozvanie"
+        - "Zúčastniť sa obradu a povedať pár slov"
+      vedľajšie_ciele:
+        - "Vybrať dar/pamätný predmet do ofrendy"
+
+    story_significance:
+      - "Silný emocionálny moment; uzatvára Jackiho kapitolu."
+
+  quest_structure:
+    začiatok: Správa/telefonát od Mamy Welles.
+    kľúčové_momenty:
+      - "El Coyote Cojo – spoločné spomienky"
+      - "Cintorín – záverečná rozlúčka"
+    ukončenie: Obnova vzťahov a získanie pamätnosti.
+    následky: "Zmeny v dialógoch s postavami z Heywoodu."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Priateľ rodiny
+        importance: Hlavná postava
+      - name: Mama Welles
+        role: Matka Jackiego
+        importance: Kľúčová postava
+
+  locations:
+    primárne:
+      - "El Coyote Cojo – Heywood"
+      - "Cintorín – Heywood"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, pamätný predmet"
+    dlhodobé:
+      - "Vzťahy s komunitou Heywood"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Žiadne
+    hacknutie: Žiadne
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Strata a spomienky"
+    - "Rodina a komunita"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Viesť citlivý rozhovor, dovoľ pauzy"
+    roleplay_tipy:
+      - "Pripomeň Jackiho silné stránky a priateľstvo"

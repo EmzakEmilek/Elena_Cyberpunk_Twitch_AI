@@ -1,0 +1,75 @@
+type: quest
+id: side_santo_domingo_epistrophy_arroyo
+title: Epistrophy: Arroyo
+aliases: ["Epistrophy: Arroyo"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Epistrophy: Arroyo
+    originálny_názov: Epistrophy: Arroyo
+    typ: Side Job (Delamain)
+    lokácia: Santo Domingo – Arroyo (priemyselná zóna)
+    quest_giver: Delamain
+    level: 10
+    odmena: "XP, reputácia; progres ‘Epistrophy’ linky"
+
+  quest_profile:
+    summary: "Jedno z blúdiacich Delamain vozidiel sa skrýva v Arroyo. Nájsť a zastaviť auto bez zničenia."
+
+    background:
+      - "Pod-úloha reťazca ‘Epistrophy’ po návšteve Delamain HQ."
+
+    objectives:
+      hlavné_ciele:
+        - "Loklizovať vozidlo podľa pingu v Arroyo"
+        - "Priblížiť sa a udržiavať kontakt, kým sa nevzdá alebo nezastaví"
+      vedľajšie_ciele:
+        - "Minimalizovať škody na aute aj na civilistoch"
+
+    story_significance:
+      - "Malý diel skladačky Delamain AI fragmentácie."
+
+  quest_structure:
+    začiatok: Marker od Delamaina v Arroyo.
+    kľúčové_momenty:
+      - "Krátenie vzdialenosti a pokojné setrenie rýchlosti vozidla"
+    ukončenie: Vozidlo sa vzdá; automatický zápis návratu do HQ.
+    následky: "Progres smerom k ‘Don’t Lose Your Mind’."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Operátor v teréne
+        importance: Hlavná postava
+      - name: Delamain
+        role: Dispečer AI
+        importance: Dôležitá postava
+
+  locations:
+    primárne:
+      - "Arroyo – Santo Domingo (priemysel a sklady)"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP, reputácia"
+    dlhodobé:
+      - "Započítaný dielik k finále Delamain linky"
+
+  gameplay_elements:
+    boj: Nízky
+    skrývanie: Žiadne
+    hacknutie: Nízky
+    dialógy: Nízky
+    prieskum: Stredný (jazda, hľadanie)
+
+  themes:
+    - "Fragmentácia AI"
+    - "Trpezlivosť a kontrola"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zdôrazni, že netreba auto ničiť"
+    roleplay_tipy:
+      - "Suchý, profesionálny tón ‘operátora’ pre Delamain hovory"

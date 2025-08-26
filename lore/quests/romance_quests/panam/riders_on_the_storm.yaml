@@ -1,0 +1,86 @@
+type: quest
+id: romance_panam_riders_on_the_storm
+title: Jazdci v búrke
+aliases: ["Riders on the Storm", "Panam – záchrana Saula"]
+category: quest_romance
+lang: sk
+
+content:
+  quest_data:
+    názov: Jazdci v búrke
+    originálny_názov: Riders on the Storm
+    typ: Side Job – Panam (romance)
+    lokácia: Badlands – tábor Wraiths
+    quest_giver: Panam Palmer
+    level: 16
+    odmena: Posilnenie dôvery s Panam a Aldecaldos
+
+  quest_profile:
+    summary: "V a Panam zachraňujú Saula z rúk Wraiths; spoločné riziko prehlbuje puto a otvára cestu k blízkosti."
+
+    background:
+      - "Napätie medzi Panam a Saulom"
+      - "Wraiths držia Saula ako väzňa"
+
+    objectives:
+      hlavné_ciele:
+        - "Preniknúť do tábora Wraiths"
+        - "Nájsť a oslobodiť Saula"
+        - "Únik v búrke bez veľkých strát"
+      vedľajšie_ciele:
+        - "Udržať nízky profil a minimalizovať poplach"
+        - "Chrániť Panam počas prieniku"
+
+    story_significance:
+      - "Základná skúška dôvery a partnerstva"
+      - "V buduje vzťah s nomádmi"
+
+  quest_structure:
+    začiatok: Žiadosť Panam o pomoc
+    kľúčové_momenty:
+      - "Skauting a infiltrácia"
+      - "Záchrana Saula"
+      - "Únik cez púštne trasy v búrke"
+    ukončenie: Saul v bezpečí; napätie s Panam zostáva
+    následky: "Otvorená cesta k ďalším misiám s Panam"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Spoluútočník/ochranca
+        importance: Hlavná postava
+      - name: Panam Palmer
+        role: Partnerka a vodička
+        importance: Kľúčová
+      - name: Saul Bright
+        role: Vôdca Aldecaldos
+        importance: Kľúčový pre klan
+
+  locations:
+    primárne:
+      - "Badlands – tábor Wraiths"
+    sekundárne:
+      - "Okolité púštne cesty"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Vďačnosť Panam"
+    dlhodobé:
+      - "Silnejúce puto s Panam a Aldecaldos"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Stredný
+    hacknutie: Stredný
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Dôvera a zodpovednosť"
+    - "Rodina nomádov"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zdôrazni vzájomnú závislosť V a Panam"
+    roleplay_tipy:
+      - "Panam je hrdá, ale vďačná; V je spoľahlivý partner"

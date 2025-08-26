@@ -1,0 +1,117 @@
+type: quest
+id: quest_braindance_analysis
+title: Analýza braindance
+aliases: ["Analýza braindance", "BD tutoriál", "Judyin tréning"]
+category: quest_tutorials
+lang: sk
+
+content:
+  quest_data:
+    názov: Analýza braindance
+    originálny_názov: Braindance Analysis Tutorial
+    typ: Tutoriál
+    lokácia: Lizzieho bar – BD štúdio
+    quest_giver: Judy Álvarez
+    level: 3
+    odmenka: Zvládnutie analýzy braindance
+    
+  quest_profile:
+    summary: "Judy naučí V pracovať s braindance záznamami: prepínanie vrstiev, označovanie stôp a práca s časovou osou na získanie kľúčových informácií."
+    
+    background:
+      - "Braindance je kľúčový nástroj na vyšetrovanie a prieskum"
+      - "Správna analýza vyžaduje trpezlivosť a pozornosť k detailom"
+      - "Záznamy obsahujú obraz, zvuk, teplotu a emócie"
+      - "Bezpečné používanie minimalizuje riziko preťaženia"
+    
+    objectives:
+      hlavné_ciele:
+        - "Prepínať medzi zvukovou, obrazovou a tepelnou vrstvou"
+        - "Označiť dôležité stopy v zázname"
+        - "Zistiť časové súvislosti medzi udalosťami"
+        - "Vyvodiť závery zo záznamu"
+      vedľajšie_ciele:
+        - "Získať prax s ovládaním prehrávača"
+        - "Precvičiť spomalenie a zrýchlenie prehrávania"
+        - "Pridávať značky do časovej osi"
+        - "Zvládnuť bezpečnostné zásady pri analýze"
+    
+    story_significance:
+      - "Základ pre neskoršie vyšetrovania (Evelyn, Yorinobu)"
+      - "Budovanie vzťahu s Judy"
+      - "Prepojenie na budúce misie s braindance obsahom"
+      - "Rozšírenie vyšetrovacích možností V"
+  
+  quest_structure:
+    začiatok: Stretnutie s Judy v BD štúdiu v Lizzieho bare
+    kľúčové_momenty:
+      - "Úvod do systému braindance"
+      - "Práca s vrstvami (audio/obraz/teplo)"
+      - "Hľadanie a značkovanie stôp"
+      - "Záverečná interpretácia záznamu"
+    ukončenie: Dokončenie výcviku
+    následky: "V ovláda analýzu braindance"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Študent
+        importance: Hlavná postava
+      - name: Judy Álvarez
+        role: Expertka na BD/Inštruktorka
+        importance: Technická lektorka
+    vedľajšie_postavy:
+      - name: Evelyn Parker
+        role: Subjekt BD/Klientka
+        importance: Poskytuje kontext
+      - name: Personál Lizzieho baru
+        role: Zázemie
+        importance: Atmosféra
+  
+  locations:
+    primárne:
+      - "BD štúdio v Lizzieho bare"
+    sekundárne:
+      - "Ovládací pult"
+      - "Analytický softvér"
+      - "Záznamové archívy"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Zručnosti v práci s braindance"
+      - "Zlepšenie vyšetrovacích schopností"
+      - "Prístup k pokročilejším analýzam"
+    dlhodobé:
+      - "Efektívnejšie vyšetrovanie budúcich prípadov"
+      - "Silnejšie puto s Judy"
+      - "Nové možnosti pri riešení úloh"
+  
+  gameplay_elements:
+    boj: Minimálny
+    skrývanie: Minimálny
+    hacknutie: Nízky
+    dialógy: Vysoký
+    prieskum: Veľmi vysoký
+    
+  themes:
+    - "Technológia pamäti a zážitkov"
+    - "Realita verzus zaznamenaná skúsenosť"
+    - "Digitálne vyšetrovacie techniky"
+    - "Empatia cez zdieľané zážitky"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Judy je expertka na braindance a trpezlivá lektorka"
+      - "Analýza BD vyžaduje systematickosť a detail"
+      - "Práca s časom a detailom je kľúčová"
+      - "BD môže byť invazívny a osobný"
+    roleplay_tipy:
+      - "V je sústredený a zvedavý, pýta sa na postupy"
+      - "Judy vysvetľuje pokojne a jasne, povzbudzuje"
+      - "Zdôrazniť trpezlivosť a presnosť"
+      - "Reagovať citlivo na emocionálne momenty v zázname"
+    pokyny_pre_konverzáciu:
+      - "Zameraj sa na kroky analýzy (vrstvy, značky, časová os)"
+      - "Spomeň význam braindance pre vyšetrovanie"
+      - "Jemne prepoj s budúcimi udalosťami (Evelyn/Yorinobu)"
+      - "Otvor tému etiky zdieľania spomienok"

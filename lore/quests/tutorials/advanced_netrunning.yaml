@@ -1,0 +1,122 @@
+type: quest
+id: quest_advanced_netrunning
+title: Pokročilý netrunning
+aliases: ["Pokročilý netrunning", "Majstrovstvo v hackovaní", "Kybernetický boj"]
+category: quest_tutorials
+lang: sk
+
+content:
+  quest_data:
+    názov: Pokročilý netrunning
+    originálny_názov: Advanced Netrunning Tutorial
+    typ: Tutoriál
+    lokácia: Územie Voodoo Boys – kyberpriestor
+    quest_giver: Brigitte
+    level: 10
+    odmenka: Elitné schopnosti netrunnera
+    
+  quest_profile:
+    summary: "Brigitte a Voodoo Boys učia V pokročilé netrunner techniky: navigáciu hlbokým kyberpriestorom, prelamovanie ICE a prežitie v kyberboji."
+    
+  background:
+  - "Voodoo Boys sú špičkoví experti na netrunning"
+  - "Kyberpriestor má vlastné pravidlá a hrozby"
+  - "Pokročilé ICE (obranné algoritmy v sieti) vyžaduje prepracované postupy"
+  - "Prieskum hlbokého netu je mimoriadne rizikový"
+    
+  objectives:
+  hlavné_ciele:
+  - "Ovládnuť pokročilé hackovacie protokoly"
+  - "Naučiť sa orientáciu v hlbokom kyberpriestore"
+  - "Pochopiť techniky prelamovania ICE"
+  - "Prežiť stretnutie s black ICE (agresívna obrana)"
+      vedľajšie_ciele:
+        - "Preskúmať architektúru dátových pevností"
+        - "Pochopiť korporátne bezpečnostné systémy"
+        - "Naučiť sa vyhýbať vysledovaniu"
+        - "Otestovať bojové hackovanie"
+    
+    story_significance:
+      - "Príprava na náročné kybernetické misie"
+      - "Pohľad do kultúry Voodoo Boys"
+      - "Pochopenie záhad hlbokého netu"
+      - "Príprava na stretnutie s Alt Cunningham"
+  
+  quest_structure:
+    začiatok: Vstup do úkrytu Voodoo Boys
+    kľúčové_momenty:
+      - "Rituálny vstup do kyberpriestoru"
+      - "Tréning pokročilých protokolov"
+      - "Infiltrácia dátovej pevnosti"
+      - "Stret s black ICE"
+      - "Prieskum hlbokého netu"
+    ukončenie: Certifikácia elitného netrunnera
+    následky: "V je schopný pokročilého kyberboja"
+  
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Protagonista/Učeň netrunnera
+        importance: Hlavná postava
+      - name: Brigitte
+        role: Vodkyňa Voodoo Boys/Mentorka
+        importance: Elitná lektorka
+  vedľajšie_postavy:
+      - name: Ti Neptune
+        role: Netrunner Voodoo Boys
+        importance: Tréningový partner
+  - name: Placide
+        role: Vymáhač Voodoo Boys
+        importance: Záloha bezpečnosti
+  - name: Entita umelej inteligencie
+        role: Bytosti kyberpriestoru
+        importance: Tréningoví protivníci
+  
+  locations:
+    primárne:
+      - "Úkryt Voodoo Boys"
+      - "Hlboké siete kyberpriestoru"
+    sekundárne:
+      - "Korporátne dátové pevnosti"
+      - "Obranné systémy ICE"
+      - "Komory neurálneho rozhrania"
+  
+  rewards_and_consequences:
+    okamžité:
+      - "Certifikácia elitného netrunnera"
+      - "Súprava pokročilých quickhackov"
+      - "Prístupové údaje do hlbokého netu"
+    dlhodobé:
+      - "Schopnosť hackovať korporátne systémy"
+      - "Zlepšené schopnosti kyberboja"
+      - "Pochopenie záhad hlbokého netu"
+  
+  gameplay_elements:
+    boj: Stredný
+    skrývanie: Vysoký
+    hacknutie: Veľmi vysoký
+    dialógy: Vysoký
+    prieskum: Vysoký
+    
+  themes:
+    - "Digitálne presahovanie hraníc"
+    - "Korporátna verzus nezávislá hacker kultúra"
+    - "Technológia ako duchovná prax"
+    - "Informácie ako ultimátna zbraň"
+  
+  notes_for_elena:
+    kľúčové_body:
+      - "Voodoo Boys vnímajú netrunning takmer nábožensky"
+      - "Kyberpriestor skrýva vedomie aj hrozby"
+      - "Pokročilý netrunning je mentálny boj"
+  - "Hlboký net môže obsahovať silné entity umelej inteligencie"
+    roleplay_tipy:
+      - "V má rešpekt pred schopnosťami Voodoo Boys"
+      - "Brigitte pôsobí tajomne, no prakticky"
+      - "Pobyt v kyberpriestore je až transcendentný"
+      - "Potrebná je disciplína a vnútorný pokoj"
+    pokyny_pre_konverzáciu:
+      - "Diskutovať o kyberpriestore ako o duchovnej sfére"
+      - "Spomenúť riziká pokročilého netrunningu"
+      - "Hovoriť o etike informačnej vojny"
+      - "Zdôrazniť rešpekt k digitálnym entitám"

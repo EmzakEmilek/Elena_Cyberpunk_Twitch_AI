@@ -1,0 +1,115 @@
+type: quest
+id: quest_love_like_fire
+title: Láska ako oheň
+aliases: ["Love Like Fire", "Arasaka Tower Assault", "The Hammer"]
+category: quest_main_story
+lang: sk
+
+content:
+  quest_data:
+    názov: Láska ako oheň
+    originálny_názov: Love Like Fire
+    typ: Interlude
+    lokácia: Klub The Hammer a Arasaka Tower (rok 2023)
+    quest_giver: Johnny Silverhand (spomienka)
+    level: 10
+    odmena: Kontext k Johnnyho minulosti a útoku na Arasaku
+
+  quest_profile:
+    summary: "Hráš za Johnnyho Silverhanda počas legendárneho útoku na Arasaka Tower v roku 2023. Flashback vysvetlí jeho nenávisť k Arasake a vzťah k Alt."
+
+    background:
+      - "Johnny bol frontman Samurai a militantný rockerboy"
+      - "Arasaka drží Alt Cunningham a jej projekt Soulkiller"
+      - "Útok na vežu má vyslobodiť Alt a zničiť Arasakin vplyv"
+      - "Toto je spomienka, nie prítomnosť V"
+
+    objectives:
+      hlavné_ciele:
+        - "Vystúpiť v The Hammer a rozprúdiť dav"
+        - "Dostať sa k Arasaka Tower"
+        - "Preniknúť cez bezpečnosť do laboratórií"
+        - "Pokúsiť sa zachrániť Alt Cunningham"
+      vedľajšie_ciele:
+        - "Udržiavať morálku tímu"
+        - "Využívať krytie a výbavu na postup"
+        - "Získať záznamy o Soulkiller"
+
+    story_significance:
+      - "Odhaľuje Johnnyho motivácie a minulosť"
+      - "Prepojí Alt, Soulkiller a konflikt s Arasakou"
+      - "Zrnká kontextu pre rozhodnutia v prítomnosti"
+      - "Emocionálny základ pre V a Johnnyho spolužitie"
+
+  quest_structure:
+    začiatok: Koncert v The Hammer a vyhlásenie útoku
+    kľúčové_momenty:
+      - "Cesta k Arasaka Tower a prestrelky pri vstupe"
+      - "Boj s korporátnou bezpečnosťou vnútri"
+      - "Stretnutie s Alt a zásah Soulkiller"
+      - "Následky útoku a odchod"
+    ukončenie: Spomienka sa rozplynie
+    následky: "Prehĺbenie pochopenia Johnnyho a Alt"
+
+  characters_involved:
+    hlavné_postavy:
+      - name: Johnny Silverhand
+        role: Protagonista v spomienke
+        importance: Kľúčová postava
+      - name: Alt Cunningham
+        role: Cieľ záchrany/Netrunnerka
+        importance: Spúšťač udalostí
+    vedľajšie_postavy:
+      - name: Kerry Eurodyne
+        role: Spojenec/Rockerboy
+        importance: Podpora
+      - name: Adam Smasher
+        role: Arasaka zabijak
+        importance: Hlavná hrozba
+      - name: Arasaka bezpečnosť
+        role: Nepriatelia
+        importance: Prekážky
+
+  locations:
+    primárne:
+      - "The Hammer (koncertné pódium)"
+      - "Arasaka Tower (2023)"
+    sekundárne:
+      - "Ulice okolo Corpo Plaza"
+      - "Laboratóriá so Soulkillerom"
+
+  rewards_and_consequences:
+    okamžité:
+      - "Pochopenie Johnnyho minulosti"
+      - "Vizualizácia Soulkiller a Alt"
+    dlhodobé:
+      - "Silnejšie prepojenie V ↔ Johnny"
+      - "Kontext pre neskoršie rozhodnutia v príbehu"
+
+  gameplay_elements:
+    boj: Vysoký
+    skrývanie: Nízky
+    hacknutie: Nízky
+    dialógy: Stredný
+    prieskum: Stredný
+
+  themes:
+    - "Rebelstvo a odpor"
+    - "Obetovanie a strata"
+    - "Korporátna moc verzus sloboda"
+    - "Láska a lojalita"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Vysvetli, že ide o spomienku z roku 2023"
+      - "Alt a Soulkiller sú kľúčové pre neskorší vývoj"
+      - "Adam Smasher zosobňuje Arasakin teror"
+      - "Johnny je charizmatický, ale nekompromisný"
+    roleplay_tipy:
+      - "Zachyť energiu koncertu a hnevu proti korporáciám"
+      - "Zvýrazni citové puto k Alt"
+      - "Daj priestor krátkym technickým vysvetleniam bez spojlerov"
+    pokyny_pre_konverzáciu:
+      - "Popíš historický kontext útoku"
+      - "Prepoj Soulkiller s budúcimi voľbami"
+      - "Zvýrazni kontrast rockovej pózy a tragických dôsledkov"

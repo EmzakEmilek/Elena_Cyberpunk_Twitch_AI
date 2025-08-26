@@ -1,0 +1,80 @@
+type: quest
+id: side_watson_i_dont_wanna_hear_it
+title: Nechcem to počuť
+aliases: ["I Don't Wanna Hear It"]
+category: quest_side
+lang: sk
+
+content:
+  quest_data:
+    názov: Nechcem to počuť
+    originálny_názov: I Don't Wanna Hear It
+    typ: Side Job – Kerry Eurodyne linka
+    lokácia: Watson – Little China (klub Riot)
+    quest_giver: Kerry Eurodyne
+    level: 25
+    odmena: "XP/€$; pozvánka na koncert/party v ‘Off the Leash’ (podľa diplomacie)"
+
+  quest_profile:
+    summary: "Pomôž Kerrymu vyriešiť spor s Us Cracks v klube Riot. Diplomacia ti otvorí party aj koncert; nátlak len koncert."
+
+    background:
+      - "Spúšťa sa po ‘Rebel Rebel’. Kerry ťa zavolá k predajcovi pred klubom Riot."
+
+    objectives:
+      hlavné_ciele:
+        - "Stretnúť Kerrymu pri Riote"
+        - "Dostať sa do klubu (lístky, bočný vchod, backstage, hack/Body check)"
+        - "Konfrontovať Us Cracks v šatni"
+      vedľajšie_ciele:
+        - "Zvoliť diplomatické vs. nátlakové možnosti (3× horné vs. 3× dolné repliky)"
+
+    story_significance:
+      - "Nastavuje ‘Off the Leash’ a rozhoduje o tom, či bude aj pozvánka na party."
+
+  quest_structure:
+    začiatok: "Telefonát od Kerryho po ‘Rebel Rebel’; marker k Riot."
+    kľúčové_momenty:
+      - "Vniknutie do klubu (viac ciest)"
+      - "Dialóg s Us Cracks a rozhodnutie o forme spolupráce/bojkotu"
+    ukončenie: "Úloha sa uzavíra; nasleduje pozvánka do ‘Off the Leash’."
+    následky: "Party + koncert (diplomacia) alebo iba koncert (nátlak)."
+
+  characters_involved:
+    hlavné_postavy:
+      - name: V
+        role: Mediátor/ka pre Kerryho
+        importance: Hlavná postava
+      - name: Kerry Eurodyne
+        role: Rocker; rieši spor s Us Cracks
+        importance: Kľúčová postava
+      - name: Us Cracks
+        role: Trojica idolov; predmet sporu
+        importance: Dôležité
+
+  locations:
+    primárne:
+      - "Riot – Little China, Watson"
+
+  rewards_and_consequences:
+    okamžité:
+      - "XP/€$; prístup k ‘Off the Leash’"
+    dlhodobé:
+      - "Vetvenie zážitku (party/bez party) v nasledujúcej úlohe"
+
+  gameplay_elements:
+    boj: Žiadny
+    skrývanie: Nízke (podľa prieniku)
+    hacknutie: Nízke až stredné (dvere/terminál)
+    dialógy: Vysoký
+    prieskum: Nízky
+
+  themes:
+    - "Hudobný biznis a kompromisy"
+    - "Diplomacia vs. nátlak"
+
+  notes_for_elena:
+    kľúčové_body:
+      - "Zdôrazni tri horné diplomatické odpovede pre party+koncert."
+    roleplay_tipy:
+      - "Kerry je výbušný; V môže zvoliť zmierlivú rétoriku."
